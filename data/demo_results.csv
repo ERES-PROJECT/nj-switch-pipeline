@@ -1,0 +1,37 @@
+supplier,edc_name,commodity,plan_name,rate,term_months,plan_type,source_url,data_source,contract_url
+Constellation Energy,PSE&G Electric,electric,6 Month Power Plan,21.59,6,Fixed,https://constellationrates.com/state/new-jersey/,html_div,
+Constellation Energy,PSE&G Electric,electric,18 Month Power Plan,23.59,18,Fixed,https://constellationrates.com/state/new-jersey/,html_div,
+Constellation Energy,PSE&G Electric,electric,12 Month Power Plan,24.49,12,Fixed,https://constellationrates.com/state/new-jersey/,html_div,
+Constellation Energy,PSE&G Electric,electric,N/A,21.59,6,Fixed,https://constellationrates.com/state/new-jersey/,contract_summary_pdf,https://s3.amazonaws.com/origin.static.ptsrvs.com/terms_and_conditions/CONSTEL_RATES/PSEAG/7897-tandc.pdf
+Constellation Energy,PSE&G Electric,electric,N/A,23.59,18,Fixed,https://constellationrates.com/state/new-jersey/,contract_summary_pdf,https://s3.amazonaws.com/origin.static.ptsrvs.com/terms_and_conditions/CONSTEL_RATES/PSEAG/8564-tandc.pdf
+Constellation Energy,PSE&G Electric,electric,N/A,24.49,12,Fixed,https://constellationrates.com/state/new-jersey/,contract_summary_pdf,https://s3.amazonaws.com/origin.static.ptsrvs.com/terms_and_conditions/CONSTEL_RATES/PSEAG/3906-tandc.pdf
+Direct Energy,PSE&G Electric,electric,Live Brighter® 6,20.09,6,Fixed,https://www.directenergy.com/new-jersey,html_div,
+Direct Energy,PSE&G Electric,electric,Live Brighter® 12,22.69,12,Fixed,https://www.directenergy.com/new-jersey,html_div,
+Direct Energy,PSE&G Electric,electric,Live Brighter® 18,22.49,18,Fixed,https://www.directenergy.com/new-jersey,html_div,
+Direct Energy,PSE&G Electric,electric,Live Brighter® 24,23.19,24,Fixed,https://www.directenergy.com/new-jersey,html_div,
+Direct Energy,PSE&G Electric,electric,Go Green Lights 24,24.89,24,Fixed,https://www.directenergy.com/new-jersey,html_div,
+Ambit Energy,PSE&G Electric,electric,Winter Break 24,25.99,24,Variable,https://customer.ambitenergy.com/servicearea,html_popup,
+Ambit Energy,PSE&G Electric,electric,Winter Break 12,25.49,12,Variable,https://customer.ambitenergy.com/servicearea,html_popup,
+Ambit Energy,PSE&G Electric,electric,Ultimate Perks 12,21.69,12,Fixed,https://customer.ambitenergy.com/servicearea,html_popup,
+Ambit Energy,PSE&G Electric,electric,Garden State Select 12 Month Term,21.19,12,Variable,https://customer.ambitenergy.com/servicearea,html_popup,
+Think Energy,PSE&G Electric,electric,Think Clean 12,19.90,12,Fixed,https://thinkenergy.com/home-nj/,html_div,
+Think Energy,PSE&G Electric,electric,N/A,19.9000,12,Fixed,https://thinkenergy.com/home-nj/,contract_summary_pdf,https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates&template_file=nj/CS_NJ.docx&commodity_rate=0.199000&term_months=12&rate_id=234597&rate_id=234597
+Major Energy,PSE&G Electric,electric,Simple Choice 3,15.4900,3,Fixed,https://majorenergy.com/areas/nj/,html,
+Major Energy,PSE&G Electric,electric,Select 12,15.9900,12,Fixed,https://majorenergy.com/areas/nj/,html,
+Major Energy,PSE&G Electric,electric,Simple Choice 8,16.9900,8,Fixed,https://majorenergy.com/areas/nj/,html,
+Major Energy,PSE&G Electric,electric,Simple Choice 12,17.8900,12,Fixed,https://majorenergy.com/areas/nj/,html,
+Major Energy,PSE&G Electric,electric,N/A,15.4900,3,Fixed,https://majorenergy.com/areas/nj/,contract_summary_pdf,https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=152625&type=TOS&title=Terms of Service&promocode=
+Major Energy,PSE&G Electric,electric,N/A,15.9900,12,Fixed,https://majorenergy.com/areas/nj/,contract_summary_pdf,https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=148074&type=TOS&title=Terms of Service&promocode=
+Major Energy,PSE&G Electric,electric,N/A,16.9900,8,Fixed,https://majorenergy.com/areas/nj/,contract_summary_pdf,https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=152626&type=TOS&title=Terms of Service&promocode=
+Major Energy,PSE&G Electric,electric,N/A,17.8900,12,Fixed,https://majorenergy.com/areas/nj/,contract_summary_pdf,https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=147594&type=TOS&title=Terms of Service&promocode=
+Xoom Energy,PSE&G Electric,electric,SimpleFlex,16.7900,0,Variable,https://xoomenergy.com/en/residential/new-jersey,html_div,
+Xoom Energy,PSE&G Electric,electric,SureLock 12,19.8900,12,Fixed,https://xoomenergy.com/en/residential/new-jersey,html_div,
+Xoom Energy,PSE&G Electric,electric,RescueLock 12,21.0900,12,Fixed,https://xoomenergy.com/en/residential/new-jersey,html_div,
+Xoom Energy,PSE&G Electric,electric,SimpleClean 12,20.0900,12,Renewable,https://xoomenergy.com/en/residential/new-jersey,html_div,
+Xoom Energy,PSE&G Electric,electric,SureLock 24,20.6900,24,Fixed,https://xoomenergy.com/en/residential/new-jersey,html_div,
+Xoom Energy,PSE&G Electric,electric,N/A,16.7900,3,Variable,https://xoomenergy.com/en/residential/new-jersey,contract_summary_pdf,https://xoomenergy.com/uploads/rates/contract-summary/387950-en.pdf?_val=d5e397f
+Xoom Energy,PSE&G Electric,electric,N/A,19.8900,12,Fixed,https://xoomenergy.com/en/residential/new-jersey,contract_summary_pdf,https://xoomenergy.com/uploads/rates/contract-summary/385424-en.pdf?_val=a09b9dc
+Xoom Energy,PSE&G Electric,electric,N/A,21.0900,12,Fixed,https://xoomenergy.com/en/residential/new-jersey,contract_summary_pdf,https://xoomenergy.com/uploads/rates/contract-summary/387956-en.pdf?_val=428d9e4
+Xoom Energy,PSE&G Electric,electric,N/A,20.0900,12,Fixed,https://xoomenergy.com/en/residential/new-jersey,contract_summary_pdf,https://xoomenergy.com/uploads/rates/contract-summary/387954-en.pdf?_val=0936f70
+Xoom Energy,PSE&G Electric,electric,N/A,20.6900,24,Fixed,https://xoomenergy.com/en/residential/new-jersey,contract_summary_pdf,https://xoomenergy.com/uploads/rates/contract-summary/387959-en.pdf?_val=1de8a01
+Xoom Energy,PSE&G Electric,electric,N/A,20.0900,12,Fixed,https://xoomenergy.com/en/residential/new-jersey,contract_summary_pdf,https://xoomenergy.com/uploads/rates/contract-summary/387954-en.pdf?_val=79fe118
