@@ -1,0 +1,361 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Xoom Energy",
+      "utility": "NJNG Gas",
+      "commodity": "gas",
+      "zip": "07712",
+      "url": "https://xoomenergy.com/en/residential/new-jersey",
+      "adapter": "xoom_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-19T17:03:07.929016+00:00",
+    "finished_at": "2026-10-19T17:03:08.077200+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 4,
+    "source_evidence": {},
+    "offers": [
+      {
+        "key": "0bf40fb85034335b80f96ac5",
+        "supplier": "Xoom Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "SimpleFlex",
+        "product_id": "NJNGRIF0030056900000005B",
+        "price": {
+          "value": "0.569",
+          "unit": "USD/therm",
+          "raw": "$0.569/\ntherm"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": {
+          "value": "0.569",
+          "unit": "USD/therm",
+          "raw": "$0.569/\ntherm"
+        },
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": 3,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [
+          "SimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.",
+          "With XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.",
+          "5% Annual Cash Back on supply charges",
+          "*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential natural gas bills.",
+          "For avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.",
+          "Your Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/400079-en.pdf?_val=de14894",
+            "label": "Terms & Conditions",
+            "product_id": "NJNGRIF0030056900000005B",
+            "offer_key": "0bf40fb85034335b80f96ac5",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/400079-en.pdf?_val=3286a3a",
+            "label": "Contract Summary",
+            "product_id": "NJNGRIF0030056900000005B",
+            "offer_key": "0bf40fb85034335b80f96ac5",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/natural-gas/new-jersey-natural-gas?dez=07712",
+        "source_kind": "html",
+        "artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26",
+        "captured_at": "2026-09-11T05:31:10.939219+00:00",
+        "raw_fields": {
+          "text": "SimpleFlex\nMonthly\nUtility:\nNew Jersey Natural Gas\nIntro: $0.569/\ntherm\n*\nINTRODUCTORY OFFER\n*This Introductory Offer is only available to new customers who have not been a XOOM Energy customer in the past 6 months and is intended for general use customers. The Introductory Offer is intended for customers on standard tariff rates and accounts on special utility tariffs rate such as street lighting, space heating rate or hourly pricing rate schedules are not eligible for this Introductory Offer. Your rate will be applied during your first 3 bill cycle(s). XOOM Energy may end this Introductory Offer at any time without notice. This rate may change in the subsequent months at the sole discretion of XOOM Energy.\nChoose\nDetails\n.\nCompare\nIntroductory Offer:\nENROLL TODAY AND GET A LOW INTRODUCTORY RATE ON YOUR FIRST 3 BILLS!*\nNew customers only.\nPlan Description:\nSimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.\nWith XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.\n• No long-term commitment or cost recovery fee\n•\n5% Annual Cash Back on supply charges\n• Rate may vary monthly\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above reflects the current variable rate and applies to all therms used.\nAdditional documents and information:\nNo Cost Recovery Fee\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nThings you need to know:\n*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential natural gas bills.\nTo be eligible, you must remain active and in good standing on all qualifying accounts for 12 consecutive months.\nXOOM Energy customers are active when natural gas service is flowing.\nFor avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.\nYour Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account.\nAfter the promotional period, this rate may change in the subsequent months at the sole discretion of XOOM Energy. XOOM's charges will be reflected on the monthly bill you receive from the utility. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nVariable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "New Jersey Natural Gas",
+            "data-id": "5469",
+            "data-rateid": "NJNGRIF0030056900000005B",
+            "data-ratename": "SimpleFlex",
+            "data-rateprice": "0.5690",
+            "data-ratetermlength": "Monthly",
+            "data-ratetype": "Variable",
+            "data-utilityname": "New Jersey Natural Gas",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptVariablePlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptVariablePlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "7170ac94cef629b4569a0f5f",
+        "supplier": "Xoom Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "RescueLock 12",
+        "product_id": "NJNGRFE0120081900001105P",
+        "price": {
+          "value": "0.819",
+          "unit": "USD/therm",
+          "raw": "$0.819/\ntherm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/400085-en.pdf?_val=a5cbc79",
+            "label": "Terms & Conditions",
+            "product_id": "NJNGRFE0120081900001105P",
+            "offer_key": "7170ac94cef629b4569a0f5f",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/400085-en.pdf?_val=85be0e6",
+            "label": "Contract Summary",
+            "product_id": "NJNGRFE0120081900001105P",
+            "offer_key": "7170ac94cef629b4569a0f5f",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/natural-gas/new-jersey-natural-gas?dez=07712",
+        "source_kind": "html",
+        "artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26",
+        "captured_at": "2026-09-11T05:31:10.939219+00:00",
+        "raw_fields": {
+          "text": "RescueLock 12\n12 months\nUtility:\nNew Jersey Natural Gas\n$0.819/\ntherm\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our RescueLock 12 fixed rate plan!\n• Enroll on RescueLock 12 and\n5%\nof your monthly energy charges will be donated to PetSmart Charities!*\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills.\nRate above applies to all therms used.\nRate above is only available to new customers enrolling with XOOM for the first time.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nThings you need to know:\nOne year service agreement required. Other taxes and fees may apply. XOOM's charges will be reflected on the monthly bill you receive from the utility. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. If you are currently under a contract with another provider understand your obligations and rights before switching. Only the utility account holder or persons legally authorized on the account may enroll.\n*This promotion is sponsored by XOOM Energy, LLC, including its wholly owned subsidiaries (collectively \"XOOM Energy\"), doing business at 804 Carnegie Center, Princeton, NJ 08540. The proceeds from the promotion will benefit PetSmart Charities, Inc. (“Charities”). XOOM Energy will pay to Charities in the US for its general charitable purposes the equivalent of 5% of monthly energy charges paid by participating XOOM Energy customers. This contribution is not tax deductible. Charities is an organization described in Internal Revenue Code Section 501(c)(3). A copy of its most recent financial report is available by contacting the organization at 19601 North 27th Ave., Phoenix, AZ 85027, or by telephone at 1-800-423-7387. For more information, visit www.petsmartcharities.org. Registration by Charities or the Promoter with any state regulatory agency does not imply endorsement.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "New Jersey Natural Gas",
+            "data-id": "3866",
+            "data-rateid": "NJNGRFE0120081900001105P",
+            "data-ratename": "RescueLock 12",
+            "data-rateprice": "0.8190",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "New Jersey Natural Gas",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "ff89ce4323c6f42f5c24d475",
+        "supplier": "Xoom Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "SureLock 12",
+        "product_id": "NJNGRFE01200779000011001",
+        "price": {
+          "value": "0.779",
+          "unit": "USD/therm",
+          "raw": "$0.779/\ntherm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/400081-en.pdf?_val=030204e",
+            "label": "Terms & Conditions",
+            "product_id": "NJNGRFE01200779000011001",
+            "offer_key": "ff89ce4323c6f42f5c24d475",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/400081-en.pdf?_val=1ec3e1e",
+            "label": "Contract Summary",
+            "product_id": "NJNGRFE01200779000011001",
+            "offer_key": "ff89ce4323c6f42f5c24d475",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/natural-gas/new-jersey-natural-gas?dez=07712",
+        "source_kind": "html",
+        "artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26",
+        "captured_at": "2026-09-11T05:31:10.939219+00:00",
+        "raw_fields": {
+          "text": "SureLock 12\n12 months\nUtility:\nNew Jersey Natural Gas\n$0.779/\ntherm\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our SureLock 12 fixed rate plan!\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills\nRate above applies to all therms used.\nRate above is only available to new customers enrolling with XOOM for the first time.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nThings you need to know:\nOne year service agreement required. Other taxes and fees may apply. XOOM's charges will be reflected on the monthly bill you receive from the utility. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. If you are currently under a contract with another provider understand your obligations and rights before switching. Only the utility account holder or persons legally authorized on the account may enroll.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "New Jersey Natural Gas",
+            "data-id": "362",
+            "data-rateid": "NJNGRFE01200779000011001",
+            "data-ratename": "SureLock 12",
+            "data-rateprice": "0.7790",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "New Jersey Natural Gas",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl01$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl01_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "52259da71e0b936ef72c569d",
+        "supplier": "Xoom Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "SureLock 24",
+        "product_id": "NJNGRFE02400819000020001",
+        "price": {
+          "value": "0.819",
+          "unit": "USD/therm",
+          "raw": "$0.819/\ntherm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/400088-en.pdf?_val=6bd35ad",
+            "label": "Terms & Conditions",
+            "product_id": "NJNGRFE02400819000020001",
+            "offer_key": "52259da71e0b936ef72c569d",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/400088-en.pdf?_val=2fb0dfd",
+            "label": "Contract Summary",
+            "product_id": "NJNGRFE02400819000020001",
+            "offer_key": "52259da71e0b936ef72c569d",
+            "discovery_artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/natural-gas/new-jersey-natural-gas?dez=07712",
+        "source_kind": "html",
+        "artifact_id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26",
+        "captured_at": "2026-09-11T05:31:10.939219+00:00",
+        "raw_fields": {
+          "text": "SureLock 24\n24 months\nUtility:\nNew Jersey Natural Gas\n$0.819/\ntherm\nChoose\nDetails\n.\nCompare\nPlan Description:\nTake the uncertainty out of your energy bills with our SureLock 24 fixed rate plan!\n•\nGuaranteed rate\nfor 24 months\n•\nPeace of mind\nknowing what your rate will be\n•\nProtection\nfrom the uncertainty that you've come to expect with energy bills\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all therms used.\nAdditional documents and information:\nCost Recovery Fee\n$200.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nThings you need to know:\nTwo year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $200 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "New Jersey Natural Gas",
+            "data-id": "1493",
+            "data-rateid": "NJNGRFE02400819000020001",
+            "data-ratename": "SureLock 24",
+            "data-rateprice": "0.8190",
+            "data-ratetermlength": "24 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "New Jersey Natural Gas",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl02$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl02_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "attempts": [],
+    "artifacts": [
+      {
+        "id": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176",
+        "path": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176.json",
+        "kind": "json",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/natural-gas/new-jersey-natural-gas?dez=07712",
+        "captured_at": "2026-10-19T17:03:07.930104+00:00",
+        "bytes": 485
+      },
+      {
+        "id": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26",
+        "path": "e0a80e1e549e97960641d9d677647268200df1e3d98051fac3c32fb9968abb26.html",
+        "kind": "html",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/natural-gas/new-jersey-natural-gas?dez=07712",
+        "captured_at": "2026-10-19T17:03:07.991108+00:00",
+        "bytes": 117890
+      }
+    ],
+    "warnings": [],
+    "completion_issues": [],
+    "errors": []
+  }
+]

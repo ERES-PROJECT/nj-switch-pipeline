@@ -1,0 +1,8 @@
+{
+  "query": {"supplier": "NextEra Energy Services", "utility": "ACE Electric", "commodity": "electric", "zip": "08401", "url": "https://www.nexteraenergyservices.com/residential/shop-energy-plans", "adapter": "nextera_energy_services"},
+  "captured_at": "2026-09-17T00:00:00Z",
+  "context_verified": true,
+  "disposition": "empty",
+  "source_url": "https://signup.nexteraenergyservices.com/Plans/ViewPlans",
+  "html": "<main><h1>Error</h1><p>We do not currently have an offer available for web enrollment in your area.</p></main>"
+}

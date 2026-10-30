@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Direct Energy|SJG Gas|gas,Direct Energy,SJG Gas,gas,08094,c5c5cad0bba2e1888a23be5e,Live Brighter® 14,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|SJG Gas|gas,Direct Energy,SJG Gas,gas,08094,61a9996b764ae4955bfa21fe,Live Brighter® 18,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|SJG Gas|gas,Direct Energy,SJG Gas,gas,08094,a598f5cfe7aaf7609e49180e,Live Brighter® 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

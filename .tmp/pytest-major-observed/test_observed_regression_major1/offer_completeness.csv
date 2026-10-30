@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,378acc7d124c1212a994d2bb,Select 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,5bc611f748618476f4a5cb59,Simple Choice 8,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,7bcd0fd963c3dba2c9220060,Simple Choice 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,ecd65780d95976bd972b5a63,Simple Choice 3,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

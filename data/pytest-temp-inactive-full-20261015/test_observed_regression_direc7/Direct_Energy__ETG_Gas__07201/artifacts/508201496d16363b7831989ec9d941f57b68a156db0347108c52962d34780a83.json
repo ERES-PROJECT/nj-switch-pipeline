@@ -1,0 +1,30 @@
+{
+  "electricUtility": [
+    {
+      "commodity": "ELEC",
+      "county": "",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "Public Service Electric",
+      "state": "NJ",
+      "utilityCode": "PSE",
+      "zipRateKey": 14355
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "gasUtility": [
+    {
+      "commodity": "GAS",
+      "county": "elizabeth",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "Elizabethtown Gas",
+      "state": "NJ",
+      "utilityCode": "EZG",
+      "zipRateKey": 12198
+    }
+  ],
+  "success": true,
+  "unserviceable": false
+}

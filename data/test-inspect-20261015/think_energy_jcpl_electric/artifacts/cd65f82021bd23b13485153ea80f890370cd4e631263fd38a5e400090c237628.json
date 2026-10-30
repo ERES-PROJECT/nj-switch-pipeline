@@ -1,0 +1,98 @@
+{
+  "tdsps": [
+    {
+      "ID": "110",
+      "config": {
+        "billImage": "https://thinkenergy-sample-bills.s3.us-west-2.amazonaws.com/NJ+JCPL+Bill.png",
+        "billingCycle": {
+          "range": null,
+          "required": false
+        },
+        "billing_method": "bill_ready",
+        "drop_leadtime": {
+          "lead_time": -13,
+          "type": "next_meter_read"
+        },
+        "enrollment_leadtime": {
+          "lead_time": -13,
+          "type": "next_meter_read"
+        },
+        "meterIdentifier": {
+          "description": "Customer Number",
+          "mask": "[0, 8, 0, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/]",
+          "regex": "^(080)[\\d]{17}$"
+        },
+        "meterIdentifier2": {
+          "description": "Account Number",
+          "electricity": "hidden",
+          "mask": "[/\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/]",
+          "regex": "^\\d{12}$"
+        },
+        "nameKey": {
+          "regex": null,
+          "required": false
+        },
+        "rate_change_leadtime": {
+          "lead_time": 1,
+          "type": "off_cycle"
+        }
+      },
+      "duns_number": "006973358",
+      "edi_name": "Jersey Central Power and Light - First Energy",
+      "name": "Jersey Central Power and Light - First Energy",
+      "offers": [
+        {
+          "billing": "{\"cs_discount\": \"0.15\"}",
+          "billing_method": "postpay",
+          "code": "nj.cs.ucb.jcpl.lmi",
+          "description": "Subscribe to a local community solar farm that generates clean electricity for the grid.",
+          "display": "{\"features\": {\"media\": {\"url\": \"\", \"type\": \"\", \"label\": \"\", \"disabled\": true}, \"promo\": {\"type\": \"\", \"label\": \"\", \"disabled\": true}, \"banner\": {\"type\": \"\", \"label\": \"LMI Exclusive\", \"disabled\": false}}, \"disclaimers\": [\"* This offer and our terms and conditions are valid only for residential customers.\"], \"details_extra\": \"Minimum\", \"details_header\": \"Think Sunshine 20 by Think Community Solar\", \"details_bullets\": [\"<span>Fixed Discount:</span> Eligible customers receive a minimum discount of 15% on community solar credits applied to their monthly electricity bill throughout the program.\", \"<span>LMI Exclusive:</span> An offer for Low and Moderate Income (LMI) qualified customers. Proof of LMI status is required. See a list of all eligible LMI programs and required documentation at <a href=\\\"https://www.thinkenergy.com/lmi/\\\" target=\\\"_blank\\\">ThinkEnergy.com/LMI</a>.\"], \"summary_bullets\": [\"Minimum 15% off Solar Credits\", \"Limited Spots Available - Enroll Now!\", \"This Offer for Low and Moderate Income (LMI) Customers Only\", \"Free to Sign Up, No Early Termination Fees\", \"No Solar Panels on Your Roof\"]}",
+          "documents": "[{\"description\":\"Community Solar Customer Agreement\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FCSCA_NJ_UCB_15.docx%5Cu0026commodity_rate%3D0.000000%5Cu0026term_months%3D240%5Cu0026rate_id%3D235254\",\"name\":\"CSCA\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/CSCA_NJ_UCB_15.docx\"}]",
+          "eligibility": "{\"tdsp\": [\"Jersey Central Power and Light - First Energy\"]}",
+          "external_meta_data": "{}",
+          "max_deposit": 0,
+          "meta_data": "{\"cancel_non_lmi\": true}",
+          "name": "Think Sunshine 20",
+          "offer_type": "new",
+          "options": "{\"tos_key\": \"NJ_UCB_15\", \"billing_type\": \"UCB\", \"lmi_discount\": true, \"lmi_required\": true, \"billing_segment\": \"think_cs_luminace\", \"credit_card_fee\": 2.5, \"autopay_required\": false, \"residential_only\": true, \"bill_upload_required\": true}",
+          "product_type": "community_solar",
+          "promo_code": "default",
+          "rate_id": 235254,
+          "service_type": "community_solar",
+          "start_date": "2026-04-02T09:28:45Z",
+          "tdsp": "Jersey Central Power and Light - First Energy",
+          "term_months": "240",
+          "verification_required": true,
+          "zone": ""
+        },
+        {
+          "billing": "{\"charges\": [\"fixed_commodity_rate\"], \"monthly_fee\": 0, \"commodity_rate\": 0.177, \"generation_rate\": 0}",
+          "billing_method": "postpay",
+          "code": "nj.fixed",
+          "description": "Our premier plan that provides 100% renewable electricity and added benefits.",
+          "display": "{\"features\": {\"media\": {\"url\": \"\", \"type\": \"\", \"label\": \"\", \"disabled\": true}, \"promo\": {\"type\": \"\", \"label\": \"\", \"disabled\": true}, \"banner\": {\"type\": \"\", \"label\": \"$100 Gift Card Available\", \"disabled\": false}}, \"disclaimers\": [\"* This offer and our terms and conditions are valid only for residential and small commercial customers.\"], \"average_rate\": {\"500kWh\": 17.7, \"1000kWh\": 17.7, \"2000kWh\": 17.7}, \"details_header\": \"Think Clean 12: 12 months of 100% renewable electricity and added benefits.\", \"details_bullets\": [\"<span>Clean Electricity:</span> Think Energy offsets 100% of your electricity usage with renewable energy certificates. Basically, that means your bill helps invest in the development of clean energy sources like solar and wind.\", \"<span>Fixed Rate:</span> The rate you pay will stay the same for the term of your contract. No surprises.\", \"<span>Cash Back:</span> Enroll with us and we’ll show our commitment to you with a $100 cash gift card.\"], \"summary_bullets\": [\"12 Month Fixed Rate Electricity Plan\", \"100% Clean Energy \", \"$100 Gift Card\"]}",
+          "documents": "[{\"description\":\"Contract Summary\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FCS_NJ.docx%5Cu0026commodity_rate%3D0.177000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240006\",\"name\":\"CS\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/CS_NJ.docx\"},{\"description\":\"Terms and Conditions\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FTOS_NJ.docx%5Cu0026commodity_rate%3D0.177000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240006\",\"name\":\"TOS\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/TOS_NJ.docx\"},{\"description\":\"Environmental Information Disclosure\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/edl/NJ_RESI_ENV.pdf\",\"name\":\"EDL\"},{\"description\":\"Arbitration and Class Action Policy Addendum\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Arbitration_and_Class_Action_Policy_Addendum.pdf\",\"name\":\"ACAPA\"},{\"description\":\"Communications Policy\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Communications_Policy.pdf\",\"name\":\"CP\"},{\"description\":\"Promotion Terms\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/promotions/%24100+Gift+Card+Promotion+Terms.pdf\",\"name\":\"PT\"}]",
+          "eligibility": "{\"tdsp\": [\"PSE&G Electric\", \"Atlantic City Electric\", \"Rockland Electric Company\", \"Jersey Central Power and Light - First Energy\"], \"state\": \"NJ\"}",
+          "external_meta_data": "{}",
+          "max_deposit": 0,
+          "meta_data": "{\"promo_type\": \"$100 Gift Card\", \"tdsp_rates\": null, \"renewal_type\": \"F2F\", \"average_rates\": [{\"level\": \"500kWh\", \"value\": 17.7}, {\"level\": \"1000kWh\", \"value\": 17.7}, {\"level\": \"2000kWh\", \"value\": 17.7}], \"design_margin\": 0.018, \"green_percentage\": 100}",
+          "name": "Think Clean 12",
+          "offer_type": "new",
+          "options": "{\"billing_segment\": \"think_ntx\", \"run_identity_check\": true, \"commercial_bill_upload_required\": true}",
+          "product_type": "fixed",
+          "promo_code": "default",
+          "rate_id": 240006,
+          "service_type": "electricity",
+          "start_date": "2026-08-12T15:26:49Z",
+          "tdsp": "Jersey Central Power and Light - First Energy",
+          "term_months": "12",
+          "verification_required": true,
+          "zone": ""
+        }
+      ],
+      "state_code": "NJ",
+      "zonal_pricing": false,
+      "zone": ""
+    }
+  ]
+}

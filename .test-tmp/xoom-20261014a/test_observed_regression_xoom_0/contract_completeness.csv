@@ -1,0 +1,14 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e,terms_or_other,text_extracted,12,0,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a,environmental,text_extracted,12,0,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e,terms_or_other,text_extracted,12,0,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Electric|electric,Xoom Energy,PSE&G Electric,electric,07102,2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c,terms_or_other,text_extracted,12,0,0,,False,0

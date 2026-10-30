@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Xoom Energy|JCP&L Electric|electric,Xoom Energy,JCP&L Electric,electric,07701,87fc8459ee40e323dbfaa2f5,SimpleFlex,True,,term_months | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|JCP&L Electric|electric,Xoom Energy,JCP&L Electric,electric,07701,6ff82b009c50a39e56a17079,RescueLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|JCP&L Electric|electric,Xoom Energy,JCP&L Electric,electric,07701,7e20c3624072352fd51b8d1a,SureLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|JCP&L Electric|electric,Xoom Energy,JCP&L Electric,electric,07701,d4687f1059e84a769f8bb597,SimpleClean 12,True,,enrollment_fee | cancellation_fee | renewable_source,0
+Xoom Energy|JCP&L Electric|electric,Xoom Energy,JCP&L Electric,electric,07701,fec7a81d876f7659047e5274,SureLock 24,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

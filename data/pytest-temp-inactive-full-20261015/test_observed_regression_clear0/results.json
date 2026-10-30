@@ -1,0 +1,317 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Clearview Energy",
+      "utility": "JCP&L Electric",
+      "commodity": "electric",
+      "zip": "07701",
+      "url": "https://www.clearviewenergy.com/residential/",
+      "adapter": "clearview_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:32.800843+00:00",
+    "finished_at": "2026-10-15T18:29:32.938664+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 5,
+    "offers": [
+      {
+        "key": "6a48aa820ef42fa9ee99ac4b",
+        "supplier": "Clearview Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "ClearGuarantee12Plus",
+        "product_id": "414950",
+        "price": {
+          "value": "0.1629",
+          "unit": "USD/kWh",
+          "raw": "16.29\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "9.99",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$9.99",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414950",
+            "label": "TOS Docs",
+            "product_id": "414950",
+            "offer_key": "6a48aa820ef42fa9ee99ac4b",
+            "discovery_artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896",
+        "captured_at": "2026-09-11T13:57:42.485132+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee12Plus\nElectric\nResidential\n16.29\n¢\n/\nkWh\nUtility:\nJCPL\nPlan code:\n414950\nRate type:\nFixed\nTerm:\n12 Mo.\nBase Fee:\n$9.99\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n16.29 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "9490530f740d7a1a5c829136",
+        "supplier": "Clearview Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "ClearGuarantee24Plus",
+        "product_id": "414952",
+        "price": {
+          "value": "0.1649",
+          "unit": "USD/kWh",
+          "raw": "16.49\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "9.99",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$9.99",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414952",
+            "label": "TOS Docs",
+            "product_id": "414952",
+            "offer_key": "9490530f740d7a1a5c829136",
+            "discovery_artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896",
+        "captured_at": "2026-09-11T13:57:42.485132+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee24Plus\nElectric\nResidential\n16.49\n¢\n/\nkWh\nUtility:\nJCPL\nPlan code:\n414952\nRate type:\nFixed\nTerm:\n24 Mo.\nBase Fee:\n$9.99\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n16.49 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "c499f325332453764e3171d6",
+        "supplier": "Clearview Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "ClearGuarantee12",
+        "product_id": "414946",
+        "price": {
+          "value": "0.1739",
+          "unit": "USD/kWh",
+          "raw": "17.39\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$0.00",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414946",
+            "label": "TOS Docs",
+            "product_id": "414946",
+            "offer_key": "c499f325332453764e3171d6",
+            "discovery_artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896",
+        "captured_at": "2026-09-11T13:57:42.485132+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee12\nElectric\nResidential\n17.39\n¢\n/\nkWh\nUtility:\nJCPL\nPlan code:\n414946\nRate type:\nFixed\nTerm:\n12 Mo.\nBase Fee:\n$0.00\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n17.39 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "14f57b162bd41918d6e248a2",
+        "supplier": "Clearview Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "ClearCharge12",
+        "product_id": "414954",
+        "price": {
+          "value": "0.1739",
+          "unit": "USD/kWh",
+          "raw": "17.39\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$0.00",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414954",
+            "label": "TOS Docs",
+            "product_id": "414954",
+            "offer_key": "14f57b162bd41918d6e248a2",
+            "discovery_artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896",
+        "captured_at": "2026-09-11T13:57:42.485132+00:00",
+        "raw_fields": {
+          "text": "ClearCharge12\nElectric\nResidential\n17.39\n¢\n/\nkWh\nUtility:\nJCPL\nPlan code:\n414954\nRate type:\nFixed\nTerm:\n12 Mo.\nBase Fee:\n$0.00\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n17.39 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "240b9de60e140297a8daeedc",
+        "supplier": "Clearview Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "ClearGuarantee24",
+        "product_id": "414948",
+        "price": {
+          "value": "0.1769",
+          "unit": "USD/kWh",
+          "raw": "17.69\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$0.00",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414948",
+            "label": "TOS Docs",
+            "product_id": "414948",
+            "offer_key": "240b9de60e140297a8daeedc",
+            "discovery_artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896",
+        "captured_at": "2026-09-11T13:57:42.485132+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee24\nElectric\nResidential\n17.69\n¢\n/\nkWh\nUtility:\nJCPL\nPlan code:\n414948\nRate type:\nFixed\nTerm:\n24 Mo.\nBase Fee:\n$0.00\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n17.69 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "cdfdd9a9552443333f32d2c424519b4b04923dbae9be907b7402161a7b522caa",
+        "path": "cdfdd9a9552443333f32d2c424519b4b04923dbae9be907b7402161a7b522caa.json",
+        "kind": "json",
+        "url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "captured_at": "2026-10-15T18:29:32.811179+00:00",
+        "bytes": 3408
+      },
+      {
+        "id": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896",
+        "path": "895af4646ef68724b51d17903c633abb73d9349a798da063d80174e82fc89896.html",
+        "kind": "html",
+        "url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=07701&BtnActType=Resi",
+        "captured_at": "2026-10-15T18:29:32.867386+00:00",
+        "bytes": 157798
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

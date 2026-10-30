@@ -1,0 +1,17 @@
+{
+  "fixture_kind": "observed_public_capture",
+  "captured_at": "2026-09-11T05:24:31.811606+00:00",
+  "query": {
+    "supplier": "CleanChoice Energy",
+    "utility": "JCP&L Electric",
+    "commodity": "electric",
+    "zip": "07701",
+    "url": "https://cleanchoiceenergy.com/enroll#/",
+    "adapter": "cleanchoice",
+    "skip_reason": null
+  },
+  "context_verified": false,
+  "payloads": [],
+  "documents": [],
+  "disposition": "blocked"
+}

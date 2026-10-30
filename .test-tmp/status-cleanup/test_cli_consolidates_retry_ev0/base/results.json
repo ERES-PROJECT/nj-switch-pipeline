@@ -1,0 +1,162 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Example Energy",
+      "utility": "PSE&G Electric",
+      "commodity": "electric",
+      "zip": "07102",
+      "url": "https://example.com/plans",
+      "adapter": "direct_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-19T16:17:00.342270+00:00",
+    "finished_at": "2026-10-19T16:17:00.346301+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 1,
+    "source_evidence": {
+      "direct_api": {
+        "utility_response_count": 0,
+        "product_response_count": 0,
+        "utility_artifact_id": null,
+        "product_artifact_id": null
+      }
+    },
+    "offers": [
+      {
+        "key": "a961f721a7e65396e823ce48",
+        "supplier": "Example Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Example Green 12",
+        "product_id": "DEMO-12",
+        "price": {
+          "value": "0.199",
+          "unit": "USD/kWh",
+          "raw": "$0.199/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "4.95",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Monthly fee: $4.95",
+          "cancellation_fee": "Cancellation fee: $150"
+        },
+        "incentives": [
+          "$50 gift card after three paid bills"
+        ],
+        "renewable_percentage": "100",
+        "renewable_source": "wind",
+        "renewable_claim": "Example Green 12",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [
+          "8d4c4ed1b65a96aea93fc621f8b423664545c480d2056779d72e72f3b5fa600d"
+        ],
+        "source_url": "https://example.com/plans",
+        "source_kind": "html",
+        "artifact_id": "2e7ce68585d25ad9571903cfacf579c35db2b50926a8ae7f54b582312e26cdb8",
+        "captured_at": "offline-synthetic-fixture",
+        "raw_fields": {
+          "text": "Example Green 12\n$0.199/kWh\n12 months Fixed\nMonthly fee: $4.95\nCancellation fee: $150\n100% renewable wind\n$50 gift card after three paid bills\nContract Summary"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [
+      {
+        "id": "8d4c4ed1b65a96aea93fc621f8b423664545c480d2056779d72e72f3b5fa600d",
+        "url": "https://example.com/contract-demo",
+        "artifact_id": "8d4c4ed1b65a96aea93fc621f8b423664545c480d2056779d72e72f3b5fa600d",
+        "media_type": "text/plain",
+        "document_kind": "contract_summary",
+        "source_urls": [
+          "https://example.com/contract-demo"
+        ],
+        "sections": {
+          "supplier_information": "Example Energy; illustrative license ESL-0000",
+          "price_structure": "Fixed",
+          "supply_price": "$0.199/kWh plus a $4.95 monthly fee.",
+          "savings": "Savings are not guaranteed.",
+          "switching_time": "One billing cycle.",
+          "incentives": "$50 gift card after three paid bills.",
+          "rescission": "Seven calendar days from the confirmation notice.",
+          "start_date": "Next eligible meter read.",
+          "term": "12 months",
+          "cancellation": "$150",
+          "renewal": "Variable rate after the fixed term unless a new plan is selected.",
+          "distribution_company": "PSE&G Electric; call the utility for outages."
+        },
+        "raw_text": "Third Party Supplier Information: Example Energy; illustrative license ESL-0000\nPrice Structure: Fixed\nGeneration/Supply Price: $0.199/kWh plus a $4.95 monthly fee.\nStatement Regarding Savings: Savings are not guaranteed.\nAmount of time required to change: One billing cycle.\nIncentives: $50 gift card after three paid bills.\nRight to Cancel/Rescind: Seven calendar days from the confirmation notice.\nContract Start Date: Next eligible meter read.\nContract Term/Length: 12 months\nCancellation/Early Termination Fees: $150\nRenewal Terms: Variable rate after the fixed term unless a new plan is selected.\nDistribution Company Information: PSE&G Electric; call the utility for outages.",
+        "fields": {
+          "prices": [
+            {
+              "value": "0.199",
+              "unit": "USD/kWh",
+              "raw": "$0.199/kWh"
+            }
+          ],
+          "rate_structure": "fixed",
+          "term_months": 12,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: $150"
+          },
+          "incentives": [
+            "$50 gift card after three paid bills."
+          ],
+          "form_fields": {},
+          "cancellation_fee": "150"
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "parsed",
+        "matched_offer_keys": [
+          "a961f721a7e65396e823ce48"
+        ],
+        "match_method": "unique_price_term_context"
+      }
+    ],
+    "candidates": [],
+    "attempts": [],
+    "artifacts": [
+      {
+        "id": "2e7ce68585d25ad9571903cfacf579c35db2b50926a8ae7f54b582312e26cdb8",
+        "path": "2e7ce68585d25ad9571903cfacf579c35db2b50926a8ae7f54b582312e26cdb8.html",
+        "kind": "html",
+        "url": "https://example.com/plans",
+        "captured_at": "2026-10-19T16:17:00.343838+00:00",
+        "bytes": 343
+      },
+      {
+        "id": "8d4c4ed1b65a96aea93fc621f8b423664545c480d2056779d72e72f3b5fa600d",
+        "path": "8d4c4ed1b65a96aea93fc621f8b423664545c480d2056779d72e72f3b5fa600d.txt",
+        "kind": "txt",
+        "url": "https://example.com/contract-demo",
+        "captured_at": "2026-10-19T16:17:00.345813+00:00",
+        "bytes": 682
+      }
+    ],
+    "warnings": [
+      "Direct ZIP utility evidence was absent or ambiguous: expected one exact utility code, found 0",
+      "Direct product API evidence was not captured for this navigation"
+    ],
+    "completion_issues": [
+      "Direct ZIP utility evidence was absent or ambiguous: expected one exact utility code, found 0",
+      "Direct product API evidence was not captured for this navigation"
+    ],
+    "errors": []
+  }
+]

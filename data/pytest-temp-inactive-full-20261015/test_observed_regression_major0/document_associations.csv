@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,59d9649e8b7263a0781ddf86,Select 12,0,0,missing_useful_document,none,
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,a246aa5b9e33fdfee6a3e8dc,Simple Choice 12,0,0,missing_useful_document,none,
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,d1bc5cead9e925ca437e4fb8,Simple Choice 3,0,0,missing_useful_document,none,
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,9961cb59bd7b0ac3cc77a7fe,Simple Choice 8,0,0,missing_useful_document,none,

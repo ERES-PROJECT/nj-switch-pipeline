@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,da571e01b95e426a84af082e,Affordable Clean Gas 6,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,de5b95406a946e8eacfbb0aa,Affordable Clean Gas 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,ff10201c885d81e09dcd0353,Affordable Clean Gas 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,f58ffb5984eebc77e09c29c1,Ultra Clean Gas 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,14a5c9295a342b4893813330,Ultra Clean Gas 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

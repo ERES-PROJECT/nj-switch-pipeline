@@ -1,0 +1,144 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Major Energy",
+      "utility": "NJNG Gas",
+      "commodity": "gas",
+      "zip": "07712",
+      "url": "https://majorenergy.com/areas/nj/",
+      "adapter": "major_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-17T20:25:21.422859+00:00",
+    "finished_at": "2026-10-17T20:25:21.470789+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 2,
+    "source_evidence": {},
+    "offers": [
+      {
+        "key": "10263254b963d399a3b1d605",
+        "supplier": "Major Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "Simple Choice 12",
+        "product_id": "147633",
+        "price": {
+          "value": "0.69900",
+          "unit": "USD/therm",
+          "raw": "$0.69900\nper THM"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=147633&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "147633",
+            "offer_key": "10263254b963d399a3b1d605",
+            "discovery_artifact_id": "7c5ee81b6e1ee94637558ee81da140cf1c802313449fe496a7bf782a5b10faa9"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "7c5ee81b6e1ee94637558ee81da140cf1c802313449fe496a7bf782a5b10faa9",
+        "captured_at": "2026-09-11T05:23:19.340124+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$0.69900\nper THM\nEnroll Now\nSimple Choice 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$0.69900\nper THM\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.4567 per therm based on the current utility’s comparative residential customer rate effective as of 9/1/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://www.njng.com/regulatory/historical-rate-info.aspx\nEnergy Rate: $0.69900\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "be71764a14f71188aedcbe4a",
+        "supplier": "Major Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "Simple Choice 6",
+        "product_id": "147634",
+        "price": {
+          "value": "0.72900",
+          "unit": "USD/therm",
+          "raw": "$0.72900\nper THM"
+        },
+        "rate_structure": "fixed",
+        "term_months": 6,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=147634&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "147634",
+            "offer_key": "be71764a14f71188aedcbe4a",
+            "discovery_artifact_id": "7c5ee81b6e1ee94637558ee81da140cf1c802313449fe496a7bf782a5b10faa9"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "7c5ee81b6e1ee94637558ee81da140cf1c802313449fe496a7bf782a5b10faa9",
+        "captured_at": "2026-09-11T05:23:19.340124+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 6\nTerm: 6 Months\n•\nRate Type: Fixed\n$0.72900\nper THM\nEnroll Now\nSimple Choice 6\nTerm: 6 Months\n•\nRate Type: Fixed\n$0.72900\nper THM\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.4567 per therm based on the current utility’s comparative residential customer rate effective as of 9/1/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://www.njng.com/regulatory/historical-rate-info.aspx\nEnergy Rate: $0.72900\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "attempts": [],
+    "artifacts": [
+      {
+        "id": "7c5ee81b6e1ee94637558ee81da140cf1c802313449fe496a7bf782a5b10faa9",
+        "path": "7c5ee81b6e1ee94637558ee81da140cf1c802313449fe496a7bf782a5b10faa9.html",
+        "kind": "html",
+        "url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "captured_at": "2026-10-17T20:25:21.437348+00:00",
+        "bytes": 26085
+      }
+    ],
+    "warnings": [],
+    "completion_issues": [],
+    "errors": []
+  }
+]

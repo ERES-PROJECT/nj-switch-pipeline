@@ -1,0 +1,261 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "CleanChoice Energy",
+      "utility": "JCP&L Electric",
+      "commodity": "electric",
+      "zip": "07701",
+      "url": "https://cleanchoiceenergy.com/enroll#/",
+      "adapter": "cleanchoice",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-14T02:54:31.361954+00:00",
+    "finished_at": "2026-10-14T02:54:31.752644+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 3,
+    "offers": [
+      {
+        "key": "4889f70c6375920de2eb48fb",
+        "supplier": "CleanChoice Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "CleanChoice 12 Month Fixed Rate 100% Renewable",
+        "product_id": null,
+        "price": {
+          "value": "0.164",
+          "unit": "USD/kWh",
+          "raw": "16.4 ¢/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": "0",
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "enrollment_fee": "Enrollment fee: $0",
+          "cancellation_fee": "Cancellation fee: $0"
+        },
+        "incentives": [],
+        "renewable_percentage": "100",
+        "renewable_source": "Solar, Wind, hydro, solar, wind",
+        "renewable_claim": "100% renewable energy",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://cleanchoiceenergy.com/plans?area=07701",
+        "source_kind": "html",
+        "artifact_id": "21e19b9ab42dc9e546031a14a7aab16c0117ea744c127ba3046eaa2d50a40543",
+        "captured_at": "2026-10-14T02:53:38.815955+00:00",
+        "raw_fields": {
+          "text": "Rate locked in for 12 months\nGreat option for most households\nCancel anytime at no cost\n100% renewable energy\nLoading...\nSign up now\nHave questions? Give us a call\nLoading...\nView plan details\nPlan details\nRate: 16.4 ¢/kWh\nRate type: 12 Month Fixed Rate\nEnergy mix: 100% Wind and Solar\nEnrollment fee: $0\nCancellation fee: $0\nHow your plan’s pricing works\nWith a fixed-rate plan, your price per kWh stays the same for the full contract term, even if market prices increase. This protects you from seasonal spikes.\nHow billing works\nYou’ll continue to receive your normal monthly electric bill from your utility as you do now. Once service begins, you’ll see CleanChoice Energy listed as your “Supplier”.\nHow renewable energy works\nCleanChoice Energy matches 100% of your electricity usage with Renewable Energy Certificates (\"RECs\") from wind, solar, and hydro renewable sources. By purchasing and pairing RECs with your electricity, you are using and receiving the benefits of renewable electricity.\n\n\n\n\n"
+        },
+        "warnings": []
+      },
+      {
+        "key": "57facbb9d452fa7717d226fd",
+        "supplier": "CleanChoice Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "CleanChoice 3 Month Introductory Rate 100% Renewable",
+        "product_id": null,
+        "price": {
+          "value": "0.157",
+          "unit": "USD/kWh",
+          "raw": "15.7 ¢/kWh"
+        },
+        "rate_structure": "variable",
+        "term_months": 3,
+        "term_kind": "fixed_term",
+        "intro_price": {
+          "value": "0.157",
+          "unit": "USD/kWh",
+          "raw": "15.7 ¢/kWh"
+        },
+        "intro_duration_months": 3,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": "0",
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "enrollment_fee": "Enrollment fee: $0",
+          "cancellation_fee": "Cancellation fee: $0"
+        },
+        "incentives": [],
+        "renewable_percentage": "100",
+        "renewable_source": "Solar, Wind, hydro, solar, wind",
+        "renewable_claim": "100% renewable energy",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://cleanchoiceenergy.com/plans?area=07701",
+        "source_kind": "html",
+        "artifact_id": "21e19b9ab42dc9e546031a14a7aab16c0117ea744c127ba3046eaa2d50a40543",
+        "captured_at": "2026-10-14T02:53:38.815955+00:00",
+        "raw_fields": {
+          "text": "Variable plan with a 3-month rate lock\nGreat for short-term flexibility\nCancel anytime at no cost\n100% renewable energy\nLoading...\nSign up now\nHave questions? Give us a call\nLoading...\nView plan details\nPlan details\nRate: 15.7 ¢/kWh\nRate type: 3 Month Introductory Rate\nEnergy mix: 100% Wind and Solar\nEnrollment fee: $0\nCancellation fee: $0\nHow your plan’s pricing works\nWith this plan, your rate per kWh remains the same for the first 3 months. After the first 3 months, the rate may vary each billing cycle, and your rate may increase or decrease based on market conditions. You may switch plans or cancel at any time.\nHow billing works\nYou’ll continue to receive your normal monthly electric bill from your utility as you do now. Once service begins, you’ll see CleanChoice Energy listed as your “Supplier”.\nHow renewable energy works\nCleanChoice Energy matches 100% of your electricity usage with Renewable Energy Certificates (\"RECs\") from wind, solar, and hydro renewable sources. By purchasing and pairing RECs with your electricity, you are using and receiving the benefits of renewable electricity.\n\n\n\n\n"
+        },
+        "warnings": []
+      },
+      {
+        "key": "557c9ba9ccd2a8dd10fa62b7",
+        "supplier": "CleanChoice Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "CleanChoice 24 Month Fixed Rate 100% Renewable",
+        "product_id": null,
+        "price": {
+          "value": "0.176",
+          "unit": "USD/kWh",
+          "raw": "17.6 ¢/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": "0",
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "enrollment_fee": "Enrollment fee: $0",
+          "cancellation_fee": "Cancellation fee: $0"
+        },
+        "incentives": [],
+        "renewable_percentage": "100",
+        "renewable_source": "Solar, Wind, hydro, solar, wind",
+        "renewable_claim": "100% renewable energy",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://cleanchoiceenergy.com/plans?area=07701",
+        "source_kind": "html",
+        "artifact_id": "21e19b9ab42dc9e546031a14a7aab16c0117ea744c127ba3046eaa2d50a40543",
+        "captured_at": "2026-10-14T02:53:38.815955+00:00",
+        "raw_fields": {
+          "text": "Rate locked in for 24 months\nGreat for long-term price stability\nCancel anytime at no cost\n100% renewable energy\nLoading...\nSign up now\nHave questions? Give us a call\nLoading...\nView plan details\nPlan details\nRate: 17.6 ¢/kWh\nRate type: 24 Month Fixed Rate\nEnergy mix: 100% Wind and Solar\nEnrollment fee: $0\nCancellation fee: $0\nHow your plan’s pricing works\nWith a fixed-rate plan, your price per kWh stays the same for the full contract term, even if market prices increase. This protects you from seasonal spikes.\nHow billing works\nYou’ll continue to receive your normal monthly electric bill from your utility as you do now. Once service begins, you’ll see CleanChoice Energy listed as your “Supplier”.\nHow renewable energy works\nCleanChoice Energy matches 100% of your electricity usage with Renewable Energy Certificates (\"RECs\") from wind, solar, and hydro renewable sources. By purchasing and pairing RECs with your electricity, you are using and receiving the benefits of renewable electricity.\n\n\n\n\n"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [
+      {
+        "id": "42f5289be6dcf55d19dae6a8f8c3c07af52c1c2dbf4fe775c32a697729273295",
+        "url": "https://cleanchoiceenergy.com/disclosures",
+        "artifact_id": "42f5289be6dcf55d19dae6a8f8c3c07af52c1c2dbf4fe775c32a697729273295",
+        "media_type": "text/html",
+        "document_kind": "environmental",
+        "source_urls": [
+          "https://cleanchoiceenergy.com/disclosures"
+        ],
+        "sections": {},
+        "raw_text": "Environmental Disclosure Statements | CleanChoice Energy\ncleanchoice-energy-logo\nHow It Works\nView Plans\nAbout\n800-218-0798\nContact Us\nSign Up\ncleanchoice-energy-logo\nDemonstrating our commitment to 100% renewable energy, including wind and solar\nWhere we source our wind and solar\nCleanChoice Energy only supplies 100% clean renewable energy from 50+ wind and solar farms (and growing) in the regions we serve as an Energy Supplier. Unlike most other energy companies, we only source clean wind and solar power. We never buy natural gas, coal, or fossil fuel sources.\nSelect your state to see how we compare\nAs an energy supplier, we provide the fuel source and emission data for each state we operate in, so you can make an informed choice about your energy. Each environmental disclosure here is available to download as a PDF.\nEnvironmental Disclosures (PDFs)\nDistrict of Columbia\nIllinois\nMaine\nMaryland\nMassachusetts\nNew Hampshire\nNew Jersey\nNew York\nOhio\nRhode Island\nFuel mix information for customers in Delaware or Pennsylvania is available upon request.\nQuestions? Give us a call\n1-800-218-0113\nCT DOCKET NO. 13-07-26\n*\nDC PSC Order 17035\nDE PSC Order 8286\nIL ICC Docket No. 13-0302\nME DOCKET NO. 2025-00369\nMD Lic. Ref. No. IR-2843\n*\nMA DPU Lic. No. CS-103\nNH REG 2024-021\nNJ BPU Lic. No. ESL-0128\nNY DPS Matter 14-02554\nOH Certification No. 13-702E(1)\nPA PUC Lic. No. A-2012-2308371\nRI D-96-6(N6)\n*\nLicensed; not currently enrolling new customers\nProducts\nClean Electricity\nGeneration\nCompany\nAbout\nMeet the Team\nOur Promise\nCareers\nSupport Center\nContact\nResources\nBlog\nLease Your Land\nEnvironmental Disclosures\nIL Rate Information\nPress\n© 2026 CleanChoice Energy, Inc. All rights reserved.\nPrivacy\nTerms of Services\nInterest Based Ads",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      },
+      {
+        "id": "830037e7125c881cb48f353f2b8df7d7e86d17181f65bcd698981da783eb3bda",
+        "url": "https://cleanchoiceenergy.com/terms",
+        "artifact_id": "830037e7125c881cb48f353f2b8df7d7e86d17181f65bcd698981da783eb3bda",
+        "media_type": "text/html",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://cleanchoiceenergy.com/terms"
+        ],
+        "sections": {},
+        "raw_text": "Terms of Service | CleanChoice Energy\ncleanchoice-energy-logo\nHow It Works\nView Plans\nAbout\n800-218-0798\nContact Us\nSign Up\ncleanchoice-energy-logo\nTerms of Service\nTerms of Service\nPlease read these terms and conditions of use carefully. By accessing or using this web site, you agree to be bound by the terms and conditions described herein and all terms incorporated by reference. If you do not agree to all of these terms, do not use this web site.\nIMPORTANT\n:  The “Dispute Resolution” section below requires you to arbitrate claims you may have against CleanChoice Energy, meaning you cannot bring claims against CleanChoice Energy in court, and confirms your agreement to a class action waiver in arbitration. It affects your legal rights. Please read it carefully.\nThis website is operated by CleanChoice Energy, Inc. (\"CleanChoice Energy\", \"we\" or \"us\"). These terms and conditions of use (\"Site Terms\") apply solely to your access to, and use of, the cleanchoiceenergy.com Web site operated by CleanChoice Energy and other CleanChoice Energy Web sites which link to these Site Terms (the \"Sites\"). These Site Terms do not alter in any way the terms or conditions of any other agreement you may have with CleanChoice Energy for products, services or otherwise (“Customer Agreement”).  To the extent there is any conflict between these Site Terms and the term of any Customer Agreement that you have with CleanChoice Energy, the terms of the Customer Agreement shall govern and prevail.\nWe reserve the right to change or modify any of the terms and conditions contained in the Site Terms or any policy or guideline of the Sites, at any time and in our sole discretion. Any changes or modification will be effective immediately upon posting of the revisions on the Sites, and you waive any right you may have to receive specific notice of such changes or modifications. Your continued use of these Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications. Therefore, you should frequently review the Site Terms and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Sites. If you do not agree to the amended terms, you must stop using the Sites.\nIf you have any question regarding the use of the Sites, please refer first to the Help Section or the Frequently Asked Questions on each site. All other questions or comments about the Sites or site content should be directed to [EMAIL REDACTED].\n1. Privacy Policy\nPlease refer to our\nPrivacy Policy\nfor information on how we collect, use and disclose personally identifiable information from our users.\n2. Mobile Communications\nIf you request to receive updates or other information by mobile phone or text message, you consent to our communicating with you via your mobile device.\nWe do not charge for messaging services. However, your carrier’s normal messaging, data and other rates and fees may apply. You should check with your carrier to find out what plans are available and how much they cost. Carriers are not liable for delayed or undelivered messages.\nAt any time, you may text STOP to cancel or HELP for customer support information.  You can also get help directly at [EMAIL REDACTED].\n3. Copyright and Limited License\nUnless otherwise indicated in the Sites, the Sites and all content and other materials on the Sites, including, without limitation, CleanChoice Energy’s logo, and all designs, text, graphics, pictures, information, data, software, tools, widgets, sound files, other files and the selection and arrangement thereof (collectively, the \"Site Materials\") are the proprietary property of CleanChoice Energy or its licensors or users and are protected by U.S. and international copyright laws. You are granted a limited, non-sublicensable license to access and use the Sites and the Site Materials for your informational, noncommercial and personal use only. Such license is subject to these Site Terms and does not include: (a) any resale or commercial use of the Sites or the Site Materials therein; (b) the reproduction, distribution, public performance or public display of any Site Materials, except as expressly permitted on the Site; (c) modifying or otherwise making any derivative uses of the Sites and the Site Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Sites, the Site Materials or any information contained therein, except as expressly permitted on the Sites; or (f) any use of the Sites or the Site Materials other than for its intended purpose. Any use of the Sites or the Site Materials other than as specifically authorized herein, without the prior written permission of CleanChoice Energy, is strictly prohibited and will terminate the license granted herein. Such unauthorized use may also violate applicable laws including without limitation copyright and trademark laws and applicable communications regulations and statutes. Unless explicitly stated herein, nothing in these Site Terms shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise. This license is revocable at any time.\n4. Repeat Infringer Policy\nIn accordance with the Digital Millennium Copyright Act (\"DMCA\") and other applicable law, CleanChoice Energy has adopted a policy of terminating, in appropriate circumstances as determined by CleanChoice Energy in its sole discretion, subscribers or account holders who are deemed to be repeat infringers. CleanChoice Energy may also at its sole discretion limit access to the Sites and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.\n5. Copyright Complaints\nIf you believe that anything on the Sites infringes upon any copyright which you own or control you may file a notification of such infringement with our Designated Agent as set forth below. Name of Agent Designated to Receive Notification of Claimed Infringement: Vcorp Services, LLC - One University Plaza, Suite 507 - Hackensack, NJ 07601 (1-888-528-2677) Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.\n6. Trademarks\nAll logos and slogans contained in the Sites are trademarks of CleanChoice Energy, its suppliers or licensors, or other third parties and may not be copied, imitated or used, in whole or in part, without the prior written permission of CleanChoice Energy or the applicable trademark holder. You may not use any metatags or any other \"hidden text\" utilizing \"CleanChoice Energy\" or any other name, trademark or product or service name of CleanChoice Energy without our prior written permission. In addition, the look and feel of the Site, including all page headers, custom graphics, button icons and scripts, is the service mark, trademark and/or trade dress of CleanChoice Energy and may not be copied, imitated or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names and company names or logos mentioned in the Sites are the property of their respective owners. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, and supplier or otherwise does not constitute or imply endorsement, sponsorship, or recommendation thereof by us.\n7. Hyperlinks\nYou may not use a CleanChoice Energy logo or other proprietary graphic of CleanChoice Energy to link to these Sites without the express written permission of CleanChoice Energy. Further, you may not use, frame or utilize framing techniques to enclose any CleanChoice Energy trademark, logo or other proprietary information, including the images found at the Sites, the content of any text or the layout/design of any page or form contained on a page on the Sites without CleanChoice Energy’s express written consent. Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright or proprietary right of CleanChoice Energy or any third party. CleanChoice Energy makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature, or reliability of third-party Web sites accessible by hyperlink from the Sites, or Web sites linking to the Sites. Such sites are not under the control of CleanChoice Energy and CleanChoice Energy is not responsible for the contents of any linked site or any link contained in a linked site, or any review, changes or updates to such sites. CleanChoice Energy provides these links to you only as a convenience, and the inclusion of any link does not imply affiliation, endorsement, or adoption by CleanChoice Energy of any site or any information contained therein. When you leave the Sites, you should be aware that our terms and policies no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any site to which you navigate from the Sites.\n8. Third Party Content\nWe may make third party information and other content available on or through the Sites (the \"Third Party Content\") as a service to those interested in this information and we may provide information regarding or access to third party products or services available on or through the Sites (\"Third Party Products and Services\"). Your business dealings or correspondence with such third parties, and any terms, conditions, warranties or representations associated therewith, are solely between you and such third party. CleanChoice Energy does not control, endorse or adopt any Third Party Content or Third Party Products, and makes no representation or warranties of any kind regarding the Third Party Content, including without limitation regarding its accuracy or completeness. You acknowledge and agree that CleanChoice Energy is not responsible or liable in any manner for any Third Party Content and undertakes no responsibility to update or review any Third Party Content. Users use such Third Party Content contained therein at their own risk. Advertisements and Promotions; Third-Party Products and Services CleanChoice Energy may run advertisements and promotions from third parties on the Site or may otherwise provide information about or links to third-party organizations, products, or services on the Site. Your dealings or correspondence with, or participation in promotions of, such third parties, and any terms, conditions, warranties or representations associated with such dealings or promotions are solely between you and such third party. CleanChoice Energy is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or promotions or as the result of the presence of such non-CleanChoice Energy advertisers or third party information on the Site.\n9. Submissions\nYou acknowledge and agree that any feedback, questions, comments, suggestions, ideas, or other information or materials regarding the Site or CleanChoice Energy that are provided by you in the form of email or other submissions to CleanChoice Energy, or any postings on the Sites, are non-confidential and shall become the sole property of CleanChoice Energy. CleanChoice Energy shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these materials for any purpose without acknowledgment or compensation to you.\n10. User Content and Interactive Services or Areas\nThe Sites may include interactive areas or services (\"Interactive Areas\"), such as forums, blogs, chat rooms or message boards, or other areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites (\"User Content\"). You are solely responsible for your use of such Interactive Areas and use them at your own risk. By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following:\na: User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;\nb: User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law.\nc: User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party\nd: User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;\ne: Unsolicited promotions, political campaigning, advertising, or solicitations;\nf: Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;\ng: Viruses, corrupted data or other harmful, disruptive or destructive files;\nh: User Content which violates the terms of any CleanChoice Energy guidelines, policies or rules posted on the Site or otherwise provided to you; and\ni: User Content that, in the sole judgment of CleanChoice Energy, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose CleanChoice Energy or its users to any harm or liability of any type.\nCleanChoice Energy takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is CleanChoice Energy liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. Your use of Interactive Areas is at your own risk. Enforcement of the user content or conduct rules set forth in these Site Terms is solely at CleanChoice Energy’s discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances. In addition, these rules do not create any private right of action on the part of any third party or any reasonable expectation that the Sites will not contain any content that is prohibited by such rules. As a provider of interactive services, CleanChoice Energy is not liable for any statements, representations, or User Content provided by its users in any public forum, blog or other Interactive Area. Although CleanChoice Energy has no obligation to do so, it reserves the right, and has absolute discretion, to remove, screen or edit any User Content posted or stored on the Sites at any time and for any reason without notice, and you are solely responsible for creating backup copies of and replacing any User Content you post or store on the Sites at your sole cost and expense. Any use of the Interactive Areas or other portions of the Sites in violation of the foregoing violates these Site Terms and may result in, among other things, termination, or suspension of your rights to use the Interactive Areas and/or the Sites.\nExcept as otherwise provided, you retain ownership of all User Content you post on the Sites. However, if you post User Content to the Sites, unless we indicate otherwise, you grant CleanChoice Energy and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content throughout the world in any manner or media, including without limitation in advertising and other communications in support of CleanChoice Energy and affiliates, without any right of compensation or attribution . You grant CleanChoice Energy and its affiliates and sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that (a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content to the Sites; (b) the User Content is accurate and not misleading; and (c) use and posting of the User Content you supply does not violate these Site Terms and will not violate any rights of or cause injury to any person or entity.\n11. Registration Data; Account Security\nIn consideration of your use of the Sites, you agree to (a) provide accurate, current and complete information about you as may be prompted by any registration forms on the Sites (\"Registration Data\"); (b) maintain the security of your password and identification; (c) maintain and promptly update the Registration Data, and any other information you provide to CleanChoice Energy, to keep it accurate, current and complete; and (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to CleanChoice Energy.\n12. Indemnification\nYou agree to defend, indemnify and hold harmless CleanChoice Energy, its independent contractors, service providers and consultants, and their respective directors, employees and agents, from and against any claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to any User Content you post, store or otherwise transmit on or through the Sites, your use of the Interactive Areas, or any act or omission relating to the Site or the User Content, including without limitation any actual or threatened suit, demand or claim made against CleanChoice Energy and/or its independent contractors, service providers, employees, directors or consultants, arising out of or relating to the User Content, your conduct, your violation of these Site Terms or your violation of the rights of any third party.\n13. Disclaimers\nExcept as expressly provided to the contrary in a writing by CleanChoice Energy, the sites, the site materials contained therein and the services provided on or in connection therewith (the \"services\") are provided on an \"as is\" basis without warranties of any kind, either express or implied. CleanChoice Energy disclaims all other warranties, express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement and as to accuracy or reliability of the information, content, forms or other site materials accessed through the site. CleanChoice Energy does not represent or warrant that the sites, the site materials or the services are accurate, complete, reliable, current or error-free.\nCleanChoice Energy is not responsible for typographical errors or omissions, including those relating to pricing, text or photography. While CleanChoice Energy attempts to make your access and use of the sites and services safe, CleanChoice Energy cannot and does not represent or warrant that the sites, the site materials or the server(s) are free of viruses or other harmful components; therefore, you should use industry-recognized software to detect and disinfect viruses from any download.\nCleanChoice Energy is also not responsible or liable in any manner for any third party activities or events listed on the sites or for the conduct of any event or activity organizers of other users of the sites.\nCleanChoice Energy reserves the right to change any and all content contained in the Sites and any Services offered through the Sites at any time without notice. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by CleanChoice Energy.\nWe use various Google Maps APIs to provide some of the functionality on our Sites. As required by our license to use those APIs, we incorporate by reference and you agree to be bound by Google's\nTerms of Service\n.\n14. Limitation of Liability\nIn no event shall CleanChoice Energy or our employees, agents or volunteers be liable for any direct, special, indirect or consequential damages, or any other damages of any kind, including but not limited to loss of use, loss of profits or loss of data, whether in an action in contract, tort (including but not limited to negligence) or otherwise, arising out of or in any way connected with the use of or inability to use the sites, the services, the content or the site materials contained in or accessed through the site, including without limitation any damages caused by or resulting from reliance by user on any information obtained from CleanChoice Energy, or that result from mistakes, omissions, interruptions, deletion of files or email, errors, defects, viruses, delays in operation or transmission or any failure of performance, whether or not resulting from acts of god, communications failure, theft, destruction or unauthorized access to CleanChoice Energy’s records, programs or services. In no event shall the aggregate liability of CleanChoice Energy, whether in contract, warranty, tort (including negligence, whether active, passive or imputed), product liability, strict liability or other theory, arising out of or relating to the use of or inability to use the sites or the site materials exceed any compensation you pay, if any, to CleanChoice Energy for access to or use of the sites. Certain state laws do not allow limitations on implied warranties or the exclusion of limitation of certain damages. Therefore, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you might have additional rights.\n15. Applicable Law and Dispute Resolution\nPlease read this section carefully. It affects your legal rights, including your right to file a lawsuit in court.  These Site Terms and your use of the Site shall be governed by and construed in accordance with the laws of the State of Maryland applicable to agreements made and to be entirely performed within the State of Maryland, without resort to its conflict of law provisions. You and CleanChoice Energy agree irrevocably and unconditionally to settle any actions, complaints or disputes arising out of or related to these Site Terms by arbitration pursuant to the rules of the American Arbitration Association (AAA). It is further agreed that arbitration will only be pursued on an individual basis and you are not permitted to pursue any class, representative or collective action even if the AAA procedures or rules would allow such a proceeding.\n16. Termination\nNotwithstanding any of these Site Terms, CleanChoice Energy reserves the right, without notice and in its sole discretion, to terminate your license to use the Sites, and to block or prevent your future access to and use of the Sites.\n17. Severability\nIf any provision of these Site Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Site Terms and shall not affect the validity and enforceability of any remaining provisions.\n18. Questions & Contact Information\nQuestions or comments about the Sites may be directed to CleanChoice Energy at the email address: [EMAIL REDACTED]\nLast Revised: June 2, 2021\nQuestions? Give us a call\n1-800-218-0113\nCT DOCKET NO. 13-07-26\n*\nDC PSC Order 17035\nDE PSC Order 8286\nIL ICC Docket No. 13-0302\nME DOCKET NO. 2025-00369\nMD Lic. Ref. No. IR-2843\n*\nMA DPU Lic. No. CS-103\nNH REG 2024-021\nNJ BPU Lic. No. ESL-0128\nNY DPS Matter 14-02554\nOH Certification No. 13-702E(1)\nPA PUC Lic. No. A-2012-2308371\nRI D-96-6(N6)\n*\nLicensed; not currently enrolling new customers\nProducts\nClean Electricity\nGeneration\nCompany\nAbout\nMeet the Team\nOur Promise\nCareers\nSupport Center\nContact\nResources\nBlog\nLease Your Land\nEnvironmental Disclosures\nIL Rate Information\nPress\n© 2026 CleanChoice Energy, Inc. All rights reserved.\nPrivacy\nTerms of Services\nInterest Based Ads",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      },
+      {
+        "id": "b65acbcf6b95d55964966482f2a07d72c05531efa819f850f1c3fb5baef90229",
+        "url": "https://cleanchoiceenergy.com/privacyinterestbasedads",
+        "artifact_id": "b65acbcf6b95d55964966482f2a07d72c05531efa819f850f1c3fb5baef90229",
+        "media_type": "text/html",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://cleanchoiceenergy.com/privacyinterestbasedads"
+        ],
+        "sections": {},
+        "raw_text": "Privacy Policy | Interest Based Ads | CleanChoice Energy\ncleanchoice-energy-logo\nHow It Works\nView Plans\nAbout\n800-218-0798\nContact Us\nSign Up\ncleanchoice-energy-logo\nPrivacy Policy\nInterest Based Ads\nEffective as of: October 30, 2016\nInformation Automatically Collected\nWe may use cookies, web beacons, pixel tags, log files, HTML 5, or other technologies to collect certain information about visitors to our Sites or Apps and interactions with our emails and online or mobile advertisements, and to allow us to keep track of analytics and certain statistical information which enables us to improve our Services and provide you with more relevant content and advertising on our Sites and Apps and across other sites or apps.\nFor example, we may automatically collect certain non-personal information from you, including but not limited to your Internet Protocol (“IP”) address, your operating system, the browser type, device type, unique device identifier of any of your computer(s) or device(s) that are used to access the Site or App, software version, geolocation, phone model, phone operating system, carrier information, the address of a referring web site, and your activity on our Sites or Apps. We also may collect information about your use of the Site or App, including the date and time you visit the Site or App, the areas or pages of the Site or App that you visit, the amount of time you spend viewing or using the Site or App, the number of times you return to the Site or App, other click-stream or site usage data, emails that you open, forward or click-through to our Site or App, and other sites that you may visit.\nWe may also use third party vendors and advertisements to support our Site or App. Some of these advertisers may use technology such as cookies, web beacons, pixel tags, log files, or clear gifs when they advertise on our Site or App, which may send these advertisers information including your non-personal information.\nQuestions? Give us a call\n1-800-218-0113\nCT DOCKET NO. 13-07-26\n*\nDC PSC Order 17035\nDE PSC Order 8286\nIL ICC Docket No. 13-0302\nME DOCKET NO. 2025-00369\nMD Lic. Ref. No. IR-2843\n*\nMA DPU Lic. No. CS-103\nNH REG 2024-021\nNJ BPU Lic. No. ESL-0128\nNY DPS Matter 14-02554\nOH Certification No. 13-702E(1)\nPA PUC Lic. No. A-2012-2308371\nRI D-96-6(N6)\n*\nLicensed; not currently enrolling new customers\nProducts\nClean Electricity\nGeneration\nCompany\nAbout\nMeet the Team\nOur Promise\nCareers\nSupport Center\nContact\nResources\nBlog\nLease Your Land\nEnvironmental Disclosures\nIL Rate Information\nPress\n© 2026 CleanChoice Energy, Inc. All rights reserved.\nPrivacy\nTerms of Services\nInterest Based Ads",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [
+          "No unambiguous plan association; document retained for review"
+        ],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": null
+      }
+    ],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "16a0753057a9a2c9ef97f6de1814b3c528bbc6c91c82b9318c1127ba6baa61f8",
+        "path": "16a0753057a9a2c9ef97f6de1814b3c528bbc6c91c82b9318c1127ba6baa61f8.json",
+        "kind": "json",
+        "url": "https://cleanchoiceenergy.com/plans?area=07701",
+        "captured_at": "2026-10-14T02:54:31.364106+00:00",
+        "bytes": 5163
+      },
+      {
+        "id": "21e19b9ab42dc9e546031a14a7aab16c0117ea744c127ba3046eaa2d50a40543",
+        "path": "21e19b9ab42dc9e546031a14a7aab16c0117ea744c127ba3046eaa2d50a40543.html",
+        "kind": "html",
+        "url": "https://cleanchoiceenergy.com/plans?area=07701",
+        "captured_at": "2026-10-14T02:54:31.404581+00:00",
+        "bytes": 143296
+      },
+      {
+        "id": "42f5289be6dcf55d19dae6a8f8c3c07af52c1c2dbf4fe775c32a697729273295",
+        "path": "42f5289be6dcf55d19dae6a8f8c3c07af52c1c2dbf4fe775c32a697729273295.html",
+        "kind": "html",
+        "url": "https://cleanchoiceenergy.com/disclosures",
+        "captured_at": "2026-10-14T02:54:31.590575+00:00",
+        "bytes": 101463
+      },
+      {
+        "id": "830037e7125c881cb48f353f2b8df7d7e86d17181f65bcd698981da783eb3bda",
+        "path": "830037e7125c881cb48f353f2b8df7d7e86d17181f65bcd698981da783eb3bda.html",
+        "kind": "html",
+        "url": "https://cleanchoiceenergy.com/terms",
+        "captured_at": "2026-10-14T02:54:31.673258+00:00",
+        "bytes": 122331
+      },
+      {
+        "id": "b65acbcf6b95d55964966482f2a07d72c05531efa819f850f1c3fb5baef90229",
+        "path": "b65acbcf6b95d55964966482f2a07d72c05531efa819f850f1c3fb5baef90229.html",
+        "kind": "html",
+        "url": "https://cleanchoiceenergy.com/privacyinterestbasedads",
+        "captured_at": "2026-10-14T02:54:31.744401+00:00",
+        "bytes": 99092
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

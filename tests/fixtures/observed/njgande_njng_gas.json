@@ -1,0 +1,8 @@
+{
+  "query": {"supplier": "NJG&E", "utility": "NJNG Gas", "commodity": "gas", "zip": "07712", "url": "https://www.njgande.com/", "adapter": "njgande"},
+  "captured_at": "2026-09-17T00:00:00Z",
+  "context_verified": false,
+  "disposition": "blocked",
+  "source_url": "https://www.njgande.com/rate-plans",
+  "html": "<main><h1>Rate Plans</h1><p>Please give us a call. We were unable to process your request online.</p></main>"
+}

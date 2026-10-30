@@ -1,0 +1,7 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,7bf7ef66e9fd4b2e79601327,IDT Standard Renewable Mix Fixed Offer,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source,0
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,7296930cfe17e05dcb5c31a4,IDT Standard Renewable Mix Variable Offer,True,,term_months | monthly_fee | enrollment_fee | renewable_percentage | renewable_source,0
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,ff76c37feaad2af90802c195,IDT 100% Renewable Variable Offer,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,e4aa36c97be5b9833bc9563c,IDT 100% Renewable Fixed Offer,True,,monthly_fee | enrollment_fee,0
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,60c3f944fb7290623c52185b,IDT Standard Renewable Mix Fixed Offer,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source,0
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,846271ca739ef8ce9321096b,IDT 100% Renewable Fixed Offer,True,,monthly_fee | enrollment_fee,0

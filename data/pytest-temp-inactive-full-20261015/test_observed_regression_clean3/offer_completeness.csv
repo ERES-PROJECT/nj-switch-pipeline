@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,709665993f3751b7457639e7,Embrace Green 6,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_source,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,e4c44bbcbc8ed3298b1fe2a6,Embrace Green 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_source,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,78c736836af60bb5aab2214a,Embrace Green 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_source,0

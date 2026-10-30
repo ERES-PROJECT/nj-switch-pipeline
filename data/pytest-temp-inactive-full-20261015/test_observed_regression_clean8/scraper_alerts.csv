@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,warning,not_completed,status=partial

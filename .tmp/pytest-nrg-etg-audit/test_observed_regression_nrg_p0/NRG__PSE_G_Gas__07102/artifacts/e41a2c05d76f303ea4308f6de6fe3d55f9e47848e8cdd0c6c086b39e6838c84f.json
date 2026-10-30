@@ -1,0 +1,1122 @@
+{
+  "ErrCode": "",
+  "GasProducts": [
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104840",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "aal"
+        ],
+        "OfferId": "1000525282",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "aal",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "2,500 bonus/ 2 miles per $1 (Gas) - picknrg.com",
+        "ProductName": "Flex Plan with American Airlines AAdvantage Miles",
+        "ProductSlug": "aal_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "PromoCode": "788",
+        "PromoDescription": "Gas 2,500 bonus after 2M, 2 units / $1; Gas 2,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "2,500 miles",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000026800",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|aal",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "FeaturedPlan": "Yes",
+        "Id": "13116-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "aal_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "aal_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "ProductSlugLookup": [
+          "aal_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "ProductTitle": "Flex Plan with American Airlines AAdvantage Miles",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>2,500 American Airlines AAdvantage<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>2,500 American Airlines AAdvantage<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Flex Plan with American Airlines AAdvantage Miles"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104782",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "ual"
+        ],
+        "OfferId": "1000525674",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "ual",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "2,500 bonus/ 2 miles per $1 (Gas) - picknrg.com",
+        "ProductName": "Flex Plan with United MileagePlus Miles",
+        "ProductSlug": "ual_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "PromoCode": "788",
+        "PromoDescription": "Gas 2,500 bonus after 2M, 2 units / $1; Gas 2,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "2,500 miles",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000027192",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|ual",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "FeaturedPlan": "Yes",
+        "Id": "13102-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "ual_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "ual_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "ProductSlugLookup": [
+          "ual_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "ProductTitle": "Flex Plan with United MileagePlus Miles",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>2,500 MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>2,500 MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Flex Plan with United MileagePlus Miles"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104774",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "swa"
+        ],
+        "OfferId": "1000525569",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "swa",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "2,500 bonus/ 2 points per $1 (Gas) - picknrg.com",
+        "ProductName": "Flex Plan with Southwest Rapid Rewards Points",
+        "ProductSlug": "swa_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "PromoCode": "788",
+        "PromoDescription": "Gas 2,500 bonus after 2M, 2 units / $1; Gas 2,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "2,500 points",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000027087",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|swa",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "FeaturedPlan": "Yes",
+        "Id": "13111-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "swa_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "swa_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "ProductSlugLookup": [
+          "swa_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "ProductTitle": "Get a variable gas price and earn Southwest Rapid Rewards® Points ",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>2,500 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>2,500 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable gas price and earn Southwest Rapid Rewards® Points "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104779",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "15_cb"
+        ],
+        "OfferId": "1000525824",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "csb",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "ProductDescription": "$15 cashback after 3 months, 1% ongoing annually, Intro rate for 3 months, then variable",
+        "ProductName": "Flex Plan with Cash Back",
+        "ProductSlug": "affiliate_cashback_15_bonus_3m_gas",
+        "PromoCode": "633",
+        "PromoDescription": "$15 bonus after 3 months / 1% CB annually",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$15",
+        "SignupVesting": "3 Months",
+        "Sku": "g000000000027342",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "15_cb",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73014-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "affiliate_cashback_15_bonus_3m_gas"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Cash Back",
+          "Key": "1_featured",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "affiliate_cashback_15_bonus_3m_gas",
+        "ProductSlugLookup": [
+          "affiliate_cashback_15_bonus_3m_gas"
+        ],
+        "ProductTitle": "Flex Plan with Cash Back",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<p>● $15 cashback after 3 months of electricity service\n<br />\n● 1% ongoing annually\n<br />\n● Intro pricing for 3 months</p>"
+            }
+          ]
+        },
+        "SummaryString": "<p>● $15 cashback after 3 months of electricity service\n<br />\n● 1% ongoing annually\n<br />\n● Intro pricing for 3 months</p>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Flex Plan with Cash Back"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104700",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "atk"
+        ],
+        "OfferId": "1000525295",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "atk",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "2,500 bonus/ 2 points per $1 (Gas) - picknrg.com",
+        "ProductName": "Flex Plan with Amtrak Guest Rewards Points",
+        "ProductSlug": "atk_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "PromoCode": "788",
+        "PromoDescription": "Gas 2,500 bonus after 2M, 2 units / $1; Gas 2,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "2,500 points",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000026813",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|atk",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "13094-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "atk_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "atk_2mon_2500_bonus_2pcnt_earn_gas_corporate",
+        "ProductSlugLookup": [
+          "atk_2mon_2500_bonus_2pcnt_earn_gas_corporate"
+        ],
+        "ProductTitle": "Get a variable gas price and earn Amtrak Guest Rewards® points",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>2,500 Amtrak Guest Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>2,500 Amtrak Guest Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable gas price and earn Amtrak Guest Rewards® points"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113040",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-08-12T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "charity",
+          "chop"
+        ],
+        "OfferId": "1000566143",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "hop",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "PriorityLevel": "026",
+        "ProductDescription": "$25 contribution to Childrens Hospital of Philadelphia after 1 month of service, and 1% ongoing contribution annually (Gas) - picknrg.com",
+        "ProductName": "12-Month Plan Benefitting Children's Hospital of Philadelphia",
+        "ProductSlug": "hop_gives_gas_12_corporate",
+        "PromoCode": "144",
+        "PromoDescription": "$25 Contribution / 1% Earn (\"Gives\")",
+        "Rate": "0.98000",
+        "RateCategory": "NNJTHMRSF2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000067457",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|charity|chop",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.98000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "98.00",
+        "WebRate": "98.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "50779-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "hop_gives_gas_12_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "hop_gives_gas_12_corporate",
+        "ProductSlugLookup": [
+          "hop_gives_gas_12_corporate"
+        ],
+        "ProductTitle": " Supporting Children's Hospital of Philadelphia plus a secure gas price",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 contribution to Children's Hospital of Philadelphia after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 contribution to Children's Hospital of Philadelphia after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>",
+        "Term": "12 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Children's Hospital of Philadelphia plus a secure gas price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00112979",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-08-12T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "charity",
+          "nem"
+        ],
+        "OfferId": "1000566005",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "nem",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "PriorityLevel": "026",
+        "ProductDescription": "$25 contribution to Nemours after 1 month of service, and 1% ongoing contribution annually (Gas) - picknrg.com",
+        "ProductName": "12-Month Plan Benefitting Nemours Children's Health",
+        "ProductSlug": "nemours_gives_gas_12_corporate",
+        "PromoCode": "144",
+        "PromoDescription": "$25 Contribution / 1% Earn (\"Gives\")",
+        "Rate": "0.98000",
+        "RateCategory": "NNJTHMRSF2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000067319",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|charity|nem",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.98000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "98.00",
+        "WebRate": "98.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "50781-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "nemours_gives_gas_12_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "nemours_gives_gas_12_corporate",
+        "ProductSlugLookup": [
+          "nemours_gives_gas_12_corporate"
+        ],
+        "ProductTitle": " Supporting Nemours Children’s Health plus a secure gas price",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 contribution to Nemours Children’s Health after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 contribution to Nemours Children’s Health after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>",
+        "Term": "12 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Nemours Children’s Health plus a secure gas price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113054",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-08-12T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "charity",
+          "philab"
+        ],
+        "OfferId": "1000566220",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "pbn",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "PriorityLevel": "026",
+        "ProductDescription": "$25 contribution to Philabundance after 1 month of service, and 1% ongoing contribution annually (Gas) - picknrg.com",
+        "ProductName": "12-Month Plan Benefitting Philabundance",
+        "ProductSlug": "philabundance_gives_gas_12_corporate",
+        "PromoCode": "144",
+        "PromoDescription": "$25 Contribution / 1% Earn (\"Gives\")",
+        "Rate": "0.98000",
+        "RateCategory": "NNJTHMRSF2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000067534",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|charity|philab",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.98000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "98.00",
+        "WebRate": "98.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "50782-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "philabundance_gives_gas_12_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "philabundance_gives_gas_12_corporate",
+        "ProductSlugLookup": [
+          "philabundance_gives_gas_12_corporate"
+        ],
+        "ProductTitle": " Supporting Philabundance plus a secure gas price",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 contribution to Philabundance after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 contribution to Philabundance after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>",
+        "Term": "12 Month",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Philabundance plus a secure gas price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104930",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "nem"
+        ],
+        "OfferId": "1000525576",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "nem",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$25 contribution to Nemours after 1 month of service, and 1% ongoing contribution annually (Gas) - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Nemours Children's Health",
+        "ProductSlug": "nemours_gives_gas_corporate",
+        "PromoCode": "144",
+        "PromoDescription": "$25 Contribution / 1% Earn (\"Gives\")",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000027094",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|nem",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "13114-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "nemours_gives_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "nemours_gives_gas_corporate",
+        "ProductSlugLookup": [
+          "nemours_gives_gas_corporate"
+        ],
+        "ProductTitle": " Supporting Nemours Children’s Health plus an introductory gas price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 contribution to Nemours Children’s Health after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 contribution to Nemours Children’s Health after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Nemours Children’s Health plus an introductory gas price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104814",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "chop"
+        ],
+        "OfferId": "1000525862",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "hop",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$25 contribution to Childrens Hospital of Philadelphia after 1 month of service, and 1% ongoing contribution annually (Gas) - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Children's Hospital of Philadelphia",
+        "ProductSlug": "hop_gives_gas_corporate",
+        "PromoCode": "144",
+        "PromoDescription": "$25 Contribution / 1% Earn (\"Gives\")",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000027380",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|chop",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "13095-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "hop_gives_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "hop_gives_gas_corporate",
+        "ProductSlugLookup": [
+          "hop_gives_gas_corporate"
+        ],
+        "ProductTitle": " Supporting Children's Hospital of Philadelphia plus an introductory gas price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 contribution to Children's Hospital of Philadelphia after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 contribution to Children's Hospital of Philadelphia after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Children's Hospital of Philadelphia plus an introductory gas price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00104876",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-02-11T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "philab"
+        ],
+        "OfferId": "1000525353",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "pbn",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$25 contribution to Philabundance after 1 month of service, and 1% ongoing contribution annually (Gas) - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Philabundance",
+        "ProductSlug": "philabundance_gives_gas_corporate",
+        "PromoCode": "144",
+        "PromoDescription": "$25 Contribution / 1% Earn (\"Gives\")",
+        "Rate": "0.88000",
+        "RateCategory": "NNJTHMRSV2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000026871",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|philab",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.88000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "006",
+        "WebDisplayRate": "88.00",
+        "WebRate": "88.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "13099-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "philabundance_gives_gas_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "philabundance_gives_gas_corporate",
+        "ProductSlugLookup": [
+          "philabundance_gives_gas_corporate"
+        ],
+        "ProductTitle": " Supporting Philabundance plus an introductory gas price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 contribution to Philabundance after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 contribution to Philabundance after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Philabundance plus an introductory gas price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00112885",
+        "Channel": "web",
+        "Commodity": "gas",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-08-12T12:00:00Z",
+        "ExpirationDate": "2026-09-14T00:00:00Z",
+        "GreenText": "100% Carbon Offsets",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "green"
+        ],
+        "OfferId": "1000566232",
+        "PartnerCode": "nrr",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "ProductDescription": "Renewable Plan No Frills (Gas) - picknrg.com",
+        "ProductName": "12-Month Plan with Carbon Offsets",
+        "ProductSlug": "renewable_plan_gas_12_corporate",
+        "PromoCode": "574",
+        "PromoDescription": "No Frills",
+        "Rate": "1.03000",
+        "RateCategory": "NNJTHMRSF2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "Sku": "g000000000067546",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|green",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "1.03000",
+        "UtilitySlug": "pseg_gas",
+        "VasCode": "019",
+        "WebDisplayRate": "1.03",
+        "WebRate": "$1.03",
+        "WebRateUnit": "$"
+      },
+      "CmsContent": {
+        "Id": "73945-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "renewable_plan_gas_12_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Renewable Energy",
+          "Key": "5_green-energy",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": " renewable_plan_gas_12_corporate",
+        "ProductSlugLookup": [
+          "renewable_plan_gas_12_corporate"
+        ],
+        "ProductTitle": "12-Month Plan with Carbon Offsets",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets;\"><li>Natural gas generated from renewable sources</li><li>12-month fixed plan</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets;\"><li>Natural gas generated from renewable sources</li><li>12-month fixed plan</li></ul>",
+        "Term": "12 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "12-Month Plan with Carbon Offsets"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "IsOfferInvalidForElec": false,
+  "IsOfferInvalidForGas": false,
+  "NoOfApiElectricProduct": 0,
+  "NoOfApiGasProduct": 57
+}

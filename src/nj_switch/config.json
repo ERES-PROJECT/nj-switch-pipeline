@@ -1,0 +1,103 @@
+{
+  "inactive_suppliers": [
+    "Alpha Gas & Electric",
+    "American Power & Gas",
+    "Ameripro Energy",
+    "Astral Energy",
+    "Frontier Utilities",
+    "Great American Gas & Electric",
+    "Green Mountain Energy",
+    "IGS Energy",
+    "Mpower Energy",
+    "North American Power",
+    "Northeastern Power & Gas",
+    "Residents Energy",
+    "RPA Energy / Green Choice Energy",
+    "South Bay Energy"
+  ],
+  "inactive_markets": [
+    "Smart Energy|SJG Gas|gas",
+    "Smart Energy|ETG Gas|gas",
+    "Think Energy|Rockland Electric|electric"
+  ],
+  "utilities": {
+    "PSE&G Electric": ["PSE&G", "PSEG", "Public Service Electric", "Public Service"],
+    "PSE&G Gas": ["PSE&G", "PSEG", "Public Service", "PSEAG"],
+    "JCP&L Electric": ["JCP&L", "JCPL", "Jersey Central"],
+    "ACE Electric": ["Atlantic City", "ACE"],
+    "Rockland Electric": ["Rockland", "RECO", "ORNJ"],
+    "NJNG Gas": ["New Jersey Natural", "NJ Natural", "NJNG"],
+    "SJG Gas": ["South Jersey Gas", "South Jersey", "SJG"],
+    "ETG Gas": ["Elizabethtown", "ETG"]
+  },
+  "suppliers": {
+    "Constellation Energy": "constellation",
+    "Direct Energy": "direct_energy",
+    "Ambit Energy": "ambit",
+    "Think Energy": "think_energy",
+    "NRG": "nrg",
+    "Major Energy": "major_energy",
+    "Xoom Energy": "xoom_energy",
+    "CleanChoice Energy": "cleanchoice"
+  },
+  "supplier_commodity": {
+    "Smart Energy|electric": "smart_energy",
+    "Clearview Energy|electric": "clearview_energy",
+    "Clearview Energy|gas": "clearview_energy",
+    "IDT Energy|electric": "idt_energy",
+    "IDT Energy|gas": "idt_energy",
+    "CleanSky Energy|electric": "cleansky_energy",
+    "CleanSky Energy|gas": "cleansky_energy",
+    "NextEra Energy Services|electric": "nextera_energy_services",
+    "Residents Energy|gas": "residents_energy",
+    "NJG&E|electric": "njgande",
+    "NJG&E|gas": "njgande",
+    "Eligo Energy|gas": "eligo_energy",
+    "Smart Energy|gas": "smart_energy",
+    "American Power & Gas|gas": "american_power_and_gas"
+    ,"Nordic Energy Services|electric": "nordic_energy_services"
+    ,"Nordic Energy Services|gas": "nordic_energy_services"
+    ,"Indra Energy|electric": "indra_energy"
+    ,"Indra Energy|gas": "indra_energy"
+  },
+  "additional_test_zips": {
+    "CleanSky Energy|PSE&G Gas|gas": ["07430"]
+  },
+  "remediation": {
+    "CleanChoice Energy": {
+      "resolution_type": "headed_browser_required",
+      "retryable": true,
+      "next_action": "Run the public plan route with --headed; investigate a permitted official feed or isolated visible-browser retry before unattended scheduling."
+    },
+    "CleanSky Energy": {
+      "resolution_type": "live_flow_monitoring",
+      "retryable": true,
+      "next_action": "Monitor the cookie and dual-utility modal flow and retain ZIP-level observations while consolidating identical products."
+    },
+    "American Power & Gas": {
+      "resolution_type": "public_address_qualified_shopping",
+      "retryable": true,
+      "next_action": "Collect PSE&G Gas through the public address autocomplete and monitor the provider selector for any future Elizabethtown Gas support."
+    },
+    "Constellation Energy": {
+      "resolution_type": "alternate_market_source_or_registry_review",
+      "retryable": false,
+      "next_action": "Locate an official New Jersey gas shopping source or confirm that the supplier is not currently marketing gas in the configured utilities."
+    },
+    "Think Energy": {
+      "resolution_type": "multi_zip_market_validation",
+      "retryable": true,
+      "next_action": "Test the configured representative Rockland ZIPs and verify the public API utility mapping before retaining an empty disposition."
+    },
+    "NextEra Energy Services": {
+      "resolution_type": "live_flow_monitoring",
+      "retryable": true,
+      "next_action": "Monitor the legacy key-event and utility-confirmation flow; retain data-rate as product identity."
+    },
+    "NJG&E": {
+      "resolution_type": "live_flow_monitoring",
+      "retryable": true,
+      "next_action": "Monitor the ZIP and preselected-utility confirmation flow and improve plan-specific terms matching."
+    }
+  }
+}

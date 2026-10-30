@@ -1,0 +1,3 @@
+﻿tps,edc_gdc,commodity,test_zip,offer_fingerprint,offer_key,product_id,plan_name,rate,rate_unit,term_months,canonical_observation,duplicate_status,source_url,artifact_id,captured_at
+Example Energy,PSE&G Electric,electric,07102,20e9e7ffafd5f83d5e29209c,a961f721a7e65396e823ce48,DEMO-12,Example Green 12,0.199,USD/kWh,12,True,consolidated_across_zips,https://example.com/plans,2e7ce68585d25ad9571903cfacf579c35db2b50926a8ae7f54b582312e26cdb8,offline-synthetic-fixture
+Example Energy,PSE&G Electric,electric,07302,20e9e7ffafd5f83d5e29209c,second-zip-observation,DEMO-12,Example Green 12,0.199,USD/kWh,12,False,consolidated_across_zips,https://example.com/plans,2e7ce68585d25ad9571903cfacf579c35db2b50926a8ae7f54b582312e26cdb8,offline-synthetic-fixture

@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Smart Energy|Rockland Electric|electric,Smart Energy,Rockland Electric,electric,07430,d80448ed2aaceb18e260f5e6,$100 Visa Prepaid Card Plan,True,,product_id | monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

@@ -1,0 +1,12 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,5379fd3cf559ce6391bbcc31,Flex Plan with American Airlines AAdvantage Miles,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,211fa7d8fb4634bf4997e351,Flex Plan with United MileagePlus Miles,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,4baef41e549e0ef5326e352e,Flex Plan with Southwest Rapid Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,df73a090e842beb696eab0b1,Flex Plan with Cash Back,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,1a18c1be304cd6472a4c5668,Flex Plan with Amtrak Guest Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,bc2e36f5b676d44f6c18deea,12-Month Plan Benefitting Children's Hospital of Philadelphia,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,0ea80065a4238387c3e0ac08,12-Month Plan Benefitting Nemours Children's Health,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,d156e7955af7f74f8a6f1d2e,12-Month Plan Benefitting Philabundance,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,52c838ec40e3b5580acd6263,Flex Plan Benefitting Nemours Children's Health,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,c5e1bee5d7a068f5a5eb91f2,Flex Plan Benefitting Children's Hospital of Philadelphia,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Gas|gas,NRG,PSE&G Gas,gas,07102,1d47ffc68cd44b93f9c1709b,Flex Plan Benefitting Philabundance,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0

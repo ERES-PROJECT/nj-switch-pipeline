@@ -1,0 +1,14 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,ad963b342206239c5e657db947170203a01eaf0fd3062d703282e95a1ed4d5cb,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,1ac6ae771e5e372bf63c19a91f8da2225a736c3b6429aac1334af83a07154a36,environmental,text_extracted,12,0,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,f1a8839e2e1346b8b22dff9bfa49e7abd13b34703d7c4927d9398f9a61686eaf,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,b12584deec7ad53607f7eb9e93a9835d09f6d053574d7fac01abbe34bb33d597,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,3790cc72ae773e61e019375c5f74424a3876e1486e1a9dad68995325e0ff2453,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,488a8d891d8f776a07648f0eb60e9f36454267ccf51f38a0f049a6848a59cb4e,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,c8ad3ed2d88ce85f9f7fa841af9be4af8dcc630ec5227a86940e49e8724467ce,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,7f030740dc3c069d0abcd2ef6b57fbbf34d56882f8d60d1e9fcebd5cf17e9872,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,1359d8b8da1cb99ed30c25507d7196fad315fe05daa43298a0a19ffc90455cda,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,ab8abae0cb91cd786ccde84f67f49bafdfb4e1c213a66c3ee68ea6d784772c84,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,438f2abcd12e814595f114ba440e66c67407f78a592ab3cd5b1019c877a21200,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,f784f23b46b23b3041f0bad33d0af81946bc3a1a157abdb68bb4c7a0a88a60d1,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,9a5336d622d6778832d8f995b4fa98a3fef7256d3ed9d8fc9d917684da7192e2,terms_or_other,text_extracted,12,1,0,,False,0

@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Clearview Energy|NJNG Gas|gas,Clearview Energy,NJNG Gas,gas,07712,f18fcff329ed9d94577f2e6e4c7d328b1a96e9f5cc7b7c4aea8c816097259ebd,terms_or_other,text_extracted,12,0,0,,False,0
+Clearview Energy|NJNG Gas|gas,Clearview Energy,NJNG Gas,gas,07712,958b809da3bfa8f8ffac7f43b6242b75a1ebae4ac4888f41fcf2b1b28a826327,contract_summary,parsed,12,12,0,,True,0

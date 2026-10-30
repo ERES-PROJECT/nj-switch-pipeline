@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+Direct Energy|Rockland Electric|electric,Direct Energy,Rockland Electric,electric,07430,direct_energy,partial,browser_bootstrap_api,True,True,5,5,0,0,,,,,

@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Smart Energy|JCP&L Electric|electric,Smart Energy,JCP&L Electric,electric,07701,0be9f3ae24f6a7562b7bcb8a,$100 Visa Prepaid Card Plan,True,,product_id | monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Constellation Energy|PSE&G Electric|electric,Constellation Energy,PSE&G Electric,electric,07102,6833f691498659a7785abfd3,15 Month Power Plan,False,rate_structure,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,1
+Constellation Energy|PSE&G Electric|electric,Constellation Energy,PSE&G Electric,electric,07102,ce06387928c75d230c0938dc,12 Month Power Plan,False,rate_structure,enrollment_fee | cancellation_fee | renewable_source,1

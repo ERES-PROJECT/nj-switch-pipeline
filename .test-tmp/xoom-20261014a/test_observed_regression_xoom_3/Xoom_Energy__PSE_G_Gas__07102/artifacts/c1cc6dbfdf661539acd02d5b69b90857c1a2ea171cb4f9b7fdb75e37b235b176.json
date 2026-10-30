@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "XOOM Energy",
+  "sameAs": [
+    "https://instagram.com/xoomenergy",
+    "https://twitter.com/xoomenergy",
+    "https://www.linkedin.com/company/xoom-energy",
+    "https://www.youtube.com/user/XOOMEnergy",
+    "https://www.pinterest.com/xoomenergy/",
+    "https://plus.google.com/+Xoomenergy/about",
+    "https://www.facebook.com/pages/XOOM-Energy/139689256101723?ref=hl"
+  ],
+  "url": "http://xoomenergy.com"
+}

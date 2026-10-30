@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Nordic Energy Services|ETG Gas|gas,Nordic Energy Services,ETG Gas,gas,07201,4c12f0ec5fe0e3f44f8c6d91,Nordic Elizabethtown Gas 2 Month Fixed Gas,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

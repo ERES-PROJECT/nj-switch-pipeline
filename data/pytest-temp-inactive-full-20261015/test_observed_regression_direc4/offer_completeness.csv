@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Direct Energy|PSE&G Gas|gas,Direct Energy,PSE&G Gas,gas,07102,4ef61f7c4e90372b4efafd38,Live Brighter® 18,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|PSE&G Gas|gas,Direct Energy,PSE&G Gas,gas,07102,75099334770d3c54c46908ed,Live Brighter® 14,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|PSE&G Gas|gas,Direct Energy,PSE&G Gas,gas,07102,92452915a40e7b3b65bf444d,Live Brighter® 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

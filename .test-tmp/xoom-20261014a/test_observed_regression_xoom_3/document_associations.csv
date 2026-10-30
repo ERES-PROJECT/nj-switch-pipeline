@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,f41b58890d969f4ba6f70242,SimpleFlex,2,1,complete,offer,295c2949a6421c1f2e44029b71f4f6af3da9234f5d4aa8b969fed7ae7fb4aa2f | 7376d1d82b73e19da5ae9887cce551e0b1ebe3b2d5956be4f5555ec09235ba5a
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,5e0697577f05b201eaf3df47,RescueLock 12,2,1,complete,offer,8f899ec2d555f3436e5e4d6481638b70ce215c3418fdf7af9c1d80b334fc8b99 | aa6cea92e07f17014df4ac0711546feab3e56dcc7ecc3e15330b98fdbae18407
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,1c1103f072257452b6ddab25,SureLock 12,2,1,complete,offer,e96a23a283658d84885ae209a9c6591e41b6e25ea4e935795746f8f238fc055e | f14fcc83a31cf4c7ca9e4496459628ca0980440070777cf6a7b3df0e1e24891b
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,5586937faeee0342f0ce5cb0,SureLock 24,2,1,complete,offer,d195ebba37a233ba947b7e0b0c5e075105e54798ab0874e9fe58c6a2fc9c07cd | eb46613e46deb30bf536666ecabcd34f300becc9d96599678afd1598781f8381

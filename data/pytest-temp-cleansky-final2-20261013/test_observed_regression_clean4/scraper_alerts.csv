@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+CleanSky Energy|ETG Gas|gas,CleanSky Energy,ETG Gas,gas,07201,warning,not_completed,status=partial

@@ -1,0 +1,1359 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings
+2.0,CleanSky Energy,ETG Gas,gas,07201,ad963b342206239c5e657db947170203a01eaf0fd3062d703282e95a1ed4d5cb,terms_or_other,text_extracted,https://cleanskyenergy.com/wp-content/uploads/2024/05/Do-Not-Contact-Policy-DNC.pdf?_gl=1%2A5wxbzn%2A_gcl_au%2AMTYwMTYzNzE0Ni4xNzQ3MTIxOTQ3%2A_ga%2AMTA0NDkyNjkyNS4xNzQ3MTIxOTQy%2A_ga_H31ZYZC5HK%2AczE3NDk3MjIwNjIkbzg3JGcwJHQxNzQ5NzIyMDYyJGo2MCRsMCRoMA..,[],market_level_public_document,[],,,,,,,,,,,,,{},[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,1ac6ae771e5e372bf63c19a91f8da2225a736c3b6429aac1334af83a07154a36,environmental,text_extracted,https://cleanskyenergy.com/environmental-disclosures/?_gl=1%2App90td%2A_gcl_au%2AMTYwMTYzNzE0Ni4xNzQ3MTIxOTQ3%2A_ga%2AMTA0NDkyNjkyNS4xNzQ3MTIxOTQy%2A_ga_H31ZYZC5HK%2AczE3NDk3MjIwNjIkbzg3JGcxJHQxNzQ5NzIyMTM4JGo2MCRsMCRoMA..,[],market_level_public_document,[],,,,,,,,,,,,,{},[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,f1a8839e2e1346b8b22dff9bfa49e7abd13b34703d7c4927d9398f9a61686eaf,terms_or_other,text_extracted,https://cleanskyenergy.com/sms-tncs/,[],market_level_public_document,[],,,,,,,,,,,,,{},[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,554615daa7e02fb269ef89a3e3677d5dfc02eea9b754be3ed66aa7b36dbac212,contract_summary,partial,https://enroll.cleanskyenergy.com/NE_Home/EFL?productCode=RN00011073&promo=&term=6&source=Enrollment,"[""762f903a1ce70eb71682ad7e""]",document_link_on_offer,"[""incentives""]","CleanSky Energy
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205","Fixed Rate Product
+This supply price may or may not provide savings compared to the utility","$0 per meter per month
+Base Fee:
+6 month(s)","rate over the duration of your contract. Savings are not guaranteed.
+Depending on when your cancellation is submitted, it could take up to a","full billing cycle for your switch back to the utility or third-party supplier to
+become effective.
+You have the right to rescind/stop your enrollment within 7 calendar days
+from when your utility confirms your enrollment to contact your utility and",,"cancel this contract. To rescind, you may call Elizabethtown Gas at 800-
+242-5830 or CleanSky at 888-355-6205.
+Your requested start date will be the date that you requested during the
+enrollment . Your contract with CleanSky will begin upon the confirmed","Service Start Date provided by the utility, and will continue for 6 month(s)
+billing cycles.
+Disclosure Summary","Gas Price The ""Average Price per Therm"" below is an example of the total average price for supply, which includes the Energy
+Charge and Base Fee listed above, if applicable. The actual price Customer pays will vary according to when and how
+much energy you consume. See your most recent bill for your monthly use and actual price.
+Please Note: The Energy Charge shown above does not include taxes where applicable. Any required state and local
+taxes will be added to your bill by the utility and may increase the total effective rate paid per therm, ccf, mcf, or kWh.
+Average Monthly Use 50 therms 100 therms 150 therms 200 therms
+Average Price ¢ per Therm 72.10 72.10 72.10 72.10
+Other Key Terms and
+See Terms of Service for a full listing of fees, deposit policy, and other terms.
+Questions
+6 month(s)
+$50.00 One time - Fee does not apply if you move to another location","and provide a forwarding address and, if required, reasonable evidence
+that you no longer occupy the location.
+You will be notified of your fixed price contract expiration 45 days prior to
+the end of your contract with CleanSky. If you have not provided
+CleanSky affirmative consent for a new fixed price offer, you will be","moved to a Variable Month-to-Month Price Plan - The monthly variable
+price plan may fluctuate up or down and may be higher than the Utility's
+rate at any point in time.
+Elizabethtown Gas will continue to deliver your electricity. You will
+continue to pay Elizabethtown Gas for this supply service. For
+Utility Information
+emergencies or to report outages, call Elizabethtown Gas toll-free at 800-
+242-5830.
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205
+Monday - Friday: 9 a.m. - 7 p.m. EST
+Saturday: 10 a.m. - 2 p.m. EST
+NJ BPU Electricity License: ESL-0255, Natural Gas License: GSL-0223 | Document Version: CS_NJ_2026_V1",Verified collection context: ETG Gas,"{""prices"": [], ""rate_structure"": ""fixed"", ""term_months"": 6, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: and provide a forwarding address and, if required, reasonable evidence""}, ""incentives"": [], ""form_fields"": {}}","[""Missing sections: incentives""]"
+2.0,CleanSky Energy,ETG Gas,gas,07201,4bb93f9bf487f5cc3e167dae2475d6a340e51c7dcfa5c0c60c8edf86042f6ddc,terms_or_other,text_extracted,https://enroll.cleanskyenergy.com/NE_Home/TOS?productId=55443,"[""762f903a1ce70eb71682ad7e""]",document_link_on_offer,[],,,"can increase or decrease each month and is set each month at CleanSky’s discre(cid:20)on. Contribu(cid:20)ng data points to the electric
+variable rate include: the cost of electricity acquired by CleanSky from all sources (including energy, capacity, se(cid:77)lement fees, and ancillary
+costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all
+applicable taxes, fees, charges, and other assessments including CleanSky’s costs, expenses, and profit margins. The underlying costs are a
+deriva(cid:20)ve of the PJM Energy Market, where no “price ceiling” exists. The monthly variable price will be communicated in the monthly invoice
+from the u(cid:20)lity. Contribu(cid:20)ng data points to the gas variable rate include: FERC Zone 6 N.Y Market Index, storage and inventory fees,
+transporta(cid:20)on costs, u(cid:20)lity balancing charges, capacity, usage varia(cid:20)on fees, risk assessments, profit margins, and prior period adjustments.
+The monthly variable price will be communicated in the monthly invoice from the u(cid:20)lity. There is no limit on how much the price may change
+from one billing cycle to the next. Customer or CleanSky may cancel Variable Price Plan agreements any (cid:20)me without penalty or fee. To obtain
+CleanSky Energy’s average billed pricing since incep(cid:20)on, call toll-free at 1-888-355-6205 or go to CleanSkyEnergy.com/variable-rate-history.
+Historical pricing is not indica(cid:20)ve of present or future pricing. Customer may also pay a monthly administra(cid:20)ve fee (base fee), the amount of
+which, if applicable, is disclosed at the (cid:20)me of enrollment in the Contract Summary or ESA or renewal no(cid:20)ce.
+For all price plans, the rate Customer pays CleanSky Energy will include the Genera(cid:20)on Charge, Transmission Charge, and Sales Use Tax (SUT)
+only, and does not include other taxes or distribu(cid:20)on charges from the U(cid:20)lity for the delivery of electricity or natural gas to your home or small
+business. Customer’s price does not include applicable New Jersey es(cid:20)mated total sales tax or any other local tax. Non-recurring fees as charged
+by the U(cid:20)lity include, but are not limited to, out of cycle meter readings, meter test fees, disconnect and reconnec(cid:20)on fees, etc. Customer is
+responsible to U(cid:20)lity for these other charges rela(cid:20)ng to the delivery of electricity and/or natural gas to Customer’s residence or small commercial
+premise.
+Tax Exemp(cid:53)on: A tax exemp(cid:20)on cer(cid:20)ficate must be submi(cid:77)ed for each service loca(cid:20)on marked as tax exempt during the enrollment process with
+CleanSky Energy. All service loca(cid:20)ons will be submi(cid:77)ed as taxable without a valid exemp(cid:20)on cer(cid:20)ficate. CleanSky will submit an updated tax
+status to the U(cid:20)lity if Customer provides tax exemp(cid:20)on documenta(cid:20)on within 30 days of a submi(cid:77)ed enrollment. Customer must pe(cid:20)(cid:20)on the
+state for tax refunds due if proper documenta(cid:20)on is provided more than 30 days a(cid:75)er this Agreement is executed.
+Cancella(cid:53)on and Early Termina(cid:53)on Fees: If this Agreement is terminated prior to the end of the Term, both residen(cid:20)al and small commercial
+customers may pay an early termina(cid:20)on fee. The cancella(cid:20)on fee, if applicable, will be specified in Customer’s Contract Summary or Energy
+Service Agreement.
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address, Customer shows proof of a disability that
+renders the Customer unable to pay for CleanSky services or the presenta(cid:20)on of the customer’s record of death to CleanSky. If Customer requests
+to cancel this Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies
+Customer’s U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on
+service is completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|2 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address. If Customer requests to cancel this
+Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies Customer’s
+U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on service is
+completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on. If this Agreement is canceled, expires, or otherwise terminated,
+Customer will receive uninterrupted service from the U(cid:20)lity un(cid:20)l another provider of electric or natural gas genera(cid:20)on service is designated or
+service is shut off by the U(cid:20)lity. Only the U(cid:20)lity may shut off Customer’s electric power and natural gas.
+Renewable Energy Price Plans
+Electricity.CleanSky purchases and re(cid:20)res Renewable Energy Cer(cid:20)ficates (""RECs"") to offset 100% of Customer's electricity usage. CleanSky’s
+renewable Price Plan rates include a charge for the purchasing of RECs. CleanSky will (directly or indirectly) re(cid:20)re, on Customer's behalf, non-
+cer(cid:20)fied RECs resul(cid:20)ng from electricity generated from renewable energy sources, which may include solar, wind, hydro, or any other zero-
+emission source. CleanSky guarantees our Customer's electricity usage is offset with a direct investment in 100% RECs in an amount sufficient to
+match Customer’s annual consump(cid:20)on from the Electric Distribu(cid:20)on Company (""EDC""). Each REC represents proof that 1 megawa(cid:77)-hour (MWh)
+of electricity was generated from an eligible renewable energy resource to the grid. Customer will not have electricity from a specific genera(cid:20)on
+facility or renewable energy source delivered directly to Customer's meter. CleanSky may take up to three (3) months a(cid:75)er the end of the calendar
+year to re(cid:20)re RECs needed to fulfill the obliga(cid:20)ons of this product. CleanSky will not be liable to Customer or other par(cid:20)es for adver(cid:20)sing
+asser(cid:20)ons associated with CleanSky’s renewable offers. CleanSky does not own, and we are neither a subsidiary nor affiliate to any coal, oil, gas, or
+nuclear genera(cid:20)on facility.
+Natural Gas: For our carbon off-set natural gas products, CleanSky will offset 100% of the es(cid:20)mated amount of carbon dioxide (CO2) emissions
+caused by Customer’s annual natural gas usage through the use of any approved carbon offset technology including one or more of the following:
+1. Purchase and re(cid:20)rement of RECs from any carbon-neutral energy source. 2. Purchase and re(cid:20)rement of carbon credits through reputable
+standards such as The Verified Carbon Standard (VCS), The Gold Standard, The Climate Ac(cid:20)on Reserve, and/or American Carbon Registry. This
+ensures that an es(cid:20)mated equivalent of 100% of the carbon emissions caused by Customer’s natural gas usage is offset. The carbon emissions
+es(cid:20)ma(cid:20)ons are based on current data & assump(cid:20)ons from the U.S. Environmental Protec(cid:20)on Agency (h(cid:77)ps://www.epa.gov/ghgemissions/global-
+greenhouse-gas-emissions-data Updated 5/30/2020). Updated 5/30/2020). Purchase of carbon offset products does not actually reduce the CO2
+emissions associated with customer’s energy consump(cid:20)on but helps offset the release of the applicable number of metric tons of CO2 emissions
+elsewhere.
+Billing and Payment: Customer will receive one bill (“U(cid:20)lity Consolidated Billing”)) from the applicable EDC which includes CleanSky Energy’s
+genera(cid:20)on supply charges as well as the EDC’s delivery charges. Depending on the selected Price Plan, Customer may receive two (2) separate bills
+(“Supplier Billing” or “Dual Billing”), one bill from CleanSky Energy for Customer’s supply charges, and one bill from the U(cid:20)lity for the delivery
+charges. In both cases, CleanSky’s fees will be reflected separately as itemized charges on Customer’s invoice. CleanSky Energy’s fees will be
+reflected separately as itemized charges on Customer’s invoice. Customer bill is subject to adjustment for any missed billing or computa(cid:20)on errors,
+such as meter misreads. Customer’s payment will be due to the EDC by the date specified on the invoice. Except as otherwise provided in this
+Agreement or by law, Customer shall pay all taxes of any kind, nature and descrip(cid:20)on, due and payable with respect to Customer’s performance of
+its obliga(cid:20)ons under this Agreement. CleanSky may terminate the contract and transfer Customer back to the U(cid:20)lity on at least fourteen calendar
+days wri(cid:77)en no(cid:20)ce if Customer fails to pay the bill or fails to meet any agreed-upon payment arrangements. CleanSky reserves the right to assume
+the billing func(cid:20)on for its services. If Customer’s Supply service with CleanSky is terminated for non-payment, Customer must pay balance owed,
+plus any collec(cid:20)on fees including all legal fees and costs. The par(cid:20)es’ obliga(cid:20)ons under this Agreement are subject to present and future
+legisla(cid:20)on, orders, rules, or regula(cid:20)ons of a duly cons(cid:20)tuted governmental authority having jurisdic(cid:20)on over this Agreement or the services to be
+provided herein.
+If Customer receives one bill from the U(cid:20)lity, and at any (cid:20)me during the Agreement with CleanSky Energy Customer becomes sixty (60) or more
+days delinquent in his or her payments to the U(cid:20)lity, Customer will automa(cid:20)cally become ineligible for con(cid:20)nued Consolidated Billing from the
+U(cid:20)lity for a period of twelve (12) months. If this occurs, CleanSky reserves the right to terminate this Agreement in accordance with these Terms of
+Service and such termina(cid:20)on may result in early termina(cid:20)on fees as specified herein. As an alterna(cid:20)ve to the termina(cid:20)on of this Agreement,
+CleanSky Energy may require a deposit from you or request advance payment of an amount up to the average historical consump(cid:20)on for the last
+three months. If a deposit is requested and is not paid, this Agreement will terminate and become ineffec(cid:20)ve as of the “Service End Date” as
+determined by the U(cid:20)lity and Customer’s meter read schedule. Invoices billed directly from CleanSky Energy to residen(cid:20)al and small business
+customers may be required to be paid via automa(cid:20)c payment (debit card, bank dra(cid:75) or credit card). Payment will automa(cid:20)cally be deducted from
+your account on the due date of the invoice. If you terminate the applicable debit authoriza(cid:20)on required for the fixed-rate agreement, your rate
+will be switched to a monthly variable rate based on then-current market condi(cid:20)ons. If applicable, CleanSky Energy will deliver monthly invoices
+to residen(cid:20)al and smallcommercial customers in electronic format via email, to the email address specified at the (cid:20)me of enrollment or in the
+Contract Summary, or to such other email address as you direct in wri(cid:20)ng. Upon wri(cid:77)en request, Customer may receive an invoice in paper format
+via US Mail at Customer’s designated billing address.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|3 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Complaints and Dispute Resolu(cid:53)on: Customers may submit a complaint via email to CustomerConcerns@CleanSkyEnergy.com, or verbally by
+calling 1-888-355-6205 Monday-Friday, 9 a.m. to 7 p.m. EST and Saturday 10 a.m. to 2 p.m. EST. Customers with ques(cid:20)ons or disputes with their
+bill should contact CleanSky's customer service to assist. For unresolved issues, Customer must first contact CleanSky Energy or the U(cid:20)lity to try to
+resolve the problem. If complaint is not resolved a(cid:75)er calling CleanSky Energy and/or the U(cid:20)lity, or for general u(cid:20)lity informa(cid:20)on, residen(cid:20)al and
+business customers may contact may contact the Board of Public U(cid:20)li(cid:20)es at the following address to request an alternate dispute resolu(cid:20)on
+procedure or to file a formal complaint: New Jersey Board of U(cid:20)li(cid:20)es, Two Gateway Center, Suite 801, Newark, New Jersey, 07102. Toll Free: 1-
+800-624-0241
+Energy Assistance Programs: Board Secretary manages the Board’s low-income energy assistance programs including the Universal Service Fund
+(USF), and Payment Assistance for Gas and Electric (PAGE). More informa(cid:20)on about these and other assistance programs is available at:
+www.nj.gov/bpu/assistance/programs/
+Budget Billing: CleanSky's budget billing allows Customers to pay approximately the same monthly amount for electric service, subject to a
+semiannual adjustment based on actual consump(cid:20)on. Budget billing may be available to Customers who are not delinquent at the (cid:20)me of
+enrollment onto the billing op(cid:20)on. CleanSky may charge or credit any cumula(cid:20)ve balance, as appropriate, at least once every 12 months.
+CleanSky may collect under-recovered costs and/or refund any over-recovered amounts from Customer annually or upon termina(cid:20)on of service to
+the Customer.
+Credit and Deposits: If CleanSky Energy is ever required to bill Customer directly, CleanSky reserves the right to determine if Customer’s credit
+standing is sa(cid:20)sfactory for origina(cid:20)ng or con(cid:20)nuing electricity and/or natural gas service under this Agreement. If CleanSky determines, in its sole
+reasonable discre(cid:20)on, that Customer’s creditworthiness has become unsa(cid:20)sfactory, CleanSky may require Customer to provide collateral in the
+form of cash or other security in form and amount acceptable to CleanSky. Consistent with applicable law, CleanSky Energy uses uniform income,
+deposit and credit requirements in determining whether to offer service to its Customers. CleanSky Energy will not require a deposit which
+exceeds the greater of (i) the sum of the es(cid:20)mated billings for the next three months, or (ii) one-fourth of Customer’s es(cid:20)mated annual billing.
+Deposits will be held in separate interest-bearing accounts. CleanSky will remit to Customer interest earned on his or her deposit when it is
+returned to Customer or credited to Customer’s account. If a deposit is refunded within 30 days of the date of deposit, no interest payment will be
+paid. If CleanSky keeps the deposit for more than 30 days, payment of interest will be made retroac(cid:20)ve to the date the deposit was received by
+CleanSky. The deposit will cease to draw interest on the date it is returned or credited to Customer’s account. Customer deposits held by CleanSky
+Energy will be refunded toCustomer as an invoice credit if no late payments have been applied to Customer’s account a(cid:75)er twelve (12)
+consecu(cid:20)ve months.
+Customer Protec(cid:53)ons: The services provided by CleanSky Energy are protected by the terms and condi(cid:20)ons of this Agreement and the New
+Jersey Board of Public U(cid:20)li(cid:20)es. The statutes under which NJBPU is granted its authority N.J.S.A. 48:1 et seq and can be accessed online at Rutgers
+Law Library.
+Customer Informa(cid:53)on and Authoriza(cid:53)on: Customer authorizes CleanSky Energy to obtain informa(cid:20)on from the u(cid:20)lity, including account
+informa(cid:20)on, historical and future electric consump(cid:20)on, rate classifica(cid:20)on, meter readings, characteris(cid:20)cs of electric service, and billing and
+payment informa(cid:20)on. This authoriza(cid:20)on will remain in effect during the Term and any renewal term of this Agreement. Acceptance of this
+Agreement is an authoriza(cid:20)on for the release of the informa(cid:20)on. By providing telephone numbers, including wireless and work numbers to
+CleanSky, Customer expressly consents to being contacted at those numbers by CleanSky or a party calling on behalf of CleanSky for any purpose
+related to Customer's account, or future possible goods or services, including debt-collec(cid:20)on, by a live person, pre-recorded voice, and/or
+automated dialing. If Customer has u(cid:20)lized an agent or broker to contract energy purchases from CleanSky Energy, Customer authorizes CleanSky
+to disclose to the agent or broker informa(cid:20)on pertaining to Customer’s electric purchases as applicable. Customer (and Customer's signatory, if
+signatory is noted as Customer's spouse/civil union partner) agree to CleanSky obtaining a credit report and inves(cid:20)ga(cid:20)ng Customer's (and, if
+applicable, signatory’s) credit ra(cid:20)ng, credit history and U(cid:20)lity bill payment status and history. CleanSky is not obligated to accept, or con(cid:20)nue
+performing, this Agreement if Customer does not meet CleanSky's credit requirements.
+Wri(cid:63)en No(cid:53)ce and Electronic Disclosure Authoriza(cid:53)on: Wri(cid:77)en no(cid:20)ce includes, but is not limited to, no(cid:20)ce by electronic mail to a valid email
+address provided by Customer. If Customer is enrolling or renewing electronically, Customer is consen(cid:20)ng to electronic receipt of all the required
+disclosures provided during the enrollment process, like the Contract Summary, ESA, and Terms of Service, and monthly billed invoices as
+applicable. Customer must have a valid email address and is obligated to keep CleanSky Energy informed of any changes to the email address
+provided during enrollment or renewal, or any changes or withdrawal of consent for the electronic transmission of customer disclosures.
+Changes to Terms of Service: These Terms of Service may be amended by CleanSky at any (cid:20)me, except that CleanSky may only change the price
+and Term as specified previously herein. CleanSky will provide wri(cid:77)en no(cid:20)ce to Customer at least 14 days in advance of the date that the change
+to this Agreement will be applied to the Customer’s bill or take effect unless the change benefits Customer. CleanSky is not required to provide
+no(cid:20)ce automa(cid:20)cally for material changes that benefit the Customer but will, upon request, provide each document to Customer at any (cid:20)me free
+of charge. Upon receipt of wri(cid:77)en no(cid:20)ce of a material change, Customer may terminate this Agreement without being assessed an early
+termina(cid:20)on or cancella(cid:20)on fee within 14 calendar days a(cid:75)er the date of the no(cid:20)ce, unless such change favors Customer.
+Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)
+that are billing more than $0 and (ii) for which CleanSky has not received a request to discon(cid:20)nue (drop) service or change programs and (iii) are in
+good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also
+subject to any terms and condi(cid:20)ons stated in the offer and as may be located on CleanSky's website(s). More informa(cid:20)on on the terms and
+condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account
+holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|4 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Force Majeure: If CleanSky is rendered unable to perform, in whole or in part, by a Force Majeure event, its performance under this Agreement
+will be excused for the dura(cid:20)on of such event. CleanSky will take all reasonable steps to remedy the effect of the Force Majeure event. “Force
+Majeure” means any act or event that is beyond the reasonable control of CleanSky that adversely affects, interrupts, or precludes its
+performance. In addi(cid:20)on, acts of other par(cid:20)es, including the u(cid:20)li(cid:20)es in New Jersey, PJM, aggregators, other suppliers, scheduling en(cid:20)(cid:20)es and
+agents, and the respec(cid:20)ve employees and agents of such par(cid:20)es, will also be deemed to be events of Force Majeure.
+Governing Law: This Agreement shall be governed by and construed, enforced and performed in accordance with the laws of the State of Texas
+and venue shall be in Harris County, Texas. The provisions of the Uniform Commercial Code (UCC) shall apply to this Agreement, and electricity
+shall be a “good” for purposes of the UCC.
+Assignment: This Agreement shall be binding upon and inure to the benefit of, and may be performed by the successors and permi(cid:77)ed assigns of
+the Par(cid:20)es except that no assignment, pledge or other transfer of this Agreement by either Party shall operate to release the assignor, pledgor, or
+transferor of any of its obliga(cid:20)ons under this Agreement. Notwithstanding any other provision of this Agreement, Customer agrees that CleanSky
+Energy shall have the right to pledge this Agreement to its bank or other lending ins(cid:20)tu(cid:20)on(s) and to assign this Agreement, together with all rights
+and obliga(cid:20)ons hereunder, to Company’s electricity and/or natural gas supplier, or such supplier’s designee. CleanSky will inform customer 30
+days prior to any assignment of the account. Nothing in this provision shall deny CleanSky or Customer of any benefits obtained, or relieve them
+of any obliga(cid:20)ons, du(cid:20)es, and responsibili(cid:20)es incurred, prior to any assignment under this provision.
+No Waiver: Any failure by CleanSky to enforce any term or condi(cid:20)on of Customer’s electric or gas service or otherwise exercise any right it may
+have under this Agreement will not be deemed a waiver of any rights to therea(cid:75)er enforce any or all of the terms or condi(cid:20)ons of Customer’s
+service or to exercise rights under this Agreement.
+Mandatory Arbitra(cid:53)on: Any claim, dispute or controversy, regarding any contract, tort, statute, or otherwise (“Claim”), arising out of or rela(cid:20)ng to
+this Agreement or the rela(cid:20)onships among the par(cid:20)es hereto shall be resolved by one arbitrator through binding arbitra(cid:20)on administered by the
+American Arbitra(cid:20)on Associa(cid:20)on (“AAA”) under the AAA Commercial or Consumer rules, as applicable, in effect at the (cid:20)me the Claim is filed
+(“AAA Rules”). Copies of the AAA Rules and forms can be located at www.adr.org, or by calling 1-800-778-7879. The arbitrator’s decision shall be
+final, binding, and non-appealable. Judgment upon the award may be entered and enforced in any court having jurisdic(cid:20)on. This clause is made
+pursuant to a transac(cid:20)on involving interstate commerce and shall be governed by the Federal Arbitra(cid:20)on Act. Neither party shall sue the other
+party other than as provided herein for enforcement of this clause or of the arbitrator’s award; any such suit may be brought only in Federal
+District Court for the district in which Customer is located, or if any such court lacks jurisdic(cid:20)on, in any state court that has jurisdic(cid:20)on. The
+arbitrator, and not any federal, state or local court, shall have exclusive authority to resolve any dispute rela(cid:20)ng to the interpreta(cid:20)on, applicability,
+unconscionability, arbitrability, enforceability or forma(cid:20)on of this Agreement including any claim that all or any part of the Agreement is void or
+voidable. However, the preceding sentence shall not apply to ac(cid:20)ons contemplated in sec(cid:20)on en(cid:20)tled “Class Ac(cid:20)on Waiver” below.
+Class Ac(cid:53)on Waiver:Any Claim permissible herein must be brought in the party’s individual capacity, and not as a plain(cid:20)ff or class member in any
+purported class, collec(cid:20)ve, representa(cid:20)ve, mul(cid:20)ple plain(cid:20)ff, or similar proceeding (“Class Ac(cid:20)on”). Each of the par(cid:20)es expressly waives any ability
+to maintain any Class Ac(cid:20)on in any forum. The arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class
+Ac(cid:20)on nor make an award to any en(cid:20)ty or person not a party to the arbitra(cid:20)on. Any claim that all or part of this Class Ac(cid:20)on Waiver is
+unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdic(cid:20)on and not by an arbitrator. THE
+PARTIES UNDERSTAND THAT THEY WOULD HAVE HAD A RIGHT TO LITIGATE THROUGH A COURT, TO HAVE A JUDGE OR JURY DECIDE THEIR
+CASE INDIVDUALLY OR TO BE PARTY TO A CLASS OR REPRESENTATIVE ACTION, HOWEVER, THEY UNDERSTAND AND CHOOSE TO HAVE ANY
+CLAIMS DECIDED INDIVIDUALLY THROUGH ARBITRATION.
+Warran(cid:53)es: CLEANSKY ENERGY MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESSED OR IMPLIED, WITH REGARD TO THE
+PROVISION OF ELECTRIC SERVICE AND DISCLAIMS ANY AND ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF
+TRADE.
+Limita(cid:53)on of Liability:Customer will be deemed to be in exclusive control (and responsible for any damages or injury caused thereby) of the
+electric power a(cid:75)er receipt at the delivery point or points. CLEANSKY ENERGY WILL NOT BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES (INCLUDING LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES),
+WHETHER BY STATUTE, IN CONTRACT OR TORT, EVEN IF THE RESULT OF NEGLIGENCE (WHETHER SOLE, JOINT, CONCURRENT, ACTIVE OR
+PASSIVE). ALL OTHER LIABILITY WILL BE LIMITED TO DIRECT ACTUAL DAMAGES ONLY, AND SUCH DIRECT ACTUAL DAMAGES WILL BE THE
+SOLE AND EXCLUSIVE REMEDY. CUSTOMER HEREBY WAIVES ALL OTHER REMEDIES AT LAW OR IN EQUITY. THERE ARE NO THIRD-PARTY
+BENEFICIARIES TO THIS AGREEMENT. To the extent any damages required to be paid hereunder are liquidated, the par(cid:20)es acknowledge that
+the damages are not intended and shall not be construed as a penalty, such damages are difficult or impossible to determine, that otherwise
+obtaining an adequate remedy is inconvenient or impossible, and that the liquidated damages cons(cid:20)tute a reasonable approxima(cid:20)on of the harm
+or loss.
+Definitions and Terms in this Agreement
+— Customer or Consumer- a retail electric customer or potential customer of retail electricity or natural gas supply service.
+— Small Commercial Customer - a commercial customer that is not a mercan(cid:20)le commercial customer and has the size a(cid:77)ributes defined by the
+customer's respective Utility.
+— TPS or Third-Party Supplier - an electric or natural gas supplier licensed and as defined under the New Jersey Administrative Code.
+— EDC or Electric Distribu(cid:20)on Company, Gas Distribu(cid:20)on Company - the public u(cid:20)lity providing facili(cid:20)es for the delivery of electricity and
+natural gas to retail customers.
+— New Jersey Board of Public Utilities (NJ BPU) - the New Jersey Board of Public Utilities
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|5 of 5",,,,,,,,,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee:""}, ""incentives"": [""Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)"", ""good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also"", ""condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account"", ""holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.""], ""renewable_claim"": ""costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all"", ""renewable_source"": ""hydro, solar, wind"", ""form_fields"": {}}",[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,fbf4551aafad715a3f53e30eca1325101f632f9c6a87b0f551e96c833433c468,contract_summary,partial,https://enroll.cleanskyenergy.com/NE_Home/EFL?productCode=RN00004713&promo=&term=12&source=Enrollment,"[""e054118aa49e1317a8ba30bc""]",document_link_on_offer,"[""incentives""]","CleanSky Energy
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205","Fixed Rate Product
+This supply price may or may not provide savings compared to the utility","$0 per meter per month
+Base Fee:
+12 month(s)","rate over the duration of your contract. Savings are not guaranteed.
+Depending on when your cancellation is submitted, it could take up to a","full billing cycle for your switch back to the utility or third-party supplier to
+become effective.
+You have the right to rescind/stop your enrollment within 7 calendar days
+from when your utility confirms your enrollment to contact your utility and",,"cancel this contract. To rescind, you may call Elizabethtown Gas at 800-
+242-5830 or CleanSky at 888-355-6205.
+Your requested start date will be the date that you requested during the
+enrollment . Your contract with CleanSky will begin upon the confirmed","Service Start Date provided by the utility, and will continue for 12
+month(s) billing cycles.
+Disclosure Summary","Gas Price The ""Average Price per Therm"" below is an example of the total average price for supply, which includes the Energy
+Charge and Base Fee listed above, if applicable. The actual price Customer pays will vary according to when and how
+much energy you consume. See your most recent bill for your monthly use and actual price.
+Please Note: The Energy Charge shown above does not include taxes where applicable. Any required state and local
+taxes will be added to your bill by the utility and may increase the total effective rate paid per therm, ccf, mcf, or kWh.
+Average Monthly Use 50 therms 100 therms 150 therms 200 therms
+Average Price ¢ per Therm 74.90 74.90 74.90 74.90
+Other Key Terms and
+See Terms of Service for a full listing of fees, deposit policy, and other terms.
+Questions
+12 month(s)
+$75.00 One time - Fee does not apply if you move to another location","and provide a forwarding address and, if required, reasonable evidence
+that you no longer occupy the location.
+You will be notified of your fixed price contract expiration 45 days prior to
+the end of your contract with CleanSky. If you have not provided
+CleanSky affirmative consent for a new fixed price offer, you will be","moved to a Variable Month-to-Month Price Plan - The monthly variable
+price plan may fluctuate up or down and may be higher than the Utility's
+rate at any point in time.
+Elizabethtown Gas will continue to deliver your electricity. You will
+continue to pay Elizabethtown Gas for this supply service. For
+Utility Information
+emergencies or to report outages, call Elizabethtown Gas toll-free at 800-
+242-5830.
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205
+Monday - Friday: 9 a.m. - 7 p.m. EST
+Saturday: 10 a.m. - 2 p.m. EST
+NJ BPU Electricity License: ESL-0255, Natural Gas License: GSL-0223 | Document Version: CS_NJ_2026_V1",Verified collection context: ETG Gas,"{""prices"": [], ""rate_structure"": ""fixed"", ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: and provide a forwarding address and, if required, reasonable evidence""}, ""incentives"": [], ""form_fields"": {}}","[""Missing sections: incentives""]"
+2.0,CleanSky Energy,ETG Gas,gas,07201,113372d5b7ac4a9dc93fbbef86d9f3feb8349e692514139b878180317500efa8,terms_or_other,text_extracted,https://enroll.cleanskyenergy.com/NE_Home/TOS?productId=56624,"[""e054118aa49e1317a8ba30bc""]",document_link_on_offer,[],,,"can increase or decrease each month and is set each month at CleanSky’s discre(cid:20)on. Contribu(cid:20)ng data points to the electric
+variable rate include: the cost of electricity acquired by CleanSky from all sources (including energy, capacity, se(cid:77)lement fees, and ancillary
+costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all
+applicable taxes, fees, charges, and other assessments including CleanSky’s costs, expenses, and profit margins. The underlying costs are a
+deriva(cid:20)ve of the PJM Energy Market, where no “price ceiling” exists. The monthly variable price will be communicated in the monthly invoice
+from the u(cid:20)lity. Contribu(cid:20)ng data points to the gas variable rate include: FERC Zone 6 N.Y Market Index, storage and inventory fees,
+transporta(cid:20)on costs, u(cid:20)lity balancing charges, capacity, usage varia(cid:20)on fees, risk assessments, profit margins, and prior period adjustments.
+The monthly variable price will be communicated in the monthly invoice from the u(cid:20)lity. There is no limit on how much the price may change
+from one billing cycle to the next. Customer or CleanSky may cancel Variable Price Plan agreements any (cid:20)me without penalty or fee. To obtain
+CleanSky Energy’s average billed pricing since incep(cid:20)on, call toll-free at 1-888-355-6205 or go to CleanSkyEnergy.com/variable-rate-history.
+Historical pricing is not indica(cid:20)ve of present or future pricing. Customer may also pay a monthly administra(cid:20)ve fee (base fee), the amount of
+which, if applicable, is disclosed at the (cid:20)me of enrollment in the Contract Summary or ESA or renewal no(cid:20)ce.
+For all price plans, the rate Customer pays CleanSky Energy will include the Genera(cid:20)on Charge, Transmission Charge, and Sales Use Tax (SUT)
+only, and does not include other taxes or distribu(cid:20)on charges from the U(cid:20)lity for the delivery of electricity or natural gas to your home or small
+business. Customer’s price does not include applicable New Jersey es(cid:20)mated total sales tax or any other local tax. Non-recurring fees as charged
+by the U(cid:20)lity include, but are not limited to, out of cycle meter readings, meter test fees, disconnect and reconnec(cid:20)on fees, etc. Customer is
+responsible to U(cid:20)lity for these other charges rela(cid:20)ng to the delivery of electricity and/or natural gas to Customer’s residence or small commercial
+premise.
+Tax Exemp(cid:53)on: A tax exemp(cid:20)on cer(cid:20)ficate must be submi(cid:77)ed for each service loca(cid:20)on marked as tax exempt during the enrollment process with
+CleanSky Energy. All service loca(cid:20)ons will be submi(cid:77)ed as taxable without a valid exemp(cid:20)on cer(cid:20)ficate. CleanSky will submit an updated tax
+status to the U(cid:20)lity if Customer provides tax exemp(cid:20)on documenta(cid:20)on within 30 days of a submi(cid:77)ed enrollment. Customer must pe(cid:20)(cid:20)on the
+state for tax refunds due if proper documenta(cid:20)on is provided more than 30 days a(cid:75)er this Agreement is executed.
+Cancella(cid:53)on and Early Termina(cid:53)on Fees: If this Agreement is terminated prior to the end of the Term, both residen(cid:20)al and small commercial
+customers may pay an early termina(cid:20)on fee. The cancella(cid:20)on fee, if applicable, will be specified in Customer’s Contract Summary or Energy
+Service Agreement.
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address, Customer shows proof of a disability that
+renders the Customer unable to pay for CleanSky services or the presenta(cid:20)on of the customer’s record of death to CleanSky. If Customer requests
+to cancel this Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies
+Customer’s U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on
+service is completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|2 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address. If Customer requests to cancel this
+Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies Customer’s
+U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on service is
+completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on. If this Agreement is canceled, expires, or otherwise terminated,
+Customer will receive uninterrupted service from the U(cid:20)lity un(cid:20)l another provider of electric or natural gas genera(cid:20)on service is designated or
+service is shut off by the U(cid:20)lity. Only the U(cid:20)lity may shut off Customer’s electric power and natural gas.
+Renewable Energy Price Plans
+Electricity.CleanSky purchases and re(cid:20)res Renewable Energy Cer(cid:20)ficates (""RECs"") to offset 100% of Customer's electricity usage. CleanSky’s
+renewable Price Plan rates include a charge for the purchasing of RECs. CleanSky will (directly or indirectly) re(cid:20)re, on Customer's behalf, non-
+cer(cid:20)fied RECs resul(cid:20)ng from electricity generated from renewable energy sources, which may include solar, wind, hydro, or any other zero-
+emission source. CleanSky guarantees our Customer's electricity usage is offset with a direct investment in 100% RECs in an amount sufficient to
+match Customer’s annual consump(cid:20)on from the Electric Distribu(cid:20)on Company (""EDC""). Each REC represents proof that 1 megawa(cid:77)-hour (MWh)
+of electricity was generated from an eligible renewable energy resource to the grid. Customer will not have electricity from a specific genera(cid:20)on
+facility or renewable energy source delivered directly to Customer's meter. CleanSky may take up to three (3) months a(cid:75)er the end of the calendar
+year to re(cid:20)re RECs needed to fulfill the obliga(cid:20)ons of this product. CleanSky will not be liable to Customer or other par(cid:20)es for adver(cid:20)sing
+asser(cid:20)ons associated with CleanSky’s renewable offers. CleanSky does not own, and we are neither a subsidiary nor affiliate to any coal, oil, gas, or
+nuclear genera(cid:20)on facility.
+Natural Gas: For our carbon off-set natural gas products, CleanSky will offset 100% of the es(cid:20)mated amount of carbon dioxide (CO2) emissions
+caused by Customer’s annual natural gas usage through the use of any approved carbon offset technology including one or more of the following:
+1. Purchase and re(cid:20)rement of RECs from any carbon-neutral energy source. 2. Purchase and re(cid:20)rement of carbon credits through reputable
+standards such as The Verified Carbon Standard (VCS), The Gold Standard, The Climate Ac(cid:20)on Reserve, and/or American Carbon Registry. This
+ensures that an es(cid:20)mated equivalent of 100% of the carbon emissions caused by Customer’s natural gas usage is offset. The carbon emissions
+es(cid:20)ma(cid:20)ons are based on current data & assump(cid:20)ons from the U.S. Environmental Protec(cid:20)on Agency (h(cid:77)ps://www.epa.gov/ghgemissions/global-
+greenhouse-gas-emissions-data Updated 5/30/2020). Updated 5/30/2020). Purchase of carbon offset products does not actually reduce the CO2
+emissions associated with customer’s energy consump(cid:20)on but helps offset the release of the applicable number of metric tons of CO2 emissions
+elsewhere.
+Billing and Payment: Customer will receive one bill (“U(cid:20)lity Consolidated Billing”)) from the applicable EDC which includes CleanSky Energy’s
+genera(cid:20)on supply charges as well as the EDC’s delivery charges. Depending on the selected Price Plan, Customer may receive two (2) separate bills
+(“Supplier Billing” or “Dual Billing”), one bill from CleanSky Energy for Customer’s supply charges, and one bill from the U(cid:20)lity for the delivery
+charges. In both cases, CleanSky’s fees will be reflected separately as itemized charges on Customer’s invoice. CleanSky Energy’s fees will be
+reflected separately as itemized charges on Customer’s invoice. Customer bill is subject to adjustment for any missed billing or computa(cid:20)on errors,
+such as meter misreads. Customer’s payment will be due to the EDC by the date specified on the invoice. Except as otherwise provided in this
+Agreement or by law, Customer shall pay all taxes of any kind, nature and descrip(cid:20)on, due and payable with respect to Customer’s performance of
+its obliga(cid:20)ons under this Agreement. CleanSky may terminate the contract and transfer Customer back to the U(cid:20)lity on at least fourteen calendar
+days wri(cid:77)en no(cid:20)ce if Customer fails to pay the bill or fails to meet any agreed-upon payment arrangements. CleanSky reserves the right to assume
+the billing func(cid:20)on for its services. If Customer’s Supply service with CleanSky is terminated for non-payment, Customer must pay balance owed,
+plus any collec(cid:20)on fees including all legal fees and costs. The par(cid:20)es’ obliga(cid:20)ons under this Agreement are subject to present and future
+legisla(cid:20)on, orders, rules, or regula(cid:20)ons of a duly cons(cid:20)tuted governmental authority having jurisdic(cid:20)on over this Agreement or the services to be
+provided herein.
+If Customer receives one bill from the U(cid:20)lity, and at any (cid:20)me during the Agreement with CleanSky Energy Customer becomes sixty (60) or more
+days delinquent in his or her payments to the U(cid:20)lity, Customer will automa(cid:20)cally become ineligible for con(cid:20)nued Consolidated Billing from the
+U(cid:20)lity for a period of twelve (12) months. If this occurs, CleanSky reserves the right to terminate this Agreement in accordance with these Terms of
+Service and such termina(cid:20)on may result in early termina(cid:20)on fees as specified herein. As an alterna(cid:20)ve to the termina(cid:20)on of this Agreement,
+CleanSky Energy may require a deposit from you or request advance payment of an amount up to the average historical consump(cid:20)on for the last
+three months. If a deposit is requested and is not paid, this Agreement will terminate and become ineffec(cid:20)ve as of the “Service End Date” as
+determined by the U(cid:20)lity and Customer’s meter read schedule. Invoices billed directly from CleanSky Energy to residen(cid:20)al and small business
+customers may be required to be paid via automa(cid:20)c payment (debit card, bank dra(cid:75) or credit card). Payment will automa(cid:20)cally be deducted from
+your account on the due date of the invoice. If you terminate the applicable debit authoriza(cid:20)on required for the fixed-rate agreement, your rate
+will be switched to a monthly variable rate based on then-current market condi(cid:20)ons. If applicable, CleanSky Energy will deliver monthly invoices
+to residen(cid:20)al and smallcommercial customers in electronic format via email, to the email address specified at the (cid:20)me of enrollment or in the
+Contract Summary, or to such other email address as you direct in wri(cid:20)ng. Upon wri(cid:77)en request, Customer may receive an invoice in paper format
+via US Mail at Customer’s designated billing address.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|3 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Complaints and Dispute Resolu(cid:53)on: Customers may submit a complaint via email to CustomerConcerns@CleanSkyEnergy.com, or verbally by
+calling 1-888-355-6205 Monday-Friday, 9 a.m. to 7 p.m. EST and Saturday 10 a.m. to 2 p.m. EST. Customers with ques(cid:20)ons or disputes with their
+bill should contact CleanSky's customer service to assist. For unresolved issues, Customer must first contact CleanSky Energy or the U(cid:20)lity to try to
+resolve the problem. If complaint is not resolved a(cid:75)er calling CleanSky Energy and/or the U(cid:20)lity, or for general u(cid:20)lity informa(cid:20)on, residen(cid:20)al and
+business customers may contact may contact the Board of Public U(cid:20)li(cid:20)es at the following address to request an alternate dispute resolu(cid:20)on
+procedure or to file a formal complaint: New Jersey Board of U(cid:20)li(cid:20)es, Two Gateway Center, Suite 801, Newark, New Jersey, 07102. Toll Free: 1-
+800-624-0241
+Energy Assistance Programs: Board Secretary manages the Board’s low-income energy assistance programs including the Universal Service Fund
+(USF), and Payment Assistance for Gas and Electric (PAGE). More informa(cid:20)on about these and other assistance programs is available at:
+www.nj.gov/bpu/assistance/programs/
+Budget Billing: CleanSky's budget billing allows Customers to pay approximately the same monthly amount for electric service, subject to a
+semiannual adjustment based on actual consump(cid:20)on. Budget billing may be available to Customers who are not delinquent at the (cid:20)me of
+enrollment onto the billing op(cid:20)on. CleanSky may charge or credit any cumula(cid:20)ve balance, as appropriate, at least once every 12 months.
+CleanSky may collect under-recovered costs and/or refund any over-recovered amounts from Customer annually or upon termina(cid:20)on of service to
+the Customer.
+Credit and Deposits: If CleanSky Energy is ever required to bill Customer directly, CleanSky reserves the right to determine if Customer’s credit
+standing is sa(cid:20)sfactory for origina(cid:20)ng or con(cid:20)nuing electricity and/or natural gas service under this Agreement. If CleanSky determines, in its sole
+reasonable discre(cid:20)on, that Customer’s creditworthiness has become unsa(cid:20)sfactory, CleanSky may require Customer to provide collateral in the
+form of cash or other security in form and amount acceptable to CleanSky. Consistent with applicable law, CleanSky Energy uses uniform income,
+deposit and credit requirements in determining whether to offer service to its Customers. CleanSky Energy will not require a deposit which
+exceeds the greater of (i) the sum of the es(cid:20)mated billings for the next three months, or (ii) one-fourth of Customer’s es(cid:20)mated annual billing.
+Deposits will be held in separate interest-bearing accounts. CleanSky will remit to Customer interest earned on his or her deposit when it is
+returned to Customer or credited to Customer’s account. If a deposit is refunded within 30 days of the date of deposit, no interest payment will be
+paid. If CleanSky keeps the deposit for more than 30 days, payment of interest will be made retroac(cid:20)ve to the date the deposit was received by
+CleanSky. The deposit will cease to draw interest on the date it is returned or credited to Customer’s account. Customer deposits held by CleanSky
+Energy will be refunded toCustomer as an invoice credit if no late payments have been applied to Customer’s account a(cid:75)er twelve (12)
+consecu(cid:20)ve months.
+Customer Protec(cid:53)ons: The services provided by CleanSky Energy are protected by the terms and condi(cid:20)ons of this Agreement and the New
+Jersey Board of Public U(cid:20)li(cid:20)es. The statutes under which NJBPU is granted its authority N.J.S.A. 48:1 et seq and can be accessed online at Rutgers
+Law Library.
+Customer Informa(cid:53)on and Authoriza(cid:53)on: Customer authorizes CleanSky Energy to obtain informa(cid:20)on from the u(cid:20)lity, including account
+informa(cid:20)on, historical and future electric consump(cid:20)on, rate classifica(cid:20)on, meter readings, characteris(cid:20)cs of electric service, and billing and
+payment informa(cid:20)on. This authoriza(cid:20)on will remain in effect during the Term and any renewal term of this Agreement. Acceptance of this
+Agreement is an authoriza(cid:20)on for the release of the informa(cid:20)on. By providing telephone numbers, including wireless and work numbers to
+CleanSky, Customer expressly consents to being contacted at those numbers by CleanSky or a party calling on behalf of CleanSky for any purpose
+related to Customer's account, or future possible goods or services, including debt-collec(cid:20)on, by a live person, pre-recorded voice, and/or
+automated dialing. If Customer has u(cid:20)lized an agent or broker to contract energy purchases from CleanSky Energy, Customer authorizes CleanSky
+to disclose to the agent or broker informa(cid:20)on pertaining to Customer’s electric purchases as applicable. Customer (and Customer's signatory, if
+signatory is noted as Customer's spouse/civil union partner) agree to CleanSky obtaining a credit report and inves(cid:20)ga(cid:20)ng Customer's (and, if
+applicable, signatory’s) credit ra(cid:20)ng, credit history and U(cid:20)lity bill payment status and history. CleanSky is not obligated to accept, or con(cid:20)nue
+performing, this Agreement if Customer does not meet CleanSky's credit requirements.
+Wri(cid:63)en No(cid:53)ce and Electronic Disclosure Authoriza(cid:53)on: Wri(cid:77)en no(cid:20)ce includes, but is not limited to, no(cid:20)ce by electronic mail to a valid email
+address provided by Customer. If Customer is enrolling or renewing electronically, Customer is consen(cid:20)ng to electronic receipt of all the required
+disclosures provided during the enrollment process, like the Contract Summary, ESA, and Terms of Service, and monthly billed invoices as
+applicable. Customer must have a valid email address and is obligated to keep CleanSky Energy informed of any changes to the email address
+provided during enrollment or renewal, or any changes or withdrawal of consent for the electronic transmission of customer disclosures.
+Changes to Terms of Service: These Terms of Service may be amended by CleanSky at any (cid:20)me, except that CleanSky may only change the price
+and Term as specified previously herein. CleanSky will provide wri(cid:77)en no(cid:20)ce to Customer at least 14 days in advance of the date that the change
+to this Agreement will be applied to the Customer’s bill or take effect unless the change benefits Customer. CleanSky is not required to provide
+no(cid:20)ce automa(cid:20)cally for material changes that benefit the Customer but will, upon request, provide each document to Customer at any (cid:20)me free
+of charge. Upon receipt of wri(cid:77)en no(cid:20)ce of a material change, Customer may terminate this Agreement without being assessed an early
+termina(cid:20)on or cancella(cid:20)on fee within 14 calendar days a(cid:75)er the date of the no(cid:20)ce, unless such change favors Customer.
+Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)
+that are billing more than $0 and (ii) for which CleanSky has not received a request to discon(cid:20)nue (drop) service or change programs and (iii) are in
+good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also
+subject to any terms and condi(cid:20)ons stated in the offer and as may be located on CleanSky's website(s). More informa(cid:20)on on the terms and
+condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account
+holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|4 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Force Majeure: If CleanSky is rendered unable to perform, in whole or in part, by a Force Majeure event, its performance under this Agreement
+will be excused for the dura(cid:20)on of such event. CleanSky will take all reasonable steps to remedy the effect of the Force Majeure event. “Force
+Majeure” means any act or event that is beyond the reasonable control of CleanSky that adversely affects, interrupts, or precludes its
+performance. In addi(cid:20)on, acts of other par(cid:20)es, including the u(cid:20)li(cid:20)es in New Jersey, PJM, aggregators, other suppliers, scheduling en(cid:20)(cid:20)es and
+agents, and the respec(cid:20)ve employees and agents of such par(cid:20)es, will also be deemed to be events of Force Majeure.
+Governing Law: This Agreement shall be governed by and construed, enforced and performed in accordance with the laws of the State of Texas
+and venue shall be in Harris County, Texas. The provisions of the Uniform Commercial Code (UCC) shall apply to this Agreement, and electricity
+shall be a “good” for purposes of the UCC.
+Assignment: This Agreement shall be binding upon and inure to the benefit of, and may be performed by the successors and permi(cid:77)ed assigns of
+the Par(cid:20)es except that no assignment, pledge or other transfer of this Agreement by either Party shall operate to release the assignor, pledgor, or
+transferor of any of its obliga(cid:20)ons under this Agreement. Notwithstanding any other provision of this Agreement, Customer agrees that CleanSky
+Energy shall have the right to pledge this Agreement to its bank or other lending ins(cid:20)tu(cid:20)on(s) and to assign this Agreement, together with all rights
+and obliga(cid:20)ons hereunder, to Company’s electricity and/or natural gas supplier, or such supplier’s designee. CleanSky will inform customer 30
+days prior to any assignment of the account. Nothing in this provision shall deny CleanSky or Customer of any benefits obtained, or relieve them
+of any obliga(cid:20)ons, du(cid:20)es, and responsibili(cid:20)es incurred, prior to any assignment under this provision.
+No Waiver: Any failure by CleanSky to enforce any term or condi(cid:20)on of Customer’s electric or gas service or otherwise exercise any right it may
+have under this Agreement will not be deemed a waiver of any rights to therea(cid:75)er enforce any or all of the terms or condi(cid:20)ons of Customer’s
+service or to exercise rights under this Agreement.
+Mandatory Arbitra(cid:53)on: Any claim, dispute or controversy, regarding any contract, tort, statute, or otherwise (“Claim”), arising out of or rela(cid:20)ng to
+this Agreement or the rela(cid:20)onships among the par(cid:20)es hereto shall be resolved by one arbitrator through binding arbitra(cid:20)on administered by the
+American Arbitra(cid:20)on Associa(cid:20)on (“AAA”) under the AAA Commercial or Consumer rules, as applicable, in effect at the (cid:20)me the Claim is filed
+(“AAA Rules”). Copies of the AAA Rules and forms can be located at www.adr.org, or by calling 1-800-778-7879. The arbitrator’s decision shall be
+final, binding, and non-appealable. Judgment upon the award may be entered and enforced in any court having jurisdic(cid:20)on. This clause is made
+pursuant to a transac(cid:20)on involving interstate commerce and shall be governed by the Federal Arbitra(cid:20)on Act. Neither party shall sue the other
+party other than as provided herein for enforcement of this clause or of the arbitrator’s award; any such suit may be brought only in Federal
+District Court for the district in which Customer is located, or if any such court lacks jurisdic(cid:20)on, in any state court that has jurisdic(cid:20)on. The
+arbitrator, and not any federal, state or local court, shall have exclusive authority to resolve any dispute rela(cid:20)ng to the interpreta(cid:20)on, applicability,
+unconscionability, arbitrability, enforceability or forma(cid:20)on of this Agreement including any claim that all or any part of the Agreement is void or
+voidable. However, the preceding sentence shall not apply to ac(cid:20)ons contemplated in sec(cid:20)on en(cid:20)tled “Class Ac(cid:20)on Waiver” below.
+Class Ac(cid:53)on Waiver:Any Claim permissible herein must be brought in the party’s individual capacity, and not as a plain(cid:20)ff or class member in any
+purported class, collec(cid:20)ve, representa(cid:20)ve, mul(cid:20)ple plain(cid:20)ff, or similar proceeding (“Class Ac(cid:20)on”). Each of the par(cid:20)es expressly waives any ability
+to maintain any Class Ac(cid:20)on in any forum. The arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class
+Ac(cid:20)on nor make an award to any en(cid:20)ty or person not a party to the arbitra(cid:20)on. Any claim that all or part of this Class Ac(cid:20)on Waiver is
+unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdic(cid:20)on and not by an arbitrator. THE
+PARTIES UNDERSTAND THAT THEY WOULD HAVE HAD A RIGHT TO LITIGATE THROUGH A COURT, TO HAVE A JUDGE OR JURY DECIDE THEIR
+CASE INDIVDUALLY OR TO BE PARTY TO A CLASS OR REPRESENTATIVE ACTION, HOWEVER, THEY UNDERSTAND AND CHOOSE TO HAVE ANY
+CLAIMS DECIDED INDIVIDUALLY THROUGH ARBITRATION.
+Warran(cid:53)es: CLEANSKY ENERGY MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESSED OR IMPLIED, WITH REGARD TO THE
+PROVISION OF ELECTRIC SERVICE AND DISCLAIMS ANY AND ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF
+TRADE.
+Limita(cid:53)on of Liability:Customer will be deemed to be in exclusive control (and responsible for any damages or injury caused thereby) of the
+electric power a(cid:75)er receipt at the delivery point or points. CLEANSKY ENERGY WILL NOT BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES (INCLUDING LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES),
+WHETHER BY STATUTE, IN CONTRACT OR TORT, EVEN IF THE RESULT OF NEGLIGENCE (WHETHER SOLE, JOINT, CONCURRENT, ACTIVE OR
+PASSIVE). ALL OTHER LIABILITY WILL BE LIMITED TO DIRECT ACTUAL DAMAGES ONLY, AND SUCH DIRECT ACTUAL DAMAGES WILL BE THE
+SOLE AND EXCLUSIVE REMEDY. CUSTOMER HEREBY WAIVES ALL OTHER REMEDIES AT LAW OR IN EQUITY. THERE ARE NO THIRD-PARTY
+BENEFICIARIES TO THIS AGREEMENT. To the extent any damages required to be paid hereunder are liquidated, the par(cid:20)es acknowledge that
+the damages are not intended and shall not be construed as a penalty, such damages are difficult or impossible to determine, that otherwise
+obtaining an adequate remedy is inconvenient or impossible, and that the liquidated damages cons(cid:20)tute a reasonable approxima(cid:20)on of the harm
+or loss.
+Definitions and Terms in this Agreement
+— Customer or Consumer- a retail electric customer or potential customer of retail electricity or natural gas supply service.
+— Small Commercial Customer - a commercial customer that is not a mercan(cid:20)le commercial customer and has the size a(cid:77)ributes defined by the
+customer's respective Utility.
+— TPS or Third-Party Supplier - an electric or natural gas supplier licensed and as defined under the New Jersey Administrative Code.
+— EDC or Electric Distribu(cid:20)on Company, Gas Distribu(cid:20)on Company - the public u(cid:20)lity providing facili(cid:20)es for the delivery of electricity and
+natural gas to retail customers.
+— New Jersey Board of Public Utilities (NJ BPU) - the New Jersey Board of Public Utilities
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|5 of 5",,,,,,,,,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee:""}, ""incentives"": [""Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)"", ""good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also"", ""condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account"", ""holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.""], ""renewable_claim"": ""costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all"", ""renewable_source"": ""hydro, solar, wind"", ""form_fields"": {}}",[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,3b3e5597ec7dc32bef93433c3585e1cb82e6b0180f0291f69a6dfc0d5bc03002,contract_summary,partial,https://enroll.cleanskyenergy.com/NE_Home/EFL?productCode=RN00011067&promo=&term=24&source=Enrollment,"[""3b75d38313749b2d40b2f2f9""]",document_link_on_offer,"[""incentives""]","CleanSky Energy
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205","Fixed Rate Product
+This supply price may or may not provide savings compared to the utility","$0 per meter per month
+Base Fee:
+24 month(s)","rate over the duration of your contract. Savings are not guaranteed.
+Depending on when your cancellation is submitted, it could take up to a","full billing cycle for your switch back to the utility or third-party supplier to
+become effective.
+You have the right to rescind/stop your enrollment within 7 calendar days
+from when your utility confirms your enrollment to contact your utility and",,"cancel this contract. To rescind, you may call Elizabethtown Gas at 800-
+242-5830 or CleanSky at 888-355-6205.
+Your requested start date will be the date that you requested during the
+enrollment . Your contract with CleanSky will begin upon the confirmed","Service Start Date provided by the utility, and will continue for 24
+month(s) billing cycles.
+Disclosure Summary","Gas Price The ""Average Price per Therm"" below is an example of the total average price for supply, which includes the Energy
+Charge and Base Fee listed above, if applicable. The actual price Customer pays will vary according to when and how
+much energy you consume. See your most recent bill for your monthly use and actual price.
+Please Note: The Energy Charge shown above does not include taxes where applicable. Any required state and local
+taxes will be added to your bill by the utility and may increase the total effective rate paid per therm, ccf, mcf, or kWh.
+Average Monthly Use 50 therms 100 therms 150 therms 200 therms
+Average Price ¢ per Therm 77.90 77.90 77.90 77.90
+Other Key Terms and
+See Terms of Service for a full listing of fees, deposit policy, and other terms.
+Questions
+24 month(s)
+$150.00 One time - Fee does not apply if you move to another location","and provide a forwarding address and, if required, reasonable evidence
+that you no longer occupy the location.
+You will be notified of your fixed price contract expiration 45 days prior to
+the end of your contract with CleanSky. If you have not provided
+CleanSky affirmative consent for a new fixed price offer, you will be","moved to a Variable Month-to-Month Price Plan - The monthly variable
+price plan may fluctuate up or down and may be higher than the Utility's
+rate at any point in time.
+Elizabethtown Gas will continue to deliver your electricity. You will
+continue to pay Elizabethtown Gas for this supply service. For
+Utility Information
+emergencies or to report outages, call Elizabethtown Gas toll-free at 800-
+242-5830.
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205
+Monday - Friday: 9 a.m. - 7 p.m. EST
+Saturday: 10 a.m. - 2 p.m. EST
+NJ BPU Electricity License: ESL-0255, Natural Gas License: GSL-0223 | Document Version: CS_NJ_2026_V1",Verified collection context: ETG Gas,"{""prices"": [], ""rate_structure"": ""fixed"", ""term_months"": 24, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: and provide a forwarding address and, if required, reasonable evidence""}, ""incentives"": [], ""form_fields"": {}}","[""Missing sections: incentives""]"
+2.0,CleanSky Energy,ETG Gas,gas,07201,da9b1aab630f5e0971d2a9df9cab5be73fd3ab1b4d92d573413929abbd7625ad,terms_or_other,text_extracted,https://enroll.cleanskyenergy.com/NE_Home/TOS?productId=55437,"[""3b75d38313749b2d40b2f2f9""]",document_link_on_offer,[],,,"can increase or decrease each month and is set each month at CleanSky’s discre(cid:20)on. Contribu(cid:20)ng data points to the electric
+variable rate include: the cost of electricity acquired by CleanSky from all sources (including energy, capacity, se(cid:77)lement fees, and ancillary
+costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all
+applicable taxes, fees, charges, and other assessments including CleanSky’s costs, expenses, and profit margins. The underlying costs are a
+deriva(cid:20)ve of the PJM Energy Market, where no “price ceiling” exists. The monthly variable price will be communicated in the monthly invoice
+from the u(cid:20)lity. Contribu(cid:20)ng data points to the gas variable rate include: FERC Zone 6 N.Y Market Index, storage and inventory fees,
+transporta(cid:20)on costs, u(cid:20)lity balancing charges, capacity, usage varia(cid:20)on fees, risk assessments, profit margins, and prior period adjustments.
+The monthly variable price will be communicated in the monthly invoice from the u(cid:20)lity. There is no limit on how much the price may change
+from one billing cycle to the next. Customer or CleanSky may cancel Variable Price Plan agreements any (cid:20)me without penalty or fee. To obtain
+CleanSky Energy’s average billed pricing since incep(cid:20)on, call toll-free at 1-888-355-6205 or go to CleanSkyEnergy.com/variable-rate-history.
+Historical pricing is not indica(cid:20)ve of present or future pricing. Customer may also pay a monthly administra(cid:20)ve fee (base fee), the amount of
+which, if applicable, is disclosed at the (cid:20)me of enrollment in the Contract Summary or ESA or renewal no(cid:20)ce.
+For all price plans, the rate Customer pays CleanSky Energy will include the Genera(cid:20)on Charge, Transmission Charge, and Sales Use Tax (SUT)
+only, and does not include other taxes or distribu(cid:20)on charges from the U(cid:20)lity for the delivery of electricity or natural gas to your home or small
+business. Customer’s price does not include applicable New Jersey es(cid:20)mated total sales tax or any other local tax. Non-recurring fees as charged
+by the U(cid:20)lity include, but are not limited to, out of cycle meter readings, meter test fees, disconnect and reconnec(cid:20)on fees, etc. Customer is
+responsible to U(cid:20)lity for these other charges rela(cid:20)ng to the delivery of electricity and/or natural gas to Customer’s residence or small commercial
+premise.
+Tax Exemp(cid:53)on: A tax exemp(cid:20)on cer(cid:20)ficate must be submi(cid:77)ed for each service loca(cid:20)on marked as tax exempt during the enrollment process with
+CleanSky Energy. All service loca(cid:20)ons will be submi(cid:77)ed as taxable without a valid exemp(cid:20)on cer(cid:20)ficate. CleanSky will submit an updated tax
+status to the U(cid:20)lity if Customer provides tax exemp(cid:20)on documenta(cid:20)on within 30 days of a submi(cid:77)ed enrollment. Customer must pe(cid:20)(cid:20)on the
+state for tax refunds due if proper documenta(cid:20)on is provided more than 30 days a(cid:75)er this Agreement is executed.
+Cancella(cid:53)on and Early Termina(cid:53)on Fees: If this Agreement is terminated prior to the end of the Term, both residen(cid:20)al and small commercial
+customers may pay an early termina(cid:20)on fee. The cancella(cid:20)on fee, if applicable, will be specified in Customer’s Contract Summary or Energy
+Service Agreement.
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address, Customer shows proof of a disability that
+renders the Customer unable to pay for CleanSky services or the presenta(cid:20)on of the customer’s record of death to CleanSky. If Customer requests
+to cancel this Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies
+Customer’s U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on
+service is completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|2 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address. If Customer requests to cancel this
+Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies Customer’s
+U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on service is
+completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on. If this Agreement is canceled, expires, or otherwise terminated,
+Customer will receive uninterrupted service from the U(cid:20)lity un(cid:20)l another provider of electric or natural gas genera(cid:20)on service is designated or
+service is shut off by the U(cid:20)lity. Only the U(cid:20)lity may shut off Customer’s electric power and natural gas.
+Renewable Energy Price Plans
+Electricity.CleanSky purchases and re(cid:20)res Renewable Energy Cer(cid:20)ficates (""RECs"") to offset 100% of Customer's electricity usage. CleanSky’s
+renewable Price Plan rates include a charge for the purchasing of RECs. CleanSky will (directly or indirectly) re(cid:20)re, on Customer's behalf, non-
+cer(cid:20)fied RECs resul(cid:20)ng from electricity generated from renewable energy sources, which may include solar, wind, hydro, or any other zero-
+emission source. CleanSky guarantees our Customer's electricity usage is offset with a direct investment in 100% RECs in an amount sufficient to
+match Customer’s annual consump(cid:20)on from the Electric Distribu(cid:20)on Company (""EDC""). Each REC represents proof that 1 megawa(cid:77)-hour (MWh)
+of electricity was generated from an eligible renewable energy resource to the grid. Customer will not have electricity from a specific genera(cid:20)on
+facility or renewable energy source delivered directly to Customer's meter. CleanSky may take up to three (3) months a(cid:75)er the end of the calendar
+year to re(cid:20)re RECs needed to fulfill the obliga(cid:20)ons of this product. CleanSky will not be liable to Customer or other par(cid:20)es for adver(cid:20)sing
+asser(cid:20)ons associated with CleanSky’s renewable offers. CleanSky does not own, and we are neither a subsidiary nor affiliate to any coal, oil, gas, or
+nuclear genera(cid:20)on facility.
+Natural Gas: For our carbon off-set natural gas products, CleanSky will offset 100% of the es(cid:20)mated amount of carbon dioxide (CO2) emissions
+caused by Customer’s annual natural gas usage through the use of any approved carbon offset technology including one or more of the following:
+1. Purchase and re(cid:20)rement of RECs from any carbon-neutral energy source. 2. Purchase and re(cid:20)rement of carbon credits through reputable
+standards such as The Verified Carbon Standard (VCS), The Gold Standard, The Climate Ac(cid:20)on Reserve, and/or American Carbon Registry. This
+ensures that an es(cid:20)mated equivalent of 100% of the carbon emissions caused by Customer’s natural gas usage is offset. The carbon emissions
+es(cid:20)ma(cid:20)ons are based on current data & assump(cid:20)ons from the U.S. Environmental Protec(cid:20)on Agency (h(cid:77)ps://www.epa.gov/ghgemissions/global-
+greenhouse-gas-emissions-data Updated 5/30/2020). Updated 5/30/2020). Purchase of carbon offset products does not actually reduce the CO2
+emissions associated with customer’s energy consump(cid:20)on but helps offset the release of the applicable number of metric tons of CO2 emissions
+elsewhere.
+Billing and Payment: Customer will receive one bill (“U(cid:20)lity Consolidated Billing”)) from the applicable EDC which includes CleanSky Energy’s
+genera(cid:20)on supply charges as well as the EDC’s delivery charges. Depending on the selected Price Plan, Customer may receive two (2) separate bills
+(“Supplier Billing” or “Dual Billing”), one bill from CleanSky Energy for Customer’s supply charges, and one bill from the U(cid:20)lity for the delivery
+charges. In both cases, CleanSky’s fees will be reflected separately as itemized charges on Customer’s invoice. CleanSky Energy’s fees will be
+reflected separately as itemized charges on Customer’s invoice. Customer bill is subject to adjustment for any missed billing or computa(cid:20)on errors,
+such as meter misreads. Customer’s payment will be due to the EDC by the date specified on the invoice. Except as otherwise provided in this
+Agreement or by law, Customer shall pay all taxes of any kind, nature and descrip(cid:20)on, due and payable with respect to Customer’s performance of
+its obliga(cid:20)ons under this Agreement. CleanSky may terminate the contract and transfer Customer back to the U(cid:20)lity on at least fourteen calendar
+days wri(cid:77)en no(cid:20)ce if Customer fails to pay the bill or fails to meet any agreed-upon payment arrangements. CleanSky reserves the right to assume
+the billing func(cid:20)on for its services. If Customer’s Supply service with CleanSky is terminated for non-payment, Customer must pay balance owed,
+plus any collec(cid:20)on fees including all legal fees and costs. The par(cid:20)es’ obliga(cid:20)ons under this Agreement are subject to present and future
+legisla(cid:20)on, orders, rules, or regula(cid:20)ons of a duly cons(cid:20)tuted governmental authority having jurisdic(cid:20)on over this Agreement or the services to be
+provided herein.
+If Customer receives one bill from the U(cid:20)lity, and at any (cid:20)me during the Agreement with CleanSky Energy Customer becomes sixty (60) or more
+days delinquent in his or her payments to the U(cid:20)lity, Customer will automa(cid:20)cally become ineligible for con(cid:20)nued Consolidated Billing from the
+U(cid:20)lity for a period of twelve (12) months. If this occurs, CleanSky reserves the right to terminate this Agreement in accordance with these Terms of
+Service and such termina(cid:20)on may result in early termina(cid:20)on fees as specified herein. As an alterna(cid:20)ve to the termina(cid:20)on of this Agreement,
+CleanSky Energy may require a deposit from you or request advance payment of an amount up to the average historical consump(cid:20)on for the last
+three months. If a deposit is requested and is not paid, this Agreement will terminate and become ineffec(cid:20)ve as of the “Service End Date” as
+determined by the U(cid:20)lity and Customer’s meter read schedule. Invoices billed directly from CleanSky Energy to residen(cid:20)al and small business
+customers may be required to be paid via automa(cid:20)c payment (debit card, bank dra(cid:75) or credit card). Payment will automa(cid:20)cally be deducted from
+your account on the due date of the invoice. If you terminate the applicable debit authoriza(cid:20)on required for the fixed-rate agreement, your rate
+will be switched to a monthly variable rate based on then-current market condi(cid:20)ons. If applicable, CleanSky Energy will deliver monthly invoices
+to residen(cid:20)al and smallcommercial customers in electronic format via email, to the email address specified at the (cid:20)me of enrollment or in the
+Contract Summary, or to such other email address as you direct in wri(cid:20)ng. Upon wri(cid:77)en request, Customer may receive an invoice in paper format
+via US Mail at Customer’s designated billing address.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|3 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Complaints and Dispute Resolu(cid:53)on: Customers may submit a complaint via email to CustomerConcerns@CleanSkyEnergy.com, or verbally by
+calling 1-888-355-6205 Monday-Friday, 9 a.m. to 7 p.m. EST and Saturday 10 a.m. to 2 p.m. EST. Customers with ques(cid:20)ons or disputes with their
+bill should contact CleanSky's customer service to assist. For unresolved issues, Customer must first contact CleanSky Energy or the U(cid:20)lity to try to
+resolve the problem. If complaint is not resolved a(cid:75)er calling CleanSky Energy and/or the U(cid:20)lity, or for general u(cid:20)lity informa(cid:20)on, residen(cid:20)al and
+business customers may contact may contact the Board of Public U(cid:20)li(cid:20)es at the following address to request an alternate dispute resolu(cid:20)on
+procedure or to file a formal complaint: New Jersey Board of U(cid:20)li(cid:20)es, Two Gateway Center, Suite 801, Newark, New Jersey, 07102. Toll Free: 1-
+800-624-0241
+Energy Assistance Programs: Board Secretary manages the Board’s low-income energy assistance programs including the Universal Service Fund
+(USF), and Payment Assistance for Gas and Electric (PAGE). More informa(cid:20)on about these and other assistance programs is available at:
+www.nj.gov/bpu/assistance/programs/
+Budget Billing: CleanSky's budget billing allows Customers to pay approximately the same monthly amount for electric service, subject to a
+semiannual adjustment based on actual consump(cid:20)on. Budget billing may be available to Customers who are not delinquent at the (cid:20)me of
+enrollment onto the billing op(cid:20)on. CleanSky may charge or credit any cumula(cid:20)ve balance, as appropriate, at least once every 12 months.
+CleanSky may collect under-recovered costs and/or refund any over-recovered amounts from Customer annually or upon termina(cid:20)on of service to
+the Customer.
+Credit and Deposits: If CleanSky Energy is ever required to bill Customer directly, CleanSky reserves the right to determine if Customer’s credit
+standing is sa(cid:20)sfactory for origina(cid:20)ng or con(cid:20)nuing electricity and/or natural gas service under this Agreement. If CleanSky determines, in its sole
+reasonable discre(cid:20)on, that Customer’s creditworthiness has become unsa(cid:20)sfactory, CleanSky may require Customer to provide collateral in the
+form of cash or other security in form and amount acceptable to CleanSky. Consistent with applicable law, CleanSky Energy uses uniform income,
+deposit and credit requirements in determining whether to offer service to its Customers. CleanSky Energy will not require a deposit which
+exceeds the greater of (i) the sum of the es(cid:20)mated billings for the next three months, or (ii) one-fourth of Customer’s es(cid:20)mated annual billing.
+Deposits will be held in separate interest-bearing accounts. CleanSky will remit to Customer interest earned on his or her deposit when it is
+returned to Customer or credited to Customer’s account. If a deposit is refunded within 30 days of the date of deposit, no interest payment will be
+paid. If CleanSky keeps the deposit for more than 30 days, payment of interest will be made retroac(cid:20)ve to the date the deposit was received by
+CleanSky. The deposit will cease to draw interest on the date it is returned or credited to Customer’s account. Customer deposits held by CleanSky
+Energy will be refunded toCustomer as an invoice credit if no late payments have been applied to Customer’s account a(cid:75)er twelve (12)
+consecu(cid:20)ve months.
+Customer Protec(cid:53)ons: The services provided by CleanSky Energy are protected by the terms and condi(cid:20)ons of this Agreement and the New
+Jersey Board of Public U(cid:20)li(cid:20)es. The statutes under which NJBPU is granted its authority N.J.S.A. 48:1 et seq and can be accessed online at Rutgers
+Law Library.
+Customer Informa(cid:53)on and Authoriza(cid:53)on: Customer authorizes CleanSky Energy to obtain informa(cid:20)on from the u(cid:20)lity, including account
+informa(cid:20)on, historical and future electric consump(cid:20)on, rate classifica(cid:20)on, meter readings, characteris(cid:20)cs of electric service, and billing and
+payment informa(cid:20)on. This authoriza(cid:20)on will remain in effect during the Term and any renewal term of this Agreement. Acceptance of this
+Agreement is an authoriza(cid:20)on for the release of the informa(cid:20)on. By providing telephone numbers, including wireless and work numbers to
+CleanSky, Customer expressly consents to being contacted at those numbers by CleanSky or a party calling on behalf of CleanSky for any purpose
+related to Customer's account, or future possible goods or services, including debt-collec(cid:20)on, by a live person, pre-recorded voice, and/or
+automated dialing. If Customer has u(cid:20)lized an agent or broker to contract energy purchases from CleanSky Energy, Customer authorizes CleanSky
+to disclose to the agent or broker informa(cid:20)on pertaining to Customer’s electric purchases as applicable. Customer (and Customer's signatory, if
+signatory is noted as Customer's spouse/civil union partner) agree to CleanSky obtaining a credit report and inves(cid:20)ga(cid:20)ng Customer's (and, if
+applicable, signatory’s) credit ra(cid:20)ng, credit history and U(cid:20)lity bill payment status and history. CleanSky is not obligated to accept, or con(cid:20)nue
+performing, this Agreement if Customer does not meet CleanSky's credit requirements.
+Wri(cid:63)en No(cid:53)ce and Electronic Disclosure Authoriza(cid:53)on: Wri(cid:77)en no(cid:20)ce includes, but is not limited to, no(cid:20)ce by electronic mail to a valid email
+address provided by Customer. If Customer is enrolling or renewing electronically, Customer is consen(cid:20)ng to electronic receipt of all the required
+disclosures provided during the enrollment process, like the Contract Summary, ESA, and Terms of Service, and monthly billed invoices as
+applicable. Customer must have a valid email address and is obligated to keep CleanSky Energy informed of any changes to the email address
+provided during enrollment or renewal, or any changes or withdrawal of consent for the electronic transmission of customer disclosures.
+Changes to Terms of Service: These Terms of Service may be amended by CleanSky at any (cid:20)me, except that CleanSky may only change the price
+and Term as specified previously herein. CleanSky will provide wri(cid:77)en no(cid:20)ce to Customer at least 14 days in advance of the date that the change
+to this Agreement will be applied to the Customer’s bill or take effect unless the change benefits Customer. CleanSky is not required to provide
+no(cid:20)ce automa(cid:20)cally for material changes that benefit the Customer but will, upon request, provide each document to Customer at any (cid:20)me free
+of charge. Upon receipt of wri(cid:77)en no(cid:20)ce of a material change, Customer may terminate this Agreement without being assessed an early
+termina(cid:20)on or cancella(cid:20)on fee within 14 calendar days a(cid:75)er the date of the no(cid:20)ce, unless such change favors Customer.
+Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)
+that are billing more than $0 and (ii) for which CleanSky has not received a request to discon(cid:20)nue (drop) service or change programs and (iii) are in
+good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also
+subject to any terms and condi(cid:20)ons stated in the offer and as may be located on CleanSky's website(s). More informa(cid:20)on on the terms and
+condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account
+holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|4 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Force Majeure: If CleanSky is rendered unable to perform, in whole or in part, by a Force Majeure event, its performance under this Agreement
+will be excused for the dura(cid:20)on of such event. CleanSky will take all reasonable steps to remedy the effect of the Force Majeure event. “Force
+Majeure” means any act or event that is beyond the reasonable control of CleanSky that adversely affects, interrupts, or precludes its
+performance. In addi(cid:20)on, acts of other par(cid:20)es, including the u(cid:20)li(cid:20)es in New Jersey, PJM, aggregators, other suppliers, scheduling en(cid:20)(cid:20)es and
+agents, and the respec(cid:20)ve employees and agents of such par(cid:20)es, will also be deemed to be events of Force Majeure.
+Governing Law: This Agreement shall be governed by and construed, enforced and performed in accordance with the laws of the State of Texas
+and venue shall be in Harris County, Texas. The provisions of the Uniform Commercial Code (UCC) shall apply to this Agreement, and electricity
+shall be a “good” for purposes of the UCC.
+Assignment: This Agreement shall be binding upon and inure to the benefit of, and may be performed by the successors and permi(cid:77)ed assigns of
+the Par(cid:20)es except that no assignment, pledge or other transfer of this Agreement by either Party shall operate to release the assignor, pledgor, or
+transferor of any of its obliga(cid:20)ons under this Agreement. Notwithstanding any other provision of this Agreement, Customer agrees that CleanSky
+Energy shall have the right to pledge this Agreement to its bank or other lending ins(cid:20)tu(cid:20)on(s) and to assign this Agreement, together with all rights
+and obliga(cid:20)ons hereunder, to Company’s electricity and/or natural gas supplier, or such supplier’s designee. CleanSky will inform customer 30
+days prior to any assignment of the account. Nothing in this provision shall deny CleanSky or Customer of any benefits obtained, or relieve them
+of any obliga(cid:20)ons, du(cid:20)es, and responsibili(cid:20)es incurred, prior to any assignment under this provision.
+No Waiver: Any failure by CleanSky to enforce any term or condi(cid:20)on of Customer’s electric or gas service or otherwise exercise any right it may
+have under this Agreement will not be deemed a waiver of any rights to therea(cid:75)er enforce any or all of the terms or condi(cid:20)ons of Customer’s
+service or to exercise rights under this Agreement.
+Mandatory Arbitra(cid:53)on: Any claim, dispute or controversy, regarding any contract, tort, statute, or otherwise (“Claim”), arising out of or rela(cid:20)ng to
+this Agreement or the rela(cid:20)onships among the par(cid:20)es hereto shall be resolved by one arbitrator through binding arbitra(cid:20)on administered by the
+American Arbitra(cid:20)on Associa(cid:20)on (“AAA”) under the AAA Commercial or Consumer rules, as applicable, in effect at the (cid:20)me the Claim is filed
+(“AAA Rules”). Copies of the AAA Rules and forms can be located at www.adr.org, or by calling 1-800-778-7879. The arbitrator’s decision shall be
+final, binding, and non-appealable. Judgment upon the award may be entered and enforced in any court having jurisdic(cid:20)on. This clause is made
+pursuant to a transac(cid:20)on involving interstate commerce and shall be governed by the Federal Arbitra(cid:20)on Act. Neither party shall sue the other
+party other than as provided herein for enforcement of this clause or of the arbitrator’s award; any such suit may be brought only in Federal
+District Court for the district in which Customer is located, or if any such court lacks jurisdic(cid:20)on, in any state court that has jurisdic(cid:20)on. The
+arbitrator, and not any federal, state or local court, shall have exclusive authority to resolve any dispute rela(cid:20)ng to the interpreta(cid:20)on, applicability,
+unconscionability, arbitrability, enforceability or forma(cid:20)on of this Agreement including any claim that all or any part of the Agreement is void or
+voidable. However, the preceding sentence shall not apply to ac(cid:20)ons contemplated in sec(cid:20)on en(cid:20)tled “Class Ac(cid:20)on Waiver” below.
+Class Ac(cid:53)on Waiver:Any Claim permissible herein must be brought in the party’s individual capacity, and not as a plain(cid:20)ff or class member in any
+purported class, collec(cid:20)ve, representa(cid:20)ve, mul(cid:20)ple plain(cid:20)ff, or similar proceeding (“Class Ac(cid:20)on”). Each of the par(cid:20)es expressly waives any ability
+to maintain any Class Ac(cid:20)on in any forum. The arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class
+Ac(cid:20)on nor make an award to any en(cid:20)ty or person not a party to the arbitra(cid:20)on. Any claim that all or part of this Class Ac(cid:20)on Waiver is
+unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdic(cid:20)on and not by an arbitrator. THE
+PARTIES UNDERSTAND THAT THEY WOULD HAVE HAD A RIGHT TO LITIGATE THROUGH A COURT, TO HAVE A JUDGE OR JURY DECIDE THEIR
+CASE INDIVDUALLY OR TO BE PARTY TO A CLASS OR REPRESENTATIVE ACTION, HOWEVER, THEY UNDERSTAND AND CHOOSE TO HAVE ANY
+CLAIMS DECIDED INDIVIDUALLY THROUGH ARBITRATION.
+Warran(cid:53)es: CLEANSKY ENERGY MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESSED OR IMPLIED, WITH REGARD TO THE
+PROVISION OF ELECTRIC SERVICE AND DISCLAIMS ANY AND ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF
+TRADE.
+Limita(cid:53)on of Liability:Customer will be deemed to be in exclusive control (and responsible for any damages or injury caused thereby) of the
+electric power a(cid:75)er receipt at the delivery point or points. CLEANSKY ENERGY WILL NOT BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES (INCLUDING LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES),
+WHETHER BY STATUTE, IN CONTRACT OR TORT, EVEN IF THE RESULT OF NEGLIGENCE (WHETHER SOLE, JOINT, CONCURRENT, ACTIVE OR
+PASSIVE). ALL OTHER LIABILITY WILL BE LIMITED TO DIRECT ACTUAL DAMAGES ONLY, AND SUCH DIRECT ACTUAL DAMAGES WILL BE THE
+SOLE AND EXCLUSIVE REMEDY. CUSTOMER HEREBY WAIVES ALL OTHER REMEDIES AT LAW OR IN EQUITY. THERE ARE NO THIRD-PARTY
+BENEFICIARIES TO THIS AGREEMENT. To the extent any damages required to be paid hereunder are liquidated, the par(cid:20)es acknowledge that
+the damages are not intended and shall not be construed as a penalty, such damages are difficult or impossible to determine, that otherwise
+obtaining an adequate remedy is inconvenient or impossible, and that the liquidated damages cons(cid:20)tute a reasonable approxima(cid:20)on of the harm
+or loss.
+Definitions and Terms in this Agreement
+— Customer or Consumer- a retail electric customer or potential customer of retail electricity or natural gas supply service.
+— Small Commercial Customer - a commercial customer that is not a mercan(cid:20)le commercial customer and has the size a(cid:77)ributes defined by the
+customer's respective Utility.
+— TPS or Third-Party Supplier - an electric or natural gas supplier licensed and as defined under the New Jersey Administrative Code.
+— EDC or Electric Distribu(cid:20)on Company, Gas Distribu(cid:20)on Company - the public u(cid:20)lity providing facili(cid:20)es for the delivery of electricity and
+natural gas to retail customers.
+— New Jersey Board of Public Utilities (NJ BPU) - the New Jersey Board of Public Utilities
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|5 of 5",,,,,,,,,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee:""}, ""incentives"": [""Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)"", ""good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also"", ""condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account"", ""holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.""], ""renewable_claim"": ""costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all"", ""renewable_source"": ""hydro, solar, wind"", ""form_fields"": {}}",[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,223384dcadf697f13927267167a1287fec3736e9220fc1c4b9a2a7a5092e0c61,contract_summary,partial,https://enroll.cleanskyenergy.com/NE_Home/EFL?productCode=RN00004715&promo=&term=12&source=Enrollment,"[""3e4469006327bb4e445b50ea""]",document_link_on_offer,"[""incentives""]","CleanSky Energy
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205","Fixed Rate Product
+This supply price may or may not provide savings compared to the utility","$0 per meter per month
+Base Fee:
+12 month(s)","rate over the duration of your contract. Savings are not guaranteed.
+Depending on when your cancellation is submitted, it could take up to a","full billing cycle for your switch back to the utility or third-party supplier to
+become effective.
+You have the right to rescind/stop your enrollment within 7 calendar days
+from when your utility confirms your enrollment to contact your utility and",,"cancel this contract. To rescind, you may call Elizabethtown Gas at 800-
+242-5830 or CleanSky at 888-355-6205.
+Your requested start date will be the date that you requested during the
+enrollment . Your contract with CleanSky will begin upon the confirmed","Service Start Date provided by the utility, and will continue for 12
+month(s) billing cycles.
+Disclosure Summary","Gas Price The ""Average Price per Therm"" below is an example of the total average price for supply, which includes the Energy
+Charge and Base Fee listed above, if applicable. The actual price Customer pays will vary according to when and how
+much energy you consume. See your most recent bill for your monthly use and actual price.
+Please Note: The Energy Charge shown above does not include taxes where applicable. Any required state and local
+taxes will be added to your bill by the utility and may increase the total effective rate paid per therm, ccf, mcf, or kWh.
+Average Monthly Use 50 therms 100 therms 150 therms 200 therms
+Average Price ¢ per Therm 79.90 79.90 79.90 79.90
+Other Key Terms and
+See Terms of Service for a full listing of fees, deposit policy, and other terms.
+Questions
+12 month(s)
+$75.00 One time - Fee does not apply if you move to another location","and provide a forwarding address and, if required, reasonable evidence
+that you no longer occupy the location.
+You will be notified of your fixed price contract expiration 45 days prior to
+the end of your contract with CleanSky. If you have not provided
+CleanSky affirmative consent for a new fixed price offer, you will be","moved to a Variable Month-to-Month Price Plan - The monthly variable
+price plan may fluctuate up or down and may be higher than the Utility's
+rate at any point in time.
+Elizabethtown Gas will continue to deliver your electricity. You will
+continue to pay Elizabethtown Gas for this supply service. For
+Utility Information
+emergencies or to report outages, call Elizabethtown Gas toll-free at 800-
+242-5830.
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205
+Monday - Friday: 9 a.m. - 7 p.m. EST
+Saturday: 10 a.m. - 2 p.m. EST
+NJ BPU Electricity License: ESL-0255, Natural Gas License: GSL-0223 | Document Version: CS_NJ_2026_V1",Verified collection context: ETG Gas,"{""prices"": [], ""rate_structure"": ""fixed"", ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: and provide a forwarding address and, if required, reasonable evidence""}, ""incentives"": [], ""form_fields"": {}}","[""Missing sections: incentives""]"
+2.0,CleanSky Energy,ETG Gas,gas,07201,e2b95df968a452fcb45057822e7ab13b2495cc01d2bd0ca0525c0d9808e8e437,terms_or_other,text_extracted,https://enroll.cleanskyenergy.com/NE_Home/TOS?productId=48608,"[""3e4469006327bb4e445b50ea""]",document_link_on_offer,[],,,"can increase or decrease each month and is set each month at CleanSky’s discre(cid:20)on. Contribu(cid:20)ng data points to the electric
+variable rate include: the cost of electricity acquired by CleanSky from all sources (including energy, capacity, se(cid:77)lement fees, and ancillary
+costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all
+applicable taxes, fees, charges, and other assessments including CleanSky’s costs, expenses, and profit margins. The underlying costs are a
+deriva(cid:20)ve of the PJM Energy Market, where no “price ceiling” exists. The monthly variable price will be communicated in the monthly invoice
+from the u(cid:20)lity. Contribu(cid:20)ng data points to the gas variable rate include: FERC Zone 6 N.Y Market Index, storage and inventory fees,
+transporta(cid:20)on costs, u(cid:20)lity balancing charges, capacity, usage varia(cid:20)on fees, risk assessments, profit margins, and prior period adjustments.
+The monthly variable price will be communicated in the monthly invoice from the u(cid:20)lity. There is no limit on how much the price may change
+from one billing cycle to the next. Customer or CleanSky may cancel Variable Price Plan agreements any (cid:20)me without penalty or fee. To obtain
+CleanSky Energy’s average billed pricing since incep(cid:20)on, call toll-free at 1-888-355-6205 or go to CleanSkyEnergy.com/variable-rate-history.
+Historical pricing is not indica(cid:20)ve of present or future pricing. Customer may also pay a monthly administra(cid:20)ve fee (base fee), the amount of
+which, if applicable, is disclosed at the (cid:20)me of enrollment in the Contract Summary or ESA or renewal no(cid:20)ce.
+For all price plans, the rate Customer pays CleanSky Energy will include the Genera(cid:20)on Charge, Transmission Charge, and Sales Use Tax (SUT)
+only, and does not include other taxes or distribu(cid:20)on charges from the U(cid:20)lity for the delivery of electricity or natural gas to your home or small
+business. Customer’s price does not include applicable New Jersey es(cid:20)mated total sales tax or any other local tax. Non-recurring fees as charged
+by the U(cid:20)lity include, but are not limited to, out of cycle meter readings, meter test fees, disconnect and reconnec(cid:20)on fees, etc. Customer is
+responsible to U(cid:20)lity for these other charges rela(cid:20)ng to the delivery of electricity and/or natural gas to Customer’s residence or small commercial
+premise.
+Tax Exemp(cid:53)on: A tax exemp(cid:20)on cer(cid:20)ficate must be submi(cid:77)ed for each service loca(cid:20)on marked as tax exempt during the enrollment process with
+CleanSky Energy. All service loca(cid:20)ons will be submi(cid:77)ed as taxable without a valid exemp(cid:20)on cer(cid:20)ficate. CleanSky will submit an updated tax
+status to the U(cid:20)lity if Customer provides tax exemp(cid:20)on documenta(cid:20)on within 30 days of a submi(cid:77)ed enrollment. Customer must pe(cid:20)(cid:20)on the
+state for tax refunds due if proper documenta(cid:20)on is provided more than 30 days a(cid:75)er this Agreement is executed.
+Cancella(cid:53)on and Early Termina(cid:53)on Fees: If this Agreement is terminated prior to the end of the Term, both residen(cid:20)al and small commercial
+customers may pay an early termina(cid:20)on fee. The cancella(cid:20)on fee, if applicable, will be specified in Customer’s Contract Summary or Energy
+Service Agreement.
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address, Customer shows proof of a disability that
+renders the Customer unable to pay for CleanSky services or the presenta(cid:20)on of the customer’s record of death to CleanSky. If Customer requests
+to cancel this Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies
+Customer’s U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on
+service is completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|2 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address. If Customer requests to cancel this
+Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies Customer’s
+U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on service is
+completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on. If this Agreement is canceled, expires, or otherwise terminated,
+Customer will receive uninterrupted service from the U(cid:20)lity un(cid:20)l another provider of electric or natural gas genera(cid:20)on service is designated or
+service is shut off by the U(cid:20)lity. Only the U(cid:20)lity may shut off Customer’s electric power and natural gas.
+Renewable Energy Price Plans
+Electricity.CleanSky purchases and re(cid:20)res Renewable Energy Cer(cid:20)ficates (""RECs"") to offset 100% of Customer's electricity usage. CleanSky’s
+renewable Price Plan rates include a charge for the purchasing of RECs. CleanSky will (directly or indirectly) re(cid:20)re, on Customer's behalf, non-
+cer(cid:20)fied RECs resul(cid:20)ng from electricity generated from renewable energy sources, which may include solar, wind, hydro, or any other zero-
+emission source. CleanSky guarantees our Customer's electricity usage is offset with a direct investment in 100% RECs in an amount sufficient to
+match Customer’s annual consump(cid:20)on from the Electric Distribu(cid:20)on Company (""EDC""). Each REC represents proof that 1 megawa(cid:77)-hour (MWh)
+of electricity was generated from an eligible renewable energy resource to the grid. Customer will not have electricity from a specific genera(cid:20)on
+facility or renewable energy source delivered directly to Customer's meter. CleanSky may take up to three (3) months a(cid:75)er the end of the calendar
+year to re(cid:20)re RECs needed to fulfill the obliga(cid:20)ons of this product. CleanSky will not be liable to Customer or other par(cid:20)es for adver(cid:20)sing
+asser(cid:20)ons associated with CleanSky’s renewable offers. CleanSky does not own, and we are neither a subsidiary nor affiliate to any coal, oil, gas, or
+nuclear genera(cid:20)on facility.
+Natural Gas: For our carbon off-set natural gas products, CleanSky will offset 100% of the es(cid:20)mated amount of carbon dioxide (CO2) emissions
+caused by Customer’s annual natural gas usage through the use of any approved carbon offset technology including one or more of the following:
+1. Purchase and re(cid:20)rement of RECs from any carbon-neutral energy source. 2. Purchase and re(cid:20)rement of carbon credits through reputable
+standards such as The Verified Carbon Standard (VCS), The Gold Standard, The Climate Ac(cid:20)on Reserve, and/or American Carbon Registry. This
+ensures that an es(cid:20)mated equivalent of 100% of the carbon emissions caused by Customer’s natural gas usage is offset. The carbon emissions
+es(cid:20)ma(cid:20)ons are based on current data & assump(cid:20)ons from the U.S. Environmental Protec(cid:20)on Agency (h(cid:77)ps://www.epa.gov/ghgemissions/global-
+greenhouse-gas-emissions-data Updated 5/30/2020). Updated 5/30/2020). Purchase of carbon offset products does not actually reduce the CO2
+emissions associated with customer’s energy consump(cid:20)on but helps offset the release of the applicable number of metric tons of CO2 emissions
+elsewhere.
+Billing and Payment: Customer will receive one bill (“U(cid:20)lity Consolidated Billing”)) from the applicable EDC which includes CleanSky Energy’s
+genera(cid:20)on supply charges as well as the EDC’s delivery charges. Depending on the selected Price Plan, Customer may receive two (2) separate bills
+(“Supplier Billing” or “Dual Billing”), one bill from CleanSky Energy for Customer’s supply charges, and one bill from the U(cid:20)lity for the delivery
+charges. In both cases, CleanSky’s fees will be reflected separately as itemized charges on Customer’s invoice. CleanSky Energy’s fees will be
+reflected separately as itemized charges on Customer’s invoice. Customer bill is subject to adjustment for any missed billing or computa(cid:20)on errors,
+such as meter misreads. Customer’s payment will be due to the EDC by the date specified on the invoice. Except as otherwise provided in this
+Agreement or by law, Customer shall pay all taxes of any kind, nature and descrip(cid:20)on, due and payable with respect to Customer’s performance of
+its obliga(cid:20)ons under this Agreement. CleanSky may terminate the contract and transfer Customer back to the U(cid:20)lity on at least fourteen calendar
+days wri(cid:77)en no(cid:20)ce if Customer fails to pay the bill or fails to meet any agreed-upon payment arrangements. CleanSky reserves the right to assume
+the billing func(cid:20)on for its services. If Customer’s Supply service with CleanSky is terminated for non-payment, Customer must pay balance owed,
+plus any collec(cid:20)on fees including all legal fees and costs. The par(cid:20)es’ obliga(cid:20)ons under this Agreement are subject to present and future
+legisla(cid:20)on, orders, rules, or regula(cid:20)ons of a duly cons(cid:20)tuted governmental authority having jurisdic(cid:20)on over this Agreement or the services to be
+provided herein.
+If Customer receives one bill from the U(cid:20)lity, and at any (cid:20)me during the Agreement with CleanSky Energy Customer becomes sixty (60) or more
+days delinquent in his or her payments to the U(cid:20)lity, Customer will automa(cid:20)cally become ineligible for con(cid:20)nued Consolidated Billing from the
+U(cid:20)lity for a period of twelve (12) months. If this occurs, CleanSky reserves the right to terminate this Agreement in accordance with these Terms of
+Service and such termina(cid:20)on may result in early termina(cid:20)on fees as specified herein. As an alterna(cid:20)ve to the termina(cid:20)on of this Agreement,
+CleanSky Energy may require a deposit from you or request advance payment of an amount up to the average historical consump(cid:20)on for the last
+three months. If a deposit is requested and is not paid, this Agreement will terminate and become ineffec(cid:20)ve as of the “Service End Date” as
+determined by the U(cid:20)lity and Customer’s meter read schedule. Invoices billed directly from CleanSky Energy to residen(cid:20)al and small business
+customers may be required to be paid via automa(cid:20)c payment (debit card, bank dra(cid:75) or credit card). Payment will automa(cid:20)cally be deducted from
+your account on the due date of the invoice. If you terminate the applicable debit authoriza(cid:20)on required for the fixed-rate agreement, your rate
+will be switched to a monthly variable rate based on then-current market condi(cid:20)ons. If applicable, CleanSky Energy will deliver monthly invoices
+to residen(cid:20)al and smallcommercial customers in electronic format via email, to the email address specified at the (cid:20)me of enrollment or in the
+Contract Summary, or to such other email address as you direct in wri(cid:20)ng. Upon wri(cid:77)en request, Customer may receive an invoice in paper format
+via US Mail at Customer’s designated billing address.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|3 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Complaints and Dispute Resolu(cid:53)on: Customers may submit a complaint via email to CustomerConcerns@CleanSkyEnergy.com, or verbally by
+calling 1-888-355-6205 Monday-Friday, 9 a.m. to 7 p.m. EST and Saturday 10 a.m. to 2 p.m. EST. Customers with ques(cid:20)ons or disputes with their
+bill should contact CleanSky's customer service to assist. For unresolved issues, Customer must first contact CleanSky Energy or the U(cid:20)lity to try to
+resolve the problem. If complaint is not resolved a(cid:75)er calling CleanSky Energy and/or the U(cid:20)lity, or for general u(cid:20)lity informa(cid:20)on, residen(cid:20)al and
+business customers may contact may contact the Board of Public U(cid:20)li(cid:20)es at the following address to request an alternate dispute resolu(cid:20)on
+procedure or to file a formal complaint: New Jersey Board of U(cid:20)li(cid:20)es, Two Gateway Center, Suite 801, Newark, New Jersey, 07102. Toll Free: 1-
+800-624-0241
+Energy Assistance Programs: Board Secretary manages the Board’s low-income energy assistance programs including the Universal Service Fund
+(USF), and Payment Assistance for Gas and Electric (PAGE). More informa(cid:20)on about these and other assistance programs is available at:
+www.nj.gov/bpu/assistance/programs/
+Budget Billing: CleanSky's budget billing allows Customers to pay approximately the same monthly amount for electric service, subject to a
+semiannual adjustment based on actual consump(cid:20)on. Budget billing may be available to Customers who are not delinquent at the (cid:20)me of
+enrollment onto the billing op(cid:20)on. CleanSky may charge or credit any cumula(cid:20)ve balance, as appropriate, at least once every 12 months.
+CleanSky may collect under-recovered costs and/or refund any over-recovered amounts from Customer annually or upon termina(cid:20)on of service to
+the Customer.
+Credit and Deposits: If CleanSky Energy is ever required to bill Customer directly, CleanSky reserves the right to determine if Customer’s credit
+standing is sa(cid:20)sfactory for origina(cid:20)ng or con(cid:20)nuing electricity and/or natural gas service under this Agreement. If CleanSky determines, in its sole
+reasonable discre(cid:20)on, that Customer’s creditworthiness has become unsa(cid:20)sfactory, CleanSky may require Customer to provide collateral in the
+form of cash or other security in form and amount acceptable to CleanSky. Consistent with applicable law, CleanSky Energy uses uniform income,
+deposit and credit requirements in determining whether to offer service to its Customers. CleanSky Energy will not require a deposit which
+exceeds the greater of (i) the sum of the es(cid:20)mated billings for the next three months, or (ii) one-fourth of Customer’s es(cid:20)mated annual billing.
+Deposits will be held in separate interest-bearing accounts. CleanSky will remit to Customer interest earned on his or her deposit when it is
+returned to Customer or credited to Customer’s account. If a deposit is refunded within 30 days of the date of deposit, no interest payment will be
+paid. If CleanSky keeps the deposit for more than 30 days, payment of interest will be made retroac(cid:20)ve to the date the deposit was received by
+CleanSky. The deposit will cease to draw interest on the date it is returned or credited to Customer’s account. Customer deposits held by CleanSky
+Energy will be refunded toCustomer as an invoice credit if no late payments have been applied to Customer’s account a(cid:75)er twelve (12)
+consecu(cid:20)ve months.
+Customer Protec(cid:53)ons: The services provided by CleanSky Energy are protected by the terms and condi(cid:20)ons of this Agreement and the New
+Jersey Board of Public U(cid:20)li(cid:20)es. The statutes under which NJBPU is granted its authority N.J.S.A. 48:1 et seq and can be accessed online at Rutgers
+Law Library.
+Customer Informa(cid:53)on and Authoriza(cid:53)on: Customer authorizes CleanSky Energy to obtain informa(cid:20)on from the u(cid:20)lity, including account
+informa(cid:20)on, historical and future electric consump(cid:20)on, rate classifica(cid:20)on, meter readings, characteris(cid:20)cs of electric service, and billing and
+payment informa(cid:20)on. This authoriza(cid:20)on will remain in effect during the Term and any renewal term of this Agreement. Acceptance of this
+Agreement is an authoriza(cid:20)on for the release of the informa(cid:20)on. By providing telephone numbers, including wireless and work numbers to
+CleanSky, Customer expressly consents to being contacted at those numbers by CleanSky or a party calling on behalf of CleanSky for any purpose
+related to Customer's account, or future possible goods or services, including debt-collec(cid:20)on, by a live person, pre-recorded voice, and/or
+automated dialing. If Customer has u(cid:20)lized an agent or broker to contract energy purchases from CleanSky Energy, Customer authorizes CleanSky
+to disclose to the agent or broker informa(cid:20)on pertaining to Customer’s electric purchases as applicable. Customer (and Customer's signatory, if
+signatory is noted as Customer's spouse/civil union partner) agree to CleanSky obtaining a credit report and inves(cid:20)ga(cid:20)ng Customer's (and, if
+applicable, signatory’s) credit ra(cid:20)ng, credit history and U(cid:20)lity bill payment status and history. CleanSky is not obligated to accept, or con(cid:20)nue
+performing, this Agreement if Customer does not meet CleanSky's credit requirements.
+Wri(cid:63)en No(cid:53)ce and Electronic Disclosure Authoriza(cid:53)on: Wri(cid:77)en no(cid:20)ce includes, but is not limited to, no(cid:20)ce by electronic mail to a valid email
+address provided by Customer. If Customer is enrolling or renewing electronically, Customer is consen(cid:20)ng to electronic receipt of all the required
+disclosures provided during the enrollment process, like the Contract Summary, ESA, and Terms of Service, and monthly billed invoices as
+applicable. Customer must have a valid email address and is obligated to keep CleanSky Energy informed of any changes to the email address
+provided during enrollment or renewal, or any changes or withdrawal of consent for the electronic transmission of customer disclosures.
+Changes to Terms of Service: These Terms of Service may be amended by CleanSky at any (cid:20)me, except that CleanSky may only change the price
+and Term as specified previously herein. CleanSky will provide wri(cid:77)en no(cid:20)ce to Customer at least 14 days in advance of the date that the change
+to this Agreement will be applied to the Customer’s bill or take effect unless the change benefits Customer. CleanSky is not required to provide
+no(cid:20)ce automa(cid:20)cally for material changes that benefit the Customer but will, upon request, provide each document to Customer at any (cid:20)me free
+of charge. Upon receipt of wri(cid:77)en no(cid:20)ce of a material change, Customer may terminate this Agreement without being assessed an early
+termina(cid:20)on or cancella(cid:20)on fee within 14 calendar days a(cid:75)er the date of the no(cid:20)ce, unless such change favors Customer.
+Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)
+that are billing more than $0 and (ii) for which CleanSky has not received a request to discon(cid:20)nue (drop) service or change programs and (iii) are in
+good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also
+subject to any terms and condi(cid:20)ons stated in the offer and as may be located on CleanSky's website(s). More informa(cid:20)on on the terms and
+condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account
+holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|4 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Force Majeure: If CleanSky is rendered unable to perform, in whole or in part, by a Force Majeure event, its performance under this Agreement
+will be excused for the dura(cid:20)on of such event. CleanSky will take all reasonable steps to remedy the effect of the Force Majeure event. “Force
+Majeure” means any act or event that is beyond the reasonable control of CleanSky that adversely affects, interrupts, or precludes its
+performance. In addi(cid:20)on, acts of other par(cid:20)es, including the u(cid:20)li(cid:20)es in New Jersey, PJM, aggregators, other suppliers, scheduling en(cid:20)(cid:20)es and
+agents, and the respec(cid:20)ve employees and agents of such par(cid:20)es, will also be deemed to be events of Force Majeure.
+Governing Law: This Agreement shall be governed by and construed, enforced and performed in accordance with the laws of the State of Texas
+and venue shall be in Harris County, Texas. The provisions of the Uniform Commercial Code (UCC) shall apply to this Agreement, and electricity
+shall be a “good” for purposes of the UCC.
+Assignment: This Agreement shall be binding upon and inure to the benefit of, and may be performed by the successors and permi(cid:77)ed assigns of
+the Par(cid:20)es except that no assignment, pledge or other transfer of this Agreement by either Party shall operate to release the assignor, pledgor, or
+transferor of any of its obliga(cid:20)ons under this Agreement. Notwithstanding any other provision of this Agreement, Customer agrees that CleanSky
+Energy shall have the right to pledge this Agreement to its bank or other lending ins(cid:20)tu(cid:20)on(s) and to assign this Agreement, together with all rights
+and obliga(cid:20)ons hereunder, to Company’s electricity and/or natural gas supplier, or such supplier’s designee. CleanSky will inform customer 30
+days prior to any assignment of the account. Nothing in this provision shall deny CleanSky or Customer of any benefits obtained, or relieve them
+of any obliga(cid:20)ons, du(cid:20)es, and responsibili(cid:20)es incurred, prior to any assignment under this provision.
+No Waiver: Any failure by CleanSky to enforce any term or condi(cid:20)on of Customer’s electric or gas service or otherwise exercise any right it may
+have under this Agreement will not be deemed a waiver of any rights to therea(cid:75)er enforce any or all of the terms or condi(cid:20)ons of Customer’s
+service or to exercise rights under this Agreement.
+Mandatory Arbitra(cid:53)on: Any claim, dispute or controversy, regarding any contract, tort, statute, or otherwise (“Claim”), arising out of or rela(cid:20)ng to
+this Agreement or the rela(cid:20)onships among the par(cid:20)es hereto shall be resolved by one arbitrator through binding arbitra(cid:20)on administered by the
+American Arbitra(cid:20)on Associa(cid:20)on (“AAA”) under the AAA Commercial or Consumer rules, as applicable, in effect at the (cid:20)me the Claim is filed
+(“AAA Rules”). Copies of the AAA Rules and forms can be located at www.adr.org, or by calling 1-800-778-7879. The arbitrator’s decision shall be
+final, binding, and non-appealable. Judgment upon the award may be entered and enforced in any court having jurisdic(cid:20)on. This clause is made
+pursuant to a transac(cid:20)on involving interstate commerce and shall be governed by the Federal Arbitra(cid:20)on Act. Neither party shall sue the other
+party other than as provided herein for enforcement of this clause or of the arbitrator’s award; any such suit may be brought only in Federal
+District Court for the district in which Customer is located, or if any such court lacks jurisdic(cid:20)on, in any state court that has jurisdic(cid:20)on. The
+arbitrator, and not any federal, state or local court, shall have exclusive authority to resolve any dispute rela(cid:20)ng to the interpreta(cid:20)on, applicability,
+unconscionability, arbitrability, enforceability or forma(cid:20)on of this Agreement including any claim that all or any part of the Agreement is void or
+voidable. However, the preceding sentence shall not apply to ac(cid:20)ons contemplated in sec(cid:20)on en(cid:20)tled “Class Ac(cid:20)on Waiver” below.
+Class Ac(cid:53)on Waiver:Any Claim permissible herein must be brought in the party’s individual capacity, and not as a plain(cid:20)ff or class member in any
+purported class, collec(cid:20)ve, representa(cid:20)ve, mul(cid:20)ple plain(cid:20)ff, or similar proceeding (“Class Ac(cid:20)on”). Each of the par(cid:20)es expressly waives any ability
+to maintain any Class Ac(cid:20)on in any forum. The arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class
+Ac(cid:20)on nor make an award to any en(cid:20)ty or person not a party to the arbitra(cid:20)on. Any claim that all or part of this Class Ac(cid:20)on Waiver is
+unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdic(cid:20)on and not by an arbitrator. THE
+PARTIES UNDERSTAND THAT THEY WOULD HAVE HAD A RIGHT TO LITIGATE THROUGH A COURT, TO HAVE A JUDGE OR JURY DECIDE THEIR
+CASE INDIVDUALLY OR TO BE PARTY TO A CLASS OR REPRESENTATIVE ACTION, HOWEVER, THEY UNDERSTAND AND CHOOSE TO HAVE ANY
+CLAIMS DECIDED INDIVIDUALLY THROUGH ARBITRATION.
+Warran(cid:53)es: CLEANSKY ENERGY MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESSED OR IMPLIED, WITH REGARD TO THE
+PROVISION OF ELECTRIC SERVICE AND DISCLAIMS ANY AND ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF
+TRADE.
+Limita(cid:53)on of Liability:Customer will be deemed to be in exclusive control (and responsible for any damages or injury caused thereby) of the
+electric power a(cid:75)er receipt at the delivery point or points. CLEANSKY ENERGY WILL NOT BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES (INCLUDING LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES),
+WHETHER BY STATUTE, IN CONTRACT OR TORT, EVEN IF THE RESULT OF NEGLIGENCE (WHETHER SOLE, JOINT, CONCURRENT, ACTIVE OR
+PASSIVE). ALL OTHER LIABILITY WILL BE LIMITED TO DIRECT ACTUAL DAMAGES ONLY, AND SUCH DIRECT ACTUAL DAMAGES WILL BE THE
+SOLE AND EXCLUSIVE REMEDY. CUSTOMER HEREBY WAIVES ALL OTHER REMEDIES AT LAW OR IN EQUITY. THERE ARE NO THIRD-PARTY
+BENEFICIARIES TO THIS AGREEMENT. To the extent any damages required to be paid hereunder are liquidated, the par(cid:20)es acknowledge that
+the damages are not intended and shall not be construed as a penalty, such damages are difficult or impossible to determine, that otherwise
+obtaining an adequate remedy is inconvenient or impossible, and that the liquidated damages cons(cid:20)tute a reasonable approxima(cid:20)on of the harm
+or loss.
+Definitions and Terms in this Agreement
+— Customer or Consumer- a retail electric customer or potential customer of retail electricity or natural gas supply service.
+— Small Commercial Customer - a commercial customer that is not a mercan(cid:20)le commercial customer and has the size a(cid:77)ributes defined by the
+customer's respective Utility.
+— TPS or Third-Party Supplier - an electric or natural gas supplier licensed and as defined under the New Jersey Administrative Code.
+— EDC or Electric Distribu(cid:20)on Company, Gas Distribu(cid:20)on Company - the public u(cid:20)lity providing facili(cid:20)es for the delivery of electricity and
+natural gas to retail customers.
+— New Jersey Board of Public Utilities (NJ BPU) - the New Jersey Board of Public Utilities
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|5 of 5",,,,,,,,,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee:""}, ""incentives"": [""Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)"", ""good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also"", ""condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account"", ""holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.""], ""renewable_claim"": ""costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all"", ""renewable_source"": ""hydro, solar, wind"", ""form_fields"": {}}",[]
+2.0,CleanSky Energy,ETG Gas,gas,07201,bcea160ea4d21442f143ae4778c7ed07c6a29b46731ea3e7f1145d133962f566,contract_summary,partial,https://enroll.cleanskyenergy.com/NE_Home/EFL?productCode=RN00004716&promo=&term=24&source=Enrollment,"[""905252546743471dbb02b406""]",document_link_on_offer,"[""incentives""]","CleanSky Energy
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205","Fixed Rate Product
+This supply price may or may not provide savings compared to the utility","$0 per meter per month
+Base Fee:
+24 month(s)","rate over the duration of your contract. Savings are not guaranteed.
+Depending on when your cancellation is submitted, it could take up to a","full billing cycle for your switch back to the utility or third-party supplier to
+become effective.
+You have the right to rescind/stop your enrollment within 7 calendar days
+from when your utility confirms your enrollment to contact your utility and",,"cancel this contract. To rescind, you may call Elizabethtown Gas at 800-
+242-5830 or CleanSky at 888-355-6205.
+Your requested start date will be the date that you requested during the
+enrollment . Your contract with CleanSky will begin upon the confirmed","Service Start Date provided by the utility, and will continue for 24
+month(s) billing cycles.
+Disclosure Summary","Gas Price The ""Average Price per Therm"" below is an example of the total average price for supply, which includes the Energy
+Charge and Base Fee listed above, if applicable. The actual price Customer pays will vary according to when and how
+much energy you consume. See your most recent bill for your monthly use and actual price.
+Please Note: The Energy Charge shown above does not include taxes where applicable. Any required state and local
+taxes will be added to your bill by the utility and may increase the total effective rate paid per therm, ccf, mcf, or kWh.
+Average Monthly Use 50 therms 100 therms 150 therms 200 therms
+Average Price ¢ per Therm 81.90 81.90 81.90 81.90
+Other Key Terms and
+See Terms of Service for a full listing of fees, deposit policy, and other terms.
+Questions
+24 month(s)
+$150.00 One time - Fee does not apply if you move to another location","and provide a forwarding address and, if required, reasonable evidence
+that you no longer occupy the location.
+You will be notified of your fixed price contract expiration 45 days prior to
+the end of your contract with CleanSky. If you have not provided
+CleanSky affirmative consent for a new fixed price offer, you will be","moved to a Variable Month-to-Month Price Plan - The monthly variable
+price plan may fluctuate up or down and may be higher than the Utility's
+rate at any point in time.
+Elizabethtown Gas will continue to deliver your electricity. You will
+continue to pay Elizabethtown Gas for this supply service. For
+Utility Information
+emergencies or to report outages, call Elizabethtown Gas toll-free at 800-
+242-5830.
+3355 W. Alabama, Suite 500, Houston, TX 77098
+www.CleanSkyEnergy.com
+CustomerCare@CleanSkyEnergy.com
+888-355-6205
+Monday - Friday: 9 a.m. - 7 p.m. EST
+Saturday: 10 a.m. - 2 p.m. EST
+NJ BPU Electricity License: ESL-0255, Natural Gas License: GSL-0223 | Document Version: CS_NJ_2026_V1",Verified collection context: ETG Gas,"{""prices"": [], ""rate_structure"": ""fixed"", ""term_months"": 24, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: and provide a forwarding address and, if required, reasonable evidence""}, ""incentives"": [], ""form_fields"": {}}","[""Missing sections: incentives""]"
+2.0,CleanSky Energy,ETG Gas,gas,07201,b4de0d1aa227af9fcdbe5a7684e2fde6b7ee8f11142f8b287274530600fbfe76,terms_or_other,text_extracted,https://enroll.cleanskyenergy.com/NE_Home/TOS?productId=48609,"[""905252546743471dbb02b406""]",document_link_on_offer,[],,,"can increase or decrease each month and is set each month at CleanSky’s discre(cid:20)on. Contribu(cid:20)ng data points to the electric
+variable rate include: the cost of electricity acquired by CleanSky from all sources (including energy, capacity, se(cid:77)lement fees, and ancillary
+costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all
+applicable taxes, fees, charges, and other assessments including CleanSky’s costs, expenses, and profit margins. The underlying costs are a
+deriva(cid:20)ve of the PJM Energy Market, where no “price ceiling” exists. The monthly variable price will be communicated in the monthly invoice
+from the u(cid:20)lity. Contribu(cid:20)ng data points to the gas variable rate include: FERC Zone 6 N.Y Market Index, storage and inventory fees,
+transporta(cid:20)on costs, u(cid:20)lity balancing charges, capacity, usage varia(cid:20)on fees, risk assessments, profit margins, and prior period adjustments.
+The monthly variable price will be communicated in the monthly invoice from the u(cid:20)lity. There is no limit on how much the price may change
+from one billing cycle to the next. Customer or CleanSky may cancel Variable Price Plan agreements any (cid:20)me without penalty or fee. To obtain
+CleanSky Energy’s average billed pricing since incep(cid:20)on, call toll-free at 1-888-355-6205 or go to CleanSkyEnergy.com/variable-rate-history.
+Historical pricing is not indica(cid:20)ve of present or future pricing. Customer may also pay a monthly administra(cid:20)ve fee (base fee), the amount of
+which, if applicable, is disclosed at the (cid:20)me of enrollment in the Contract Summary or ESA or renewal no(cid:20)ce.
+For all price plans, the rate Customer pays CleanSky Energy will include the Genera(cid:20)on Charge, Transmission Charge, and Sales Use Tax (SUT)
+only, and does not include other taxes or distribu(cid:20)on charges from the U(cid:20)lity for the delivery of electricity or natural gas to your home or small
+business. Customer’s price does not include applicable New Jersey es(cid:20)mated total sales tax or any other local tax. Non-recurring fees as charged
+by the U(cid:20)lity include, but are not limited to, out of cycle meter readings, meter test fees, disconnect and reconnec(cid:20)on fees, etc. Customer is
+responsible to U(cid:20)lity for these other charges rela(cid:20)ng to the delivery of electricity and/or natural gas to Customer’s residence or small commercial
+premise.
+Tax Exemp(cid:53)on: A tax exemp(cid:20)on cer(cid:20)ficate must be submi(cid:77)ed for each service loca(cid:20)on marked as tax exempt during the enrollment process with
+CleanSky Energy. All service loca(cid:20)ons will be submi(cid:77)ed as taxable without a valid exemp(cid:20)on cer(cid:20)ficate. CleanSky will submit an updated tax
+status to the U(cid:20)lity if Customer provides tax exemp(cid:20)on documenta(cid:20)on within 30 days of a submi(cid:77)ed enrollment. Customer must pe(cid:20)(cid:20)on the
+state for tax refunds due if proper documenta(cid:20)on is provided more than 30 days a(cid:75)er this Agreement is executed.
+Cancella(cid:53)on and Early Termina(cid:53)on Fees: If this Agreement is terminated prior to the end of the Term, both residen(cid:20)al and small commercial
+customers may pay an early termina(cid:20)on fee. The cancella(cid:20)on fee, if applicable, will be specified in Customer’s Contract Summary or Energy
+Service Agreement.
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address, Customer shows proof of a disability that
+renders the Customer unable to pay for CleanSky services or the presenta(cid:20)on of the customer’s record of death to CleanSky. If Customer requests
+to cancel this Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies
+Customer’s U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on
+service is completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|2 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Customer may cancel this Agreement without penalty any (cid:20)me before midnight of the seventh calendar day a(cid:75)er the date of enrollment. A(cid:75)er
+such rescission period, Customer may cancel this Agreement at any (cid:20)me by calling CleanSky Energy at 1-888-355-6205, or by sending an email to
+CleanSky Energy at CustomerCare@CleanSkyEnergy.com, however Customer may be required to pay the early termina(cid:20)on fee as specified above.
+Customer may also cancel this Agreement without penalty if he or she or the small business moves to another loca(cid:20)on and provides a forwarding
+address and, if required, reasonable evidence that Customer no longer occupies the service address. If Customer requests to cancel this
+Agreement, the cancella(cid:20)on may not take effect un(cid:20)l the next actual meter read date following the date CleanSky Energy no(cid:20)fies Customer’s
+U(cid:20)lity. Customer will be responsible for all payments due hereunder un(cid:20)l the cancella(cid:20)on of electric and/or natural gas genera(cid:20)on service is
+completed.
+If for any reason CleanSky Energy is no longer able to economically con(cid:20)nue this Agreement, CleanSky Energy may terminate this Agreement at
+any (cid:20)me a(cid:75)er complying with applicable regula(cid:20)ons. This Agreement may be cancelled at the sole discre(cid:20)on of CleanSky Energy if Customer fails
+to meet any of the terms and condi(cid:20)ons of this Agreement or if any of the informa(cid:20)on Customer has provided to CleanSky Energy is or becomes
+untrue. CleanSky Energy will provide you a 30 (thirty) day no(cid:20)ce of termina(cid:20)on. If this Agreement is canceled, expires, or otherwise terminated,
+Customer will receive uninterrupted service from the U(cid:20)lity un(cid:20)l another provider of electric or natural gas genera(cid:20)on service is designated or
+service is shut off by the U(cid:20)lity. Only the U(cid:20)lity may shut off Customer’s electric power and natural gas.
+Renewable Energy Price Plans
+Electricity.CleanSky purchases and re(cid:20)res Renewable Energy Cer(cid:20)ficates (""RECs"") to offset 100% of Customer's electricity usage. CleanSky’s
+renewable Price Plan rates include a charge for the purchasing of RECs. CleanSky will (directly or indirectly) re(cid:20)re, on Customer's behalf, non-
+cer(cid:20)fied RECs resul(cid:20)ng from electricity generated from renewable energy sources, which may include solar, wind, hydro, or any other zero-
+emission source. CleanSky guarantees our Customer's electricity usage is offset with a direct investment in 100% RECs in an amount sufficient to
+match Customer’s annual consump(cid:20)on from the Electric Distribu(cid:20)on Company (""EDC""). Each REC represents proof that 1 megawa(cid:77)-hour (MWh)
+of electricity was generated from an eligible renewable energy resource to the grid. Customer will not have electricity from a specific genera(cid:20)on
+facility or renewable energy source delivered directly to Customer's meter. CleanSky may take up to three (3) months a(cid:75)er the end of the calendar
+year to re(cid:20)re RECs needed to fulfill the obliga(cid:20)ons of this product. CleanSky will not be liable to Customer or other par(cid:20)es for adver(cid:20)sing
+asser(cid:20)ons associated with CleanSky’s renewable offers. CleanSky does not own, and we are neither a subsidiary nor affiliate to any coal, oil, gas, or
+nuclear genera(cid:20)on facility.
+Natural Gas: For our carbon off-set natural gas products, CleanSky will offset 100% of the es(cid:20)mated amount of carbon dioxide (CO2) emissions
+caused by Customer’s annual natural gas usage through the use of any approved carbon offset technology including one or more of the following:
+1. Purchase and re(cid:20)rement of RECs from any carbon-neutral energy source. 2. Purchase and re(cid:20)rement of carbon credits through reputable
+standards such as The Verified Carbon Standard (VCS), The Gold Standard, The Climate Ac(cid:20)on Reserve, and/or American Carbon Registry. This
+ensures that an es(cid:20)mated equivalent of 100% of the carbon emissions caused by Customer’s natural gas usage is offset. The carbon emissions
+es(cid:20)ma(cid:20)ons are based on current data & assump(cid:20)ons from the U.S. Environmental Protec(cid:20)on Agency (h(cid:77)ps://www.epa.gov/ghgemissions/global-
+greenhouse-gas-emissions-data Updated 5/30/2020). Updated 5/30/2020). Purchase of carbon offset products does not actually reduce the CO2
+emissions associated with customer’s energy consump(cid:20)on but helps offset the release of the applicable number of metric tons of CO2 emissions
+elsewhere.
+Billing and Payment: Customer will receive one bill (“U(cid:20)lity Consolidated Billing”)) from the applicable EDC which includes CleanSky Energy’s
+genera(cid:20)on supply charges as well as the EDC’s delivery charges. Depending on the selected Price Plan, Customer may receive two (2) separate bills
+(“Supplier Billing” or “Dual Billing”), one bill from CleanSky Energy for Customer’s supply charges, and one bill from the U(cid:20)lity for the delivery
+charges. In both cases, CleanSky’s fees will be reflected separately as itemized charges on Customer’s invoice. CleanSky Energy’s fees will be
+reflected separately as itemized charges on Customer’s invoice. Customer bill is subject to adjustment for any missed billing or computa(cid:20)on errors,
+such as meter misreads. Customer’s payment will be due to the EDC by the date specified on the invoice. Except as otherwise provided in this
+Agreement or by law, Customer shall pay all taxes of any kind, nature and descrip(cid:20)on, due and payable with respect to Customer’s performance of
+its obliga(cid:20)ons under this Agreement. CleanSky may terminate the contract and transfer Customer back to the U(cid:20)lity on at least fourteen calendar
+days wri(cid:77)en no(cid:20)ce if Customer fails to pay the bill or fails to meet any agreed-upon payment arrangements. CleanSky reserves the right to assume
+the billing func(cid:20)on for its services. If Customer’s Supply service with CleanSky is terminated for non-payment, Customer must pay balance owed,
+plus any collec(cid:20)on fees including all legal fees and costs. The par(cid:20)es’ obliga(cid:20)ons under this Agreement are subject to present and future
+legisla(cid:20)on, orders, rules, or regula(cid:20)ons of a duly cons(cid:20)tuted governmental authority having jurisdic(cid:20)on over this Agreement or the services to be
+provided herein.
+If Customer receives one bill from the U(cid:20)lity, and at any (cid:20)me during the Agreement with CleanSky Energy Customer becomes sixty (60) or more
+days delinquent in his or her payments to the U(cid:20)lity, Customer will automa(cid:20)cally become ineligible for con(cid:20)nued Consolidated Billing from the
+U(cid:20)lity for a period of twelve (12) months. If this occurs, CleanSky reserves the right to terminate this Agreement in accordance with these Terms of
+Service and such termina(cid:20)on may result in early termina(cid:20)on fees as specified herein. As an alterna(cid:20)ve to the termina(cid:20)on of this Agreement,
+CleanSky Energy may require a deposit from you or request advance payment of an amount up to the average historical consump(cid:20)on for the last
+three months. If a deposit is requested and is not paid, this Agreement will terminate and become ineffec(cid:20)ve as of the “Service End Date” as
+determined by the U(cid:20)lity and Customer’s meter read schedule. Invoices billed directly from CleanSky Energy to residen(cid:20)al and small business
+customers may be required to be paid via automa(cid:20)c payment (debit card, bank dra(cid:75) or credit card). Payment will automa(cid:20)cally be deducted from
+your account on the due date of the invoice. If you terminate the applicable debit authoriza(cid:20)on required for the fixed-rate agreement, your rate
+will be switched to a monthly variable rate based on then-current market condi(cid:20)ons. If applicable, CleanSky Energy will deliver monthly invoices
+to residen(cid:20)al and smallcommercial customers in electronic format via email, to the email address specified at the (cid:20)me of enrollment or in the
+Contract Summary, or to such other email address as you direct in wri(cid:20)ng. Upon wri(cid:77)en request, Customer may receive an invoice in paper format
+via US Mail at Customer’s designated billing address.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|3 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Complaints and Dispute Resolu(cid:53)on: Customers may submit a complaint via email to CustomerConcerns@CleanSkyEnergy.com, or verbally by
+calling 1-888-355-6205 Monday-Friday, 9 a.m. to 7 p.m. EST and Saturday 10 a.m. to 2 p.m. EST. Customers with ques(cid:20)ons or disputes with their
+bill should contact CleanSky's customer service to assist. For unresolved issues, Customer must first contact CleanSky Energy or the U(cid:20)lity to try to
+resolve the problem. If complaint is not resolved a(cid:75)er calling CleanSky Energy and/or the U(cid:20)lity, or for general u(cid:20)lity informa(cid:20)on, residen(cid:20)al and
+business customers may contact may contact the Board of Public U(cid:20)li(cid:20)es at the following address to request an alternate dispute resolu(cid:20)on
+procedure or to file a formal complaint: New Jersey Board of U(cid:20)li(cid:20)es, Two Gateway Center, Suite 801, Newark, New Jersey, 07102. Toll Free: 1-
+800-624-0241
+Energy Assistance Programs: Board Secretary manages the Board’s low-income energy assistance programs including the Universal Service Fund
+(USF), and Payment Assistance for Gas and Electric (PAGE). More informa(cid:20)on about these and other assistance programs is available at:
+www.nj.gov/bpu/assistance/programs/
+Budget Billing: CleanSky's budget billing allows Customers to pay approximately the same monthly amount for electric service, subject to a
+semiannual adjustment based on actual consump(cid:20)on. Budget billing may be available to Customers who are not delinquent at the (cid:20)me of
+enrollment onto the billing op(cid:20)on. CleanSky may charge or credit any cumula(cid:20)ve balance, as appropriate, at least once every 12 months.
+CleanSky may collect under-recovered costs and/or refund any over-recovered amounts from Customer annually or upon termina(cid:20)on of service to
+the Customer.
+Credit and Deposits: If CleanSky Energy is ever required to bill Customer directly, CleanSky reserves the right to determine if Customer’s credit
+standing is sa(cid:20)sfactory for origina(cid:20)ng or con(cid:20)nuing electricity and/or natural gas service under this Agreement. If CleanSky determines, in its sole
+reasonable discre(cid:20)on, that Customer’s creditworthiness has become unsa(cid:20)sfactory, CleanSky may require Customer to provide collateral in the
+form of cash or other security in form and amount acceptable to CleanSky. Consistent with applicable law, CleanSky Energy uses uniform income,
+deposit and credit requirements in determining whether to offer service to its Customers. CleanSky Energy will not require a deposit which
+exceeds the greater of (i) the sum of the es(cid:20)mated billings for the next three months, or (ii) one-fourth of Customer’s es(cid:20)mated annual billing.
+Deposits will be held in separate interest-bearing accounts. CleanSky will remit to Customer interest earned on his or her deposit when it is
+returned to Customer or credited to Customer’s account. If a deposit is refunded within 30 days of the date of deposit, no interest payment will be
+paid. If CleanSky keeps the deposit for more than 30 days, payment of interest will be made retroac(cid:20)ve to the date the deposit was received by
+CleanSky. The deposit will cease to draw interest on the date it is returned or credited to Customer’s account. Customer deposits held by CleanSky
+Energy will be refunded toCustomer as an invoice credit if no late payments have been applied to Customer’s account a(cid:75)er twelve (12)
+consecu(cid:20)ve months.
+Customer Protec(cid:53)ons: The services provided by CleanSky Energy are protected by the terms and condi(cid:20)ons of this Agreement and the New
+Jersey Board of Public U(cid:20)li(cid:20)es. The statutes under which NJBPU is granted its authority N.J.S.A. 48:1 et seq and can be accessed online at Rutgers
+Law Library.
+Customer Informa(cid:53)on and Authoriza(cid:53)on: Customer authorizes CleanSky Energy to obtain informa(cid:20)on from the u(cid:20)lity, including account
+informa(cid:20)on, historical and future electric consump(cid:20)on, rate classifica(cid:20)on, meter readings, characteris(cid:20)cs of electric service, and billing and
+payment informa(cid:20)on. This authoriza(cid:20)on will remain in effect during the Term and any renewal term of this Agreement. Acceptance of this
+Agreement is an authoriza(cid:20)on for the release of the informa(cid:20)on. By providing telephone numbers, including wireless and work numbers to
+CleanSky, Customer expressly consents to being contacted at those numbers by CleanSky or a party calling on behalf of CleanSky for any purpose
+related to Customer's account, or future possible goods or services, including debt-collec(cid:20)on, by a live person, pre-recorded voice, and/or
+automated dialing. If Customer has u(cid:20)lized an agent or broker to contract energy purchases from CleanSky Energy, Customer authorizes CleanSky
+to disclose to the agent or broker informa(cid:20)on pertaining to Customer’s electric purchases as applicable. Customer (and Customer's signatory, if
+signatory is noted as Customer's spouse/civil union partner) agree to CleanSky obtaining a credit report and inves(cid:20)ga(cid:20)ng Customer's (and, if
+applicable, signatory’s) credit ra(cid:20)ng, credit history and U(cid:20)lity bill payment status and history. CleanSky is not obligated to accept, or con(cid:20)nue
+performing, this Agreement if Customer does not meet CleanSky's credit requirements.
+Wri(cid:63)en No(cid:53)ce and Electronic Disclosure Authoriza(cid:53)on: Wri(cid:77)en no(cid:20)ce includes, but is not limited to, no(cid:20)ce by electronic mail to a valid email
+address provided by Customer. If Customer is enrolling or renewing electronically, Customer is consen(cid:20)ng to electronic receipt of all the required
+disclosures provided during the enrollment process, like the Contract Summary, ESA, and Terms of Service, and monthly billed invoices as
+applicable. Customer must have a valid email address and is obligated to keep CleanSky Energy informed of any changes to the email address
+provided during enrollment or renewal, or any changes or withdrawal of consent for the electronic transmission of customer disclosures.
+Changes to Terms of Service: These Terms of Service may be amended by CleanSky at any (cid:20)me, except that CleanSky may only change the price
+and Term as specified previously herein. CleanSky will provide wri(cid:77)en no(cid:20)ce to Customer at least 14 days in advance of the date that the change
+to this Agreement will be applied to the Customer’s bill or take effect unless the change benefits Customer. CleanSky is not required to provide
+no(cid:20)ce automa(cid:20)cally for material changes that benefit the Customer but will, upon request, provide each document to Customer at any (cid:20)me free
+of charge. Upon receipt of wri(cid:77)en no(cid:20)ce of a material change, Customer may terminate this Agreement without being assessed an early
+termina(cid:20)on or cancella(cid:20)on fee within 14 calendar days a(cid:75)er the date of the no(cid:20)ce, unless such change favors Customer.
+Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)
+that are billing more than $0 and (ii) for which CleanSky has not received a request to discon(cid:20)nue (drop) service or change programs and (iii) are in
+good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also
+subject to any terms and condi(cid:20)ons stated in the offer and as may be located on CleanSky's website(s). More informa(cid:20)on on the terms and
+condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account
+holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|4 of 5
+CLEANSKY ENERGY
+RESIDENTIAL & SMALL COMMERCIAL TOS – FIXED & VARIABLE PRICE PRODUCTS – NJ MARKETS
+Force Majeure: If CleanSky is rendered unable to perform, in whole or in part, by a Force Majeure event, its performance under this Agreement
+will be excused for the dura(cid:20)on of such event. CleanSky will take all reasonable steps to remedy the effect of the Force Majeure event. “Force
+Majeure” means any act or event that is beyond the reasonable control of CleanSky that adversely affects, interrupts, or precludes its
+performance. In addi(cid:20)on, acts of other par(cid:20)es, including the u(cid:20)li(cid:20)es in New Jersey, PJM, aggregators, other suppliers, scheduling en(cid:20)(cid:20)es and
+agents, and the respec(cid:20)ve employees and agents of such par(cid:20)es, will also be deemed to be events of Force Majeure.
+Governing Law: This Agreement shall be governed by and construed, enforced and performed in accordance with the laws of the State of Texas
+and venue shall be in Harris County, Texas. The provisions of the Uniform Commercial Code (UCC) shall apply to this Agreement, and electricity
+shall be a “good” for purposes of the UCC.
+Assignment: This Agreement shall be binding upon and inure to the benefit of, and may be performed by the successors and permi(cid:77)ed assigns of
+the Par(cid:20)es except that no assignment, pledge or other transfer of this Agreement by either Party shall operate to release the assignor, pledgor, or
+transferor of any of its obliga(cid:20)ons under this Agreement. Notwithstanding any other provision of this Agreement, Customer agrees that CleanSky
+Energy shall have the right to pledge this Agreement to its bank or other lending ins(cid:20)tu(cid:20)on(s) and to assign this Agreement, together with all rights
+and obliga(cid:20)ons hereunder, to Company’s electricity and/or natural gas supplier, or such supplier’s designee. CleanSky will inform customer 30
+days prior to any assignment of the account. Nothing in this provision shall deny CleanSky or Customer of any benefits obtained, or relieve them
+of any obliga(cid:20)ons, du(cid:20)es, and responsibili(cid:20)es incurred, prior to any assignment under this provision.
+No Waiver: Any failure by CleanSky to enforce any term or condi(cid:20)on of Customer’s electric or gas service or otherwise exercise any right it may
+have under this Agreement will not be deemed a waiver of any rights to therea(cid:75)er enforce any or all of the terms or condi(cid:20)ons of Customer’s
+service or to exercise rights under this Agreement.
+Mandatory Arbitra(cid:53)on: Any claim, dispute or controversy, regarding any contract, tort, statute, or otherwise (“Claim”), arising out of or rela(cid:20)ng to
+this Agreement or the rela(cid:20)onships among the par(cid:20)es hereto shall be resolved by one arbitrator through binding arbitra(cid:20)on administered by the
+American Arbitra(cid:20)on Associa(cid:20)on (“AAA”) under the AAA Commercial or Consumer rules, as applicable, in effect at the (cid:20)me the Claim is filed
+(“AAA Rules”). Copies of the AAA Rules and forms can be located at www.adr.org, or by calling 1-800-778-7879. The arbitrator’s decision shall be
+final, binding, and non-appealable. Judgment upon the award may be entered and enforced in any court having jurisdic(cid:20)on. This clause is made
+pursuant to a transac(cid:20)on involving interstate commerce and shall be governed by the Federal Arbitra(cid:20)on Act. Neither party shall sue the other
+party other than as provided herein for enforcement of this clause or of the arbitrator’s award; any such suit may be brought only in Federal
+District Court for the district in which Customer is located, or if any such court lacks jurisdic(cid:20)on, in any state court that has jurisdic(cid:20)on. The
+arbitrator, and not any federal, state or local court, shall have exclusive authority to resolve any dispute rela(cid:20)ng to the interpreta(cid:20)on, applicability,
+unconscionability, arbitrability, enforceability or forma(cid:20)on of this Agreement including any claim that all or any part of the Agreement is void or
+voidable. However, the preceding sentence shall not apply to ac(cid:20)ons contemplated in sec(cid:20)on en(cid:20)tled “Class Ac(cid:20)on Waiver” below.
+Class Ac(cid:53)on Waiver:Any Claim permissible herein must be brought in the party’s individual capacity, and not as a plain(cid:20)ff or class member in any
+purported class, collec(cid:20)ve, representa(cid:20)ve, mul(cid:20)ple plain(cid:20)ff, or similar proceeding (“Class Ac(cid:20)on”). Each of the par(cid:20)es expressly waives any ability
+to maintain any Class Ac(cid:20)on in any forum. The arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class
+Ac(cid:20)on nor make an award to any en(cid:20)ty or person not a party to the arbitra(cid:20)on. Any claim that all or part of this Class Ac(cid:20)on Waiver is
+unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdic(cid:20)on and not by an arbitrator. THE
+PARTIES UNDERSTAND THAT THEY WOULD HAVE HAD A RIGHT TO LITIGATE THROUGH A COURT, TO HAVE A JUDGE OR JURY DECIDE THEIR
+CASE INDIVDUALLY OR TO BE PARTY TO A CLASS OR REPRESENTATIVE ACTION, HOWEVER, THEY UNDERSTAND AND CHOOSE TO HAVE ANY
+CLAIMS DECIDED INDIVIDUALLY THROUGH ARBITRATION.
+Warran(cid:53)es: CLEANSKY ENERGY MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESSED OR IMPLIED, WITH REGARD TO THE
+PROVISION OF ELECTRIC SERVICE AND DISCLAIMS ANY AND ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO,
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF
+TRADE.
+Limita(cid:53)on of Liability:Customer will be deemed to be in exclusive control (and responsible for any damages or injury caused thereby) of the
+electric power a(cid:75)er receipt at the delivery point or points. CLEANSKY ENERGY WILL NOT BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES (INCLUDING LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES),
+WHETHER BY STATUTE, IN CONTRACT OR TORT, EVEN IF THE RESULT OF NEGLIGENCE (WHETHER SOLE, JOINT, CONCURRENT, ACTIVE OR
+PASSIVE). ALL OTHER LIABILITY WILL BE LIMITED TO DIRECT ACTUAL DAMAGES ONLY, AND SUCH DIRECT ACTUAL DAMAGES WILL BE THE
+SOLE AND EXCLUSIVE REMEDY. CUSTOMER HEREBY WAIVES ALL OTHER REMEDIES AT LAW OR IN EQUITY. THERE ARE NO THIRD-PARTY
+BENEFICIARIES TO THIS AGREEMENT. To the extent any damages required to be paid hereunder are liquidated, the par(cid:20)es acknowledge that
+the damages are not intended and shall not be construed as a penalty, such damages are difficult or impossible to determine, that otherwise
+obtaining an adequate remedy is inconvenient or impossible, and that the liquidated damages cons(cid:20)tute a reasonable approxima(cid:20)on of the harm
+or loss.
+Definitions and Terms in this Agreement
+— Customer or Consumer- a retail electric customer or potential customer of retail electricity or natural gas supply service.
+— Small Commercial Customer - a commercial customer that is not a mercan(cid:20)le commercial customer and has the size a(cid:77)ributes defined by the
+customer's respective Utility.
+— TPS or Third-Party Supplier - an electric or natural gas supplier licensed and as defined under the New Jersey Administrative Code.
+— EDC or Electric Distribu(cid:20)on Company, Gas Distribu(cid:20)on Company - the public u(cid:20)lity providing facili(cid:20)es for the delivery of electricity and
+natural gas to retail customers.
+— New Jersey Board of Public Utilities (NJ BPU) - the New Jersey Board of Public Utilities
+CleanSky Energy - License Numbers: ESL-0255, GSL-0223|Terms of Service TOS_NJ_2026_V1|CSE_TOS_NJ_RES-SMCOMM_20221017.docx|5 of 5",,,,,,,,,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee:""}, ""incentives"": [""Rewards and/or Incen(cid:53)ves Programs: For purposes of receiving any rewards, bonuses and/or incen(cid:20)ves, ac(cid:20)ve accounts are defined as those (i)"", ""good standing (no past-due balance owed) during the minimum required number of days stated in the offer. Rewards and/or incen(cid:20)ves are also"", ""condi(cid:20)ons of any reward and/or incen(cid:20)ve programs are available by calling 1-888-355-6205. CleanSky reserves the right to disqualify any account"", ""holder from par(cid:20)cipa(cid:20)on in rewards and/or incen(cid:20)ves programs.""], ""renewable_claim"": ""costs) related transmission and distribu(cid:20)on charges, renewable-energy compliance charges, and other market-related factors, plus all"", ""renewable_source"": ""hydro, solar, wind"", ""form_fields"": {}}",[]

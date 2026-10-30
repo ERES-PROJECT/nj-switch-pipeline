@@ -1,0 +1,98 @@
+{
+  "tdsps": [
+    {
+      "ID": "111",
+      "config": {
+        "billImage": "https://thinkenergy-sample-bills.s3.us-west-2.amazonaws.com/NJ+PSEG+Bill.png",
+        "billingCycle": {
+          "range": null,
+          "required": false
+        },
+        "billing_method": "bill_ready",
+        "drop_leadtime": {
+          "lead_time": -13,
+          "type": "next_meter_read"
+        },
+        "enrollment_leadtime": {
+          "lead_time": -13,
+          "type": "next_meter_read"
+        },
+        "meterIdentifier": {
+          "description": "POD Number",
+          "mask": "[P, E, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/]",
+          "regex": "^[Pp][Ee][\\d]{18}$"
+        },
+        "meterIdentifier2": {
+          "description": "Account Number",
+          "electricity": "hidden",
+          "mask": "[/\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/]",
+          "regex": "^\\d{10,11}$"
+        },
+        "nameKey": {
+          "regex": null,
+          "required": false
+        },
+        "rate_change_leadtime": {
+          "lead_time": 1,
+          "type": "off_cycle"
+        }
+      },
+      "duns_number": "006973812",
+      "edi_name": "PSE&G Electric",
+      "name": "PSE&G Electric",
+      "offers": [
+        {
+          "billing": "{\"cs_discount\": \"0.2\"}",
+          "billing_method": "postpay",
+          "code": "nj.cs.ucb.pseg.lmi",
+          "description": "Subscribe to a local community solar farm that generates clean electricity for the grid.",
+          "display": "{\"features\": {\"media\": {\"url\": \"\", \"type\": \"\", \"label\": \"\", \"disabled\": true}, \"promo\": {\"type\": \"\", \"label\": \"\", \"disabled\": true}, \"banner\": {\"type\": \"\", \"label\": \"LMI Exclusive\", \"disabled\": false}}, \"disclaimers\": [\"* This offer and our terms and conditions are valid only for residential customers.\"], \"details_extra\": \"Minimum\", \"details_header\": \"Think Sunshine 20 by Think Community Solar\", \"details_bullets\": [\"<span>Community Solar:</span> Subscribe to a local community solar farm that generates clean electricity for the grid.\", \"<span>Fixed Discount:</span> Eligible customers receive a minimum discount of 20% on community solar credits applied to their monthly electricity bill throughout the program.\", \"<span>Savings for LMI Customers:</span> Customers provide proof of LMI status during enrollment. See a list of all eligible programs and required documentation at <a href=\\\"https://www.thinkenergy.com/lmi/\\\" target=\\\"_blank\\\">ThinkEnergy.com/LMI</a>.\"], \"summary_bullets\": [\"Minimum 20% off Solar Credits\", \"This Offer for Low-and-Moderate Income (LMI) Customers Only\", \"Free to Sign Up, No Early Termination Fees\", \"No Solar Panels on Your Roof\", \"Jobs and Economic Benefits for Your Community\"]}",
+          "documents": "[{\"description\":\"Community Solar Customer Agreement\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FCSCA_NJ_UCB.docx%5Cu0026commodity_rate%3D0.000000%5Cu0026term_months%3D240%5Cu0026rate_id%3D240686\",\"name\":\"CSCA\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/CSCA_NJ_UCB.docx\"}]",
+          "eligibility": "{\"tdsp\": [\"PSE&G Electric\"]}",
+          "external_meta_data": "{}",
+          "max_deposit": 0,
+          "meta_data": "{\"cancel_non_lmi\": true}",
+          "name": "Think Sunshine 20",
+          "offer_type": "new",
+          "options": "{\"tos_key\": \"NJ_UCB\", \"billing_type\": \"UCB\", \"lmi_discount\": true, \"lmi_required\": true, \"billing_segment\": \"think_cs_luminace\", \"credit_card_fee\": 2.5, \"autopay_required\": false, \"residential_only\": true, \"bill_upload_required\": true}",
+          "product_type": "community_solar",
+          "promo_code": "default",
+          "rate_id": 240686,
+          "service_type": "community_solar",
+          "start_date": "2026-09-02T09:11:38Z",
+          "tdsp": "PSE&G Electric",
+          "term_months": "240",
+          "verification_required": true,
+          "zone": ""
+        },
+        {
+          "billing": "{\"charges\": [\"fixed_commodity_rate\"], \"monthly_fee\": 0, \"commodity_rate\": 0.202, \"generation_rate\": 0}",
+          "billing_method": "postpay",
+          "code": "nj.fixed",
+          "description": "Our premier plan that provides 100% renewable electricity and added benefits.",
+          "display": "{\"features\": {\"media\": {\"url\": \"\", \"type\": \"\", \"label\": \"\", \"disabled\": true}, \"promo\": {\"type\": \"\", \"label\": \"\", \"disabled\": true}, \"banner\": {\"type\": \"\", \"label\": \"$100 Gift Card Available\", \"disabled\": false}}, \"disclaimers\": [\"* This offer and our terms and conditions are valid only for residential and small commercial customers.\"], \"average_rate\": {\"500kWh\": 20.2, \"1000kWh\": 20.2, \"2000kWh\": 20.2}, \"details_header\": \"Think Clean 12: 12 months of 100% renewable electricity and added benefits.\", \"details_bullets\": [\"<span>Clean Electricity:</span> Think Energy offsets 100% of your electricity usage with renewable energy certificates. Basically, that means your bill helps invest in the development of clean energy sources like solar and wind.\", \"<span>Fixed Rate:</span> The rate you pay will stay the same for the term of your contract. No surprises.\", \"<span>Cash Back:</span> Enroll with us and we’ll show our commitment to you with a $100 cash gift card.\"], \"summary_bullets\": [\"12 Month Fixed Rate Electricity Plan\", \"100% Clean Energy \", \"$100 Gift Card\"]}",
+          "documents": "[{\"description\":\"Contract Summary\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FCS_NJ.docx%5Cu0026commodity_rate%3D0.202000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240015\",\"name\":\"CS\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/CS_NJ.docx\"},{\"description\":\"Terms and Conditions\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FTOS_NJ.docx%5Cu0026commodity_rate%3D0.202000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240015\",\"name\":\"TOS\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/TOS_NJ.docx\"},{\"description\":\"Environmental Information Disclosure\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/edl/NJ_RESI_ENV.pdf\",\"name\":\"EDL\"},{\"description\":\"Arbitration and Class Action Policy Addendum\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Arbitration_and_Class_Action_Policy_Addendum.pdf\",\"name\":\"ACAPA\"},{\"description\":\"Communications Policy\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Communications_Policy.pdf\",\"name\":\"CP\"},{\"description\":\"Promotion Terms\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/promotions/%24100+Gift+Card+Promotion+Terms.pdf\",\"name\":\"PT\"}]",
+          "eligibility": "{\"tdsp\": [\"PSE&G Electric\", \"Atlantic City Electric\", \"Rockland Electric Company\", \"Jersey Central Power and Light - First Energy\"], \"state\": \"NJ\"}",
+          "external_meta_data": "{}",
+          "max_deposit": 0,
+          "meta_data": "{\"promo_type\": \"$100 Gift Card\", \"tdsp_rates\": null, \"renewal_type\": \"F2F\", \"average_rates\": [{\"level\": \"500kWh\", \"value\": 20.2}, {\"level\": \"1000kWh\", \"value\": 20.2}, {\"level\": \"2000kWh\", \"value\": 20.2}], \"design_margin\": 0.018, \"green_percentage\": 100}",
+          "name": "Think Clean 12",
+          "offer_type": "new",
+          "options": "{\"billing_segment\": \"think_ntx\", \"run_identity_check\": true, \"commercial_bill_upload_required\": true}",
+          "product_type": "fixed",
+          "promo_code": "default",
+          "rate_id": 240015,
+          "service_type": "electricity",
+          "start_date": "2026-08-12T15:26:49Z",
+          "tdsp": "PSE&G Electric",
+          "term_months": "12",
+          "verification_required": true,
+          "zone": ""
+        }
+      ],
+      "state_code": "NJ",
+      "zonal_pricing": false,
+      "zone": ""
+    }
+  ]
+}

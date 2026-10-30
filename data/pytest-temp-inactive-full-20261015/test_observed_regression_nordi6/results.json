@@ -1,0 +1,149 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Nordic Energy Services",
+      "utility": "PSE&G Electric",
+      "commodity": "electric",
+      "zip": "07102",
+      "url": "https://www.nordicenergy-us.com/",
+      "adapter": "nordic_energy_services",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:44.216738+00:00",
+    "finished_at": "2026-10-15T18:29:44.981616+00:00",
+    "status": "success",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 1,
+    "offers": [
+      {
+        "key": "47a9a74ee292559bdc32aa2a",
+        "supplier": "Nordic Energy Services",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Nordic PSEG Electric 2 Month Fixed Electric",
+        "product_id": "4227",
+        "price": {
+          "value": "0.18599",
+          "unit": "USD/kWh",
+          "raw": "$0.18599/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 2,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://www.nordicenergy-us.com/get-rates/?customer-type=Residential&state-selector=New+Jersey&utility-selector-gas=&utility-selector-electric=PSEG",
+        "source_kind": "html",
+        "artifact_id": "72e5e252caec374e9897ce51e7cbec0731a88d251af3ecde3f78acb30d6d1d55",
+        "captured_at": "2026-10-14T02:38:13.288051+00:00",
+        "raw_fields": {
+          "text": "Nordic PSEG Electric 2 Month Fixed Electric\n$0.18599/kWh\n2 months\nFixed rate"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [
+      {
+        "id": "ad7a430b3509347914d442167aed27442f5f431d87623f35aaad069a67ff780c",
+        "url": "https://www.nordicenergy-us.com/illinois-uniform-disclosures/",
+        "artifact_id": "ad7a430b3509347914d442167aed27442f5f431d87623f35aaad069a67ff780c",
+        "media_type": "text/html",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://www.nordicenergy-us.com/illinois-uniform-disclosures/"
+        ],
+        "sections": {},
+        "raw_text": "Nordic Energy - Environmental Disclosures | Natural Gas and Electric Supplier\nSkip to main content\nLearn about Nordic’s NordiGreen Program where our products are backed by renewable energy credits and carbon offsets ➞\nNordic Energy\n877-808-1022\nMenu\nGas and Electric Plans\nFor Your Home\nCable, Internet, Phone\nHome Warranty\nWhy Nordic?\nBlog\nAbout Us\nResidential\nCommercial\nCommercial Electricity\nCommercial Gas\nRewards\nThe Nordic Advantage\nLeadership\nNordiGreen\nGas Service Map\nElectric Service Map\nResidential Products\nStates We Serve\nDelaware\nDelmarva Power\nDelaware Variable Rates\nIllinois\nComed for Commercial\nNicor for Commercial\nNorthshore for Commercial\nPeoples Gas for Commercial\nAmeren\nComEd\nNicor Gas\nNorth Shore Gas\nPeoples Gas\nIllinois Variable Rates\nIllinois Uniform Disclosures\nIndiana\nNIPSCO Alternative in Indiana\nMaine\nCentral Maine Power\nMaryland\nBaltimore Gas & Electric\nDelmarva Power\nPepco\nPOTOMAC\nBGE - Gas\nWashington Gas\nMD Estimated Variable Prices\nMassachusetts\nBoston Edison\nCambridge\nCommonwealth Elec\nEversource - Eastern MA\nEversource - Western MA\nNational Grid - MECO\nMassachusetts Variable Rates\nNew Jersey Energy Alternative South Jersey Gas\nMichigan\nConsumers Energy Gas\nDTE Energy Alternative\nMichigan Gas Utilities\nSEMCO Gas Alternative\nNew Jersey\nAtlantic City Electric\nJCP&L\nPSEG Electric\nNew Jersey Natural Gas\nPSEG Gas\nNew York\nCentral Hudson Electric\nConEd\nNYSEG Electric\nOrange & Rockland Electric\nRGE Electric Alternative\nOhio\nCleveland Illum\nCleveland Illuminating OH Alternative\nColumbus South\nOhio Energy Alternative Duke Energy\nOhio Edison\nOhio Power\nToledo Edison\nColumbia Gas of Ohio\nDominion Energy Ohio\nDuke Energy Ohio Gas\nVectren - Gas\nOhio Energy Alternative DP&L\nPennsylvania\nPECO Gas for Commercial\nPECO Electric for Commercial\nColumbia Gas Alternative\nDuquense\nEquitable Gas\nMet-Ed\nNational Fuel Gas PA\nPECO Electric Alternative\nPenelec Alternative\nPenn Power Alternative\nPPL Electric Alternative\nPECO Gas Alternative\nPhil. Gas Works\nPA Average Rates\nUGI Electric PA Alternative\nUGI Gas\nWest Penn Power Alternative\nRhode Island\nNational Grid\nRhode Island Variable Rates\nVirginia\nColumbia Gas of Virginia\nWashington Gas\nWashington D.C.\nWashington Gas DC Gas\nPepco DC Electric\nCustomer Service\nContact\nCustomer Service FAQ\nNatural Gas Products\nEducation\nDay Ahead Pricing\nEnvironmental Disclosures\nNYMEX\nLinks\nGlossary\nAbout De-Regulation\nEnergy Saving Tips\nSearch the site\nIllinois Uniform Disclosures\nAmeren\nView Here\nComEd\nView Here\nNicor\nView Here\nNorth Shore Gas\nView Here\nPeoples Gas\nView Here\nDISCLAIMER:\nNordic Energy Services, LLC (\"Nordic\"), is not the same entity as your electric delivery company.\r\n                    You are not required to enroll with Nordic. Beginning on (effective date), the electric supply price\r\n                    to compare is (price in cents per kilowatt hour). The electric utility electric supply price will\r\n                    expire on (expiration date). The utility electric supply price to compare does not include the\r\n                    purchased electricity adjustment factor. For more information go to the Illinois Commerce Commission's\r\n                    free website at www.pluginillinois.org. The purchased electricity adjustment factor may range between\r\n                    +.5 cents and -.5 cents per kilowatt hour.\nCustomer Service:\n877-808-1022\nFax: 630-321-0819\nEmail:\n[EMAIL REDACTED]\nShop Plans\nRewards\nWhy Nordic?\nThe Nordic Advantage\nElectric Service Map\nNatural Gas Service Map\nAgents\nEnergy/Gas Brokers\nElectric Portal\nAbout Us\nAbout Nordic\nLeadership\nAccessibility\nCustomer Service\nContact\nFAQ\nNatural Gas Products\nEducation\nDay Ahead Pricing\nEnvironmental Disclosures\nNYMEX\nLinks\nGlossary\nEnergy Saving Tips\n© 2026 Nordic Energy\nPrivacy Policy\nBiometric Policy\nBuilt by\nRhino Group\nBack to top\nSee Rates\nClose\nClose\n×",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      },
+      {
+        "id": "ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7",
+        "url": "https://www.nordicenergy-us.com/environmental-disclosures/",
+        "artifact_id": "ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7",
+        "media_type": "text/html",
+        "document_kind": "environmental",
+        "source_urls": [
+          "https://www.nordicenergy-us.com/environmental-disclosures",
+          "https://www.nordicenergy-us.com/environmental-disclosures/"
+        ],
+        "sections": {},
+        "raw_text": "Environmental Disclosures: Energy Source & Emissions Data | Nordic Energy Service\nSkip to main content\nLearn about Nordic’s NordiGreen Program where our products are backed by renewable energy credits and carbon offsets ➞\nNordic Energy\n877-808-1022\nMenu\nGas and Electric Plans\nFor Your Home\nCable, Internet, Phone\nHome Warranty\nWhy Nordic?\nBlog\nAbout Us\nResidential\nCommercial\nCommercial Electricity\nCommercial Gas\nRewards\nThe Nordic Advantage\nLeadership\nNordiGreen\nGas Service Map\nElectric Service Map\nResidential Products\nStates We Serve\nDelaware\nDelmarva Power\nDelaware Variable Rates\nIllinois\nComed for Commercial\nNicor for Commercial\nNorthshore for Commercial\nPeoples Gas for Commercial\nAmeren\nComEd\nNicor Gas\nNorth Shore Gas\nPeoples Gas\nIllinois Variable Rates\nIllinois Uniform Disclosures\nIndiana\nNIPSCO Alternative in Indiana\nMaine\nCentral Maine Power\nMaryland\nBaltimore Gas & Electric\nDelmarva Power\nPepco\nPOTOMAC\nBGE - Gas\nWashington Gas\nMD Estimated Variable Prices\nMassachusetts\nBoston Edison\nCambridge\nCommonwealth Elec\nEversource - Eastern MA\nEversource - Western MA\nNational Grid - MECO\nMassachusetts Variable Rates\nNew Jersey Energy Alternative South Jersey Gas\nMichigan\nConsumers Energy Gas\nDTE Energy Alternative\nMichigan Gas Utilities\nSEMCO Gas Alternative\nNew Jersey\nAtlantic City Electric\nJCP&L\nPSEG Electric\nNew Jersey Natural Gas\nPSEG Gas\nNew York\nCentral Hudson Electric\nConEd\nNYSEG Electric\nOrange & Rockland Electric\nRGE Electric Alternative\nOhio\nCleveland Illum\nCleveland Illuminating OH Alternative\nColumbus South\nOhio Energy Alternative Duke Energy\nOhio Edison\nOhio Power\nToledo Edison\nColumbia Gas of Ohio\nDominion Energy Ohio\nDuke Energy Ohio Gas\nVectren - Gas\nOhio Energy Alternative DP&L\nPennsylvania\nPECO Gas for Commercial\nPECO Electric for Commercial\nColumbia Gas Alternative\nDuquense\nEquitable Gas\nMet-Ed\nNational Fuel Gas PA\nPECO Electric Alternative\nPenelec Alternative\nPenn Power Alternative\nPPL Electric Alternative\nPECO Gas Alternative\nPhil. Gas Works\nPA Average Rates\nUGI Electric PA Alternative\nUGI Gas\nWest Penn Power Alternative\nRhode Island\nNational Grid\nRhode Island Variable Rates\nVirginia\nColumbia Gas of Virginia\nWashington Gas\nWashington D.C.\nWashington Gas DC Gas\nPepco DC Electric\nCustomer Service\nContact\nCustomer Service FAQ\nNatural Gas Products\nEducation\nDay Ahead Pricing\nEnvironmental Disclosures\nNYMEX\nLinks\nGlossary\nAbout De-Regulation\nEnergy Saving Tips\nSearch the site\nEnvironmental Disclosures: Energy Source & Emissions Data\nAt Nordic Energy, we are committed to full transparency in our environmental disclosures. On this page, you’ll find detailed energy source breakdowns, greenhouse gas emissions data, and regulatory compliance reporting that reflect our dedication to sustainability and responsible energy sourcing.\nBy publishing our fuel mix, carbon footprint, air emissions, and renewable energy share, we ensure customers and stakeholders can make informed decisions about their energy consumption. We follow recognized frameworks and industry reporting standards to present credible environmental impact statements and support corporate climate risk disclosures.\nExplore our disclosures to see how we align with clean energy goals, resource diversification, and emission reduction strategies, because accountability and clean power go hand in hand.\nAmeren\n2018 Q1\n2018 Q3\n2018 Q4\n2019 Q1\n2019 Q2\n2019 Q3\n2019 Q4\n2020 Q1\n2020 Q2\n2020 Q3\n2020 Q4\n2021 Q1\n2021 Q2\n2021 Q3\n2022 Q3\n2022 Q4\n2023 Q1\n2023 Q2\n2023 Q3\n2023 Q4\n2024 Q1\n2024 Q2\n2024 Q3\n2025 Q1\n2025 Q2\n2025 Q3\n2025 Q4\n2026 Q1\n2026 Q2\nComEd\n2018 Q1\n2018 Q2\n2018 Q3\n2018 Q4\n2019 Q1\n2019 Q2\n2019 Q3\n2019 Q4\n2020 Q1\n2020 Q2\n2020 Q3\n2020 Q4\n2021 Q1\n2021 Q2\n2021 Q3\n2021 Q4\n2022 Q1\n2022 Q2\n2022 Q3\n2022 Q4\n2023 Q3\n2023 Q4\n2024 Q1\n2024 Q2\n2024 Q4\n2025 Q1\n2025 Q2\n2025 Q3\n2025 Q4\n2026 Q1\nDistrict Of Columbia\n2022\n2024\n2025\n6/30/2025\nMaryland\nAnnual Disclosures Ending\n11/30/2017\n6/30/2018\n12/31/2018\n6/30/2019\n9/30/2019\n6/30/2020\n12/31/2020\n6/30/2022\n2025\n6/30/2025\nMassachusetts\nAnnual Disclosures Ending\n5/31/2017\n9/30/2017\n12/31/2017\n3/31/2018\n6/30/2018\n9/30/2018\n12/31/2018\n3/31/2019\n6/30/2019\n12/31/2019\n3/31/2020\n6/30/2020\n9/30/2020\n12/31/2020\n3/31/2021\n6/30/2021\n6/30/2022\n9/30/2022\n6/30/2023\n9/30/2023\n12/31/2023\n3/31/2024\n6/30/2024\n9/30/2024\n12/31/2024\n3/31/2025\n6/30/2025\n9/30/2025\n3/31/2026\nNew Jersey\nAnnual Disclosures Ending\n5/31/2017\n5/31/2018\n5/31/2019\n5/31/2020\n5/31/2022\n5/31/2025\nNew York\n2016\nOhio\n2018 Q1-Q3\n2019\n2020 Q1-Q3\n2020 Q4\n2021\n2022 Q1-Q3\n2023 Q1\n2023\n2024\n2024 Q2\n2024 Q3\n2024 Q4\n2025\n2025 Q1\n2025 Q2\n2025 Q3\n2026 Q1\n2026 Q2\nRhode Island\nAnnual Disclosures Ending\n6/30/2024\nPennsylvania\nAnnual Disclosures Ending\n6/30/2025\n9/30/2026\nDISCLAIMER:\nNordic Energy Services, LLC (\"Nordic\"), is not the same entity as your electric delivery company.\r\n                    You are not required to enroll with Nordic. Beginning on (effective date), the electric supply price\r\n                    to compare is (price in cents per kilowatt hour). The electric utility electric supply price will\r\n                    expire on (expiration date). The utility electric supply price to compare does not include the\r\n                    purchased electricity adjustment factor. For more information go to the Illinois Commerce Commission's\r\n                    free website at www.pluginillinois.org. The purchased electricity adjustment factor may range between\r\n                    +.5 cents and -.5 cents per kilowatt hour.\nCustomer Service:\n877-808-1022\nFax: 630-321-0819\nEmail:\n[EMAIL REDACTED]\nShop Plans\nRewards\nWhy Nordic?\nThe Nordic Advantage\nElectric Service Map\nNatural Gas Service Map\nAgents\nEnergy/Gas Brokers\nElectric Portal\nAbout Us\nAbout Nordic\nLeadership\nAccessibility\nCustomer Service\nContact\nFAQ\nNatural Gas Products\nEducation\nDay Ahead Pricing\nEnvironmental Disclosures\nNYMEX\nLinks\nGlossary\nEnergy Saving Tips\n© 2026 Nordic Energy\nPrivacy Policy\nBiometric Policy\nBuilt by\nRhino Group\nBack to top\nSee Rates\nClose\nClose\n×",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      }
+    ],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "d41603e67448ba6dea5e644b3441c9a8eff8b727ee70353d29be7d394b959d15",
+        "path": "d41603e67448ba6dea5e644b3441c9a8eff8b727ee70353d29be7d394b959d15.json",
+        "kind": "json",
+        "url": "https://www.nordicenergy-us.com/get-rates/?customer-type=Residential&state-selector=New+Jersey&utility-selector-gas=&utility-selector-electric=PSEG",
+        "captured_at": "2026-10-15T18:29:44.220702+00:00",
+        "bytes": 1751
+      },
+      {
+        "id": "72e5e252caec374e9897ce51e7cbec0731a88d251af3ecde3f78acb30d6d1d55",
+        "path": "72e5e252caec374e9897ce51e7cbec0731a88d251af3ecde3f78acb30d6d1d55.html",
+        "kind": "html",
+        "url": "https://www.nordicenergy-us.com/get-rates/?customer-type=Residential&state-selector=New+Jersey&utility-selector-gas=&utility-selector-electric=PSEG",
+        "captured_at": "2026-10-15T18:29:44.448181+00:00",
+        "bytes": 649511
+      },
+      {
+        "id": "ad7a430b3509347914d442167aed27442f5f431d87623f35aaad069a67ff780c",
+        "path": "ad7a430b3509347914d442167aed27442f5f431d87623f35aaad069a67ff780c.html",
+        "kind": "html",
+        "url": "https://www.nordicenergy-us.com/illinois-uniform-disclosures/",
+        "captured_at": "2026-10-15T18:29:44.620610+00:00",
+        "bytes": 29341
+      },
+      {
+        "id": "ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7",
+        "path": "ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7.html",
+        "kind": "html",
+        "url": "https://www.nordicenergy-us.com/environmental-disclosures/",
+        "captured_at": "2026-10-15T18:29:44.821722+00:00",
+        "bytes": 50233
+      },
+      {
+        "id": "ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7",
+        "path": "ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7.html",
+        "kind": "html",
+        "url": "https://www.nordicenergy-us.com/environmental-disclosures",
+        "captured_at": "2026-10-15T18:29:44.948574+00:00",
+        "bytes": 50233
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

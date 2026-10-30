@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+Nordic Energy Services|SJG Gas|gas,Nordic Energy Services,SJG Gas,gas,08094,nordic_energy_services,success,browser_dom,True,True,1,1,0,2,,,,,

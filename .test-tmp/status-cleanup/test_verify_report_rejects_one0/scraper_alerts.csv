@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+Example Energy|PSE&G Electric|electric,Example Energy,PSE&G Electric,electric,07102,warning,not_completed,status=partial
+Example Energy|PSE&G Electric|electric,Example Energy,PSE&G Electric,electric,07102,critical,completion_integrity_issue,"Direct ZIP utility evidence was absent or ambiguous: expected one exact utility code, found 0"
+Example Energy|PSE&G Electric|electric,Example Energy,PSE&G Electric,electric,07102,critical,completion_integrity_issue,Direct product API evidence was not captured for this navigation

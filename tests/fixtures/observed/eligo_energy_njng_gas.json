@@ -1,0 +1,7 @@
+{
+  "query": {"supplier": "Eligo Energy", "utility": "NJNG Gas", "commodity": "gas", "zip": "07712", "url": "https://www.eligoenergy.com/", "adapter": "eligo_energy"},
+  "captured_at": "2026-09-17T00:00:00Z",
+  "context_verified": true,
+  "source_url": "https://www.eligoenergy.com/rates/utilities/njng_gas_nj",
+  "html": "<div class='flow-result-card'><span class='flow-card-title'><strong>3 Month Fixed Rate</strong></span><p>Secure a fixed rate for your gas supply throughout your term</p><span class='flow-card-price'>129.0 cents/</span><span class='flow-card-unit'>Therm</span><a href='/signup/standard_residential_gas?z=njng_gas_nj&amp;t=3&amp;p=129000&amp;g=0'>Sign up</a></div><div class='flow-result-card'><span class='flow-card-title'><strong>6 Month Fixed Rate</strong></span><p>Secure a fixed rate for your gas supply throughout your term</p><span class='flow-card-price'>129.0 cents/</span><span class='flow-card-unit'>Therm</span><a href='/signup/standard_residential_gas?z=njng_gas_nj&amp;t=6&amp;p=129000&amp;g=0'>Sign up</a></div><div class='flow-result-card'><span class='flow-card-title'><strong>12 Month Fixed Rate</strong></span><p>Secure a fixed rate for your gas supply throughout your term</p><span class='flow-card-price'>69.9 cents/</span><span class='flow-card-unit'>Therm</span><a href='/signup/standard_residential_gas?z=njng_gas_nj&amp;t=12&amp;p=69900&amp;g=0'>Sign up</a></div>"
+}

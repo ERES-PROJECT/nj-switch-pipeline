@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07102,warning,not_completed,status=partial

@@ -1,0 +1,10 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,060ee066cfa3fe5a9c6e9f0fcd753d7fdf7685beb0d64df05af92922ba61efbd,terms_or_other,text_extracted,12,0,0,,False,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,cccd7901532b1829307976c8b12d9fad4c9bfee8948bd4e039f42bacd3c7887e,terms_or_other,text_extracted,12,0,0,,False,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,a6f1a7cdc689ddee65585b7f5669e4cec6542b31f6173b60020d9f8a69214627,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,ab7068938057f7a20f150dc2658578a3fba705118babb8e41460b6cfe60473f3,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,71eb795245063b3ef0a4eabd7e218021c81805fcd2562a7e1b4ba9d32151253b,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,581468d9e1e6cd46720bb63d70289ceccc6156790e70d666c22b548fa7a931fd,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,a9f3dc8d1475d2d14496e9a6c0b0b1d3452c6805703726915752335156966590,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,1028c38cff9576c9677ae7d3efcbf15974e079173097e422bdb8abf0ca374122,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,4f6af2d501f740605c4f71d635bd882d7ba3667cf25ef0b8766e6f31b5dfe74a,contract_summary,parsed,12,12,0,,True,0

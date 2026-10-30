@@ -1,0 +1,317 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Clearview Energy",
+      "utility": "ACE Electric",
+      "commodity": "electric",
+      "zip": "08401",
+      "url": "https://www.clearviewenergy.com/residential/",
+      "adapter": "clearview_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:33.135689+00:00",
+    "finished_at": "2026-10-15T18:29:33.259732+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 5,
+    "offers": [
+      {
+        "key": "cce8eb3fc39383ae91eef2de",
+        "supplier": "Clearview Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "ClearGuarantee24Plus",
+        "product_id": "414938",
+        "price": {
+          "value": "0.1369",
+          "unit": "USD/kWh",
+          "raw": "13.69\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "9.99",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$9.99",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414938",
+            "label": "TOS Docs",
+            "product_id": "414938",
+            "offer_key": "cce8eb3fc39383ae91eef2de",
+            "discovery_artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4",
+        "captured_at": "2026-09-11T13:58:14.753398+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee24Plus\nElectric\nResidential\n13.69\n¢\n/\nkWh\nUtility:\nACE\nPlan code:\n414938\nRate type:\nFixed\nTerm:\n24 Mo.\nBase Fee:\n$9.99\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n13.69 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "f1abf4db64610e2ac0fe7cb4",
+        "supplier": "Clearview Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "ClearGuarantee18Plus",
+        "product_id": "414940",
+        "price": {
+          "value": "0.1379",
+          "unit": "USD/kWh",
+          "raw": "13.79\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 18,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "9.99",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$9.99",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414940",
+            "label": "TOS Docs",
+            "product_id": "414940",
+            "offer_key": "f1abf4db64610e2ac0fe7cb4",
+            "discovery_artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4",
+        "captured_at": "2026-09-11T13:58:14.753398+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee18Plus\nElectric\nResidential\n13.79\n¢\n/\nkWh\nUtility:\nACE\nPlan code:\n414940\nRate type:\nFixed\nTerm:\n18 Mo.\nBase Fee:\n$9.99\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n13.79 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "3eb64955ff7279b582bf4971",
+        "supplier": "Clearview Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "ClearGuarantee12",
+        "product_id": "414934",
+        "price": {
+          "value": "0.1549",
+          "unit": "USD/kWh",
+          "raw": "15.49\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$0.00",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414934",
+            "label": "TOS Docs",
+            "product_id": "414934",
+            "offer_key": "3eb64955ff7279b582bf4971",
+            "discovery_artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4",
+        "captured_at": "2026-09-11T13:58:14.753398+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee12\nElectric\nResidential\n15.49\n¢\n/\nkWh\nUtility:\nACE\nPlan code:\n414934\nRate type:\nFixed\nTerm:\n12 Mo.\nBase Fee:\n$0.00\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n15.49 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "394c0605ed65937315faaaaa",
+        "supplier": "Clearview Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "ClearCharge12",
+        "product_id": "414942",
+        "price": {
+          "value": "0.1549",
+          "unit": "USD/kWh",
+          "raw": "15.49\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$0.00",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414942",
+            "label": "TOS Docs",
+            "product_id": "414942",
+            "offer_key": "394c0605ed65937315faaaaa",
+            "discovery_artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4",
+        "captured_at": "2026-09-11T13:58:14.753398+00:00",
+        "raw_fields": {
+          "text": "ClearCharge12\nElectric\nResidential\n15.49\n¢\n/\nkWh\nUtility:\nACE\nPlan code:\n414942\nRate type:\nFixed\nTerm:\n12 Mo.\nBase Fee:\n$0.00\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n15.49 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      },
+      {
+        "key": "3b6d15f45664659fb18a4bab",
+        "supplier": "Clearview Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "ClearGuarantee18",
+        "product_id": "414936",
+        "price": {
+          "value": "0.1579",
+          "unit": "USD/kWh",
+          "raw": "15.79\n¢\n/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 18,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Base Fee:\n$0.00",
+          "cancellation_fee": "ETF:\n$150"
+        },
+        "incentives": [
+          "Rewards:",
+          "Rewards"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://www.clearviewenergy.com/documents/tos/?productNum=414936",
+            "label": "TOS Docs",
+            "product_id": "414936",
+            "offer_key": "3b6d15f45664659fb18a4bab",
+            "discovery_artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "source_kind": "html",
+        "artifact_id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4",
+        "captured_at": "2026-09-11T13:58:14.753398+00:00",
+        "raw_fields": {
+          "text": "ClearGuarantee18\nElectric\nResidential\n15.79\n¢\n/\nkWh\nUtility:\nACE\nPlan code:\n414936\nRate type:\nFixed\nTerm:\n18 Mo.\nBase Fee:\n$0.00\nETF:\n$150\nRewards:\n25 Monthly\nSelect Plan\n15.79 cents/kWh\n\nTOS Docs\nRewards"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "cdfdd9a9552443333f32d2c424519b4b04923dbae9be907b7402161a7b522caa",
+        "path": "cdfdd9a9552443333f32d2c424519b4b04923dbae9be907b7402161a7b522caa.json",
+        "kind": "json",
+        "url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "captured_at": "2026-10-15T18:29:33.137696+00:00",
+        "bytes": 3408
+      },
+      {
+        "id": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4",
+        "path": "531f877803ba338bdd9bc94d76c9fbbae12f12ccbec5c293601f8fb106139ee4.html",
+        "kind": "html",
+        "url": "https://www.clearviewenergy.com/ZipcodeLookup/?zip=08401&BtnActType=Resi",
+        "captured_at": "2026-10-15T18:29:33.186946+00:00",
+        "bytes": 157785
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

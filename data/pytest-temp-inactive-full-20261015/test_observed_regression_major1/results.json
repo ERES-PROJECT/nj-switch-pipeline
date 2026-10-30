@@ -1,0 +1,245 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Major Energy",
+      "utility": "ACE Electric",
+      "commodity": "electric",
+      "zip": "08401",
+      "url": "https://majorenergy.com/areas/nj/",
+      "adapter": "major_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:28:59.953994+00:00",
+    "finished_at": "2026-10-15T18:29:00.041034+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 4,
+    "offers": [
+      {
+        "key": "378acc7d124c1212a994d2bb",
+        "supplier": "Major Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Select 12",
+        "product_id": "148068",
+        "price": {
+          "value": "0.15490",
+          "unit": "USD/kWh",
+          "raw": "$0.15490\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=148068&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "148068",
+            "offer_key": "378acc7d124c1212a994d2bb",
+            "discovery_artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35",
+        "captured_at": "2026-09-11T05:23:02.986622+00:00",
+        "raw_fields": {
+          "text": "Detail\nSelect 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$0.15490\nper kWh\nEnroll Now\nSelect 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$0.15490\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nWe'll analyze your usage to see if you qualify. Should you remain on your utility default service, the average price for this same contract length is $0.1687 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://www.atlanticcityelectric.com/MyAccount/MyService/Pages/Price-to-Compare.aspx\nEnergy Rate: $0.15490\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "5bc611f748618476f4a5cb59",
+        "supplier": "Major Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Simple Choice 8",
+        "product_id": "152585",
+        "price": {
+          "value": "0.15990",
+          "unit": "USD/kWh",
+          "raw": "$0.15990\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=152585&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "152585",
+            "offer_key": "5bc611f748618476f4a5cb59",
+            "discovery_artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35",
+        "captured_at": "2026-09-11T05:23:02.986622+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 8\nTerm: 8 Months\n•\nRate Type: Fixed\n$0.15990\nper kWh\nEnroll Now\nSimple Choice 8\nTerm: 8 Months\n•\nRate Type: Fixed\n$0.15990\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.1687 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://www.atlanticcityelectric.com/MyAccount/MyService/Pages/Price-to-Compare.aspx\nEnergy Rate: $0.15990\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "7bcd0fd963c3dba2c9220060",
+        "supplier": "Major Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Simple Choice 12",
+        "product_id": "147572",
+        "price": {
+          "value": "0.16290",
+          "unit": "USD/kWh",
+          "raw": "$0.16290\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [
+          "With this energy plan, you can receive up to a $100 rebate. For the $100 rebate, redeem the first $50 after one month of service and the second $50 after 6 months of service from Major. Valid for new enrollments only.  For more information, visit https://majorenergy.com/rebate/"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=147572&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "147572",
+            "offer_key": "7bcd0fd963c3dba2c9220060",
+            "discovery_artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35",
+        "captured_at": "2026-09-11T05:23:02.986622+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$100 Rebate - Major\n$0.16290\nper kWh\nEnroll Now\nSimple Choice 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$100 Rebate - Major\n$0.16290\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.1687 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://www.atlanticcityelectric.com/MyAccount/MyService/Pages/Price-to-Compare.aspx\nSpecial Offer\nWith this energy plan, you can receive up to a $100 rebate. For the $100 rebate, redeem the first $50 after one month of service and the second $50 after 6 months of service from Major. Valid for new enrollments only.  For more information, visit https://majorenergy.com/rebate/\nEnergy Rate: $0.16290\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "ecd65780d95976bd972b5a63",
+        "supplier": "Major Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Simple Choice 3",
+        "product_id": "152584",
+        "price": {
+          "value": "0.16770",
+          "unit": "USD/kWh",
+          "raw": "$0.16770\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 3,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=152584&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "152584",
+            "offer_key": "ecd65780d95976bd972b5a63",
+            "discovery_artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35",
+        "captured_at": "2026-09-11T05:23:02.986622+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 3\nTerm: 3 Months\n•\nRate Type: Fixed\n$0.16770\nper kWh\nEnroll Now\nSimple Choice 3\nTerm: 3 Months\n•\nRate Type: Fixed\n$0.16770\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.1687 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://www.atlanticcityelectric.com/MyAccount/MyService/Pages/Price-to-Compare.aspx\nEnergy Rate: $0.16770\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35",
+        "path": "8b710ab9b75c6378e54ed6ef2872c6a714ab20ff71ec6d4277a7a341b5d23c35.html",
+        "kind": "html",
+        "url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "captured_at": "2026-10-15T18:28:59.982223+00:00",
+        "bytes": 36976
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Direct Energy|ACE Electric|electric,Direct Energy,ACE Electric,electric,08401,d9d7867459099af9f031c980,Live Brighter® 18,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|ACE Electric|electric,Direct Energy,ACE Electric,electric,08401,4276cbe8601eb0bb0bfb6ae1,Go Green Lights 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source,1
+Direct Energy|ACE Electric|electric,Direct Energy,ACE Electric,electric,08401,bb99693c6ee612dd08939346,Live Brighter® 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|ACE Electric|electric,Direct Energy,ACE Electric,electric,08401,3c6c0d31b5cfe038bf1dec38,Live Brighter® 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|ACE Electric|electric,Direct Energy,ACE Electric,electric,08401,ac12f53570a68819746bc1dd,Live Brighter® 15,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

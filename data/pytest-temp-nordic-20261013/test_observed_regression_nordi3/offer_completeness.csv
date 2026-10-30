@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Nordic Energy Services|SJG Gas|gas,Nordic Energy Services,SJG Gas,gas,08094,15ffcc163609ceda97bdfefe,Nordic South Jersey Gas 2 Month Fixed Gas,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

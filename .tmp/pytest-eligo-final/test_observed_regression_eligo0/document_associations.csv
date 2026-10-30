@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Eligo Energy|NJNG Gas|gas,Eligo Energy,NJNG Gas,gas,07712,6c4f0a53848aeaf080371b0d,3 Month Fixed Rate,0,0,missing_useful_document,none,
+Eligo Energy|NJNG Gas|gas,Eligo Energy,NJNG Gas,gas,07712,476cd2195cfe857044ff0d30,6 Month Fixed Rate,0,0,missing_useful_document,none,
+Eligo Energy|NJNG Gas|gas,Eligo Energy,NJNG Gas,gas,07712,66ec5aa6ae96cfdc6f5cbe01,12 Month Fixed Rate,0,0,missing_useful_document,none,

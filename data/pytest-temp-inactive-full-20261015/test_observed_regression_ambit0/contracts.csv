@@ -1,0 +1,3 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings
+2.0,Ambit Energy,PSE&G Electric,electric,07102,434f618e55b17394b02321c2a6cc1a2f5a279c519b2a3783e27b7d393e80ef9d,terms_or_other,text_extracted,https://www.ambitenergy.com/terms-of-use,[],market_level_public_document,[],,,,,,,,,,,,,{},[]
+2.0,Ambit Energy,PSE&G Electric,electric,07102,4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd,environmental,text_extracted,https://www.ambitenergy.com/environmental-disclosures,[],market_level_public_document,[],,,,,,,,,,,,,{},[]

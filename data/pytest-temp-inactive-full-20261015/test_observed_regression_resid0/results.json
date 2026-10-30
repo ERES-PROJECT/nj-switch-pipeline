@@ -1,0 +1,119 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Residents Energy",
+      "utility": "NJNG Gas",
+      "commodity": "gas",
+      "zip": "07712",
+      "url": "https://residentsenergy.com/",
+      "adapter": "residents_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:40.683161+00:00",
+    "finished_at": "2026-10-15T18:29:40.689064+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 2,
+    "offers": [
+      {
+        "key": "d5e661074c990b0b1f7ecb47",
+        "supplier": "Residents Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "Residents ResiSURE Brown 8 Bill Cycles",
+        "product_id": "njng-brown-8-1.04780",
+        "price": {
+          "value": "1.04780",
+          "unit": "USD/therm",
+          "raw": "$1.04780/therm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://residentsenergy.com/new-jersey-price-comparison/",
+        "source_kind": "html",
+        "artifact_id": "412ee267d6ec0eda16f30eac8240d830c87f135a55e6ffd3470ddb2c0d102052",
+        "captured_at": "2026-09-17T00:00:00Z",
+        "raw_fields": {
+          "text": "Residents ResiSURE Brown 8 Bill Cycles\n$1.04780/therm\n8 monthly billing cycles\nFixed rate"
+        },
+        "warnings": []
+      },
+      {
+        "key": "ca45fcb4380715f5d8a6c393",
+        "supplier": "Residents Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "Residents ResiSURE Green 8 Bill Cycles",
+        "product_id": "njng-green-8-1.23780",
+        "price": {
+          "value": "1.23780",
+          "unit": "USD/therm",
+          "raw": "$1.23780/therm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": "Residents ResiSURE Green 8 Bill Cycles",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://residentsenergy.com/new-jersey-price-comparison/",
+        "source_kind": "html",
+        "artifact_id": "412ee267d6ec0eda16f30eac8240d830c87f135a55e6ffd3470ddb2c0d102052",
+        "captured_at": "2026-09-17T00:00:00Z",
+        "raw_fields": {
+          "text": "Residents ResiSURE Green 8 Bill Cycles\n$1.23780/therm\n8 monthly billing cycles\nFixed rate"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "412ee267d6ec0eda16f30eac8240d830c87f135a55e6ffd3470ddb2c0d102052",
+        "path": "412ee267d6ec0eda16f30eac8240d830c87f135a55e6ffd3470ddb2c0d102052.html",
+        "kind": "html",
+        "url": "https://residentsenergy.com/new-jersey-price-comparison/",
+        "captured_at": "2026-10-15T18:29:40.686605+00:00",
+        "bytes": 385
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

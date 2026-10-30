@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,59d9649e8b7263a0781ddf86,Select 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,a246aa5b9e33fdfee6a3e8dc,Simple Choice 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,d1bc5cead9e925ca437e4fb8,Simple Choice 3,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Major Energy|PSE&G Electric|electric,Major Energy,PSE&G Electric,electric,07102,9961cb59bd7b0ac3cc77a7fe,Simple Choice 8,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

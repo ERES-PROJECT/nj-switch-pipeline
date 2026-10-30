@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Indra Energy|JCP&L Electric|electric,Indra Energy,JCP&L Electric,electric,07701,594a795810d0cc131edad3ff,Renewable Freedom Plan,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|JCP&L Electric|electric,Indra Energy,JCP&L Electric,electric,07701,87f0f6d4d48b23b8ed0585d2,Renewable Secure Rate 12,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|JCP&L Electric|electric,Indra Energy,JCP&L Electric,electric,07701,96f38a13245939f4c9a0c8d1,Renewable Secure Rate 6,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0

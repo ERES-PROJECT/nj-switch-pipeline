@@ -1,0 +1,159 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Eligo Energy",
+      "utility": "NJNG Gas",
+      "commodity": "gas",
+      "zip": "07712",
+      "url": "https://www.eligoenergy.com/",
+      "adapter": "eligo_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:40.765123+00:00",
+    "finished_at": "2026-10-15T18:29:40.771765+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 3,
+    "offers": [
+      {
+        "key": "6c4f0a53848aeaf080371b0d",
+        "supplier": "Eligo Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "3 Month Fixed Rate",
+        "product_id": "njng_gas_nj-3-129000-0",
+        "price": {
+          "value": "1.29",
+          "unit": "USD/therm",
+          "raw": "129.0 cents/\nTherm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 3,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://www.eligoenergy.com/rates/utilities/njng_gas_nj",
+        "source_kind": "html",
+        "artifact_id": "06b3988b073b3653ff0edd9fcae35d53995ee8983f18d90867b21753370012b4",
+        "captured_at": "2026-09-17T00:00:00Z",
+        "raw_fields": {
+          "text": "3 Month Fixed Rate\nSecure a fixed rate for your gas supply throughout your term\n129.0 cents/\nTherm\nSign up"
+        },
+        "warnings": []
+      },
+      {
+        "key": "476cd2195cfe857044ff0d30",
+        "supplier": "Eligo Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "6 Month Fixed Rate",
+        "product_id": "njng_gas_nj-6-129000-0",
+        "price": {
+          "value": "1.29",
+          "unit": "USD/therm",
+          "raw": "129.0 cents/\nTherm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 6,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://www.eligoenergy.com/rates/utilities/njng_gas_nj",
+        "source_kind": "html",
+        "artifact_id": "06b3988b073b3653ff0edd9fcae35d53995ee8983f18d90867b21753370012b4",
+        "captured_at": "2026-09-17T00:00:00Z",
+        "raw_fields": {
+          "text": "6 Month Fixed Rate\nSecure a fixed rate for your gas supply throughout your term\n129.0 cents/\nTherm\nSign up"
+        },
+        "warnings": []
+      },
+      {
+        "key": "66ec5aa6ae96cfdc6f5cbe01",
+        "supplier": "Eligo Energy",
+        "utility": "NJNG Gas",
+        "commodity": "gas",
+        "zip": "07712",
+        "name": "12 Month Fixed Rate",
+        "product_id": "njng_gas_nj-12-69900-0",
+        "price": {
+          "value": "0.699",
+          "unit": "USD/therm",
+          "raw": "69.9 cents/\nTherm"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://www.eligoenergy.com/rates/utilities/njng_gas_nj",
+        "source_kind": "html",
+        "artifact_id": "06b3988b073b3653ff0edd9fcae35d53995ee8983f18d90867b21753370012b4",
+        "captured_at": "2026-09-17T00:00:00Z",
+        "raw_fields": {
+          "text": "12 Month Fixed Rate\nSecure a fixed rate for your gas supply throughout your term\n69.9 cents/\nTherm\nSign up"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "06b3988b073b3653ff0edd9fcae35d53995ee8983f18d90867b21753370012b4",
+        "path": "06b3988b073b3653ff0edd9fcae35d53995ee8983f18d90867b21753370012b4.html",
+        "kind": "html",
+        "url": "https://www.eligoenergy.com/rates/utilities/njng_gas_nj",
+        "captured_at": "2026-10-15T18:29:40.768298+00:00",
+        "bytes": 1112
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

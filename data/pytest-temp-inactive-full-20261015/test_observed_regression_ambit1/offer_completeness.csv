@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Ambit Energy|JCP&L Electric|electric,Ambit Energy,JCP&L Electric,electric,07701,f8f4a7eed631ddc211b6795d,Ultimate Perks 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|JCP&L Electric|electric,Ambit Energy,JCP&L Electric,electric,07701,92098998b5409ea6e6f6abe4,Garden State Select 12 Month Term,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|JCP&L Electric|electric,Ambit Energy,JCP&L Electric,electric,07701,15cda34f6d45f98636f367f1,Winter Break 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|JCP&L Electric|electric,Ambit Energy,JCP&L Electric,electric,07701,5d16129edf11ff20417f00a0,Winter Break 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

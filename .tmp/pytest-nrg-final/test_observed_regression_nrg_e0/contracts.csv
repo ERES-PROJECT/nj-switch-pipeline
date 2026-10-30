@@ -1,0 +1,320 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings
+2.0,NRG,PSE&G Electric,electric,07102,8e76c7a102c79493e91a31c6b868c9e5cadb8bf095e10466614988483530fa09,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000058337,"[""776e3a738e2aeb391fddd190""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,5462f9eee21fc67772b1e34449d9776ecde0674f761934401c7f84ef217a8a9d,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000059199,"[""80c9ac98bd1cc22d4d2374f9""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,5c4e35de65f104da42850a6cc458fc1299f4299b8776c5fe77e8984ae784904a,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000059555,"[""8ab34a84f888b82130bd729f""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,d4878c8055f556a20109d2b73be28727b43ca4e795dba65a86e2813389ff851e,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000063578,"[""03055c9788657a2ef5b1d26b""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 12 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23500 per kwh for your first 12 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"12months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23500"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23500 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,bbdb0d2fa0809efaf1abe68a1a8f5e05dbb3afc2d4f33424ece5e22bf4b16bb7,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000065075,"[""c275e418b9874ad9f11eb16c""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 6 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23000 per kwh for your first 6 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"6months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 6, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,625168d8c673dd0c105948661a9800b3d998af5b0085b9794b662b960fdb0030,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000058634,"[""844e6af645651ed0fce9bd02""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,a59b0cceb63556caa1aa62617056e73bdbb72debf17bc86e30546fcd2e1a6c28,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000063175,"[""3c00f9fafd6236aaa2ce20e5""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 6 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23000 per kwh for your first 6 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"6months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 6, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,30b816f70f50413e3649debe6999c04e1e53e7dc34e4c8b01118ecf69c2ee90f,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000063406,"[""0a23d0eee84dbe20b30a0413""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 6 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23000 per kwh for your first 6 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"6months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 6, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,94bb367fb3b8d22e85e9c3202f96948358bdbb3334e9b30baf06e710c0a0a91d,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000059498,"[""6d83c830a203529881c9293d""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,59fbe9c4c6d4975ad1d43ae254a2d2ebb6662e1c6d13655b737c1fe294d3447c,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000055887,"[""0bc208e28b7f50bd5588fd62""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,39fa35bb5cde6fc346ba518562bcf5b03c2a03c48274db754119d58ff7afbb05,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000065084,"[""6cd53cc96abbc87e8e31b533""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 12 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23500 per kwh for your first 12 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"12months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23500"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23500 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,78bbebb590091217e5982d322a984b92be5a3a26f58ea067d90859ca3d961af4,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000059383,"[""5f2f3b7caef139f042727d35""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,a70a3e68df1dee984fbe3b99696209758678e423aaee1ff8f722a982533792bb,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000056592,"[""2b047c998acd0d5f6a287025""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,2cc096e4f20158d8997a842b4fd172e8fa24230897e4e6fbbe18caec0d01653a,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000057845,"[""189943868802758f453d6ea0""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,a939ffb91bf4c22c06345a94d3ca5284c5c3aa32b309b840f52ddf8784858780,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000058312,"[""c509af537e91408332b76d8f""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23000 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23000"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23000 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,99141928e0b1e78440c4b9a76cd0939fc61521ced11a2df0434f5150c22a2c5d,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000063322,"[""5ae2ed4ad52f3210843aff99""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 6 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23200 per kwh for your first 6 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"6months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23200"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23200 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 6, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,e8a7af70086ab152d1d828ae882fee9c854afa0f1898d7afe360be6faf045873,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000056996,"[""5039cee792ad8a9bb1eabbdc""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity","Variable.A variable price contract features a supply price that may change on a monthly basis. A fixed
+price contract features a supply price that stays the same for the duration of your contract term. The
+variable supply price will be determined in NRG Home’s discretion based on many different factors, which
+may include competitive prices, industry charges we are responsible for, applicable state and local taxes,
+profit margins, or other business conditions. Events beyond the company’s control – including
+fluctuations in weather – may impact the variable price. The variable price will not increase in any month
+by more than 30% from the prior month.","$0.23500 per kwh for your first 3 bills, then variable.",We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility’s processing timeframe).,Month-to-Month,None,"Automatic renewal at the end of each monthly billing cycle until either of us cancels the contract. You
+may cancel without a cancellation fee.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.23500"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23500 per kwh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,NRG,PSE&G Electric,electric,07102,596f4cfddb07b3d82ee653771776cf88d92d2976046b94dc8a431140d5437bc5,contract_summary,parsed,https://www.picknrg.com/en/getLegalDocument?format=pdf&docType=tos&sku=g000000000062954,"[""aef079767520b499c63acb44""]",document_link_on_offer,[],"Reliant Energy Northeast LLC d/b/a NRG Home
+P.O. Box 38781, Philadelphia 19104
+1-855-500-8703, Website: www.picknrg.com
+Email: support@picknrg.com
+NJ BPU License NO. ESL 0093.
+NRG Home is responsible for supplying your electricity.","Fixed for 12 bills then variable.
+A fixed price contract features a supply price that stays the same for the duration of your contract term. A
+variable price contract features a supply price that may change on a monthly basis. The variable supply
+price will be determined in NRG Home’s discretion based on many different factors, which may include
+competitive prices, industry charges we are responsible for, applicable state and local taxes, profit
+margins, or other business conditions. Events beyond the company’s control – including fluctuations in
+weather – may impact the variable price. The variable price will not increase in any month by more than
+30% from the prior month.",$0.23500 per kwh for your first 12 bills.,We do not guarantee any savings. Our prices may be higher than your utility’s supply rate.,1-2 billing cycles.,"Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward
+Terms contained in your Welcome Confirmation for the details.","New customers have 7 calendar days from the date of confirmation notice from utility to rescind. Existing
+customers entering into a new contract have 3 business days to rescind.",Service begins within 1-2 bill cycles (depending on your utility's processing timeframe).,"12months, then month-to-month",None.,Our service will continue until either of us cancels the contract.,"Your utility will continue to be responsible for delivering your electricity and sending you a bill for both of
+our services. If you experience a power outage, emergency, or other service need, please contact your
+local utility:
+Utility Emergency General Service Website
+ACE 800-833-7476 800-642-3780 www.atlanticcityelectric.com
+JCP&L 888-544-4877 800-662-3115 www.firstenergycorp.com
+PSE&G 800-436-7734 800-436-7734 www.pseg.com
+Rockland Electric 877-434-4100 877-434-4100 www.oru.com","{""prices"": [{""value"": ""0.23500"", ""unit"": ""USD/kWh"", ""raw"": ""$0.23500 per kwh""}], ""rate_structure"": ""hybrid"", ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None.""}, ""incentives"": [""Your plan may include rewards such as enrollment incentives and loyalty incentives. Refer to the Reward""], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]

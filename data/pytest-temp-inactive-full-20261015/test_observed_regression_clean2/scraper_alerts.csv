@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+CleanChoice Energy|ACE Electric|electric,CleanChoice Energy,ACE Electric,electric,08401,warning,not_completed,status=partial

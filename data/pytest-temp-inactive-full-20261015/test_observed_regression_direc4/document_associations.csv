@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Direct Energy|PSE&G Gas|gas,Direct Energy,PSE&G Gas,gas,07102,4ef61f7c4e90372b4efafd38,Live Brighter® 18,2,1,complete,offer,1b3fb18c5f61e23fdfb2b8084b6bed327e10cdf0b849b19e01771218337577e0 | c7472b7cb4454d9623343104a2c1f373c256527449ac2394977ace1f280b7d8c
+Direct Energy|PSE&G Gas|gas,Direct Energy,PSE&G Gas,gas,07102,75099334770d3c54c46908ed,Live Brighter® 14,2,1,complete,offer,08f3da57c7affeebf45054333529747da124973c1f8558332bfc5c527a1bc7f7 | 1adf236cfd800f297d237442e723044e25938d56123c0838f7a08605c400151c
+Direct Energy|PSE&G Gas|gas,Direct Energy,PSE&G Gas,gas,07102,92452915a40e7b3b65bf444d,Live Brighter® 12,2,1,complete,offer,b890b4f05ef17bd0413c328cd35eb07ef973e4d51c0183ff653a938110536d6b | c49fcd24ba5d973c04c3a21af5cc8fe86928c1db0f59f3c19823cc5bbf5b5207

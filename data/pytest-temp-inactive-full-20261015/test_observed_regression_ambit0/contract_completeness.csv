@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Ambit Energy|PSE&G Electric|electric,Ambit Energy,PSE&G Electric,electric,07102,434f618e55b17394b02321c2a6cc1a2f5a279c519b2a3783e27b7d393e80ef9d,terms_or_other,text_extracted,12,0,0,,False,0
+Ambit Energy|PSE&G Electric|electric,Ambit Energy,PSE&G Electric,electric,07102,4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd,environmental,text_extracted,12,0,0,,False,0

@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+Indra Energy|PSE&G Electric|electric,Indra Energy,PSE&G Electric,electric,07102,warning,not_completed,status=partial
+Indra Energy|PSE&G Electric|electric,Indra Energy,PSE&G Electric,electric,07102,warning,document_association_gap,offers_with_gap=3

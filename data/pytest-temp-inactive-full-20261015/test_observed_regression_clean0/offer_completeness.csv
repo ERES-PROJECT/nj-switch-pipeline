@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanChoice Energy|PSE&G Electric|electric,CleanChoice Energy,PSE&G Electric,electric,07102,f6eefd78977afda5ffd249fc,CleanChoice 12 Month Fixed Rate 100% Renewable,True,,product_id | monthly_fee,0
+CleanChoice Energy|PSE&G Electric|electric,CleanChoice Energy,PSE&G Electric,electric,07102,2e7828fea406a9e4dc7da69d,CleanChoice 3 Month Introductory Rate 100% Renewable,True,,product_id | monthly_fee,0
+CleanChoice Energy|PSE&G Electric|electric,CleanChoice Energy,PSE&G Electric,electric,07102,410a10ab650a53e37e162edc,CleanChoice 24 Month Fixed Rate 100% Renewable,True,,product_id | monthly_fee,0

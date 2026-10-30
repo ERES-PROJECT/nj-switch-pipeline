@@ -1,0 +1,166 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://cleanchoiceenergy.com/",
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "address": "[REDACTED]",
+      "areaServed": [
+        {
+          "@type": "State",
+          "name": "District of Columbia"
+        },
+        {
+          "@type": "State",
+          "name": "Delaware"
+        },
+        {
+          "@type": "State",
+          "name": "Illinois"
+        },
+        {
+          "@type": "State",
+          "name": "Maine"
+        },
+        {
+          "@type": "State",
+          "name": "Massachusetts"
+        },
+        {
+          "@type": "State",
+          "name": "New Hampshire"
+        },
+        {
+          "@type": "State",
+          "name": "New Jersey"
+        },
+        {
+          "@type": "State",
+          "name": "New York"
+        },
+        {
+          "@type": "State",
+          "name": "Ohio"
+        },
+        {
+          "@type": "State",
+          "name": "Pennsylvania"
+        },
+        {
+          "@type": "State",
+          "name": "Rhode Island"
+        }
+      ],
+      "award": [
+        "Best for the World - Environment 2016 (B Corp)",
+        "Deloitte Technology Fast 500 - Ranked #113 (2017)",
+        "Inc. 5000 - One of America's 500 Fastest Growing Companies (2017)",
+        "DOE SunShot Award (2016)",
+        "Gold - Green America Certified Business",
+        "BBB Accredited Business"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "areaServed": "US",
+          "availableLanguage": "English",
+          "contactType": "customer service",
+          "telephone": "[REDACTED]"
+        },
+        {
+          "@type": "ContactPoint",
+          "areaServed": "US",
+          "availableLanguage": "English",
+          "contactType": "customer support",
+          "telephone": "[REDACTED]"
+        }
+      ],
+      "description": "CleanChoice Energy is one of the first U.S. companies to both generate and supply only 100% clean electricity. We connect homeowners and renters to 100% renewable energy from regional wind and solar farms — no installation required.",
+      "founder": {
+        "@type": "Person",
+        "jobTitle": "Founder and CEO",
+        "name": "Tom Matzzie"
+      },
+      "foundingDate": "2012",
+      "hasCredential": "[REDACTED]",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "description": "100% renewable energy from regional wind and solar farms. No installation required, no change to your utility provider.",
+              "name": "Clean Electricity",
+              "serviceType": "Energy Supply",
+              "url": "https://cleanchoiceenergy.com/products/clean-electricity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "description": "Connect to locally-generated solar energy through community solar farm subscriptions.",
+              "name": "Community Solar",
+              "serviceType": "Community Solar",
+              "url": "https://cleanchoiceenergy.com/generation"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "description": "Clean energy generated at CleanChoice's own solar farms.",
+              "name": "CleanChoice Generation",
+              "serviceType": "Solar Energy Generation",
+              "url": "https://cleanchoiceenergy.com/generation"
+            }
+          }
+        ],
+        "name": "CleanChoice Energy Products"
+      },
+      "image": "https://images.ctfassets.net/gztkr1jaynk0/5TpmgpMS5buBxs25UKJE22/0548ec47b2b535572f1f6e6fee5609ea/cce-logo.png",
+      "knowsAbout": [
+        "Renewable Energy",
+        "Clean Electricity",
+        "Wind Energy",
+        "Solar Energy",
+        "Community Solar",
+        "Carbon Footprint Reduction",
+        "Energy Supply"
+      ],
+      "legalName": "CleanChoice Energy, Inc.",
+      "logo": {
+        "@type": "ImageObject",
+        "height": 233,
+        "url": "https://images.ctfassets.net/gztkr1jaynk0/5TpmgpMS5buBxs25UKJE22/0548ec47b2b535572f1f6e6fee5609ea/cce-logo.png",
+        "width": 840
+      },
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "description": "Founding member",
+          "name": "Coalition for Community Solar Access (CCSA)"
+        },
+        {
+          "@type": "Organization",
+          "description": "Founding member",
+          "name": "Retail Electricity Advancement League (REAL)"
+        }
+      ],
+      "name": "CleanChoice Energy",
+      "sameAs": [
+        "https://www.facebook.com/CleanChoiceEnergy",
+        "https://twitter.com/cleanchoice",
+        "https://www.instagram.com/cleanchoiceenergy",
+        "https://www.linkedin.com/company/cleanchoice-energy/"
+      ],
+      "slogan": "Choose 100% clean energy",
+      "telephone": "[REDACTED]",
+      "url": "https://cleanchoiceenergy.com"
+    }
+  ]
+}

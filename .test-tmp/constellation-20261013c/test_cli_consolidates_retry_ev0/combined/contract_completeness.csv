@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Example Energy|PSE&G Electric|electric,Example Energy,PSE&G Electric,electric,07102,8d4c4ed1b65a96aea93fc621f8b423664545c480d2056779d72e72f3b5fa600d,contract_summary,parsed,12,12,0,,False,0

@@ -1,0 +1,14 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,ad963b342206239c5e657db947170203a01eaf0fd3062d703282e95a1ed4d5cb,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,1ac6ae771e5e372bf63c19a91f8da2225a736c3b6429aac1334af83a07154a36,environmental,text_extracted,12,0,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,f1a8839e2e1346b8b22dff9bfa49e7abd13b34703d7c4927d9398f9a61686eaf,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,063b6d997bc87f7ad1d84bb9f35a385876605f30c3453f02ed01120483e1451b,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,bb95a13970b45a7cef63c4e775a131a7de4fff954763ddbb6933889d34f16d4b,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,5c8a0df5c0ea823cc04015c6123c27097f73aad18932d7186a8918c34ae2b1b1,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,73f7f1fcf532f1f036452fc3bd612bb77843a1ce18f55c51d9c85312503567f7,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,ea6381c807b2eee8e5107d8b7cd2122abcac14e70c59c489d1dbb24f1d335293,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,74a7a33d1b108e81722708f514ed1c961bcd1b6ce9b3bc3618e8aec7e7a8157e,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,5c6db22ac3a9cd8c55b5f46624d9c2e73ca08259895c3db6e9c44439d92c31e0,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,034f25efa8420c9262409c411d2456e182fe40342aab3099683ffe9ca194450b,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,14ee079091518d770ea6d9e6f878f70385cf60c55b9e05d151fb1daf95c2ffc4,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,5249f71ae27b392b8e7e28665467d9ba09e6594ea3a6310f62dd63be03046bc9,terms_or_other,text_extracted,12,1,0,,False,0

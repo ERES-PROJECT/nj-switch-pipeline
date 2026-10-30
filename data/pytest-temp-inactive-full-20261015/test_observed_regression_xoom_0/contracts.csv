@@ -1,0 +1,464 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings
+2.0,Xoom Energy,PSE&G Electric,electric,07102,c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/399620-en.pdf?_val=1aaa657,"[""2a3c34f41946a3c86ce2e539""]",document_link_on_offer,[],,,,,,,,,,,,,{},[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/399620-en.pdf?_val=f69043c,"[""2a3c34f41946a3c86ce2e539""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #ESL - 0115
+XOOM is responsible for your electric supply.","Your rate for electric power purchases will be a variable rate, per kilowatt
+hour, that may change on a monthly basis. A fixed rate is a rate that is set at a
+fixed price, per kilowatt hour, that remains the same for your Contract
+Term/Length. Your variable rate may fluctuate and may be higher or lower
+than your local utility. Your rate is based upon a number of factors, which
+may include but not be limited to, the fluctuation of wholesale commodity
+costs or other components of wholesale prices (including but not limited to
+capacity related costs, and weather patterns) and XOOM’s pricing strategies,
+including XOOM’s profit margin.","Your initial rate under this contract is $0.2159/kWh. This initial rate will be in
+effect for 3 month(s), and thereafter, your rate will vary month to month based
+on the factors described above and in your contract.",There is no guarantee of savings.,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your EDC’s
+confirmation notice, to contact the EDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","This is a month to month contract and will continue until terminated by you or
+XOOM.",No,"Not Applicable
+contact us and pursue other remedies as specified in this contract below.
+Your EDC will continue to deliver your electricity and you will continue to
+pay the EDC for this service. You should call your EDC in the event of an
+emergency such as a power outage.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.2159"", ""unit"": ""USD/kWh"", ""raw"": ""$0.2159/kWh""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: No""}, ""incentives"": [], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a,environmental,text_extracted,https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=1b25cdf,"[""2a3c34f41946a3c86ce2e539"", ""2b92cce02c3508c0f7b54d3b"", ""937e1a4a97efd3a68352624a"", ""99b5c00dac3c9d21f74fabd2"", ""adf318fdc41858d2525efcda""]",document_link_on_offer,[],,,,,,,,,,,,,{},[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/399622-en.pdf?_val=c538923,"[""2b92cce02c3508c0f7b54d3b""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking
+place, you are still responsible for paying for the electricity you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+EDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+EDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you
+and any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal
+fees, associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please
+contact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of
+Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS
+A POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+PSEERFE01200206900011001
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.
+For the purpose of accounting both parties accept the quantity, quality and measurements determined by your
+EDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+PSEERFE01200206900011001
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the
+event of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of
+terrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,
+pricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of electricity changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+PSEERFE01200206900011001",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/399622-en.pdf?_val=f4a0888,"[""2b92cce02c3508c0f7b54d3b""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #ESL - 0115
+XOOM is responsible for your electric supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,
+that remains the same for your Contract Term/Length. A variable rate is a rate,
+per kilowatt hour, that may change on a monthly basis and may fluctuate
+based on weather patterns.",Your fixed rate under this contract is $0.2069/kWh.,There is no guarantee of savings,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your EDC’s
+confirmation notice, to contact the EDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","12 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $110.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your EDC will continue to deliver your electricity and you will continue to
+pay the EDC for this service. You should call your EDC in the event of an
+emergency such as a power outage.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.2069"", ""unit"": ""USD/kWh"", ""raw"": ""$0.2069/kWh""}], ""rate_structure"": null, ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/399628-en.pdf?_val=7c4e40a,"[""937e1a4a97efd3a68352624a""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking
+place, you are still responsible for paying for the electricity you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+EDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+EDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you
+and any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal
+fees, associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please
+contact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of
+Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS
+A POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+PSEERFE0120021690001105P
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.
+For the purpose of accounting both parties accept the quantity, quality and measurements determined by your
+EDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+PSEERFE0120021690001105P
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the
+event of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of
+terrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,
+pricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of electricity changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+PSEERFE0120021690001105P",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/399628-en.pdf?_val=2937ce9,"[""937e1a4a97efd3a68352624a""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #ESL - 0115
+XOOM is responsible for your electric supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,
+that remains the same for your Contract Term/Length. A variable rate is a rate,
+per kilowatt hour, that may change on a monthly basis and may fluctuate
+based on weather patterns.",Your fixed rate under this contract is $0.2169/kWh.,There is no guarantee of savings,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your EDC’s
+confirmation notice, to contact the EDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","12 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $110.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your EDC will continue to deliver your electricity and you will continue to
+pay the EDC for this service. You should call your EDC in the event of an
+emergency such as a power outage.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.2169"", ""unit"": ""USD/kWh"", ""raw"": ""$0.2169/kWh""}], ""rate_structure"": null, ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4512864,"[""adf318fdc41858d2525efcda""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking
+place, you are still responsible for paying for the electricity you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+EDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+EDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you
+and any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal
+fees, associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please
+contact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of
+Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS
+A POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+PSEERFEJ1200208900011001
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.
+For the purpose of accounting both parties accept the quantity, quality and measurements determined by your
+EDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+PSEERFEJ1200208900011001
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the
+event of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of
+terrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,
+pricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of electricity changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+PSEERFEJ1200208900011001",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=f2d1db8,"[""adf318fdc41858d2525efcda""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #ESL - 0115
+XOOM is responsible for your electric supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,
+that remains the same for your Contract Term/Length. A variable rate is a rate,
+per kilowatt hour, that may change on a monthly basis and may fluctuate
+based on weather patterns.",Your fixed rate under this contract is $0.2089/kWh.,There is no guarantee of savings,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your EDC’s
+confirmation notice, to contact the EDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","12 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $110.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your EDC will continue to deliver your electricity and you will continue to
+pay the EDC for this service. You should call your EDC in the event of an
+emergency such as a power outage.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.2089"", ""unit"": ""USD/kWh"", ""raw"": ""$0.2089/kWh""}], ""rate_structure"": null, ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e,terms_or_other,text_extracted,https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf,"[""adf318fdc41858d2525efcda""]",document_link_on_offer,[],,,,,,,,,,,,,{},[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/399631-en.pdf?_val=09ef430,"[""99b5c00dac3c9d21f74fabd2""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking
+place, you are still responsible for paying for the electricity you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+EDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+EDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you
+and any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal
+fees, associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please
+contact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of
+Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS
+A POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+PSEERFE02400207900020001
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.
+For the purpose of accounting both parties accept the quantity, quality and measurements determined by your
+EDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+PSEERFE02400207900020001
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the
+event of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of
+terrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,
+pricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of electricity changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+PSEERFE02400207900020001",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/399631-en.pdf?_val=ddae003,"[""99b5c00dac3c9d21f74fabd2""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #ESL - 0115
+XOOM is responsible for your electric supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,
+that remains the same for your Contract Term/Length. A variable rate is a rate,
+per kilowatt hour, that may change on a monthly basis and may fluctuate
+based on weather patterns.",Your fixed rate under this contract is $0.2079/kWh.,There is no guarantee of savings,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your EDC’s
+confirmation notice, to contact the EDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","24 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $200.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your EDC will continue to deliver your electricity and you will continue to
+pay the EDC for this service. You should call your EDC in the event of an
+emergency such as a power outage.",Verified collection context: PSE&G Electric,"{""prices"": [{""value"": ""0.2079"", ""unit"": ""USD/kWh"", ""raw"": ""$0.2079/kWh""}], ""rate_structure"": null, ""term_months"": 24, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]
+2.0,Xoom Energy,PSE&G Electric,electric,07102,2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c,terms_or_other,text_extracted,https://xoomenergy.com/en/state-disclosures,[],market_level_public_document,[],,,,,,,,,,,,,{},[]

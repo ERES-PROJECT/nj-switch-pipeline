@@ -1,0 +1,11 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,ad963b342206239c5e657db947170203a01eaf0fd3062d703282e95a1ed4d5cb,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,1ac6ae771e5e372bf63c19a91f8da2225a736c3b6429aac1334af83a07154a36,environmental,text_extracted,12,0,0,,False,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,f1a8839e2e1346b8b22dff9bfa49e7abd13b34703d7c4927d9398f9a61686eaf,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,b2844811e90b5484637193c28d48a1410ed05cbf774f0b297109cd9e6e8d5156,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,7891a776b40e9b0aec6117868199650c8686dedd797791a68c0924d9d8978f30,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,c784b1d6faa0bb5573b30b56cbc6db69b12b68680311e650aea6fed583334725,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,3fb1b4fbb6aa5938adebeb8bd44f6ec07569f61eed0a419aba2068a0c8cf6761,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,e4e9e4aeaa465ffeca3ba9f71c1ce3d6baf18991a24d4571d645af578e9187d0,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,ff2dcb3a4a82ace85f94916faa660c63fe16924dcb88fc10d074fa320483d887,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|Rockland Electric|electric,CleanSky Energy,Rockland Electric,electric,07430,c4e7523010117b79281dca1c894b4c9c5fe246c4403f1df5e91738482829d5ec,terms_or_other,text_extracted,12,1,0,,False,0

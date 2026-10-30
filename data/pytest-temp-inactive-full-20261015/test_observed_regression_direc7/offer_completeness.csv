@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Direct Energy|ETG Gas|gas,Direct Energy,ETG Gas,gas,07201,1faf75e3f9a9cd1b79419b6e,Live Brighter® 18,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|ETG Gas|gas,Direct Energy,ETG Gas,gas,07201,227c9a9d2a4c578afdb2b568,Live Brighter® 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|ETG Gas|gas,Direct Energy,ETG Gas,gas,07201,04ea53ab6ab69e8163426223,Live Brighter® 14,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

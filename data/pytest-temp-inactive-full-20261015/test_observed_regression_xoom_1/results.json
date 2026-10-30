@@ -1,0 +1,496 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Xoom Energy",
+      "utility": "JCP&L Electric",
+      "commodity": "electric",
+      "zip": "07701",
+      "url": "https://xoomenergy.com/en/residential/new-jersey",
+      "adapter": "xoom_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:09.083192+00:00",
+    "finished_at": "2026-10-15T18:29:09.330568+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 5,
+    "offers": [
+      {
+        "key": "87fc8459ee40e323dbfaa2f5",
+        "supplier": "Xoom Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "SimpleFlex",
+        "product_id": "JCPERIZ0030016290000005B",
+        "price": {
+          "value": "0.1629",
+          "unit": "USD/kWh",
+          "raw": "$0.1629/\nkWh"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": {
+          "value": "0.1629",
+          "unit": "USD/kWh",
+          "raw": "$0.1629/\nkWh"
+        },
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": 3,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [
+          "SimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.",
+          "With XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.",
+          "5% Annual Cash Back on supply charges",
+          "*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential electricity bills.",
+          "For avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.",
+          "Your Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399594-en.pdf?_val=edae47c",
+            "label": "Terms & Conditions",
+            "product_id": "JCPERIZ0030016290000005B",
+            "offer_key": "87fc8459ee40e323dbfaa2f5",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399594-en.pdf?_val=bcb63c2",
+            "label": "Contract Summary",
+            "product_id": "JCPERIZ0030016290000005B",
+            "offer_key": "87fc8459ee40e323dbfaa2f5",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/18-rate-en.pdf?_val=bf553b6",
+            "label": "Environmental Disclosure Information",
+            "product_id": "JCPERIZ0030016290000005B",
+            "offer_key": "87fc8459ee40e323dbfaa2f5",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "source_kind": "html",
+        "artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581",
+        "captured_at": "2026-09-11T05:30:36.366412+00:00",
+        "raw_fields": {
+          "text": "SimpleFlex\nMonthly\nUtility:\nJersey Central Pwr & Light\nIntro: $0.1629/\nkWh\n*\nINTRODUCTORY OFFER\n*This Introductory Offer is only available to new customers who have not been a XOOM Energy customer in the past 6 months and is intended for general use customers. The Introductory Offer is intended for customers on standard tariff rates and accounts on special utility tariffs rate such as street lighting, space heating rate or hourly pricing rate schedules are not eligible for this Introductory Offer. Your rate will be applied during your first 3 bill cycle(s). XOOM Energy may end this Introductory Offer at any time without notice. This rate may change in the subsequent months at the sole discretion of XOOM Energy.\nChoose\nDetails\n.\nCompare\nIntroductory Offer:\nENROLL TODAY AND GET A LOW INTRODUCTORY RATE ON YOUR FIRST 3 BILLS!*\nNew customers only.\nPlan Description:\nSimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.\nWith XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.\n• No long-term commitment or cost recovery fee\n•\n5% Annual Cash Back on supply charges\n• Rate may vary monthly\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nNo Cost Recovery Fee\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\n*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential electricity bills.\nTo be eligible, you must remain active and in good standing on all qualifying accounts for 12 consecutive months.\nXOOM Energy customers are active when electricity service is flowing.\nFor avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.\nYour Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account.\nAfter promotional period, this rate may change in the subsequent months at the sole discretion of XOOM Energy. XOOM's charges will be reflected on the monthly bill you receive from the utility. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nVariable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Jersey Central Pwr & Light",
+            "data-id": "5472",
+            "data-rateid": "JCPERIZ0030016290000005B",
+            "data-ratename": "SimpleFlex",
+            "data-rateprice": "0.1629",
+            "data-ratetermlength": "Monthly",
+            "data-ratetype": "Variable",
+            "data-utilityname": "Jersey Central Pwr & Light",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptVariablePlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptVariablePlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "6ff82b009c50a39e56a17079",
+        "supplier": "Xoom Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "RescueLock 12",
+        "product_id": "JCPERFE0120017490001105P",
+        "price": {
+          "value": "0.1749",
+          "unit": "USD/kWh",
+          "raw": "$0.1749/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399602-en.pdf?_val=f271267",
+            "label": "Terms & Conditions",
+            "product_id": "JCPERFE0120017490001105P",
+            "offer_key": "6ff82b009c50a39e56a17079",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399602-en.pdf?_val=d9796ee",
+            "label": "Contract Summary",
+            "product_id": "JCPERFE0120017490001105P",
+            "offer_key": "6ff82b009c50a39e56a17079",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/18-rate-en.pdf?_val=c880731",
+            "label": "Environmental Disclosure Information",
+            "product_id": "JCPERFE0120017490001105P",
+            "offer_key": "6ff82b009c50a39e56a17079",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "source_kind": "html",
+        "artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581",
+        "captured_at": "2026-09-11T05:30:36.366412+00:00",
+        "raw_fields": {
+          "text": "RescueLock 12\n12 months\nUtility:\nJersey Central Pwr & Light\n$0.1749/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our RescueLock 12 fixed rate plan!\n• Enroll on RescueLock 12 and\n5%\nof your monthly energy charges will be donated to PetSmart Charities!*\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills.\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. XOOM's charges will be reflected on the monthly bill you receive from the utility. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. If you are currently under a contract with another provider understand your obligations and rights before switching. Only the utility account holder or persons legally authorized on the account may enroll.\n*This promotion is sponsored by XOOM Energy, LLC, including its wholly owned subsidiaries (collectively \"XOOM Energy\"), doing business at 804 Carnegie Center, Princeton, NJ 08540. The proceeds from the promotion will benefit PetSmart Charities, Inc. (“Charities”). XOOM Energy will pay to Charities in the US for its general charitable purposes the equivalent of 5% of monthly energy charges paid by participating XOOM Energy customers. This contribution is not tax deductible. Charities is an organization described in Internal Revenue Code Section 501(c)(3). A copy of its most recent financial report is available by contacting the organization at 19601 North 27th Ave., Phoenix, AZ 85027, or by telephone at 1-800-423-7387. For more information, visit www.petsmartcharities.org. Registration by Charities or the Promoter with any state regulatory agency does not imply endorsement.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Jersey Central Pwr & Light",
+            "data-id": "3862",
+            "data-rateid": "JCPERFE0120017490001105P",
+            "data-ratename": "RescueLock 12",
+            "data-rateprice": "0.1749",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Jersey Central Pwr & Light",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "7e20c3624072352fd51b8d1a",
+        "supplier": "Xoom Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "SureLock 12",
+        "product_id": "JCPERFE01200166900011001",
+        "price": {
+          "value": "0.1669",
+          "unit": "USD/kWh",
+          "raw": "$0.1669/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399596-en.pdf?_val=47beba0",
+            "label": "Terms & Conditions",
+            "product_id": "JCPERFE01200166900011001",
+            "offer_key": "7e20c3624072352fd51b8d1a",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399596-en.pdf?_val=daf99ab",
+            "label": "Contract Summary",
+            "product_id": "JCPERFE01200166900011001",
+            "offer_key": "7e20c3624072352fd51b8d1a",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/18-rate-en.pdf?_val=d5415f3",
+            "label": "Environmental Disclosure Information",
+            "product_id": "JCPERFE01200166900011001",
+            "offer_key": "7e20c3624072352fd51b8d1a",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "source_kind": "html",
+        "artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581",
+        "captured_at": "2026-09-11T05:30:36.366412+00:00",
+        "raw_fields": {
+          "text": "SureLock 12\n12 months\nUtility:\nJersey Central Pwr & Light\n$0.1669/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our SureLock 12 fixed rate plan!\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Jersey Central Pwr & Light",
+            "data-id": "69",
+            "data-rateid": "JCPERFE01200166900011001",
+            "data-ratename": "SureLock 12",
+            "data-rateprice": "0.1669",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Jersey Central Pwr & Light",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl01$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl01_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "d4687f1059e84a769f8bb597",
+        "supplier": "Xoom Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "SimpleClean 12",
+        "product_id": "JCPERFEJ1200168900011001",
+        "price": {
+          "value": "0.1689",
+          "unit": "USD/kWh",
+          "raw": "$0.1689/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": "50",
+        "renewable_source": null,
+        "renewable_claim": "With our fixed rate SimpleClean 12 Plan, lock in your green energy rate for 12 full months, guaranteed! This plan offers electricity price stability for the duration of your term. With SimpleClean 12, you protect yourself from the uncertainty that comes with energy bills.",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399600-en.pdf?_val=cc39117",
+            "label": "Terms & Conditions",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399600-en.pdf?_val=a174e00",
+            "label": "Contract Summary",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/18-rate-en.pdf?_val=6849d56",
+            "label": "Environmental Disclosure Information",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf",
+            "label": "Contract document",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399600-en.pdf?_val=08f8320",
+            "label": "Terms & Conditions",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399600-en.pdf?_val=65aa391",
+            "label": "Contract Summary",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/18-rate-en.pdf?_val=9062ec7",
+            "label": "Environmental Disclosure Information",
+            "product_id": "JCPERFEJ1200168900011001",
+            "offer_key": "d4687f1059e84a769f8bb597",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "source_kind": "html",
+        "artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581",
+        "captured_at": "2026-09-11T05:30:36.366412+00:00",
+        "raw_fields": {
+          "text": "SimpleClean 12\n12 months\nUtility:\nJersey Central Pwr & Light\n$0.1689/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nWith our fixed rate SimpleClean 12 Plan, lock in your green energy rate for 12 full months, guaranteed! This plan offers electricity price stability for the duration of your term. With SimpleClean 12, you protect yourself from the uncertainty that comes with energy bills.\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nRenewable Electric\n50% Renewable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Jersey Central Pwr & Light",
+            "data-id": "519",
+            "data-rateid": "JCPERFEJ1200168900011001",
+            "data-ratename": "SimpleClean 12",
+            "data-rateprice": "0.1689",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Jersey Central Pwr & Light",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl02$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl02_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "fec7a81d876f7659047e5274",
+        "supplier": "Xoom Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "SureLock 24",
+        "product_id": "JCPERFE02400170900020001",
+        "price": {
+          "value": "0.1709",
+          "unit": "USD/kWh",
+          "raw": "$0.1709/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399605-en.pdf?_val=a8990f0",
+            "label": "Terms & Conditions",
+            "product_id": "JCPERFE02400170900020001",
+            "offer_key": "fec7a81d876f7659047e5274",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399605-en.pdf?_val=3d17f15",
+            "label": "Contract Summary",
+            "product_id": "JCPERFE02400170900020001",
+            "offer_key": "fec7a81d876f7659047e5274",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/18-rate-en.pdf?_val=48a1b0b",
+            "label": "Environmental Disclosure Information",
+            "product_id": "JCPERFE02400170900020001",
+            "offer_key": "fec7a81d876f7659047e5274",
+            "discovery_artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "source_kind": "html",
+        "artifact_id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581",
+        "captured_at": "2026-09-11T05:30:36.366412+00:00",
+        "raw_fields": {
+          "text": "SureLock 24\n24 months\nUtility:\nJersey Central Pwr & Light\n$0.1709/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our SureLock 24 fixed rate plan!\n•\nLock in\nyour rate for 24 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$200.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nTwo year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $200 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Jersey Central Pwr & Light",
+            "data-id": "129",
+            "data-rateid": "JCPERFE02400170900020001",
+            "data-ratename": "SureLock 24",
+            "data-rateprice": "0.1709",
+            "data-ratetermlength": "24 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Jersey Central Pwr & Light",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl03$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl03_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176",
+        "path": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176.json",
+        "kind": "json",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "captured_at": "2026-10-15T18:29:09.095286+00:00",
+        "bytes": 485
+      },
+      {
+        "id": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581",
+        "path": "0a00d808ad2d984e9ef8032f84015c5d3082e290beca73b70dff60e2faf21581.html",
+        "kind": "html",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/electricity/jersey-central-power-and-light?dez=07701",
+        "captured_at": "2026-10-15T18:29:09.226780+00:00",
+        "bytes": 138760
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

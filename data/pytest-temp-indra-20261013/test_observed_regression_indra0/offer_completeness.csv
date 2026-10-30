@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Indra Energy|ETG Gas|gas,Indra Energy,ETG Gas,gas,07201,e6d4ed4568db8078fae68812,Renewable Secure Rate 12,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|ETG Gas|gas,Indra Energy,ETG Gas,gas,07201,a247c44816f23463fe267c06,Renewable Secure Rate 6,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0

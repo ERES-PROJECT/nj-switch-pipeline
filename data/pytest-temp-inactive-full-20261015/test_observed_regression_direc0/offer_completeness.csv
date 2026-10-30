@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,6383fb4e08b40882e5ccc350,Live Brighter® 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,b2c330dfd9404cb2e922a741,Live Brighter® 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,3b215744f09aacc765868d22,Live Brighter® 18,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,6fccbe638f47d64ce4a856df,Go Green Lights 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source,1
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,0a08810fc3adae4fba74ef0f,Live Brighter® 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

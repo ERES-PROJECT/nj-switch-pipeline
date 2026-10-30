@@ -1,0 +1,19 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,a19c4e4ac7b554b017282861,Flex Plan with United MileagePlus Miles,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,4b0a9b744cdb8d7fad61b769,Flex Plan with Southwest Rapid Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,02ca8bfa0816164cd5a78b96,Flex Plan with American Airlines AAdvantage Miles,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,e0647b81eceb7f7940cbfbcd,Flex Plan with Cash Back,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,21a0f942832845ae21d73e1b,6-Month Plan with Cash Back,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,73c25b3b2145f2a86d2d5489,12-Month Plan with Cash Back,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,934bd27b3caffd93ce9bfc83,Flex Plan with Amtrak Guest Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,51e768d8df17fc2dd3ad2feb,6-Month Plan with United MileagePlus Miles,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,e2d4f08af5bdf1fbf8d73cfa,6-Month Plan with Southwest Rapid Rewards Points,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,677b73551e70f062fc0b20b7,Flex Plan with Southwest Rapid Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,a3a3c4362ad25872fd040130,Flex Plan Benefitting Children's Hospital of Philadelphia,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,003905f72cfb14dd625954a7,Flex Plan Benefitting Nemours Children's Health,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,867a6509dd1e1ae6da9a3299,Electric Plan Benefitting Big Brothers Big Sisters,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,0cae951db28b04365eab2209,Flex Plan Benefitting Philabundance,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,989eb6b15ad0f07d43d9cae5,Flex Plan Benefitting Big Brothers Big Sisters,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,52aef5cfbbf57442430667dd,6-Month Plan with Renewable Energy,True,,monthly_fee | enrollment_fee | renewable_percentage,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,2d23fcc65056fdf0c3191f28,Flex Plan with Renewable Energy Plus Carbon Offsets,True,,term_months | monthly_fee | enrollment_fee | renewable_percentage | renewable_claim,0
+NRG|Rockland Electric|electric,NRG,Rockland Electric,electric,07430,b137637acf73e3ea1bce3d8c,12-Month Price Lock Plan,True,,monthly_fee | enrollment_fee | renewable_source,0

@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Direct Energy|NJNG Gas|gas,Direct Energy,NJNG Gas,gas,07712,2eb133e1236f0d86101cf0a2,Live Brighter® 14,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|NJNG Gas|gas,Direct Energy,NJNG Gas,gas,07712,e9b929e44f1baac84e0c7ba1,Live Brighter® 18,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Direct Energy|NJNG Gas|gas,Direct Energy,NJNG Gas,gas,07712,8a462d458591c1bb6f0300ad,Live Brighter® 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

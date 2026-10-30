@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+IDT Energy|Rockland Electric|electric,IDT Energy,Rockland Electric,electric,07430,idt_energy,partial,browser_dom,True,True,6,6,0,0,,,,,

@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+American Power & Gas|PSE&G Gas|gas,American Power & Gas,PSE&G Gas,gas,07102,american_power_and_gas,partial,browser_dom,True,True,1,1,0,0,,,,,

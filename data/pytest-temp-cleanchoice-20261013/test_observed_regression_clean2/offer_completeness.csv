@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanChoice Energy|ACE Electric|electric,CleanChoice Energy,ACE Electric,electric,08401,e0b2440662e2d9fc0643ec6a,CleanChoice 12 Month Fixed Rate 100% Renewable,True,,product_id | monthly_fee,0
+CleanChoice Energy|ACE Electric|electric,CleanChoice Energy,ACE Electric,electric,08401,638afd52717c668bb3b05ba9,CleanChoice 3 Month Introductory Rate 100% Renewable,True,,product_id | monthly_fee,0
+CleanChoice Energy|ACE Electric|electric,CleanChoice Energy,ACE Electric,electric,08401,8c9cdc3a82c7bb31b86897e9,CleanChoice 24 Month Fixed Rate 100% Renewable,True,,product_id | monthly_fee,0

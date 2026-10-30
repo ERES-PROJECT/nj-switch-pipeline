@@ -1,0 +1,30 @@
+{
+  "electricUtility": [
+    {
+      "commodity": "ELEC",
+      "county": "Atlantic",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "Atlantic City Electric",
+      "state": "NJ",
+      "utilityCode": "ATE",
+      "zipRateKey": 16948
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "gasUtility": [
+    {
+      "commodity": "GAS",
+      "county": "",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "South Jersey Gas",
+      "state": "NJ",
+      "utilityCode": "SJG",
+      "zipRateKey": 4449
+    }
+  ],
+  "success": true,
+  "unserviceable": false
+}

@@ -1,0 +1,499 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Xoom Energy",
+      "utility": "Rockland Electric",
+      "commodity": "electric",
+      "zip": "07430",
+      "url": "https://xoomenergy.com/en/residential/new-jersey",
+      "adapter": "xoom_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-19T17:03:03.102101+00:00",
+    "finished_at": "2026-10-19T17:03:03.278626+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 5,
+    "source_evidence": {},
+    "offers": [
+      {
+        "key": "8b4a7650f6f69a5b0ac447ed",
+        "supplier": "Xoom Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "SimpleFlex",
+        "product_id": "REPERIF0030020490000005B",
+        "price": {
+          "value": "0.2049",
+          "unit": "USD/kWh",
+          "raw": "$0.2049/\nkWh"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": {
+          "value": "0.2049",
+          "unit": "USD/kWh",
+          "raw": "$0.2049/\nkWh"
+        },
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": 3,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [
+          "SimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.",
+          "With XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.",
+          "5% Annual Cash Back on supply charges",
+          "*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential electricity bills.",
+          "For avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.",
+          "Your Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399646-en.pdf?_val=f2fb896",
+            "label": "Terms & Conditions",
+            "product_id": "REPERIF0030020490000005B",
+            "offer_key": "8b4a7650f6f69a5b0ac447ed",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399646-en.pdf?_val=552756c",
+            "label": "Contract Summary",
+            "product_id": "REPERIF0030020490000005B",
+            "offer_key": "8b4a7650f6f69a5b0ac447ed",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/83-rate-en.pdf?_val=fe467a3",
+            "label": "Environmental Disclosure Information",
+            "product_id": "REPERIF0030020490000005B",
+            "offer_key": "8b4a7650f6f69a5b0ac447ed",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "source_kind": "html",
+        "artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680",
+        "captured_at": "2026-09-11T05:30:49.327485+00:00",
+        "raw_fields": {
+          "text": "SimpleFlex\nMonthly\nUtility:\nRockland Electric\nIntro: $0.2049/\nkWh\n*\nINTRODUCTORY OFFER\n*This Introductory Offer is only available to new customers who have not been a XOOM Energy customer in the past 6 months and is intended for general use customers. The Introductory Offer is intended for customers on standard tariff rates and accounts on special utility tariffs rate such as street lighting, space heating rate or hourly pricing rate schedules are not eligible for this Introductory Offer. Your rate will be applied during your first 3 bill cycle(s). XOOM Energy may end this Introductory Offer at any time without notice. This rate may change in the subsequent months at the sole discretion of XOOM Energy.\nChoose\nDetails\n.\nCompare\nIntroductory Offer:\nENROLL TODAY AND GET A LOW INTRODUCTORY RATE ON YOUR FIRST 3 BILLS!*\nNew customers only.\nPlan Description:\nSimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.\nWith XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.\n• No long-term commitment or cost recovery fee\n•\n5% Annual Cash Back on supply charges\n• Rate may vary monthly\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nNo Cost Recovery Fee\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\n*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential electricity bills.\nTo be eligible, you must remain active and in good standing on all qualifying accounts for 12 consecutive months.\nXOOM Energy customers are active when electricity service is flowing.\nFor avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.\nYour Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account.\nAfter promotional period, this rate may change in the subsequent months at the sole discretion of XOOM Energy. XOOM's charges will be reflected on the monthly bill you receive from the utility. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nVariable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Rockland Electric",
+            "data-id": "5475",
+            "data-rateid": "REPERIF0030020490000005B",
+            "data-ratename": "SimpleFlex",
+            "data-rateprice": "0.2049",
+            "data-ratetermlength": "Monthly",
+            "data-ratetype": "Variable",
+            "data-utilityname": "Rockland Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptVariablePlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptVariablePlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "982629a4fa667c3a16067242",
+        "supplier": "Xoom Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "RescueLock 12",
+        "product_id": "REPERFE0120021490001105P",
+        "price": {
+          "value": "0.2149",
+          "unit": "USD/kWh",
+          "raw": "$0.2149/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399654-en.pdf?_val=1869022",
+            "label": "Terms & Conditions",
+            "product_id": "REPERFE0120021490001105P",
+            "offer_key": "982629a4fa667c3a16067242",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399654-en.pdf?_val=eb183ba",
+            "label": "Contract Summary",
+            "product_id": "REPERFE0120021490001105P",
+            "offer_key": "982629a4fa667c3a16067242",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/83-rate-en.pdf?_val=0aad312",
+            "label": "Environmental Disclosure Information",
+            "product_id": "REPERFE0120021490001105P",
+            "offer_key": "982629a4fa667c3a16067242",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "source_kind": "html",
+        "artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680",
+        "captured_at": "2026-09-11T05:30:49.327485+00:00",
+        "raw_fields": {
+          "text": "RescueLock 12\n12 months\nUtility:\nRockland Electric\n$0.2149/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our RescueLock 12 fixed rate plan!\n• Enroll on RescueLock 12 and\n5%\nof your monthly energy charges will be donated to PetSmart Charities!*\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills.\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. XOOM's charges will be reflected on the monthly bill you receive from the utility. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. If you are currently under a contract with another provider understand your obligations and rights before switching. Only the utility account holder or persons legally authorized on the account may enroll.\n*This promotion is sponsored by XOOM Energy, LLC, including its wholly owned subsidiaries (collectively \"XOOM Energy\"), doing business at 804 Carnegie Center, Princeton, NJ 08540. The proceeds from the promotion will benefit PetSmart Charities, Inc. (“Charities”). XOOM Energy will pay to Charities in the US for its general charitable purposes the equivalent of 5% of monthly energy charges paid by participating XOOM Energy customers. This contribution is not tax deductible. Charities is an organization described in Internal Revenue Code Section 501(c)(3). A copy of its most recent financial report is available by contacting the organization at 19601 North 27th Ave., Phoenix, AZ 85027, or by telephone at 1-800-423-7387. For more information, visit www.petsmartcharities.org. Registration by Charities or the Promoter with any state regulatory agency does not imply endorsement.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Rockland Electric",
+            "data-id": "3886",
+            "data-rateid": "REPERFE0120021490001105P",
+            "data-ratename": "RescueLock 12",
+            "data-rateprice": "0.2149",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Rockland Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "cf31e2ca4f4bed80ab804129",
+        "supplier": "Xoom Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "SureLock 12",
+        "product_id": "REPERFE01200204900011001",
+        "price": {
+          "value": "0.2049",
+          "unit": "USD/kWh",
+          "raw": "$0.2049/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399648-en.pdf?_val=b714143",
+            "label": "Terms & Conditions",
+            "product_id": "REPERFE01200204900011001",
+            "offer_key": "cf31e2ca4f4bed80ab804129",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399648-en.pdf?_val=132e107",
+            "label": "Contract Summary",
+            "product_id": "REPERFE01200204900011001",
+            "offer_key": "cf31e2ca4f4bed80ab804129",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/83-rate-en.pdf?_val=9b4d422",
+            "label": "Environmental Disclosure Information",
+            "product_id": "REPERFE01200204900011001",
+            "offer_key": "cf31e2ca4f4bed80ab804129",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "source_kind": "html",
+        "artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680",
+        "captured_at": "2026-09-11T05:30:49.327485+00:00",
+        "raw_fields": {
+          "text": "SureLock 12\n12 months\nUtility:\nRockland Electric\n$0.2049/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our SureLock 12 fixed rate plan!\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Rockland Electric",
+            "data-id": "3466",
+            "data-rateid": "REPERFE01200204900011001",
+            "data-ratename": "SureLock 12",
+            "data-rateprice": "0.2049",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Rockland Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl01$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl01_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "7853e6611a9a0fce3a7cba79",
+        "supplier": "Xoom Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "SimpleClean 12",
+        "product_id": "REPERFEJ1200206900011001",
+        "price": {
+          "value": "0.2069",
+          "unit": "USD/kWh",
+          "raw": "$0.2069/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": "50",
+        "renewable_source": null,
+        "renewable_claim": "With our fixed rate SimpleClean 12 Plan, lock in your green energy rate for 12 full months, guaranteed! This plan offers electricity price stability for the duration of your term. With SimpleClean 12, you protect yourself from the uncertainty that comes with energy bills.",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399652-en.pdf?_val=6a1f7f0",
+            "label": "Terms & Conditions",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399652-en.pdf?_val=24df0f4",
+            "label": "Contract Summary",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/83-rate-en.pdf?_val=ab60152",
+            "label": "Environmental Disclosure Information",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf",
+            "label": "Contract document",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399652-en.pdf?_val=3843676",
+            "label": "Terms & Conditions",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399652-en.pdf?_val=d3728dd",
+            "label": "Contract Summary",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/83-rate-en.pdf?_val=dc5d3f8",
+            "label": "Environmental Disclosure Information",
+            "product_id": "REPERFEJ1200206900011001",
+            "offer_key": "7853e6611a9a0fce3a7cba79",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "source_kind": "html",
+        "artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680",
+        "captured_at": "2026-09-11T05:30:49.327485+00:00",
+        "raw_fields": {
+          "text": "SimpleClean 12\n12 months\nUtility:\nRockland Electric\n$0.2069/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nWith our fixed rate SimpleClean 12 Plan, lock in your green energy rate for 12 full months, guaranteed! This plan offers electricity price stability for the duration of your term. With SimpleClean 12, you protect yourself from the uncertainty that comes with energy bills.\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nRenewable Electric\n50% Renewable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Rockland Electric",
+            "data-id": "3467",
+            "data-rateid": "REPERFEJ1200206900011001",
+            "data-ratename": "SimpleClean 12",
+            "data-rateprice": "0.2069",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Rockland Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl02$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl02_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "92b2a4acc9268afd7f7bf5da",
+        "supplier": "Xoom Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "SureLock 24",
+        "product_id": "REPERFE02400208900020001",
+        "price": {
+          "value": "0.2089",
+          "unit": "USD/kWh",
+          "raw": "$0.2089/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399657-en.pdf?_val=4c02173",
+            "label": "Terms & Conditions",
+            "product_id": "REPERFE02400208900020001",
+            "offer_key": "92b2a4acc9268afd7f7bf5da",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399657-en.pdf?_val=403ee67",
+            "label": "Contract Summary",
+            "product_id": "REPERFE02400208900020001",
+            "offer_key": "92b2a4acc9268afd7f7bf5da",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/83-rate-en.pdf?_val=c29c9f7",
+            "label": "Environmental Disclosure Information",
+            "product_id": "REPERFE02400208900020001",
+            "offer_key": "92b2a4acc9268afd7f7bf5da",
+            "discovery_artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "source_kind": "html",
+        "artifact_id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680",
+        "captured_at": "2026-09-11T05:30:49.327485+00:00",
+        "raw_fields": {
+          "text": "SureLock 24\n24 months\nUtility:\nRockland Electric\n$0.2089/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nTake the uncertainty out of your energy bills with our SureLock 24 fixed rate plan!\n•\nGuaranteed rate\nfor 24 months\n•\nPeace of mind\nknowing what your rate will be\n•\nProtection\nfrom the uncertainty that you've come to expect with energy bills\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$200.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nTwo year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $200 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "Rockland Electric",
+            "data-id": "3468",
+            "data-rateid": "REPERFE02400208900020001",
+            "data-ratename": "SureLock 24",
+            "data-rateprice": "0.2089",
+            "data-ratetermlength": "24 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "Rockland Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl03$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl03_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "attempts": [],
+    "artifacts": [
+      {
+        "id": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176",
+        "path": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176.json",
+        "kind": "json",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "captured_at": "2026-10-19T17:03:03.103869+00:00",
+        "bytes": 485
+      },
+      {
+        "id": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680",
+        "path": "6513c5ca871ef4f47820f81ae4b013a9bf7cc1a72ddff2299b0ffdc924ddb680.html",
+        "kind": "html",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/electricity/rockland-electric?dez=07430&depz=RECO",
+        "captured_at": "2026-10-19T17:03:03.175225+00:00",
+        "bytes": 138374
+      }
+    ],
+    "warnings": [],
+    "completion_issues": [],
+    "errors": []
+  }
+]

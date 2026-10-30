@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Indra Energy|PSE&G Electric|electric,Indra Energy,PSE&G Electric,electric,07102,8435935db309e03351abf92f,Renewable Freedom Plan,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|PSE&G Electric|electric,Indra Energy,PSE&G Electric,electric,07102,3a5415e413a01d07de176d61,Renewable Secure Rate 12,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|PSE&G Electric|electric,Indra Energy,PSE&G Electric,electric,07102,daa324aa43dc219b0490cff4,Renewable Secure Rate 6,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0

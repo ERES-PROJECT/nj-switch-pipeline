@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,378acc7d124c1212a994d2bb,Select 12,0,0,missing_useful_document,none,
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,5bc611f748618476f4a5cb59,Simple Choice 8,0,0,missing_useful_document,none,
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,7bcd0fd963c3dba2c9220060,Simple Choice 12,0,0,missing_useful_document,none,
+Major Energy|ACE Electric|electric,Major Energy,ACE Electric,electric,08401,ecd65780d95976bd972b5a63,Simple Choice 3,0,0,missing_useful_document,none,

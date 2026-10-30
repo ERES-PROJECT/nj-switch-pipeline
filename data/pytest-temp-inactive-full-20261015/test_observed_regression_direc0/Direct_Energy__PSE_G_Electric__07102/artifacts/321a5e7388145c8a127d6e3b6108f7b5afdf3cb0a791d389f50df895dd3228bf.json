@@ -1,0 +1,114 @@
+[
+  {
+    "flagName": "AEM_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "SAP_POSID_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "TEST_FLAG",
+    "flagValue": false
+  },
+  {
+    "flagName": "ENABLE_AU10TIX_SELFIE_PROTECTION_HOLD",
+    "flagValue": false
+  },
+  {
+    "flagName": "ENABLE_IDOLOGY_OFFLINE",
+    "flagValue": false
+  },
+  {
+    "flagName": "BY_PASS_PAST_SERVICE_FLOW",
+    "flagValue": false
+  },
+  {
+    "flagName": "META_CAPI_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "ENABLE_AU10TIX_UPLOAD_ID",
+    "flagValue": false
+  },
+  {
+    "flagName": "TOKENIZATION_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "OFFLINE_EQ_DIT_PASS_CONSENT",
+    "flagValue": false
+  },
+  {
+    "flagName": "TEALIUM_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "DNP_EDELIVERY",
+    "flagValue": false
+  },
+  {
+    "flagName": "ENABLE_ENROLLMENT_HOLD_GOOGLE_RECAPTCHA",
+    "flagValue": false
+  },
+  {
+    "flagName": "OFFLINE_EQUIFAX_POSID",
+    "flagValue": "DIT"
+  },
+  {
+    "flagName": "WAIVE_OFF_PAST_DUE_BALANCE",
+    "flagValue": false
+  },
+  {
+    "flagName": "PCI4_CHANNEL_ENABLE",
+    "flagValue": false
+  },
+  {
+    "flagName": "ENABLE_SINGLE_OPTIN_SMS",
+    "flagValue": false
+  },
+  {
+    "flagName": "AWS_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "OFFLINE_EQ_DIT_ENABLE_KBA",
+    "flagValue": true
+  },
+  {
+    "flagName": "OFFLINE_EQ_DIT_PASS_PHONE",
+    "flagValue": true
+  },
+  {
+    "flagName": "ENABLE_AU10TIX_PII_THALES",
+    "flagValue": true
+  },
+  {
+    "flagName": "SAP_DOWN",
+    "flagValue": false
+  },
+  {
+    "flagName": "PCI4_ENABLE",
+    "flagValue": false
+  },
+  {
+    "flagName": "CEN_EDELIVERY",
+    "flagValue": false
+  },
+  {
+    "flagName": "average_billing_card",
+    "flagValue": false
+  },
+  {
+    "flagName": "LPL_TRANSITION_PHASE",
+    "flagValue": "TRANSITION_COMPLETE"
+  },
+  {
+    "flagName": "NEW_POW_IMPLEMENTATION",
+    "flagValue": true
+  },
+  {
+    "flagName": "EDISCONNECT_AUTH_CAP",
+    "flagValue": false
+  }
+]

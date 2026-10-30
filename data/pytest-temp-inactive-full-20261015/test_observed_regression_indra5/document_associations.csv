@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Indra Energy|JCP&L Electric|electric,Indra Energy,JCP&L Electric,electric,07701,594a795810d0cc131edad3ff,Renewable Freedom Plan,0,0,missing_useful_document,none,
+Indra Energy|JCP&L Electric|electric,Indra Energy,JCP&L Electric,electric,07701,87f0f6d4d48b23b8ed0585d2,Renewable Secure Rate 12,0,0,missing_useful_document,none,
+Indra Energy|JCP&L Electric|electric,Indra Energy,JCP&L Electric,electric,07701,96f38a13245939f4c9a0c8d1,Renewable Secure Rate 6,0,0,missing_useful_document,none,

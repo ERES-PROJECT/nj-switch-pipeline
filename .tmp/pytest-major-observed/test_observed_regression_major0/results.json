@@ -1,0 +1,249 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Major Energy",
+      "utility": "PSE&G Electric",
+      "commodity": "electric",
+      "zip": "07102",
+      "url": "https://majorenergy.com/areas/nj/",
+      "adapter": "major_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-17T20:25:20.846928+00:00",
+    "finished_at": "2026-10-17T20:25:20.922750+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 4,
+    "source_evidence": {},
+    "offers": [
+      {
+        "key": "59d9649e8b7263a0781ddf86",
+        "supplier": "Major Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Select 12",
+        "product_id": "148074",
+        "price": {
+          "value": "0.16990",
+          "unit": "USD/kWh",
+          "raw": "$0.16990\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=148074&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "148074",
+            "offer_key": "59d9649e8b7263a0781ddf86",
+            "discovery_artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4",
+        "captured_at": "2026-09-04T15:51:11.579722+00:00",
+        "raw_fields": {
+          "text": "Detail\nSelect 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$0.16990\nper kWh\nEnroll Now\nSelect 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$0.16990\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nProvide a few bits of information and we'll analyze your usage to see if you qualify.. Should you remain on your utility default service, the average price for this same contract length is $0.195524 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://nj.pseg.com/aboutpseg/regulatorypage/pricetocompare\nEnergy Rate: $0.16990\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "a246aa5b9e33fdfee6a3e8dc",
+        "supplier": "Major Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Simple Choice 12",
+        "product_id": "147594",
+        "price": {
+          "value": "0.18190",
+          "unit": "USD/kWh",
+          "raw": "$0.18190\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [
+          "$100 Rebate - Major",
+          "$100 Rebate - Major"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=147594&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "147594",
+            "offer_key": "a246aa5b9e33fdfee6a3e8dc",
+            "discovery_artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4",
+        "captured_at": "2026-09-04T15:51:11.579722+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$100 Rebate - Major\n$0.18190\nper kWh\nEnroll Now\nSimple Choice 12\nTerm: 12 Months\n•\nRate Type: Fixed\n$100 Rebate - Major\n$0.18190\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.195524 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://nj.pseg.com/aboutpseg/regulatorypage/pricetocompare\nSpecial Offer\nWith this energy plan, you can receive up to a $100 rebate. For the $100 rebate, redeem the first $50 after one month of service and the second $50 after 6 months of service from Major. Valid for new enrollments only.  For more information, visit https://majorenergy.com/rebate/\nEnergy Rate: $0.18190\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "d1bc5cead9e925ca437e4fb8",
+        "supplier": "Major Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Simple Choice 3",
+        "product_id": "152625",
+        "price": {
+          "value": "0.19550",
+          "unit": "USD/kWh",
+          "raw": "$0.19550\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 3,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=152625&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "152625",
+            "offer_key": "d1bc5cead9e925ca437e4fb8",
+            "discovery_artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4",
+        "captured_at": "2026-09-04T15:51:11.579722+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 3\nTerm: 3 Months\n•\nRate Type: Fixed\n$0.19550\nper kWh\nEnroll Now\nSimple Choice 3\nTerm: 3 Months\n•\nRate Type: Fixed\n$0.19550\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.195524 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://nj.pseg.com/aboutpseg/regulatorypage/pricetocompare\nEnergy Rate: $0.19550\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      },
+      {
+        "key": "9961cb59bd7b0ac3cc77a7fe",
+        "supplier": "Major Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Simple Choice 8",
+        "product_id": "152626",
+        "price": {
+          "value": "0.19990",
+          "unit": "USD/kWh",
+          "raw": "$0.19990\nper kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "cancellation_fee": "Early Termination Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://signup.majorenergy.com/getdocument/?getproductpdf=1&ProductID=152626&type=TOS&title=Terms+of+Service&promocode=",
+            "label": "Terms of Service",
+            "product_id": "152626",
+            "offer_key": "9961cb59bd7b0ac3cc77a7fe",
+            "discovery_artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "source_kind": "html",
+        "artifact_id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4",
+        "captured_at": "2026-09-04T15:51:11.579722+00:00",
+        "raw_fields": {
+          "text": "Detail\nSimple Choice 8\nTerm: 8 Months\n•\nRate Type: Fixed\n$0.19990\nper kWh\nEnroll Now\nSimple Choice 8\nTerm: 8 Months\n•\nRate Type: Fixed\n$0.19990\nper kWh\nEnroll Now\nDetail",
+          "details": "Description\nShould you remain on your utility default service, the average price for this same contract length is $0.195524 per kWh based on the current utility’s comparative residential customer rate effective as of 7/15/26, which is subject to change in accordance with the utility’s rules. This plan offers no savings compared to the utility current default residential customer rate. For more information on the current utility rate visit https://nj.pseg.com/aboutpseg/regulatorypage/pricetocompare\nEnergy Rate: $0.19990\nPlan Documents\nTerms of Service\nEarly Termination Fee:\n$0"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "attempts": [],
+    "artifacts": [
+      {
+        "id": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4",
+        "path": "904955cba7a94513f56ad528fb3ce33def2610d056978e59f76d4b0c652c26b4.html",
+        "kind": "html",
+        "url": "https://signup.majorenergy.com/Signup/ShowProducts",
+        "captured_at": "2026-10-17T20:25:20.871528+00:00",
+        "bytes": 37175
+      }
+    ],
+    "warnings": [],
+    "completion_issues": [],
+    "errors": []
+  }
+]

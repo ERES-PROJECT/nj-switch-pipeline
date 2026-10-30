@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Xoom Energy|Rockland Electric|electric,Xoom Energy,Rockland Electric,electric,07430,8b4a7650f6f69a5b0ac447ed,SimpleFlex,True,,term_months | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|Rockland Electric|electric,Xoom Energy,Rockland Electric,electric,07430,982629a4fa667c3a16067242,RescueLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|Rockland Electric|electric,Xoom Energy,Rockland Electric,electric,07430,cf31e2ca4f4bed80ab804129,SureLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|Rockland Electric|electric,Xoom Energy,Rockland Electric,electric,07430,7853e6611a9a0fce3a7cba79,SimpleClean 12,True,,enrollment_fee | cancellation_fee | renewable_source,0
+Xoom Energy|Rockland Electric|electric,Xoom Energy,Rockland Electric,electric,07430,92b2a4acc9268afd7f7bf5da,SureLock 24,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

@@ -1,0 +1,7 @@
+{
+  "query": {"supplier": "Residents Energy", "utility": "NJNG Gas", "commodity": "gas", "zip": "07712", "url": "https://residentsenergy.com/", "adapter": "residents_energy"},
+  "captured_at": "2026-09-17T00:00:00Z",
+  "context_verified": true,
+  "source_url": "https://residentsenergy.com/new-jersey-price-comparison/",
+  "html": "<table><tbody><tr><td colspan='5'>NJ Natural Gas ResiSURE Price Comparison</td></tr><tr><td>Utility</td><td>PTC</td><td>IDT Energy Rate</td><td>Supply</td><td>Term (Bill Cycles)</td></tr><tr><td>NJNG</td><td>0.45670</td><td>1.04780</td><td>Brown</td><td>8</td></tr><tr><td>NJNG</td><td>0.45670</td><td>1.23780</td><td>Green</td><td>8</td></tr></tbody></table>"
+}

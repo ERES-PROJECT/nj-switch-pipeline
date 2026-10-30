@@ -1,0 +1,1144 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Xoom Energy",
+      "utility": "PSE&G Electric",
+      "commodity": "electric",
+      "zip": "07102",
+      "url": "https://xoomenergy.com/en/residential/new-jersey",
+      "adapter": "xoom_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-14T12:25:04.109876+00:00",
+    "finished_at": "2026-10-14T12:25:22.923346+00:00",
+    "status": "success",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 5,
+    "offers": [
+      {
+        "key": "2a3c34f41946a3c86ce2e539",
+        "supplier": "Xoom Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "SimpleFlex",
+        "product_id": "PSEERIZ0030021590000005B",
+        "price": {
+          "value": "0.2159",
+          "unit": "USD/kWh",
+          "raw": "$0.2159/\nkWh"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": {
+          "value": "0.2159",
+          "unit": "USD/kWh",
+          "raw": "$0.2159/\nkWh"
+        },
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": 3,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [
+          "SimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.",
+          "With XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.",
+          "5% Annual Cash Back on supply charges",
+          "*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential electricity bills.",
+          "For avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.",
+          "Your Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399620-en.pdf?_val=1aaa657",
+            "label": "Terms & Conditions",
+            "product_id": "PSEERIZ0030021590000005B",
+            "offer_key": "2a3c34f41946a3c86ce2e539",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399620-en.pdf?_val=f69043c",
+            "label": "Contract Summary",
+            "product_id": "PSEERIZ0030021590000005B",
+            "offer_key": "2a3c34f41946a3c86ce2e539",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=1b25cdf",
+            "label": "Environmental Disclosure Information",
+            "product_id": "PSEERIZ0030021590000005B",
+            "offer_key": "2a3c34f41946a3c86ce2e539",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          }
+        ],
+        "contract_ids": [
+          "c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e",
+          "61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834",
+          "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a"
+        ],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "source_kind": "html",
+        "artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63",
+        "captured_at": "2026-09-04T15:51:31.269332+00:00",
+        "raw_fields": {
+          "text": "SimpleFlex\nMonthly\nUtility:\nPSE&G - Electric\nIntro: $0.2159/\nkWh\n*\nINTRODUCTORY OFFER\n*This Introductory Offer is only available to new customers who have not been a XOOM Energy customer in the past 6 months and is intended for general use customers. The Introductory Offer is intended for customers on standard tariff rates and accounts on special utility tariffs rate such as street lighting, space heating rate or hourly pricing rate schedules are not eligible for this Introductory Offer. Your rate will be applied during your first 3 bill cycle(s). XOOM Energy may end this Introductory Offer at any time without notice. This rate may change in the subsequent months at the sole discretion of XOOM Energy.\nChoose\nDetails\n.\nCompare\nIntroductory Offer:\nENROLL TODAY AND GET A LOW INTRODUCTORY RATE ON YOUR FIRST 3 BILLS!*\nNew customers only.\nPlan Description:\nSimpleFlex combines the freedom and flexibility you want in an energy plan with the added bonus of Cash Back*.\nWith XOOM Energy's Cash Back program, you earn a 5% rebate for your everyday energy use.\n• No long-term commitment or cost recovery fee\n•\n5% Annual Cash Back on supply charges\n• Rate may vary monthly\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nNo Cost Recovery Fee\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\n*Upon enrollment, your account will automatically be enrolled in the Cash Back program, and you will become eligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential electricity bills.\nTo be eligible, you must remain active and in good standing on all qualifying accounts for 12 consecutive months.\nXOOM Energy customers are active when electricity service is flowing.\nFor avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit all existing cash back values for that period.  Similarly, your account must be good standing with no past due billing at the time rebate is paid.\nYour Cash Back rebate will be sent to the mailing address associated with your account after every 12 consecutive months of service on the SimpleFlex plan.  Please allow 60 days after the close of every 12-month period to receive each rebate.  Rebates will be paid via check and delivered to the mailing address on your account.\nAfter promotional period, this rate may change in the subsequent months at the sole discretion of XOOM Energy. XOOM's charges will be reflected on the monthly bill you receive from the utility. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nVariable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "PSE&G - Electric",
+            "data-id": "5473",
+            "data-rateid": "PSEERIZ0030021590000005B",
+            "data-ratename": "SimpleFlex",
+            "data-rateprice": "0.2159",
+            "data-ratetermlength": "Monthly",
+            "data-ratetype": "Variable",
+            "data-utilityname": "PSE&G - Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptVariablePlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptVariablePlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "2b92cce02c3508c0f7b54d3b",
+        "supplier": "Xoom Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "SureLock 12",
+        "product_id": "PSEERFE01200206900011001",
+        "price": {
+          "value": "0.2069",
+          "unit": "USD/kWh",
+          "raw": "$0.2069/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399622-en.pdf?_val=c538923",
+            "label": "Terms & Conditions",
+            "product_id": "PSEERFE01200206900011001",
+            "offer_key": "2b92cce02c3508c0f7b54d3b",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399622-en.pdf?_val=f4a0888",
+            "label": "Contract Summary",
+            "product_id": "PSEERFE01200206900011001",
+            "offer_key": "2b92cce02c3508c0f7b54d3b",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=aafd209",
+            "label": "Environmental Disclosure Information",
+            "product_id": "PSEERFE01200206900011001",
+            "offer_key": "2b92cce02c3508c0f7b54d3b",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          }
+        ],
+        "contract_ids": [
+          "1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3",
+          "fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0",
+          "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a"
+        ],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "source_kind": "html",
+        "artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63",
+        "captured_at": "2026-09-04T15:51:31.269332+00:00",
+        "raw_fields": {
+          "text": "SureLock 12\n12 months\nUtility:\nPSE&G - Electric\n$0.2069/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our SureLock 12 fixed rate plan!\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "PSE&G - Electric",
+            "data-id": "61",
+            "data-rateid": "PSEERFE01200206900011001",
+            "data-ratename": "SureLock 12",
+            "data-rateprice": "0.2069",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "PSE&G - Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl00$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl00_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "937e1a4a97efd3a68352624a",
+        "supplier": "Xoom Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "RescueLock 12",
+        "product_id": "PSEERFE0120021690001105P",
+        "price": {
+          "value": "0.2169",
+          "unit": "USD/kWh",
+          "raw": "$0.2169/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399628-en.pdf?_val=7c4e40a",
+            "label": "Terms & Conditions",
+            "product_id": "PSEERFE0120021690001105P",
+            "offer_key": "937e1a4a97efd3a68352624a",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399628-en.pdf?_val=2937ce9",
+            "label": "Contract Summary",
+            "product_id": "PSEERFE0120021690001105P",
+            "offer_key": "937e1a4a97efd3a68352624a",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=d008cf6",
+            "label": "Environmental Disclosure Information",
+            "product_id": "PSEERFE0120021690001105P",
+            "offer_key": "937e1a4a97efd3a68352624a",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          }
+        ],
+        "contract_ids": [
+          "643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49",
+          "8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525",
+          "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a"
+        ],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "source_kind": "html",
+        "artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63",
+        "captured_at": "2026-09-04T15:51:31.269332+00:00",
+        "raw_fields": {
+          "text": "RescueLock 12\n12 months\nUtility:\nPSE&G - Electric\n$0.2169/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nGet the\npeace of mind\nyou deserve with our RescueLock 12 fixed rate plan!\n• Enroll on RescueLock 12 and\n5%\nof your monthly energy charges will be donated to PetSmart Charities!*\n•\nLock in\nyour rate for 12 full months\n• Get\nstability\nfor the duration of your term\n•\nProtect\nyourself from the uncertainty that you've come to expect with energy bills.\nRate above is available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. XOOM's charges will be reflected on the monthly bill you receive from the utility. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. If you are currently under a contract with another provider understand your obligations and rights before switching. Only the utility account holder or persons legally authorized on the account may enroll.\n*This promotion is sponsored by XOOM Energy, LLC, including its wholly owned subsidiaries (collectively \"XOOM Energy\"), doing business at 804 Carnegie Center, Princeton, NJ 08540. The proceeds from the promotion will benefit PetSmart Charities, Inc. (“Charities”). XOOM Energy will pay to Charities in the US for its general charitable purposes the equivalent of 5% of monthly energy charges paid by participating XOOM Energy customers. This contribution is not tax deductible. Charities is an organization described in Internal Revenue Code Section 501(c)(3). A copy of its most recent financial report is available by contacting the organization at 19601 North 27th Ave., Phoenix, AZ 85027, or by telephone at 1-800-423-7387. For more information, visit www.petsmartcharities.org. Registration by Charities or the Promoter with any state regulatory agency does not imply endorsement.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "PSE&G - Electric",
+            "data-id": "3880",
+            "data-rateid": "PSEERFE0120021690001105P",
+            "data-ratename": "RescueLock 12",
+            "data-rateprice": "0.2169",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "PSE&G - Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl01$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl01_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "adf318fdc41858d2525efcda",
+        "supplier": "Xoom Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "SimpleClean 12",
+        "product_id": "PSEERFEJ1200208900011001",
+        "price": {
+          "value": "0.2089",
+          "unit": "USD/kWh",
+          "raw": "$0.2089/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": "50",
+        "renewable_source": null,
+        "renewable_claim": "With our fixed rate SimpleClean 12 Plan, lock in your green energy rate for 12 full months, guaranteed! This plan offers electricity price stability for the duration of your term. With SimpleClean 12, you protect yourself from the uncertainty that comes with energy bills.",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4512864",
+            "label": "Terms & Conditions",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=f2d1db8",
+            "label": "Contract Summary",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=f307b72",
+            "label": "Environmental Disclosure Information",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf",
+            "label": "Contract document",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4c2e4a0",
+            "label": "Terms & Conditions",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=a77bfef",
+            "label": "Contract Summary",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=89cf18c",
+            "label": "Environmental Disclosure Information",
+            "product_id": "PSEERFEJ1200208900011001",
+            "offer_key": "adf318fdc41858d2525efcda",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          }
+        ],
+        "contract_ids": [
+          "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65",
+          "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a",
+          "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+          "39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e"
+        ],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "source_kind": "html",
+        "artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63",
+        "captured_at": "2026-09-04T15:51:31.269332+00:00",
+        "raw_fields": {
+          "text": "SimpleClean 12\n12 months\nUtility:\nPSE&G - Electric\n$0.2089/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nWith our fixed rate SimpleClean 12 Plan, lock in your green energy rate for 12 full months, guaranteed! This plan offers electricity price stability for the duration of your term. With SimpleClean 12, you protect yourself from the uncertainty that comes with energy bills.\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$110.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nOne year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $110 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nRenewable Electric\n50% Renewable",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "PSE&G - Electric",
+            "data-id": "510",
+            "data-rateid": "PSEERFEJ1200208900011001",
+            "data-ratename": "SimpleClean 12",
+            "data-rateprice": "0.2089",
+            "data-ratetermlength": "12 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "PSE&G - Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl02$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl02_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      },
+      {
+        "key": "99b5c00dac3c9d21f74fabd2",
+        "supplier": "Xoom Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "SureLock 24",
+        "product_id": "PSEERFE02400207900020001",
+        "price": {
+          "value": "0.2079",
+          "unit": "USD/kWh",
+          "raw": "$0.2079/\nkWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "No Monthly Fee\nCompare Pricing"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://xoomenergy.com/uploads/rates/terms/399631-en.pdf?_val=09ef430",
+            "label": "Terms & Conditions",
+            "product_id": "PSEERFE02400207900020001",
+            "offer_key": "99b5c00dac3c9d21f74fabd2",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/contract-summary/399631-en.pdf?_val=ddae003",
+            "label": "Contract Summary",
+            "product_id": "PSEERFE02400207900020001",
+            "offer_key": "99b5c00dac3c9d21f74fabd2",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          },
+          {
+            "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=736acf2",
+            "label": "Environmental Disclosure Information",
+            "product_id": "PSEERFE02400207900020001",
+            "offer_key": "99b5c00dac3c9d21f74fabd2",
+            "discovery_artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63"
+          }
+        ],
+        "contract_ids": [
+          "c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4",
+          "08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6",
+          "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a"
+        ],
+        "source_url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "source_kind": "html",
+        "artifact_id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63",
+        "captured_at": "2026-09-04T15:51:31.269332+00:00",
+        "raw_fields": {
+          "text": "SureLock 24\n24 months\nUtility:\nPSE&G - Electric\n$0.2079/\nkWh\nChoose\nDetails\n.\nCompare\nPlan Description:\nTake the uncertainty out of your energy bills with our SureLock 24 fixed rate plan!\n•\nGuaranteed rate\nfor 24 months\n•\nPeace of mind\nknowing what your rate will be\n•\nProtection\nfrom the uncertainty that you've come to expect with energy bills\nRate above is only available to customers enrolling with XOOM Energy for the first time.\nRate above applies to all kWhs used.\nAdditional documents and information:\nCost Recovery Fee\n$200.00\nNo Monthly Fee\nCompare Pricing\nTerms & Conditions\nContract Summary\nEnvironmental Disclosure Information\nThings you need to know:\nTwo year agreement required. Price includes tax. Other fees may apply. If you cancel your service before the contract ends, a cost recovery fee of $200 may apply. Only the utility account holder or persons legally authorized on the account may enroll. If you are currently under a contract with a retail supplier, understand your obligations and rights before switching.\nFixed",
+          "offer_attributes": {
+            "class": [
+              "btn",
+              "btn-orange",
+              "btn-tall",
+              "btn-block"
+            ],
+            "data-commoditytype": "PSE&G - Electric",
+            "data-id": "130",
+            "data-rateid": "PSEERFE02400207900020001",
+            "data-ratename": "SureLock 24",
+            "data-rateprice": "0.2079",
+            "data-ratetermlength": "24 months",
+            "data-ratetype": "Fixed",
+            "data-utilityname": "PSE&G - Electric",
+            "href": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$cpTopMain$cpMain$ucProductChart$rptFixedPlans$ctl03$ucProductChartPlan$lnkEnroll\", \"\", true, \"\", \"\", false, true))",
+            "id": "ctl00_ctl00_cpTopMain_cpMain_ucProductChart_rptFixedPlans_ctl03_ucProductChartPlan_lnkEnroll"
+          }
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [
+      {
+        "id": "c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399620-en.pdf?_val=1aaa657",
+        "artifact_id": "c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e",
+        "media_type": "application/pdf",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/terms/399620-en.pdf?_val=1aaa657"
+        ],
+        "sections": {},
+        "raw_text": "SIMPLEFLEX TERMS AND CONDITIONS\nIntroduction: This is an agreement for Electric Generation Service from XOOM Energy New Jersey, LLC (“XOOM”\nor “Company” or “us”). This Disclosure Statement/Terms and Conditions, and the accompanying Contract\nSummary set forth the terms and conditions of your agreement with XOOM for electric generation supply. XOOM is\nlicensed by the New Jersey Public Utility Commission to offer and supply electric generation services in New\nJersey. XOOM’s license number is ESL – 0115. Your generation prices and charges will be set by us. The Public\nUtility Commission regulates distribution prices and services. The Federal Energy Regulatory Commission\nregulates transmission prices and services.\nYou will continue to receive your bill from your Electric Distribution Company (EDC) that will contain your EDC’s\ncharges and your charges from XOOM Energy New Jersey, and your EDC will continue to provide all emergency\nrepairs and services.\nService & Term: The Term of this Agreement will begin with your first meter read by your EDC after your\nenrollment is accepted, and will continue for the Contract Term / Length set forth in the accompanying Contract\nSummary. There will be no charge for starting or stopping electric generation service, if done within the terms of\nthis Agreement.\nAcceptance of Enrollment:These terms and conditions are subject to you meeting all requirements of XOOM and\nyour EDC to become enrolled with XOOM. You will be promptly notified with confirmation of your switch to XOOM\nin writing.\nRight of Rescission:You will have seven (7) calendar days, starting from the date of your EDC’s confirmation\nnotice (“Cancellation Period”), to contact the EDC and cancel this contract without penalty or a cancellation fee.\nThis Agreement does not become a legally binding contract until the cancellation period has expired.\nEDC Services:XOOM is an electric generation supplier and is not affiliated with your EDC. Your EDC will continue\nto deliver your electricity, read your meter, make necessary repairs, and send you a bill. Your EDC will also\nrespond to emergencies and provide other basic utility services as required. Please call your EDC in the event of\nan emergency such as a power outage. XOOM Energy is not an agent of your EDC and your EDC will not be liable\nfor any of XOOM Energy’s acts, omissions, or representations.\nPrice:Your rate for electricity purchases under this Agreement will be a variable price, per kilowatt hour that may\nchange on a monthly basis, plus taxes and fees, if applicable. This rate is set forth in your Contract Summary,\nwhich is incorporated into this Agreement. Your variable rate may fluctuate and may be higher or lower than your\nlocal utility. Your rate is based upon a number of factors, which may include but not be limited to, the fluctuation of\nwholesale commodity costs or other components of wholesale prices (including but not limited to capacity related\ncosts, fluctuations in energy supply and demand, and weather patterns) and XOOM’s pricing strategies. XOOM\ncannot guarantee savings over your Local Utility’s rates for the any given month or for the entire term of this\nAgreement\nMoving:When moving to an address within your EDC’s service territory, XOOM will make every effort to transfer\nyour services to your new address provided that you notify XOOM within 48 hours of your move. If a transfer of\nservice is not successful or you move to a location outside your EDC service territory, or a territory not serviced by\nXOOM, this Agreement will automatically terminate at no cost to you. Failure to notify XOOM of your move will be\nPSEERIZ0030021590000005B\nconsidered a cancellation of this Agreement in accordance with its terms.\nDeath or Disability:If you become disabled or die, you, or your agent or successors can terminate this Agreement\nby giving 48-hours’ notice to XOOM Energy.\nTermination:XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to terminate\nif you fail to comply with any of the terms and conditions of this Agreement, including payment, regardless of\nwhether or not the reason for termination is remedied after notice. XOOM may cancel this Agreement if your usage\nof electricity changes substantially. Termination may take two (2) or more billing cycles by your EDC, and while the\ncancellation is taking place, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection:Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution:If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC’s contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment:This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints:For service problems you should contact your EDC directly. Your EDC’s contact information is\nlocated above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS A\nPOWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\nPSEERIZ0030021590000005B\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous:You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting, both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nBilling:XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency:You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty:XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances:XOOM will not be responsible for supplying electricity in the event\nPSEERIZ0030021590000005B\nof circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of terrorism,\nsabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law, pricing\nstructure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nCash Back Rewards Program Terms\nEligbility: Your rewards are offered by XOOM Energy Rewards are subject to the following terms and conditions.\nFor purposes of receiving rewards, active accounts are defined as those (i) that are billing more than $0 and (ii) for\nwhich we have not received a request to discontinue (drop) service or change programs. XOOM Energy may at its\ndiscretion send a combined reward payment if you have more than one account enrolled. Rewards are also subject\nto the Terms and Conditions between XOOM Energy and you, including, but not limited to, all terms related to\ndispute resolution. XOOM Energy reserves the right to disqualify any account holder from participation in reward\nprograms.\nRebate Information: Any tax liability relating to a rebate is your sole responsibility. XOOM Energy is not\nresponsible for resolving any conflicting claims to rebates. Rebates may not be applied as credits or offsets to\nreduce the amount owed on your account. Rebates shall have no cash value until the rebates are issued. You\nhave no property rights or other legal interest in rebates until rebates are received. You may not assign, transfer or\npledge rebates. The terms and conditions of rebates may be modified or rebates may be discontinued at any time\nat XOOM Energy‘s sole discretion. If XOOM Energy discontinues the rebate programs, you will be eligible for a\npro-rated rebate, based on the portion of your Program or Rebate Period that has been completed. However, if\nrebates are found to be in violation of any applicable law, then XOOM Energy will not have any obligation to\nprovide any rebates to you.\nElectric Cash Back Information: Cash Back is a rebate program offered by XOOM Energy. Upon enrollment with\nSimpleFlex, your account will automatically be enrolled in the Cash Back rebate program, and you will become\neligible to receive a 5% Cash Back rebate for every $1 spent on the supply portion of your monthly residential\nelectricity bills. To be eligible, you must remain active and in good standing on all qualifying accounts for 12\nconsecutive months.\nFor avoidance of doubt, should you choose to change your plan within one of the 12-month periods, you will forfeit\nall existing cash back values for that period. Similarly, your account must be in good standing with no past due\nbilling at the time rebate is paid.\nYour Cash Back rebate will be paid via check or rewards card and sent to the mailing address associated with your\naccount after every 12 consecutive months of service on the SimpleFlex plan. Please allow 60 days after the close\nof every 12-month period to receive each rebate. Rebates will be paid via check and delivered to the mailing\naddress on your account. Budget billing customers will be awarded based on the monthly budget billing amount,\nplus or minus any periodic reconciliation or true-up that is required.\nEntire Agreement:This Agreement, including the Contract Summary and additional terms and conditions above, as\nwell as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and understanding\nbetween you and XOOM with respect to its subject matter and superseding all prior written and oral agreements\nand representations made with respect to such subject matter.\nPSEERIZ0030021590000005B\nPSEERIZ0030021590000005B",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "2a3c34f41946a3c86ce2e539"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399620-en.pdf?_val=f69043c",
+        "artifact_id": "61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834",
+        "media_type": "application/pdf",
+        "document_kind": "contract_summary",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/contract-summary/399620-en.pdf?_val=f69043c"
+        ],
+        "sections": {
+          "price_structure": "Your rate for electric power purchases will be a variable rate, per kilowatt\nhour, that may change on a monthly basis. A fixed rate is a rate that is set at a\nfixed price, per kilowatt hour, that remains the same for your Contract\nTerm/Length. Your variable rate may fluctuate and may be higher or lower\nthan your local utility. Your rate is based upon a number of factors, which\nmay include but not be limited to, the fluctuation of wholesale commodity\ncosts or other components of wholesale prices (including but not limited to\ncapacity related costs, and weather patterns) and XOOM’s pricing strategies,\nincluding XOOM’s profit margin.",
+          "supply_price": "Your initial rate under this contract is $0.2159/kWh. This initial rate will be in\neffect for 3 month(s), and thereafter, your rate will vary month to month based\non the factors described above and in your contract.",
+          "savings": "There is no guarantee of savings.",
+          "switching_time": "One to two billing cycles.",
+          "incentives": "Not Applicable",
+          "rescission": "You will have seven (7) calendar days, starting from the date of your EDC’s\nconfirmation notice, to contact the EDC and cancel this contract.",
+          "start_date": "The Term of this Agreement will begin with your first meter read by your\nlocal utility following your acceptance into the program.",
+          "term": "This is a month to month contract and will continue until terminated by you or\nXOOM.",
+          "renewal": "Not Applicable\ncontact us and pursue other remedies as specified in this contract below.\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.",
+          "supplier_information": "XOOM Energy New Jersey, LLC (\"XOOM\")\n804 Carnegie Center, Princeton, NJ 08540\n1-888-997-8979\nwww.xoomenergy.com customercare@xoomenergy.com\nBPU License #ESL - 0115\nXOOM is responsible for your electric supply.",
+          "cancellation": "No",
+          "distribution_company": "Verified collection context: PSE&G Electric"
+        },
+        "raw_text": "Customer name: Address: Local distribution company account number:\nThird Party Supplier Contract Summary\nThird Party Supplier XOOM Energy New Jersey, LLC (\"XOOM\")\nInformation: 804 Carnegie Center, Princeton, NJ 08540\nBy entering into this 1-888-997-8979\ncontract, you are agreeing to www.xoomenergy.com customercare@xoomenergy.com\npurchase your electric BPU License #ESL - 0115\nsupply from this supplier. XOOM is responsible for your electric supply.\nYour rate for electric power purchases will be a variable rate, per kilowatt\nhour, that may change on a monthly basis. A fixed rate is a rate that is set at a\nfixed price, per kilowatt hour, that remains the same for your Contract\nTerm/Length. Your variable rate may fluctuate and may be higher or lower\nPrice Structure than your local utility. Your rate is based upon a number of factors, which\nmay include but not be limited to, the fluctuation of wholesale commodity\ncosts or other components of wholesale prices (including but not limited to\ncapacity related costs, and weather patterns) and XOOM’s pricing strategies,\nincluding XOOM’s profit margin.\nYour initial rate under this contract is $0.2159/kWh. This initial rate will be in\nGeneration/Supply Price effect for 3 month(s), and thereafter, your rate will vary month to month based\non the factors described above and in your contract.\nStatement Regarding Savings There is no guarantee of savings.\nTime required to change from\nTPS back to default service or One to two billing cycles.\nto another TPS\nIncentives Not Applicable\nYou will have seven (7) calendar days, starting from the date of your EDC’s\nRight to Cancel/Rescind\nconfirmation notice, to contact the EDC and cancel this contract.\nThe Term of this Agreement will begin with your first meter read by your\nContract Start Date\nlocal utility following your acceptance into the program.\nThis is a month to month contract and will continue until terminated by you or\nContract Term/Length\nXOOM.\nCancellation/Early\nNo\nTermination Fees\nRenewal Terms Not Applicable\nSlamming is the unauthorized change of a customer’s electric power\nsupplier or natural gas supplier from one company to another. To report\nthis practice or to file other complaints, you may contact the Board of Public\nComplaints\nUtilities, Division of Customer Assistance at (800) 624-0241 or visit\nhttps://www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nPSE&G - Electric\n80 Park Plaza, Newark, NJ 07102\nMain:800.436.7734 Emergency:800.436.7734\nElectric Distribution Company\nwww.pseg.com\nInformation\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.\nTo request a copy of your Contract Summary in Spanish, please contact XOOM.\nPSEERIZ0030021590000005B",
+        "fields": {
+          "prices": [
+            {
+              "value": "0.2159",
+              "unit": "USD/kWh",
+              "raw": "$0.2159/kWh"
+            }
+          ],
+          "rate_structure": null,
+          "term_months": null,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: No"
+          },
+          "incentives": [],
+          "form_fields": {},
+          "cancellation_fee": "0"
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "parsed",
+        "matched_offer_keys": [
+          "2a3c34f41946a3c86ce2e539"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=1b25cdf",
+        "artifact_id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "media_type": "application/pdf",
+        "document_kind": "environmental",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=1b25cdf",
+          "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=736acf2",
+          "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=89cf18c",
+          "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=aafd209",
+          "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=d008cf6",
+          "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=f307b72"
+        ],
+        "sections": {},
+        "raw_text": "Environmental Information Disclosure (EID) for the Electricity Product of XOOM Energy New Jersey LLC\nElectricity Supplied from June 1, 2024 to May 31, 2025\n1. Below is the default EID Label describing the resources used to generate electricity for customers of XOOM Energy New Jersey LLC\n2. The PJM System Mix data provided in the standard format below is to be used as the default EID Label when a TPS or EDC has not\nmade an affirmative claim about the environmental characteristics of their product.\n3. A Third Party Supplier or EDC may substitute product specific information if it makes an affimative claim that the electricity mix used in\nits product exceeds the standard default mix including the State mandates for Renewable Portfolio Standard compliance.\n4. If a TPS or EDC uses actual product specific data to substantiate an environmental claim, the EID label must include the TPS or BGS\nProviders emissions data in lb/MWh for comparison with PJM benchmark as described below.\n5. If a TPS or EDC uses actual product specific data to substantiate an environmental claim, the EID label must also include a graphical\nrepresentation of the TPS or BGS Provider's emissions data as a percentage of PJM benchmark as shown below.\n6. If a TPS or EDC uses substitute data to substantiate an environmental claim based upon the retirement of RECs beyond that required\nby NJ law or actually procured renewable electricity, the EID label with sufficient documentation to determine generation sources and\nemissions must be submitted to the NJ BPU Divison of Clean Energy for verification.\n7. Products which utilitize RECs from renewable electricity sources not delivering power into PJM cannot claim NOx or SO2 reductions in\nPJM from their products.\nPJM System Mix\nEnergy Source\nEnergy Source\nCoal 15.74%\nGas 43.31% Coal\n0.31%\nHydroelectric (large) 0.84%\nNuclear 32.23% 7.58% Gas\n15.74%\nOil 0.31%\nRenewable Energy Sources 7.58% Hydroelectric (large)\nCaptured methane gas 0.51%\nFuel cells 0.00% Nuclear\n32.23%\nGeothermal 0.00%\nHydroelectric(small) 0.00% Oil\nSolar 2.50% 43.31%\nSolid waste 0.53% Renewable Energy\nSources\nWind 3.88%\nWood or other biomass 0.16% 0.84%\nTotal: 100.00%\nRenewable Energy Sources Subtotal 7.58%\nAir Emissions Rates\nPursuant to N.J.A.C. 14:8-3:1(b)2, air emission rates for CO2, NOX, and SO2 associated with the fuel mix must be reported in units of pound per megawatt-hour\n(lb/MWh). The Benchmark Energy Source and emission rate data is the PJM System Mix for EY 2023 and represent the average amount of air pollution associated\nwith the generation of electricity in the PJM region. The PJM System Mix average emission rate for all electricity generation in the PJM Region can be used for\ncomparison when a NJ TPS or BGS Provider supplies actual emission data for a product making an affirmative environmental claim that exceeds the NJ\nRenewable Portfolio Standards. CO2 is a “greenhouse gas” which may contribute to global climate change. NOX and SO2 react to form acids found in acid rain.\nNOX also reacts to form ground level ozone, an unhealthful component of “smog.” For illustrative purposes, the chart below compares a hypothetical electricity\nproduct that contained 100% NJ generation sources to the PJM System Mix.\n(expr N es J s e G d e a n s e a r a pe ti r o c n en E ta m ge i s o s f i P o J n M s S R y a st t e e m s Mix) Data Source CO 2 (lb/MWh) NO X (lb/MWh) SO 2 (lb/MWh)\nPJM System Mix 755.48 0.27 0.33\n120 PJM System Mix\nNJ Benchmark 517.92 0.21 0.12\n100\n76%\n80 69% CO NO SO\n2 X 2\n60 PJM System Mix (%) 100 100 100\n40 35% NJ Generation (%) 69 76 35\n20\n0\nCO2 NOX SO2",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "2a3c34f41946a3c86ce2e539",
+          "2b92cce02c3508c0f7b54d3b",
+          "937e1a4a97efd3a68352624a",
+          "99b5c00dac3c9d21f74fabd2",
+          "adf318fdc41858d2525efcda"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399622-en.pdf?_val=c538923",
+        "artifact_id": "1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3",
+        "media_type": "application/pdf",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/terms/399622-en.pdf?_val=c538923"
+        ],
+        "sections": {
+          "cancellation": "After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\namount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFE01200206900011001\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFE01200206900011001\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFE01200206900011001"
+        },
+        "raw_text": "SURELOCK 12 TERMS AND CONDITIONS\nIntroduction: This is an agreement for Electric Generation Service from XOOM Energy New Jersey, LLC (“XOOM”\nor “Company” or “us”). This Disclosure Statement/Terms and Conditions, and the accompanying Contract\nSummary set forth the terms and conditions of your agreement with XOOM for electric generation supply. XOOM is\nlicensed by the New Jersey Public Utility Commission to offer and supply electric generation services in New\nJersey. XOOM’s license number is ESL – 0115. Your generation prices and charges will be set by us. The Public\nUtility Commission regulates distribution prices and services. The Federal Energy Regulatory Commission\nregulates transmission prices and services.\nYou will continue to receive your bill from your Electric Distribution Company (EDC) that will contain your EDC’s\ncharges and your charges from XOOM Energy New Jersey, and your EDC will continue to provide all emergency\nrepairs and services.\nService & Term: The Term of this Agreement will begin with your first meter read by your EDC after your\nenrollment is accepted, and will continue for the Contract Term / Length set forth in the accompanying Contract\nSummary. There will be no charge for starting or stopping electric generation service, if done within the terms of\nthis Agreement.\nAcceptance of Enrollment: These terms and conditions are subject to you meeting all requirements of XOOM and\nyour EDC to become enrolled with XOOM. You will be promptly notified with confirmation of your switch to XOOM\nin writing.\nRight of Rescission: You will have seven (7) calendar days, starting from the date of your EDC’s confirmation\nnotice (“Cancellation Period”), to contact the EDC and cancel this contract without penalty or a cancellation fee.\nThis Agreement does not become a legally binding contract until the cancellation period has expired.\nEDC Services: XOOM is an electric generation supplier and is not affiliated with your EDC. Your EDC will continue\nto deliver your electricity, read your meter, make necessary repairs, and send you a bill. Your EDC will also\nrespond to emergencies and provide other basic utility services as required. Please call your EDC in the event of\nan emergency such as a power outage. XOOM Energy is not an agent of your EDC and your EDC will not be liable\nfor any of XOOM Energy’s acts, omissions, or representations.\nPrice: Your rate for electricity purchases under this Agreement will be a fixed price, per kilowatt hour. This rate is\nestablished at the time of your enrollment and is set forth in your Contract Summary, which is incorporated into this\nAgreement. You are responsible for all charges assessed and billed by your EDC for electric distribution charges,\nand for all services your EDC provides, including any other fees or taxes specifically associated with services it\ncontinues to provide during the term of this Agreement.\nMoving: When moving to an address within your EDC’s service territory, XOOM will make every effort to transfer\nyour services to your new address provided that you notify XOOM within 48 hours of your move. If a transfer of\nservice is not successful or you move to a location outside your EDC service territory, or a territory not serviced by\nXOOM, this Agreement will automatically terminate at no cost to you. Failure to notify XOOM of your move will be\nconsidered a cancellation of this Agreement in accordance with its terms.\nDeath or Disability: If you become disabled or die, you, or your agent or successors can terminate this Agreement\nPSEERFE01200206900011001\nby giving 48-hours’ notice to XOOM Energy.\nEarly Termination Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\nearly termination fee amount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFE01200206900011001\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFE01200206900011001\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFE01200206900011001",
+        "fields": {
+          "prices": [],
+          "rate_structure": null,
+          "term_months": null,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch"
+          },
+          "incentives": [
+            "emergencies or disability, tax status and eligibility for economic development or other incentives, standard service",
+            "designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy"
+          ],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "2b92cce02c3508c0f7b54d3b"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399622-en.pdf?_val=f4a0888",
+        "artifact_id": "fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0",
+        "media_type": "application/pdf",
+        "document_kind": "contract_summary",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/contract-summary/399622-en.pdf?_val=f4a0888"
+        ],
+        "sections": {
+          "price_structure": "Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.",
+          "supply_price": "Your fixed rate under this contract is $0.2069/kWh.",
+          "savings": "There is no guarantee of savings",
+          "switching_time": "One to two billing cycles.",
+          "incentives": "Not Applicable",
+          "rescission": "You will have seven (7) calendar days, starting from the date of your EDC’s\nconfirmation notice, to contact the EDC and cancel this contract.",
+          "start_date": "The Term of this Agreement will begin with your first meter read by your\nlocal utility following your acceptance into the program.",
+          "term": "12 months, then month-to-month",
+          "renewal": "Our service will continue until either of us cancels the contract.\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.",
+          "supplier_information": "XOOM Energy New Jersey, LLC (\"XOOM\")\n804 Carnegie Center, Princeton, NJ 08540\n1-888-997-8979\nwww.xoomenergy.com customercare@xoomenergy.com\nBPU License #ESL - 0115\nXOOM is responsible for your electric supply.",
+          "cancellation": "Yes. If you cancel this Agreement early, you will be responsible for paying a\nCost Recovery Fee of $110.",
+          "distribution_company": "Verified collection context: PSE&G Electric"
+        },
+        "raw_text": "Customer name: Address: Local distribution company account number:\nThird Party Supplier Contract Summary\nThird Party Supplier XOOM Energy New Jersey, LLC (\"XOOM\")\nInformation: 804 Carnegie Center, Princeton, NJ 08540\nBy entering into this 1-888-997-8979\ncontract, you are agreeing to www.xoomenergy.com customercare@xoomenergy.com\npurchase your electric BPU License #ESL - 0115\nsupply from this supplier. XOOM is responsible for your electric supply.\nFixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nPrice Structure\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.\nGeneration/Supply Price Your fixed rate under this contract is $0.2069/kWh.\nStatement Regarding Savings There is no guarantee of savings\nTime required to change from\nTPS back to default service or One to two billing cycles.\nto another TPS\nIncentives Not Applicable\nYou will have seven (7) calendar days, starting from the date of your EDC’s\nRight to Cancel/Rescind\nconfirmation notice, to contact the EDC and cancel this contract.\nThe Term of this Agreement will begin with your first meter read by your\nContract Start Date\nlocal utility following your acceptance into the program.\nContract Term/Length 12 months, then month-to-month\nCancellation/Early Yes. If you cancel this Agreement early, you will be responsible for paying a\nTermination Fees Cost Recovery Fee of $110.\nRenewal Terms Our service will continue until either of us cancels the contract.\nSlamming is the unauthorized change of a customer’s electric power\nsupplier or natural gas supplier from one company to another. To report\nthis practice or to file other complaints, you may contact the Board of Public\nComplaints\nUtilities, Division of Customer Assistance at (800) 624-0241 or visit https:\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nPSE&G - Electric\n80 Park Plaza, Newark, NJ 07102\nMain: 800.436.7734 Emergency: 800.436.7734\nElectric Distribution Company\nwww.pseg.com\nInformation\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.\nTo request a copy of your Contract Summary in Spanish, please contact XOOM.\nPSEERFE01200206900011001",
+        "fields": {
+          "prices": [
+            {
+              "value": "0.2069",
+              "unit": "USD/kWh",
+              "raw": "$0.2069/kWh"
+            }
+          ],
+          "rate_structure": null,
+          "term_months": 12,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a"
+          },
+          "incentives": [],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "parsed",
+        "matched_offer_keys": [
+          "2b92cce02c3508c0f7b54d3b"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399628-en.pdf?_val=7c4e40a",
+        "artifact_id": "643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49",
+        "media_type": "application/pdf",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/terms/399628-en.pdf?_val=7c4e40a"
+        ],
+        "sections": {
+          "cancellation": "After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\namount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFE0120021690001105P\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFE0120021690001105P\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFE0120021690001105P"
+        },
+        "raw_text": "RESCUELOCK 12 TERMS AND CONDITIONS\nIntroduction: This is an agreement for Electric Generation Service from XOOM Energy New Jersey, LLC (“XOOM”\nor “Company” or “us”). This Disclosure Statement/Terms and Conditions, and the accompanying Contract\nSummary set forth the terms and conditions of your agreement with XOOM for electric generation supply. XOOM is\nlicensed by the New Jersey Public Utility Commission to offer and supply electric generation services in New\nJersey. XOOM’s license number is ESL – 0115. Your generation prices and charges will be set by us. The Public\nUtility Commission regulates distribution prices and services. The Federal Energy Regulatory Commission\nregulates transmission prices and services.\nYou will continue to receive your bill from your Electric Distribution Company (EDC) that will contain your EDC’s\ncharges and your charges from XOOM Energy New Jersey, and your EDC will continue to provide all emergency\nrepairs and services.\nService & Term: The Term of this Agreement will begin with your first meter read by your EDC after your\nenrollment is accepted, and will continue for the Contract Term / Length set forth in the accompanying Contract\nSummary. There will be no charge for starting or stopping electric generation service, if done within the terms of\nthis Agreement.\nAcceptance of Enrollment: These terms and conditions are subject to you meeting all requirements of XOOM and\nyour EDC to become enrolled with XOOM. You will be promptly notified with confirmation of your switch to XOOM\nin writing.\nRight of Rescission: You will have seven (7) calendar days, starting from the date of your EDC’s confirmation\nnotice (“Cancellation Period”), to contact the EDC and cancel this contract without penalty or a cancellation fee.\nThis Agreement does not become a legally binding contract until the cancellation period has expired.\nEDC Services: XOOM is an electric generation supplier and is not affiliated with your EDC. Your EDC will continue\nto deliver your electricity, read your meter, make necessary repairs, and send you a bill. Your EDC will also\nrespond to emergencies and provide other basic utility services as required. Please call your EDC in the event of\nan emergency such as a power outage. XOOM Energy is not an agent of your EDC and your EDC will not be liable\nfor any of XOOM Energy’s acts, omissions, or representations.\nPrice: Your rate for electricity purchases under this Agreement will be a fixed price, per kilowatt hour. This rate is\nestablished at the time of your enrollment and is set forth in your Contract Summary, which is incorporated into this\nAgreement. You are responsible for all charges assessed and billed by your EDC for electric distribution charges,\nand for all services your EDC provides, including any other fees or taxes specifically associated with services it\ncontinues to provide during the term of this Agreement.\nMoving: When moving to an address within your EDC’s service territory, XOOM will make every effort to transfer\nyour services to your new address provided that you notify XOOM within 48 hours of your move. If a transfer of\nservice is not successful or you move to a location outside your EDC service territory, or a territory not serviced by\nXOOM, this Agreement will automatically terminate at no cost to you. Failure to notify XOOM of your move will be\nconsidered a cancellation of this Agreement in accordance with its terms.\nDeath or Disability: If you become disabled or die, you, or your agent or successors can terminate this Agreement\nPSEERFE0120021690001105P\nby giving 48-hours’ notice to XOOM Energy.\nEarly Termination Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\nearly termination fee amount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFE0120021690001105P\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFE0120021690001105P\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFE0120021690001105P",
+        "fields": {
+          "prices": [],
+          "rate_structure": null,
+          "term_months": null,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch"
+          },
+          "incentives": [
+            "emergencies or disability, tax status and eligibility for economic development or other incentives, standard service",
+            "designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy"
+          ],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "937e1a4a97efd3a68352624a"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399628-en.pdf?_val=2937ce9",
+        "artifact_id": "8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525",
+        "media_type": "application/pdf",
+        "document_kind": "contract_summary",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/contract-summary/399628-en.pdf?_val=2937ce9"
+        ],
+        "sections": {
+          "price_structure": "Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.",
+          "supply_price": "Your fixed rate under this contract is $0.2169/kWh.",
+          "savings": "There is no guarantee of savings",
+          "switching_time": "One to two billing cycles.",
+          "incentives": "Not Applicable",
+          "rescission": "You will have seven (7) calendar days, starting from the date of your EDC’s\nconfirmation notice, to contact the EDC and cancel this contract.",
+          "start_date": "The Term of this Agreement will begin with your first meter read by your\nlocal utility following your acceptance into the program.",
+          "term": "12 months, then month-to-month",
+          "renewal": "Our service will continue until either of us cancels the contract.\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.",
+          "supplier_information": "XOOM Energy New Jersey, LLC (\"XOOM\")\n804 Carnegie Center, Princeton, NJ 08540\n1-888-997-8979\nwww.xoomenergy.com customercare@xoomenergy.com\nBPU License #ESL - 0115\nXOOM is responsible for your electric supply.",
+          "cancellation": "Yes. If you cancel this Agreement early, you will be responsible for paying a\nCost Recovery Fee of $110.",
+          "distribution_company": "Verified collection context: PSE&G Electric"
+        },
+        "raw_text": "Customer name: Address: Local distribution company account number:\nThird Party Supplier Contract Summary\nThird Party Supplier XOOM Energy New Jersey, LLC (\"XOOM\")\nInformation: 804 Carnegie Center, Princeton, NJ 08540\nBy entering into this 1-888-997-8979\ncontract, you are agreeing to www.xoomenergy.com customercare@xoomenergy.com\npurchase your electric BPU License #ESL - 0115\nsupply from this supplier. XOOM is responsible for your electric supply.\nFixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nPrice Structure\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.\nGeneration/Supply Price Your fixed rate under this contract is $0.2169/kWh.\nStatement Regarding Savings There is no guarantee of savings\nTime required to change from\nTPS back to default service or One to two billing cycles.\nto another TPS\nIncentives Not Applicable\nYou will have seven (7) calendar days, starting from the date of your EDC’s\nRight to Cancel/Rescind\nconfirmation notice, to contact the EDC and cancel this contract.\nThe Term of this Agreement will begin with your first meter read by your\nContract Start Date\nlocal utility following your acceptance into the program.\nContract Term/Length 12 months, then month-to-month\nCancellation/Early Yes. If you cancel this Agreement early, you will be responsible for paying a\nTermination Fees Cost Recovery Fee of $110.\nRenewal Terms Our service will continue until either of us cancels the contract.\nSlamming is the unauthorized change of a customer’s electric power\nsupplier or natural gas supplier from one company to another. To report\nthis practice or to file other complaints, you may contact the Board of Public\nComplaints\nUtilities, Division of Customer Assistance at (800) 624-0241 or visit https:\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nPSE&G - Electric\n80 Park Plaza, Newark, NJ 07102\nMain: 800.436.7734 Emergency: 800.436.7734\nElectric Distribution Company\nwww.pseg.com\nInformation\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.\nTo request a copy of your Contract Summary in Spanish, please contact XOOM.\nPSEERFE0120021690001105P",
+        "fields": {
+          "prices": [
+            {
+              "value": "0.2169",
+              "unit": "USD/kWh",
+              "raw": "$0.2169/kWh"
+            }
+          ],
+          "rate_structure": null,
+          "term_months": 12,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a"
+          },
+          "incentives": [],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "parsed",
+        "matched_offer_keys": [
+          "937e1a4a97efd3a68352624a"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4512864",
+        "artifact_id": "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65",
+        "media_type": "application/pdf",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4512864",
+          "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4c2e4a0"
+        ],
+        "sections": {
+          "cancellation": "After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\namount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFEJ1200208900011001\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFEJ1200208900011001\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFEJ1200208900011001"
+        },
+        "raw_text": "SIMPLECLEAN 12 TERMS AND CONDITIONS\nIntroduction: This is an agreement for Electric Generation Service from XOOM Energy New Jersey, LLC (“XOOM”\nor “Company” or “us”). This Disclosure Statement/Terms and Conditions, and the accompanying Contract\nSummary set forth the terms and conditions of your agreement with XOOM for electric generation supply. XOOM is\nlicensed by the New Jersey Public Utility Commission to offer and supply electric generation services in New\nJersey. XOOM’s license number is ESL – 0115. Your generation prices and charges will be set by us. The Public\nUtility Commission regulates distribution prices and services. The Federal Energy Regulatory Commission\nregulates transmission prices and services.\nYou will continue to receive your bill from your Electric Distribution Company (EDC) that will contain your EDC’s\ncharges and your charges from XOOM Energy New Jersey, and your EDC will continue to provide all emergency\nrepairs and services.\nService & Term: The Term of this Agreement will begin with your first meter read by your EDC after your\nenrollment is accepted, and will continue for the Contract Term / Length set forth in the accompanying Contract\nSummary. There will be no charge for starting or stopping electric generation service, if done within the terms of\nthis Agreement.\nAcceptance of Enrollment: These terms and conditions are subject to you meeting all requirements of XOOM and\nyour EDC to become enrolled with XOOM. You will be promptly notified with confirmation of your switch to XOOM\nin writing.\nRight of Rescission: You will have seven (7) calendar days, starting from the date of your EDC’s confirmation\nnotice (“Cancellation Period”), to contact the EDC and cancel this contract without penalty or a cancellation fee.\nThis Agreement does not become a legally binding contract until the cancellation period has expired.\nEDC Services: XOOM is an electric generation supplier and is not affiliated with your EDC. Your EDC will continue\nto deliver your electricity, read your meter, make necessary repairs, and send you a bill. Your EDC will also\nrespond to emergencies and provide other basic utility services as required. Please call your EDC in the event of\nan emergency such as a power outage. XOOM Energy is not an agent of your EDC and your EDC will not be liable\nfor any of XOOM Energy’s acts, omissions, or representations.\nPrice: Your rate for electricity purchases under this Agreement will be a fixed price, per kilowatt hour. This rate is\nestablished at the time of your enrollment and is set forth in your Contract Summary, which is incorporated into this\nAgreement. You are responsible for all charges assessed and billed by your EDC for electric distribution charges,\nand for all services your EDC provides, including any other fees or taxes specifically associated with services it\ncontinues to provide during the term of this Agreement.\nMoving: When moving to an address within your EDC’s service territory, XOOM will make every effort to transfer\nyour services to your new address provided that you notify XOOM within 48 hours of your move. If a transfer of\nservice is not successful or you move to a location outside your EDC service territory, or a territory not serviced by\nXOOM, this Agreement will automatically terminate at no cost to you. Failure to notify XOOM of your move will be\nconsidered a cancellation of this Agreement in accordance with its terms.\nDeath or Disability: If you become disabled or die, you, or your agent or successors can terminate this Agreement\nPSEERFEJ1200208900011001\nby giving 48-hours’ notice to XOOM Energy.\nEarly Termination Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\nearly termination fee amount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFEJ1200208900011001\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFEJ1200208900011001\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFEJ1200208900011001",
+        "fields": {
+          "prices": [],
+          "rate_structure": null,
+          "term_months": null,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch"
+          },
+          "incentives": [
+            "emergencies or disability, tax status and eligibility for economic development or other incentives, standard service",
+            "designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy"
+          ],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "adf318fdc41858d2525efcda"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=f2d1db8",
+        "artifact_id": "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a",
+        "media_type": "application/pdf",
+        "document_kind": "contract_summary",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=a77bfef",
+          "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=f2d1db8"
+        ],
+        "sections": {
+          "price_structure": "Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.",
+          "supply_price": "Your fixed rate under this contract is $0.2089/kWh.",
+          "savings": "There is no guarantee of savings",
+          "switching_time": "One to two billing cycles.",
+          "incentives": "Not Applicable",
+          "rescission": "You will have seven (7) calendar days, starting from the date of your EDC’s\nconfirmation notice, to contact the EDC and cancel this contract.",
+          "start_date": "The Term of this Agreement will begin with your first meter read by your\nlocal utility following your acceptance into the program.",
+          "term": "12 months, then month-to-month",
+          "renewal": "Our service will continue until either of us cancels the contract.\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.",
+          "supplier_information": "XOOM Energy New Jersey, LLC (\"XOOM\")\n804 Carnegie Center, Princeton, NJ 08540\n1-888-997-8979\nwww.xoomenergy.com customercare@xoomenergy.com\nBPU License #ESL - 0115\nXOOM is responsible for your electric supply.",
+          "cancellation": "Yes. If you cancel this Agreement early, you will be responsible for paying a\nCost Recovery Fee of $110.",
+          "distribution_company": "Verified collection context: PSE&G Electric"
+        },
+        "raw_text": "Customer name: Address: Local distribution company account number:\nThird Party Supplier Contract Summary\nThird Party Supplier XOOM Energy New Jersey, LLC (\"XOOM\")\nInformation: 804 Carnegie Center, Princeton, NJ 08540\nBy entering into this 1-888-997-8979\ncontract, you are agreeing to www.xoomenergy.com customercare@xoomenergy.com\npurchase your electric BPU License #ESL - 0115\nsupply from this supplier. XOOM is responsible for your electric supply.\nFixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nPrice Structure\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.\nGeneration/Supply Price Your fixed rate under this contract is $0.2089/kWh.\nStatement Regarding Savings There is no guarantee of savings\nTime required to change from\nTPS back to default service or One to two billing cycles.\nto another TPS\nIncentives Not Applicable\nYou will have seven (7) calendar days, starting from the date of your EDC’s\nRight to Cancel/Rescind\nconfirmation notice, to contact the EDC and cancel this contract.\nThe Term of this Agreement will begin with your first meter read by your\nContract Start Date\nlocal utility following your acceptance into the program.\nContract Term/Length 12 months, then month-to-month\nCancellation/Early Yes. If you cancel this Agreement early, you will be responsible for paying a\nTermination Fees Cost Recovery Fee of $110.\nRenewal Terms Our service will continue until either of us cancels the contract.\nSlamming is the unauthorized change of a customer’s electric power\nsupplier or natural gas supplier from one company to another. To report\nthis practice or to file other complaints, you may contact the Board of Public\nComplaints\nUtilities, Division of Customer Assistance at (800) 624-0241 or visit https:\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nPSE&G - Electric\n80 Park Plaza, Newark, NJ 07102\nMain: 800.436.7734 Emergency: 800.436.7734\nElectric Distribution Company\nwww.pseg.com\nInformation\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.\nTo request a copy of your Contract Summary in Spanish, please contact XOOM.\nPSEERFEJ1200208900011001",
+        "fields": {
+          "prices": [
+            {
+              "value": "0.2089",
+              "unit": "USD/kWh",
+              "raw": "$0.2089/kWh"
+            }
+          ],
+          "rate_structure": null,
+          "term_months": 12,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a"
+          },
+          "incentives": [],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "parsed",
+        "matched_offer_keys": [
+          "adf318fdc41858d2525efcda"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e",
+        "url": "https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf",
+        "artifact_id": "39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e",
+        "media_type": "application/pdf",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf"
+        ],
+        "sections": {},
+        "raw_text": "XOOM Energy\nRenewable Energy FAQs\nWhat is renewable energy?\nRenewable energy is energy that is produced from sources that have less of\na negative impact on the environment compared to fossil fuels.\nWhat are the advantages of renewable energy?\nGreen energy can supply a significant proportion of the country’s energy\nneeds, which has many benefits such as, environmental improvement, an\nincrease of fuel diversity and regional economic development.\nHow do I know XOOM Energy is truly providing renewable energy?\nXOOM Energy provides consumers with renewable energy Information\nbased on state law and regional fuel mix on our disclosure labels. Click on\nyour individual renewable plan for more details. These disclosure labels\nare often limited to the system mix and for those who are enrolled on a\nrenewable energy plan, they may not include the additional, voluntary,\nrenewable energy associated with your product.\nHow does XOOM Energy provide renewable energy above and\nbeyond what is required by law?\nXOOM Energy purchases Renewable Energy Credits (RECs) on behalf of\nour voluntary green customers. A REC (pronounced: rěk) represents the\nproperty rights to the environmental, social, and other non-power qualities\nof renewable electricity generation. RECs provide flexibility in procuring\ngreen power across a diverse geographical area and applying the renewable\nattributes to the electricity use at a facility of choice. This flexibility allows\norganizations to support renewable energy development and protect the\nenvironment when green power products are not locally available. RECs can\nbe generated from a variety of renewable sources, including but not limited\nto solar, wind & hydro.\nWhy does renewable energy cost more?\nRenewable energy is associated with more costs than traditional energy due\nto limited resources and availability of renewable energy at this time.\nWho does XOOM Energy purchase renewable energy from?\nTo offer you competitive rates XOOM Energy purchases its renewable\nenergy from various energy vendors.\nCan a customer switch from a Standard Product to a Renewable\nEnergy Product?\nYes, customers can switch from a variable standard plan to a variable\nrenewable plan or from a standard variable plan to a fixed renewable\nproduct.",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "adf318fdc41858d2525efcda"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399631-en.pdf?_val=09ef430",
+        "artifact_id": "c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4",
+        "media_type": "application/pdf",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/terms/399631-en.pdf?_val=09ef430"
+        ],
+        "sections": {
+          "cancellation": "After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\namount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFE02400207900020001\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFE02400207900020001\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFE02400207900020001"
+        },
+        "raw_text": "SURELOCK 24 TERMS AND CONDITIONS\nIntroduction: This is an agreement for Electric Generation Service from XOOM Energy New Jersey, LLC (“XOOM”\nor “Company” or “us”). This Disclosure Statement/Terms and Conditions, and the accompanying Contract\nSummary set forth the terms and conditions of your agreement with XOOM for electric generation supply. XOOM is\nlicensed by the New Jersey Public Utility Commission to offer and supply electric generation services in New\nJersey. XOOM’s license number is ESL – 0115. Your generation prices and charges will be set by us. The Public\nUtility Commission regulates distribution prices and services. The Federal Energy Regulatory Commission\nregulates transmission prices and services.\nYou will continue to receive your bill from your Electric Distribution Company (EDC) that will contain your EDC’s\ncharges and your charges from XOOM Energy New Jersey, and your EDC will continue to provide all emergency\nrepairs and services.\nService & Term: The Term of this Agreement will begin with your first meter read by your EDC after your\nenrollment is accepted, and will continue for the Contract Term / Length set forth in the accompanying Contract\nSummary. There will be no charge for starting or stopping electric generation service, if done within the terms of\nthis Agreement.\nAcceptance of Enrollment: These terms and conditions are subject to you meeting all requirements of XOOM and\nyour EDC to become enrolled with XOOM. You will be promptly notified with confirmation of your switch to XOOM\nin writing.\nRight of Rescission: You will have seven (7) calendar days, starting from the date of your EDC’s confirmation\nnotice (“Cancellation Period”), to contact the EDC and cancel this contract without penalty or a cancellation fee.\nThis Agreement does not become a legally binding contract until the cancellation period has expired.\nEDC Services: XOOM is an electric generation supplier and is not affiliated with your EDC. Your EDC will continue\nto deliver your electricity, read your meter, make necessary repairs, and send you a bill. Your EDC will also\nrespond to emergencies and provide other basic utility services as required. Please call your EDC in the event of\nan emergency such as a power outage. XOOM Energy is not an agent of your EDC and your EDC will not be liable\nfor any of XOOM Energy’s acts, omissions, or representations.\nPrice: Your rate for electricity purchases under this Agreement will be a fixed price, per kilowatt hour. This rate is\nestablished at the time of your enrollment and is set forth in your Contract Summary, which is incorporated into this\nAgreement. You are responsible for all charges assessed and billed by your EDC for electric distribution charges,\nand for all services your EDC provides, including any other fees or taxes specifically associated with services it\ncontinues to provide during the term of this Agreement.\nMoving: When moving to an address within your EDC’s service territory, XOOM will make every effort to transfer\nyour services to your new address provided that you notify XOOM within 48 hours of your move. If a transfer of\nservice is not successful or you move to a location outside your EDC service territory, or a territory not serviced by\nXOOM, this Agreement will automatically terminate at no cost to you. Failure to notify XOOM of your move will be\nconsidered a cancellation of this Agreement in accordance with its terms.\nDeath or Disability: If you become disabled or die, you, or your agent or successors can terminate this Agreement\nPSEERFE02400207900020001\nby giving 48-hours’ notice to XOOM Energy.\nEarly Termination Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch\nyour service to a different electric supplier or default service supplier, your will be responsible for paying XOOM the\nearly termination fee amount that is set forth in your Contract Summary which is incorporated into this Agreement.\nThe Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of\nyour electric power to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related\nexpenses.\nTermination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to\nterminate. Termination may take two (2) or more billing cycles by your EDC, and while the cancellation is taking\nplace, you are still responsible for paying for the electricity you consume.\nCredit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your\nEDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your EDC providing a\ncorrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and\nconditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any\nbankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your\nEDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the\nmaximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return\ncheck fee for all returned checks. In all events, you shall remain obligated to pay for all electricity received by you\nand any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal\nfees, associated with the collection of amounts owed to XOOM.\nCustomer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may\ncontact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at\nwww.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,\nNJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your EDC bill, please\ncontact your EDC directly. See the Contract Summary for your EDC's contact information. XOOM will refer all\ncomplaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory\nsolution. If a resolution cannot be reached with your EDC or with XOOM, you may contact the New Jersey Board of\nPublic Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.\nAssignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.\nService Complaints: For service problems you should contact your EDC directly. Your EDC’s contact information\nis located above in the Contract Summary. IN THE EVENT OF AN ENERGY-RELATED EMERGENCY, SUCH AS\nA POWER OUTAGE, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR EDC or 911.\nYour Authorization to Release Your Information for Use and Sharing: By entering into this contract, you\nauthorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state\npublic utility commission (“PUC”) where you take service. You further acknowledge that this contract provides\nauthorization for your local utility to release all information regarding your energy supply account(s) to us so we can\nprovide the services described herein. This information may include, but is not limited to, usage information, billing\ndeterminants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load\nprofile, demand data, meter number, special account exceptions, public assistance status, existence of medical\nPSEERFE02400207900020001\nemergencies or disability, tax status and eligibility for economic development or other incentives, standard service\nstatus, electronic interval data when available, credit information when applicable, and all other data and\ninformation permitted by law to be disclosed to us to provide our services.\nWe also obtain information about you as outlined in our privacy policy (posted on our website) such as when you\nvoluntarily provide personal information to us, use our website or mobile applications, or when we add information\nabout you to your account profile from publicly available sources.\nWe will maintain the confidentiality of your personal information including your name, address, telephone number,\nemail, account numbers, energy usage and historic payment information as required by applicable PUC regulations\nas well as federal and state laws.\nOur use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy\npolicy, as amended from time to time and posted on our website. Your information may be disclosed if required by\nlaw, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your\ninformation may be disclosed to an affiliate or a third-party to provide services or products to you, and any\ndisclosure of such information will be made under confidentiality obligations not to disclose such information and to\nuse it solely for the purpose of providing services to you or improved products to us. This authorization also allows\nus to contact you about our other products and services and to share information about your account with any\ndesignated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy\nservices or energy-related services to you.\nIf you do not wish for us to use or share information about your account in the manner described above, you may\ncancel this contract by calling us at our contact information listed herein.\nMiscellaneous: You will promptly notify XOOM if there is any substantial change in your electricity consumption.\nFor the purpose of accounting both parties accept the quantity, quality and measurements determined by your\nEDC. Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer\nobligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse\nto such states choice of law rules. There may be a delay before your EDC switches your electric supply to XOOM.\nXOOM is not responsible for any such delay.\nNotification of Changes: We can only change a material term of this contract with your consent, and we will\nobtain your approval before making any material change.\nBilling: XOOM supply charges will appear as a line item on the bill you receive from your EDC. If your EDC\nremoves your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please\ncontact XOOM and/or your EDC to see if budget billing is offered in your service territory. Accounts that utilize\nbudget billing will receive a true-up at least once every 12-month period during your contract term.\nInsolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this\nAgreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest\nextent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code\nand acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of\nSection 366 shall not apply to you or to this Agreement.\nLimitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,\nPSEERFE02400207900020001\nCONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF\nWARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY\nWARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.\nForce Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying electricity in the\nevent of circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of\nterrorism, sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law,\npricing structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,\nprohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your\nusage of electricity changes substantially.\nEntire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,\nas well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and\nunderstanding between you and XOOM with respect to its subject matter and superseding all prior written and oral\nagreements and representations made with respect to such subject matter.\nPSEERFE02400207900020001",
+        "fields": {
+          "prices": [],
+          "rate_structure": null,
+          "term_months": null,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch"
+          },
+          "incentives": [
+            "emergencies or disability, tax status and eligibility for economic development or other incentives, standard service",
+            "designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy"
+          ],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [
+          "99b5c00dac3c9d21f74fabd2"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399631-en.pdf?_val=ddae003",
+        "artifact_id": "08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6",
+        "media_type": "application/pdf",
+        "document_kind": "contract_summary",
+        "source_urls": [
+          "https://xoomenergy.com/uploads/rates/contract-summary/399631-en.pdf?_val=ddae003"
+        ],
+        "sections": {
+          "price_structure": "Fixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.",
+          "supply_price": "Your fixed rate under this contract is $0.2079/kWh.",
+          "savings": "There is no guarantee of savings",
+          "switching_time": "One to two billing cycles.",
+          "incentives": "Not Applicable",
+          "rescission": "You will have seven (7) calendar days, starting from the date of your EDC’s\nconfirmation notice, to contact the EDC and cancel this contract.",
+          "start_date": "The Term of this Agreement will begin with your first meter read by your\nlocal utility following your acceptance into the program.",
+          "term": "24 months, then month-to-month",
+          "renewal": "Our service will continue until either of us cancels the contract.\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.",
+          "supplier_information": "XOOM Energy New Jersey, LLC (\"XOOM\")\n804 Carnegie Center, Princeton, NJ 08540\n1-888-997-8979\nwww.xoomenergy.com customercare@xoomenergy.com\nBPU License #ESL - 0115\nXOOM is responsible for your electric supply.",
+          "cancellation": "Yes. If you cancel this Agreement early, you will be responsible for paying a\nCost Recovery Fee of $200.",
+          "distribution_company": "Verified collection context: PSE&G Electric"
+        },
+        "raw_text": "Customer name: Address: Local distribution company account number:\nThird Party Supplier Contract Summary\nThird Party Supplier XOOM Energy New Jersey, LLC (\"XOOM\")\nInformation: 804 Carnegie Center, Princeton, NJ 08540\nBy entering into this 1-888-997-8979\ncontract, you are agreeing to www.xoomenergy.com customercare@xoomenergy.com\npurchase your electric BPU License #ESL - 0115\nsupply from this supplier. XOOM is responsible for your electric supply.\nFixed Price. A fixed rate is a rate that is set at a fixed price, per kilowatt hour,\nthat remains the same for your Contract Term/Length. A variable rate is a rate,\nPrice Structure\nper kilowatt hour, that may change on a monthly basis and may fluctuate\nbased on weather patterns.\nGeneration/Supply Price Your fixed rate under this contract is $0.2079/kWh.\nStatement Regarding Savings There is no guarantee of savings\nTime required to change from\nTPS back to default service or One to two billing cycles.\nto another TPS\nIncentives Not Applicable\nYou will have seven (7) calendar days, starting from the date of your EDC’s\nRight to Cancel/Rescind\nconfirmation notice, to contact the EDC and cancel this contract.\nThe Term of this Agreement will begin with your first meter read by your\nContract Start Date\nlocal utility following your acceptance into the program.\nContract Term/Length 24 months, then month-to-month\nCancellation/Early Yes. If you cancel this Agreement early, you will be responsible for paying a\nTermination Fees Cost Recovery Fee of $200.\nRenewal Terms Our service will continue until either of us cancels the contract.\nSlamming is the unauthorized change of a customer’s electric power\nsupplier or natural gas supplier from one company to another. To report\nthis practice or to file other complaints, you may contact the Board of Public\nComplaints\nUtilities, Division of Customer Assistance at (800) 624-0241 or visit https:\n//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also\ncontact us and pursue other remedies as specified in this contract below.\nPSE&G - Electric\n80 Park Plaza, Newark, NJ 07102\nMain: 800.436.7734 Emergency: 800.436.7734\nElectric Distribution Company\nwww.pseg.com\nInformation\nYour EDC will continue to deliver your electricity and you will continue to\npay the EDC for this service. You should call your EDC in the event of an\nemergency such as a power outage.\nTo request a copy of your Contract Summary in Spanish, please contact XOOM.\nPSEERFE02400207900020001",
+        "fields": {
+          "prices": [
+            {
+              "value": "0.2079",
+              "unit": "USD/kWh",
+              "raw": "$0.2079/kWh"
+            }
+          ],
+          "rate_structure": null,
+          "term_months": 24,
+          "fee_terms": {
+            "cancellation_fee": "Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a"
+          },
+          "incentives": [],
+          "form_fields": {}
+        },
+        "missing_sections": [],
+        "warnings": [],
+        "status": "parsed",
+        "matched_offer_keys": [
+          "99b5c00dac3c9d21f74fabd2"
+        ],
+        "match_method": "document_link_on_offer"
+      },
+      {
+        "id": "2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c",
+        "url": "https://xoomenergy.com/en/state-disclosures",
+        "artifact_id": "2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c",
+        "media_type": "text/html",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://xoomenergy.com/en/state-disclosures"
+        ],
+        "sections": {},
+        "raw_text": "XOOM Energy State Disclosures\nClose\nHoliday Hours\nIn observance of the Labor Day Holiday, XOOM Energy’s Customer Care will be closed Monday, September 7th. Normal business hours will resume at 8am ET on Tuesday, September 8th.\nRemember you can manage your account online by visiting\nMyXOOM\nor find answers to your questions in our\nFAQ\nsection.\nENG\nLISH\nESP\nAÑOL\nPay\nMy\nBill\nContact\nUs\nAdd to Home Screen\nToggle navigation\nAbout Us\nEnergy Choice\nCareers\nBlog\nAbout Us\nSupport\nSupport Overview\nProduct Support\nService Areas\nFAQs\nHow to Read Your Bill\nMy Account\nXOOM Xtras\nMy Account Overview\nEnroll\nNow\nEnvironmental State Disclosures\nSelect your State to view disclosure details.\nConnecticut\nElectric Generation Disclosure Label\n(9/16/2025)\nDelaware\nEnvironmental Disclosure Information\n(8/5/2026)\nIllinois\nAmeren Illinois - Environmental Disclosure Information\n(6/12/2026)\nComEd - Environmental Disclosure Information\n(6/12/2026)\nMaine\nCentral Maine Power - Information Disclosure Label (Renewable Energy Plans)\n(8/3/2026)\nCentral Maine Power - Information Disclosure Label (Standard Plans)\n(8/3/2026)\nVersant Power - Bangor - Information Disclosure Label (Standard Plans)\n(8/3/2026)\nVersant Power - Bangor - Information Disclosure Label (Renewable Energy Plans)\n(8/3/2026)\nMaryland\nEnvironmental Disclosure Label (Fixed Rate Plans)\n(5/13/2026)\nEnvironmental Disclosure Label (Variable Rate Plans)\n(5/13/2026)\nMassachusetts\nEnvironmental Disclosure Label (Variable Rate Plans)\n(6/12/2026)\nEnvironmental Disclosure Label (Fixed Rate Plans)\n(6/12/2026)\nYour Rights as a Customer\n(12/17/2024)\nNew Hampshire\nEnvironmental Disclosure Label (Renewable Energy Plans)\n(5/1/2026)\nEnvironmental Disclosure Label (Standard Plans)\n(5/1/2026)\nNew Jersey\nEnvironmental Disclosure Label\n(11/6/2025)\nNew York\nEnvironmental Disclosure Label\n(12/15/2025)\nOhio\nEnvironmental Disclosure Information – Quarterly Comparisons\n(8/24/2026)\nEnvironmental Disclosure Information - Annual Projection\n(12/22/2025)\nRhode Island\nEnvironmental Disclosure Label\n(8/3/2026)\nWashington D.C.\nEnvironmental Disclosure Label\n(6/2/2026)\niPhone Add Site to Homescreen\n1. Launch the Safari browser and navigate to XOOMEnergy.com\n2. Tap the Share button on the browser’s toolbar — that’s the rectangle with an arrow pointing upward. Tap the Add to Home Screen icon in the Share menu.\nClose\nAndroid Add Site to Homescreen\n1. Open Chrome on your mobile device, and navigate to XOOMEnergy.com\n2.Tap the menu button and tap Add to homescreen. You’ll be able to enter a name for the shortcut and it will be added to your home screen.\nClose\nWindows Phone Add Site to Homescreen\n1. First, open XOOMEnergy.com in Internet Explorer.\n2. Tap the More (...) button and tap Pin to Start in the menu that appears.\nClose\nMy Account Login\nLanguage:\nEnglish\n|\nEspañol\nResources\nEnroll Now\nMy Account\nXOOM Xtras\nAbout Us\nFAQs\nCareers\nBlog\nPast Variable Rates\nContact Us\nPrivacy Rights and Requests\nDeposit Policy\nID Verify Policy\nLicenses\nState Disclosures\nHow to Read Your Bill\nStates\nCalifornia\nConnecticut\nDelaware\nGeorgia\nIllinois\nIndiana\nKentucky\nMaine\nMaryland\nMassachusetts\nMichigan\nNew Hampshire\nNew Jersey\nOhio\nPennsylvania\nRhode Island\nTexas\nVirginia\nWashington D.C.\nXOOM Energy, LLC through its family of companies is a retail electricity, renewable and natural gas provider in over 90 energy choice markets across North America. In the U.S., XOOM Energy’s family of companies includes: &quotXOOM Energy California, LLC&quot, &quotXOOM Energy Connecticut, LLC, &quotXOOM Energy Delaware, LLC&quot, &quotXOOM Energy Washington D.C., LLC&quot, &quotXOOM Energy Georgia, LLC&quot, &quotXOOM Energy Illinois, LLC&quot, &quotXOOM Energy Indiana, LLC&quot, &quotXOOM Energy Kentucky, LLC&quot, &quotXOOM Energy Maine, LLC&quot, &quotXOOM Energy Maryland, LLC&quot, &quotXOOM Energy Massachusetts, LLC&quot, &quotXOOM Energy Michigan, LLC&quot, &quotXOOM Energy New Hampshire, LLC&quot, &quotXOOM Energy New Jersey, LLC&quot, &quotXOOM Energy New York, LLC&quot, &quotXOOM Energy Ohio, LLC&quot, &quotXOOM Energy Pennsylvania, LLC&quot, &quotXOOM Energy Rhode Island, LLC&quot, &quotXOOM Energy Texas, LLC&quot, And &quotXOOM Energy Virginia, LLC&quot (hereinafter collectively &quotXOOM Energy&quot) and offers electricity, renewable and/or natural gas products In each of their respective states.  We are not affiliated with, nor endorsed by, any local utility or state commission.\n© 2011 - 2026 XOOM Energy, LLC\n×\nFind\nXOOM\nEnergy rates\nin my area\nEnter your ZIP Code:\nLoading\nHello! Looks like you came to the Market America/XOOM Energy site directly. In order to earn Cashback, please click the \"Go Back\" button below to go to SHOP.COM to enroll. If you wish to continue without earning SHOP.COM credit, click \"Continue\".\nGo Back\nContinue\n×\n×\nSession Ending Soon\nYour session will expire soon. If this happens, you will lose any progress you have made. Click Continue to extend your session.\nYour session will end in\nminutes.\nContinue",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      }
+    ],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176",
+        "path": "c1cc6dbfdf661539acd02d5b69b90857c1a2ea171cb4f9b7fdb75e37b235b176.json",
+        "kind": "json",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "captured_at": "2026-10-14T12:25:04.111262+00:00",
+        "bytes": 485
+      },
+      {
+        "id": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63",
+        "path": "8abce91f184e43b0a5a916019d5f131b56d96d4c8bd536e8d06d0299ee7d6f63.html",
+        "kind": "html",
+        "url": "https://xoomenergy.com/en/residential/new-jersey/electricity/pseg-electric?dez=07102",
+        "captured_at": "2026-10-14T12:25:04.176349+00:00",
+        "bytes": 142324
+      },
+      {
+        "id": "c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e",
+        "path": "c7821c582ac5757229f53b5b622f98d7088812814b0cb46d1246919590d3bd7e.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399620-en.pdf?_val=1aaa657",
+        "captured_at": "2026-10-14T12:25:04.282580+00:00",
+        "bytes": 160635
+      },
+      {
+        "id": "61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834",
+        "path": "61ee1a304a8ce0c0a64afdcd2b1749903f94eb92c40375b1d06bae54003de834.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399620-en.pdf?_val=f69043c",
+        "captured_at": "2026-10-14T12:25:05.115411+00:00",
+        "bytes": 114504
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "path": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=1b25cdf",
+        "captured_at": "2026-10-14T12:25:05.288463+00:00",
+        "bytes": 222610
+      },
+      {
+        "id": "1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3",
+        "path": "1254a8d618c350c9ac2861b1137682ac1a7e0efa927e6bc81b47c6e889e21aa3.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399622-en.pdf?_val=c538923",
+        "captured_at": "2026-10-14T12:25:05.414186+00:00",
+        "bytes": 152564
+      },
+      {
+        "id": "fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0",
+        "path": "fdc4146ceac7cedf682b824b9d94d41b83b3d5538092c8383dd5d7fafddb6bb0.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399622-en.pdf?_val=f4a0888",
+        "captured_at": "2026-10-14T12:25:06.139114+00:00",
+        "bytes": 114035
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "path": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=aafd209",
+        "captured_at": "2026-10-14T12:25:06.526818+00:00",
+        "bytes": 222610
+      },
+      {
+        "id": "643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49",
+        "path": "643cd0b42093d7d07a01e435cdbe8f546c392ebe60e8d66be7b16e9fdfd9ca49.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399628-en.pdf?_val=7c4e40a",
+        "captured_at": "2026-10-14T12:25:07.044194+00:00",
+        "bytes": 152825
+      },
+      {
+        "id": "8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525",
+        "path": "8ff6378645724cc41ef5f415444a62d262943997145b1ac1875251fb747a0525.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399628-en.pdf?_val=2937ce9",
+        "captured_at": "2026-10-14T12:25:10.032875+00:00",
+        "bytes": 114290
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "path": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=d008cf6",
+        "captured_at": "2026-10-14T12:25:10.627375+00:00",
+        "bytes": 222610
+      },
+      {
+        "id": "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65",
+        "path": "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4512864",
+        "captured_at": "2026-10-14T12:25:11.141437+00:00",
+        "bytes": 152496
+      },
+      {
+        "id": "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a",
+        "path": "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=f2d1db8",
+        "captured_at": "2026-10-14T12:25:14.136158+00:00",
+        "bytes": 114267
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "path": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=f307b72",
+        "captured_at": "2026-10-14T12:25:14.738645+00:00",
+        "bytes": 222610
+      },
+      {
+        "id": "39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e",
+        "path": "39fb9afc2ee9bb3922c7165f7fd7071be3c40ec313380b23e82aaabee8a3e76e.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/cms/files/xoom_renewablefaqs_1012.pdf",
+        "captured_at": "2026-10-14T12:25:15.240621+00:00",
+        "bytes": 63448
+      },
+      {
+        "id": "c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4",
+        "path": "c2cf1547ad70b80151c44c9c0ee8e14cd080daea4454040429f3fbfd165f15b4.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399631-en.pdf?_val=09ef430",
+        "captured_at": "2026-10-14T12:25:15.413436+00:00",
+        "bytes": 152865
+      },
+      {
+        "id": "08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6",
+        "path": "08f435574bba9e8ca827c2be7e733386e174fbf64be880b66a958713b2b4cdb6.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399631-en.pdf?_val=ddae003",
+        "captured_at": "2026-10-14T12:25:18.319891+00:00",
+        "bytes": 114210
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "path": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=736acf2",
+        "captured_at": "2026-10-14T12:25:18.939342+00:00",
+        "bytes": 222610
+      },
+      {
+        "id": "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65",
+        "path": "72ca029d4361041fe161de9f4a6431354007091512559ae8a9309e6f001c7f65.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/terms/399626-en.pdf?_val=4c2e4a0",
+        "captured_at": "2026-10-14T12:25:19.433811+00:00",
+        "bytes": 152496
+      },
+      {
+        "id": "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a",
+        "path": "fd7481ec703a32e00ff1d006f6cef32b1e95d800bac924e68de4aecf169e0e4a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/contract-summary/399626-en.pdf?_val=a77bfef",
+        "captured_at": "2026-10-14T12:25:21.544137+00:00",
+        "bytes": 114267
+      },
+      {
+        "id": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a",
+        "path": "51fbdcf3cb14ad1c5c358a312ad094c5cbaede5ec41c2bef2ace140dfc10615a.pdf",
+        "kind": "pdf",
+        "url": "https://xoomenergy.com/uploads/rates/optional-1/19-rate-en.pdf?_val=89cf18c",
+        "captured_at": "2026-10-14T12:25:22.300367+00:00",
+        "bytes": 222610
+      },
+      {
+        "id": "2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c",
+        "path": "2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c.html",
+        "kind": "html",
+        "url": "https://xoomenergy.com/en/state-disclosures",
+        "captured_at": "2026-10-14T12:25:22.880168+00:00",
+        "bytes": 45487
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

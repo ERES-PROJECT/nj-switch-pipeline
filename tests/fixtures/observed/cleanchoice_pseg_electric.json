@@ -1,0 +1,17 @@
+{
+  "fixture_kind": "observed_public_capture",
+  "captured_at": "2026-09-11T05:24:30.991180+00:00",
+  "query": {
+    "supplier": "CleanChoice Energy",
+    "utility": "PSE&G Electric",
+    "commodity": "electric",
+    "zip": "07102",
+    "url": "https://cleanchoiceenergy.com/enroll#/",
+    "adapter": "cleanchoice",
+    "skip_reason": null
+  },
+  "context_verified": false,
+  "payloads": [],
+  "documents": [],
+  "disposition": "blocked"
+}

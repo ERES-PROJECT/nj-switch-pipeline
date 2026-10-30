@@ -1,0 +1,232 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Ambit Energy",
+      "utility": "ACE Electric",
+      "commodity": "electric",
+      "zip": "08401",
+      "url": "https://customer.ambitenergy.com/servicearea",
+      "adapter": "ambit",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:28:58.953503+00:00",
+    "finished_at": "2026-10-15T18:28:59.044809+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 4,
+    "offers": [
+      {
+        "key": "e08838417358ba2284e8793f",
+        "supplier": "Ambit Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Ultimate Perks 12",
+        "product_id": "c8debb8c-b886-4f40-9e71-43ef3eeb1b59",
+        "price": {
+          "value": "0.1859",
+          "unit": "USD/kWh",
+          "raw": "$0.1859\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "Receive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.",
+          "for information about the Ambit Ultimate Perks Reward Program."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=60aa3ed1-30ac-4e7a-91fa-b06f85f6cd4d&vendorname=Atlantic+City+Electric&zipcode=08401&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "c0f7ec151b5dcc0e4bb4b23ee46636d78566af12e8ded482d85d55a0bd04ec5c",
+        "captured_at": "2026-09-11T05:22:00.990727+00:00",
+        "raw_fields": {
+          "text": "Ultimate Perks 12\n$0.1859\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nReceive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.\nPlease visit\nAmbitUltimatePerks.com\nfor information about the Ambit Ultimate Perks Reward Program."
+        },
+        "warnings": []
+      },
+      {
+        "key": "566bbd3e2700a8def272165e",
+        "supplier": "Ambit Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Garden State Select 12 Month Term",
+        "product_id": "5419870b-9815-426b-bda8-d17a6ad40d5a",
+        "price": {
+          "value": "0.1809",
+          "unit": "USD/kWh",
+          "raw": "$0.1809\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=60aa3ed1-30ac-4e7a-91fa-b06f85f6cd4d&vendorname=Atlantic+City+Electric&zipcode=08401&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "c0f7ec151b5dcc0e4bb4b23ee46636d78566af12e8ded482d85d55a0bd04ec5c",
+        "captured_at": "2026-09-11T05:22:00.990727+00:00",
+        "raw_fields": {
+          "text": "Garden State Select 12 Month Term\n$0.1809\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nManage your budget and secure your rate for 12 months. Special offer for new, online customers."
+        },
+        "warnings": []
+      },
+      {
+        "key": "1e6f9486f38b74d967391cdd",
+        "supplier": "Ambit Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Winter Break 12",
+        "product_id": "0c4188b6-d15d-4026-b75a-7d7d5c1c9528",
+        "price": {
+          "value": "0.2209",
+          "unit": "USD/kWh",
+          "raw": "$0.2209\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "As temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.",
+          "Receive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=60aa3ed1-30ac-4e7a-91fa-b06f85f6cd4d&vendorname=Atlantic+City+Electric&zipcode=08401&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "c0f7ec151b5dcc0e4bb4b23ee46636d78566af12e8ded482d85d55a0bd04ec5c",
+        "captured_at": "2026-09-11T05:22:00.990727+00:00",
+        "raw_fields": {
+          "text": "Winter Break 12\n$0.2209\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nAs temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.\nReceive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit\nambitenergy.com/WinterBreak\nfor information on Ambit’s Winter Break plan."
+        },
+        "warnings": []
+      },
+      {
+        "key": "0406eaff27c318b967c9a2bd",
+        "supplier": "Ambit Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "Winter Break 24",
+        "product_id": "7d504382-da38-4f48-9485-65af5d3f87be",
+        "price": {
+          "value": "0.2259",
+          "unit": "USD/kWh",
+          "raw": "$0.2259\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "As temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.",
+          "Receive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=60aa3ed1-30ac-4e7a-91fa-b06f85f6cd4d&vendorname=Atlantic+City+Electric&zipcode=08401&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "c0f7ec151b5dcc0e4bb4b23ee46636d78566af12e8ded482d85d55a0bd04ec5c",
+        "captured_at": "2026-09-11T05:22:00.990727+00:00",
+        "raw_fields": {
+          "text": "Winter Break 24\n$0.2259\n/ kWh\nTerm:\n24 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nAs temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.\nReceive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit\nambitenergy.com/WinterBreak\nfor information on Ambit’s Winter Break plan."
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "26e547ee55349eef683da7372ed31f107ecc29b7f04c64e436650cedc7e472a1",
+        "path": "26e547ee55349eef683da7372ed31f107ecc29b7f04c64e436650cedc7e472a1.json",
+        "kind": "json",
+        "url": "https://www.ambitenergy.com/rates/api/get-provider-states.php",
+        "captured_at": "2026-10-15T18:28:58.963475+00:00",
+        "bytes": 227
+      },
+      {
+        "id": "15881ebe1f356cfe7d2fa05a0b2f03a4eeccf5a48fd8e3c4ff6a866e2fb98181",
+        "path": "15881ebe1f356cfe7d2fa05a0b2f03a4eeccf5a48fd8e3c4ff6a866e2fb98181.json",
+        "kind": "json",
+        "url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=60aa3ed1-30ac-4e7a-91fa-b06f85f6cd4d&vendorname=Atlantic+City+Electric&zipcode=08401&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "captured_at": "2026-10-15T18:28:58.990585+00:00",
+        "bytes": 448354
+      },
+      {
+        "id": "c0f7ec151b5dcc0e4bb4b23ee46636d78566af12e8ded482d85d55a0bd04ec5c",
+        "path": "c0f7ec151b5dcc0e4bb4b23ee46636d78566af12e8ded482d85d55a0bd04ec5c.html",
+        "kind": "html",
+        "url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=60aa3ed1-30ac-4e7a-91fa-b06f85f6cd4d&vendorname=Atlantic+City+Electric&zipcode=08401&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "captured_at": "2026-10-15T18:28:59.008181+00:00",
+        "bytes": 54468
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

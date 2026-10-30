@@ -1,0 +1,14 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,ad963b342206239c5e657db947170203a01eaf0fd3062d703282e95a1ed4d5cb,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,1ac6ae771e5e372bf63c19a91f8da2225a736c3b6429aac1334af83a07154a36,environmental,text_extracted,12,0,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,f1a8839e2e1346b8b22dff9bfa49e7abd13b34703d7c4927d9398f9a61686eaf,terms_or_other,text_extracted,12,0,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,ea6a4df67e9a0b7c6048a2e3aa5a1001e625f05cedb0d73591b2ba07808a9497,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,d0db87265ca710567a13bc7cd91a163444eb203f4bb8263a82b159b31bb51c5e,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,e7392c4441aae000bfd32f51cfde9065d983774d56b7554a1243f17959d05e22,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,536817da247683bd6e370e9eb4c23663359aedf7c76956fd69d174ae05eae1e7,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,d78fe97c5fc4db311821a2d66a196039edc8e7a05417b5e5c0052e73df3fee7f,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,f27dd8ffd975aee4bb0a7fa65b934b8e404d5ba8239e8927bb545823734ba50c,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,8ceb0364aa738ced0750b75a794f5cab23ac61a17468a8b301ae454fd056668d,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,4c5d7736f6c9e438c3202f5b3ae5d6aabbbb3f72ab18bf7ab46d7b63bc0d1b61,terms_or_other,text_extracted,12,1,0,,False,0
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,9f3d8aa049665413d7a5ccd2e62d7ce714fe455809d599b81619009d4571c214,contract_summary,partial,12,11,1,incentives,True,1
+CleanSky Energy|NJNG Gas|gas,CleanSky Energy,NJNG Gas,gas,07712,a94d573da4abcbb8cd13000b5fd5b5a23d5b923c0ac380235ba2474728f65f3b,terms_or_other,text_extracted,12,1,0,,False,0

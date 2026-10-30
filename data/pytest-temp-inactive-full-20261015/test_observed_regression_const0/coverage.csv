@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+Constellation Energy|PSE&G Electric|electric,Constellation Energy,PSE&G Electric,electric,07102,constellation,partial,browser_dom,True,True,2,2,0,0,,,,,

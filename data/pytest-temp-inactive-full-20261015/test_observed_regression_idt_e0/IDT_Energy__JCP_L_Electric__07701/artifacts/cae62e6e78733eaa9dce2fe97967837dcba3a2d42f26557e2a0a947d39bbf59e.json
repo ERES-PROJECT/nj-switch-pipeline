@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://idtenergy.com/get-started/your-offers/",
+      "@type": "WebPage",
+      "breadcrumb": {
+        "@id": "https://idtenergy.com/get-started/your-offers/"
+      },
+      "dateModified": "2024-08-23T13:48:00+00:00",
+      "datePublished": "2017-10-11T18:20:51+00:00",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://idtenergy.com/"
+      },
+      "name": "IDT Energy &#8211; Step #2 - Your Offers",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://idtenergy.com/get-started/your-offers/"
+          ]
+        }
+      ],
+      "url": "https://idtenergy.com/get-started/your-offers/"
+    },
+    {
+      "@id": "https://idtenergy.com/get-started/your-offers/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "item": "https://idtenergy.com/get-started/",
+          "name": "Get Started",
+          "position": 1
+        },
+        {
+          "@type": "ListItem",
+          "name": "Step #2 &#8211; Your Offers",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "@id": "https://idtenergy.com/",
+      "@type": "WebSite",
+      "description": "The Power to Choose",
+      "inLanguage": "en-US",
+      "name": "IDT Energy",
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "query-input": {
+            "@type": "PropertyValueSpecification",
+            "valueName": "search_term_string",
+            "valueRequired": true
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://idtenergy.com/?s=%7Bsearch_term_string%7D"
+          }
+        }
+      ],
+      "url": "https://idtenergy.com/"
+    }
+  ]
+}

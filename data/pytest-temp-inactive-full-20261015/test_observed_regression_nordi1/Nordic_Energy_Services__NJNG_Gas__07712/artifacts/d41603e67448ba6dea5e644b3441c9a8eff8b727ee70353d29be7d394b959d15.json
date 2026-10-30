@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@id": "",
+  "@type": "LocalBusiness",
+  "address": "[REDACTED]",
+  "areaServed": [
+    {
+      "@type": "State",
+      "name": "Delaware"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "District of Columbia"
+    },
+    {
+      "@type": "State",
+      "name": "Illinois"
+    },
+    {
+      "@type": "State",
+      "name": "Indiana"
+    },
+    {
+      "@type": "State",
+      "name": "Maine"
+    },
+    {
+      "@type": "State",
+      "name": "Maryland"
+    },
+    {
+      "@type": "State",
+      "name": "Massachusetts"
+    },
+    {
+      "@type": "State",
+      "name": "Michigan"
+    },
+    {
+      "@type": "State",
+      "name": "New Jersey"
+    },
+    {
+      "@type": "State",
+      "name": "New York"
+    },
+    {
+      "@type": "State",
+      "name": "Ohio"
+    },
+    {
+      "@type": "State",
+      "name": "Pennsylvania"
+    },
+    {
+      "@type": "State",
+      "name": "Rhode Island"
+    },
+    {
+      "@type": "State",
+      "name": "Virginia"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.8581811,
+    "longitude": -87.95450609999999
+  },
+  "image": "https://www.nordicenergy-us.com/media/3oqfirax/nordic-energy-logo-2.png",
+  "name": "Nordic Energy",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "closes": "17:00",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/nordicenergyllc/",
+    "https://www.instagram.com/nordicenergyservices/",
+    "https://www.linkedin.com/company/nordic-energy-services-llc/"
+  ],
+  "telephone": "[REDACTED]",
+  "url": "https://www.nordicenergy-us.com/"
+}

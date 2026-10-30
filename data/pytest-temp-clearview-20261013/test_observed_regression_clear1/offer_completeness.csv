@@ -1,0 +1,13 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,12a577c4556ee33368009f1e,ClearGuarantee12Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,b875e94332c7d30d4b185717,ClearGuarantee24Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,b221ecd02ba930ffe26af324,ClearGuarantee18Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,28213eab517531127a31ccda,ClearGuarantee9Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,5a7351abdf7ece2e98bfc724,ClearGuarantee12,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,fe63411eb04c7eaa9f3874b0,ClearCharge12,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,275a065165e12ec12c2bfaad,ClearCharge12Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,09226fb25676d137e2dfa348,ClearGuarantee24,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,b06554b7b17bb052e604373d,ClearGuarantee6Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,7314892269d2d59d9d83b27b,ClearGuarantee18,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,ef95e2f00f4b18a00165f4f4,ClearGuarantee9,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,5b9467d3e3ddf158ba90a3a1,ClearGuarantee6,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

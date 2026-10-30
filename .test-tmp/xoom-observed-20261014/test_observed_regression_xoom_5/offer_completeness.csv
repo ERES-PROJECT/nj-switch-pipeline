@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,853496bee629eeb7c794a42d,SimpleFlex,True,,term_months | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,3f62d228e7e8b79067bbd6c0,RescueLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,f6eef9aee9588d883599089d,SureLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,d76834d41a07e1115808f6b7,SureLock 24,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

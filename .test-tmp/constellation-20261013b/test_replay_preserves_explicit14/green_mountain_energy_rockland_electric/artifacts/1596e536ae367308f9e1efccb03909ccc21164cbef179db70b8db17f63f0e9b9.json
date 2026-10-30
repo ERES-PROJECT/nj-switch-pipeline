@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org/",
+  "@id": "https://www.greenmountainenergy.com/",
+  "@type": "WebPage",
+  "breadcrumb": {
+    "@id": "https://www.greenmountainenergy.com/"
+  },
+  "description": "",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://www.greenmountainenergy.com/"
+  },
+  "name": "ZIP Code not served",
+  "primaryImageOfPage": "https://www.greenmountainenergy.com/content/dam/gme/web/en/multimedia/images/open-graph/GME-Open-Graph-1200x630.png",
+  "url": "https://www.greenmountainenergy.com/"
+}

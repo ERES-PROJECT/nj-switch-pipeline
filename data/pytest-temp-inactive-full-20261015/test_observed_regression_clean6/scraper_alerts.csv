@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,warning,not_completed,status=partial

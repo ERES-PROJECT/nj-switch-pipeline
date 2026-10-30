@@ -1,0 +1,147 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Think Energy",
+      "utility": "PSE&G Electric",
+      "commodity": "electric",
+      "zip": "07102",
+      "url": "https://thinkenergy.com/home-nj/",
+      "adapter": "think_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:28:59.478779+00:00",
+    "finished_at": "2026-10-15T18:28:59.482383+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_bootstrap_api",
+    "source_offer_count": 1,
+    "offers": [
+      {
+        "key": "a1c0677e7580e3dc6a0358d7",
+        "supplier": "Think Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Think Clean 12",
+        "product_id": "240015",
+        "price": {
+          "value": "0.202",
+          "unit": "USD/kWh",
+          "raw": "billing.commodity_rate=0.202; display={'500kWh': 20.2, '1000kWh': 20.2, '2000kWh': 20.2}"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {},
+        "incentives": [
+          "Cash Back:",
+          "Enroll with us and we’ll show our commitment to you with a $100 cash gift card.",
+          "$100 Gift Card"
+        ],
+        "renewable_percentage": "100",
+        "renewable_source": "solar, wind",
+        "renewable_claim": "Our premier plan that provides 100% renewable electricity and added benefits.",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FCS_NJ.docx%5Cu0026commodity_rate%3D0.202000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240015",
+            "label": "Contract Summary",
+            "product_id": "240015",
+            "offer_key": "a1c0677e7580e3dc6a0358d7",
+            "discovery_artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536"
+          },
+          {
+            "url": "https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FTOS_NJ.docx%5Cu0026commodity_rate%3D0.202000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240015",
+            "label": "Terms and Conditions",
+            "product_id": "240015",
+            "offer_key": "a1c0677e7580e3dc6a0358d7",
+            "discovery_artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536"
+          },
+          {
+            "url": "https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/edl/NJ_RESI_ENV.pdf",
+            "label": "Environmental Information Disclosure",
+            "product_id": "240015",
+            "offer_key": "a1c0677e7580e3dc6a0358d7",
+            "discovery_artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536"
+          },
+          {
+            "url": "https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Arbitration_and_Class_Action_Policy_Addendum.pdf",
+            "label": "Arbitration and Class Action Policy Addendum",
+            "product_id": "240015",
+            "offer_key": "a1c0677e7580e3dc6a0358d7",
+            "discovery_artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536"
+          },
+          {
+            "url": "https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Communications_Policy.pdf",
+            "label": "Communications Policy",
+            "product_id": "240015",
+            "offer_key": "a1c0677e7580e3dc6a0358d7",
+            "discovery_artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536"
+          },
+          {
+            "url": "https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/promotions/%24100+Gift+Card+Promotion+Terms.pdf",
+            "label": "Promotion Terms",
+            "product_id": "240015",
+            "offer_key": "a1c0677e7580e3dc6a0358d7",
+            "discovery_artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://api.thinkenergy.onproton.io/enrollment/get_tdsps_and_offers",
+        "source_kind": "verified_api_response",
+        "artifact_id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536",
+        "captured_at": "2026-09-04T15:52:01.969611+00:00",
+        "raw_fields": {
+          "billing": "{\"charges\": [\"fixed_commodity_rate\"], \"monthly_fee\": 0, \"commodity_rate\": 0.202, \"generation_rate\": 0}",
+          "billing_method": "postpay",
+          "code": "nj.fixed",
+          "description": "Our premier plan that provides 100% renewable electricity and added benefits.",
+          "display": "{\"features\": {\"media\": {\"url\": \"\", \"type\": \"\", \"label\": \"\", \"disabled\": true}, \"promo\": {\"type\": \"\", \"label\": \"\", \"disabled\": true}, \"banner\": {\"type\": \"\", \"label\": \"$100 Gift Card Available\", \"disabled\": false}}, \"disclaimers\": [\"* This offer and our terms and conditions are valid only for residential and small commercial customers.\"], \"average_rate\": {\"500kWh\": 20.2, \"1000kWh\": 20.2, \"2000kWh\": 20.2}, \"details_header\": \"Think Clean 12: 12 months of 100% renewable electricity and added benefits.\", \"details_bullets\": [\"<span>Clean Electricity:</span> Think Energy offsets 100% of your electricity usage with renewable energy certificates. Basically, that means your bill helps invest in the development of clean energy sources like solar and wind.\", \"<span>Fixed Rate:</span> The rate you pay will stay the same for the term of your contract. No surprises.\", \"<span>Cash Back:</span> Enroll with us and we’ll show our commitment to you with a $100 cash gift card.\"], \"summary_bullets\": [\"12 Month Fixed Rate Electricity Plan\", \"100% Clean Energy \", \"$100 Gift Card\"]}",
+          "documents": "[{\"description\":\"Contract Summary\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FCS_NJ.docx%5Cu0026commodity_rate%3D0.202000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240015\",\"name\":\"CS\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/CS_NJ.docx\"},{\"description\":\"Terms and Conditions\",\"location\":\"https://api.thinkenergy.onproton.io/enrollment/document?template_bucket=thinkenergy-product-templates%5Cu0026template_file%3Dnj%2FTOS_NJ.docx%5Cu0026commodity_rate%3D0.202000%5Cu0026term_months%3D12%5Cu0026rate_id%3D240015\",\"name\":\"TOS\",\"template_bucket\":\"thinkenergy-product-templates\",\"template_file\":\"nj/TOS_NJ.docx\"},{\"description\":\"Environmental Information Disclosure\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/edl/NJ_RESI_ENV.pdf\",\"name\":\"EDL\"},{\"description\":\"Arbitration and Class Action Policy Addendum\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Arbitration_and_Class_Action_Policy_Addendum.pdf\",\"name\":\"ACAPA\"},{\"description\":\"Communications Policy\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/Think_Energy_Communications_Policy.pdf\",\"name\":\"CP\"},{\"description\":\"Promotion Terms\",\"location\":\"https://thinkenergy-public-docs.s3.us-west-2.amazonaws.com/promotions/%24100+Gift+Card+Promotion+Terms.pdf\",\"name\":\"PT\"}]",
+          "eligibility": "{\"tdsp\": [\"PSE&G Electric\", \"Atlantic City Electric\", \"Rockland Electric Company\", \"Jersey Central Power and Light - First Energy\"], \"state\": \"NJ\"}",
+          "external_meta_data": "{}",
+          "max_deposit": 0,
+          "meta_data": "{\"promo_type\": \"$100 Gift Card\", \"tdsp_rates\": null, \"renewal_type\": \"F2F\", \"average_rates\": [{\"level\": \"500kWh\", \"value\": 20.2}, {\"level\": \"1000kWh\", \"value\": 20.2}, {\"level\": \"2000kWh\", \"value\": 20.2}], \"design_margin\": 0.018, \"green_percentage\": 100}",
+          "name": "Think Clean 12",
+          "offer_type": "new",
+          "options": "{\"billing_segment\": \"think_ntx\", \"run_identity_check\": true, \"commercial_bill_upload_required\": true}",
+          "product_type": "fixed",
+          "promo_code": "default",
+          "rate_id": 240015,
+          "service_type": "electricity",
+          "start_date": "2026-08-12T15:26:49Z",
+          "tdsp": "PSE&G Electric",
+          "term_months": "12",
+          "verification_required": true,
+          "zone": ""
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536",
+        "path": "4ff2edc4846553b9fd97484dcb34acbb54a3f6b02d7920d2d73043f86306d536.json",
+        "kind": "json",
+        "url": "https://api.thinkenergy.onproton.io/enrollment/get_tdsps_and_offers",
+        "captured_at": "2026-10-15T18:28:59.481220+00:00",
+        "bytes": 8481
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

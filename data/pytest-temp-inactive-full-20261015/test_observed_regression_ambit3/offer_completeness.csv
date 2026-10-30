@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Ambit Energy|Rockland Electric|electric,Ambit Energy,Rockland Electric,electric,07430,d073aeea5a8b52401d40fb18,Ultimate Perks 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|Rockland Electric|electric,Ambit Energy,Rockland Electric,electric,07430,3c1bdf69f8862c88189642ca,Garden State Select 12 Month Term,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|Rockland Electric|electric,Ambit Energy,Rockland Electric,electric,07430,1dcd6f502f2d531be734b590,Winter Break 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|Rockland Electric|electric,Ambit Energy,Rockland Electric,electric,07430,eebc42fe848bf3ac59cb3570,Winter Break 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

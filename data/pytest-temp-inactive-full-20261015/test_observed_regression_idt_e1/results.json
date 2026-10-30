@@ -1,0 +1,372 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "IDT Energy",
+      "utility": "Rockland Electric",
+      "commodity": "electric",
+      "zip": "07430",
+      "url": "https://idtenergy.com/get-started/",
+      "adapter": "idt_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:40.397636+00:00",
+    "finished_at": "2026-10-15T18:29:40.480098+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 6,
+    "offers": [
+      {
+        "key": "7bf7ef66e9fd4b2e79601327",
+        "supplier": "IDT Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "IDT Standard Renewable Mix Fixed Offer",
+        "product_id": "852438",
+        "price": {
+          "value": "0.14350",
+          "unit": "USD/kWh",
+          "raw": "$0.14350/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No Early Termination Fee\nRenewable Portfolio Standard (RPS) Compliant"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": "Renewable Portfolio Standard (RPS) Compliant",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://idtenergy.com/tcs/?type=terms_conditions&term=8&rate=0.14350&ptc=0.11180&filter_state=NJ&filter_commodity=Electric&filter_rate_type=Fixed&filter_energy_type=Brown&filter_fees=No&filter_program=&search_display=filters-off",
+            "label": "Terms & Conditions",
+            "product_id": "852438",
+            "offer_key": "7bf7ef66e9fd4b2e79601327",
+            "discovery_artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "source_kind": "html",
+        "artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "captured_at": "2026-09-11T13:58:23.963928+00:00",
+        "raw_fields": {
+          "text": "$0.14350/kWh\nRECO\n$0.14350\n/kWh\nCONTINUE\nTerms & Conditions\n8-Months\nFixed\n8\nNo Early Termination Fee\nRenewable Portfolio Standard (RPS) Compliant \n\t\t\t\t\t\t   \n\t\t\t\t\t\t   16.7%\n8-Month Rate:\n$0.14350 /kWh\nZero\nTermination Fees\nZero\nHidden Costs or Deposits\nCompare to Utility Rate\n$0.11180\n/kWh\nMore Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) (Gas, 22-0243) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com.",
+          "details": "More Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) (Gas, 22-0243) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com."
+        },
+        "warnings": []
+      },
+      {
+        "key": "7296930cfe17e05dcb5c31a4",
+        "supplier": "IDT Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "IDT Standard Renewable Mix Variable Offer",
+        "product_id": "850214",
+        "price": {
+          "value": "0.14420",
+          "unit": "USD/kWh",
+          "raw": "$0.14420/kWh"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": {
+          "value": "0.14420",
+          "unit": "USD/kWh",
+          "raw": "$0.14420/kWh"
+        },
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No Early Termination Fee\nRenewable Portfolio Standard (RPS) Compliant"
+        },
+        "incentives": [
+          "Qualify for a $25 MasterCard® Gift Card after the first 90-days of active service.",
+          "Earn 5% Cash back in the form of a rebate every 6 Billing Cycles.",
+          "IDT Energy (IDTE) “SmartFLEX” is a variable rate product. The rate for the electricity supplied will fluctuate at IDTE’s discretion based on numerous factors as explained in the Terms & Conditions. There is no cap on the rate. IDTE may change the rate without additional notice & such rate may be higher or lower than the utility’s rate in any particular month. There is no guarantee of savings. This offer is only available to customers enrolling with IDTE for the first time, & only to customers enrolling on or before 12 - 31 - 26. This offer does not apply to the distribution portion of your utility bill. IDTE is licensed to supply electricity and natural gas in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), & OH (Gas, 15-482G and Electricity, 15-1020E). Customer will have the opportunity to earn a $25 MasterCard Gift Card (GC) after the first 90-days of active IDTE electricity supply service. Customer will also have the opportunity to earn a rebate after each consecutive set of 6 full bill cycles of service through the 24th bill cycle of active electric supply service. Each rebate will be calculated to equal 5% of what you paid toward the energy supplied by IDTE during those 6 bill cycles. (A full bill cycle is 25 days or more). The more you spend on electricity supply, the larger your rebate. To become qualified to receive the GC and rebates, customer will have 60 days to complete a validation process, according to the instructions that will be sent to the customer after each consecutive set of 6 full bill cycles. The rebates will only be earned and paid if customer’s relevant account is active & in good standing when the validation process is complete & the rebate is due. Rebates may be issued in a variety of forms including, but not limited to, checks, stored-value cards, or electronic gift cards. Rebates earned in the form of stored-value cards or electronic gift cards will be issued by an issuing bank, pursuant to a direct relationship between customer & the issuing bank, & are subject to the terms & conditions governing that relationship. This offer is nontransferable, non-negotiable, & not redeemable for cash. IDTE is not the same entity as your electric delivery company. You are not required to enroll with IDTE. **IDTE PERKs Program: Customer must provide valid email address at enrollment. Customer will receive the first deposit of PERKS Dollars after day 50 of active service. A second deposit of $50 PERKS Dollars will be made on day 120 of active service. Online - mobile redemption is required before use. Participating offers subject to change. PERKS Dollars are not gift cards or gift certificates & have no cash value. Visit www.MyIDTEnergyPerks.com for full terms & conditions. All product & company names depicted are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Offers are non-transferable, non-negotiable, & not redeemable for cash. IDTE service cancellation will result in the termination of your PERKs program as well. IDT Energy: 520 Broad Street, Newark, NJ 07102 www.idtenergy.com 877-887-6866."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": "Renewable Portfolio Standard (RPS) Compliant",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://idtenergy.com/tcs/?type=terms_conditions&term=1&rate=0.14420&ptc=0.11180&filter_state=NJ&filter_commodity=Electric&filter_rate_type=Variable&filter_energy_type=Brown&filter_fees=No&filter_program=&search_display=filters-off",
+            "label": "Terms & Conditions",
+            "product_id": "850214",
+            "offer_key": "7296930cfe17e05dcb5c31a4",
+            "discovery_artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "source_kind": "html",
+        "artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "captured_at": "2026-09-11T13:58:23.963928+00:00",
+        "raw_fields": {
+          "text": "$0.14420/kWh\nRECO\n$0.14420\n/kWh\nCONTINUE\nTerms & Conditions\nIntro Rate Then Month-to-Month\nVariable\n1\nNo Early Termination Fee\nRenewable Portfolio Standard (RPS) Compliant \n\t\t\t\t\t\t   \n\t\t\t\t\t\t   16.7%\nQualify for a $25 MasterCard® Gift Card after the first 90-days of active service.\nEarn 5% Cash back in the form of a rebate every 6 Billing Cycles.\nPLUS, get $100 in PERKs Dollars on day 50 & $120 in PERKs Dollars on day 120 of active service.\nRollover “More Information” below\nCompare to Utility Rate\n$0.11180\n/kWh\nMore Information\nIDT Energy (IDTE) “SmartFLEX” is a variable rate product. The rate for the electricity supplied will fluctuate at IDTE’s discretion based on numerous factors as explained in the Terms & Conditions. There is no cap on the rate. IDTE may change the rate without additional notice & such rate may be higher or lower than the utility’s rate in any particular month. There is no guarantee of savings. This offer is only available to customers enrolling with IDTE for the first time, & only to customers enrolling on or before 12 - 31 - 26. This offer does not apply to the distribution portion of your utility bill. IDTE is licensed to supply electricity and natural gas in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), & OH (Gas, 15-482G and Electricity, 15-1020E). Customer will have the opportunity to earn a $25 MasterCard Gift Card (GC) after the first 90-days of active IDTE electricity supply service. Customer will also have the opportunity to earn a rebate after each consecutive set of 6 full bill cycles of service through the 24th bill cycle of active electric supply service. Each rebate will be calculated to equal 5% of what you paid toward the energy supplied by IDTE during those 6 bill cycles. (A full bill cycle is 25 days or more). The more you spend on electricity supply, the larger your rebate. To become qualified to receive the GC and rebates, customer will have 60 days to complete a validation process, according to the instructions that will be sent to the customer after each consecutive set of 6 full bill cycles. The rebates will only be earned and paid if customer’s relevant account is active & in good standing when the validation process is complete & the rebate is due. Rebates may be issued in a variety of forms including, but not limited to, checks, stored-value cards, or electronic gift cards. Rebates earned in the form of stored-value cards or electronic gift cards will be issued by an issuing bank, pursuant to a direct relationship between customer & the issuing bank, & are subject to the terms & conditions governing that relationship. This offer is nontransferable, non-negotiable, & not redeemable for cash. IDTE is not the same entity as your electric delivery company. You are not required to enroll with IDTE. **IDTE PERKs Program: Customer must provide valid email address at enrollment. Customer will receive the first deposit of PERKS Dollars after day 50 of active service. A second deposit of $50 PERKS Dollars will be made on day 120 of active service. Online - mobile redemption is required before use. Participating offers subject to change. PERKS Dollars are not gift cards or gift certificates & have no cash value. Visit www.MyIDTEnergyPerks.com for full terms & conditions. All product & company names depicted are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Offers are non-transferable, non-negotiable, & not redeemable for cash. IDTE service cancellation will result in the termination of your PERKs program as well. IDT Energy: 520 Broad Street, Newark, NJ 07102 www.idtenergy.com 877-887-6866.",
+          "details": "More Information\nIDT Energy (IDTE) “SmartFLEX” is a variable rate product. The rate for the electricity supplied will fluctuate at IDTE’s discretion based on numerous factors as explained in the Terms & Conditions. There is no cap on the rate. IDTE may change the rate without additional notice & such rate may be higher or lower than the utility’s rate in any particular month. There is no guarantee of savings. This offer is only available to customers enrolling with IDTE for the first time, & only to customers enrolling on or before 12 - 31 - 26. This offer does not apply to the distribution portion of your utility bill. IDTE is licensed to supply electricity and natural gas in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), & OH (Gas, 15-482G and Electricity, 15-1020E). Customer will have the opportunity to earn a $25 MasterCard Gift Card (GC) after the first 90-days of active IDTE electricity supply service. Customer will also have the opportunity to earn a rebate after each consecutive set of 6 full bill cycles of service through the 24th bill cycle of active electric supply service. Each rebate will be calculated to equal 5% of what you paid toward the energy supplied by IDTE during those 6 bill cycles. (A full bill cycle is 25 days or more). The more you spend on electricity supply, the larger your rebate. To become qualified to receive the GC and rebates, customer will have 60 days to complete a validation process, according to the instructions that will be sent to the customer after each consecutive set of 6 full bill cycles. The rebates will only be earned and paid if customer’s relevant account is active & in good standing when the validation process is complete & the rebate is due. Rebates may be issued in a variety of forms including, but not limited to, checks, stored-value cards, or electronic gift cards. Rebates earned in the form of stored-value cards or electronic gift cards will be issued by an issuing bank, pursuant to a direct relationship between customer & the issuing bank, & are subject to the terms & conditions governing that relationship. This offer is nontransferable, non-negotiable, & not redeemable for cash. IDTE is not the same entity as your electric delivery company. You are not required to enroll with IDTE. **IDTE PERKs Program: Customer must provide valid email address at enrollment. Customer will receive the first deposit of PERKS Dollars after day 50 of active service. A second deposit of $50 PERKS Dollars will be made on day 120 of active service. Online - mobile redemption is required before use. Participating offers subject to change. PERKS Dollars are not gift cards or gift certificates & have no cash value. Visit www.MyIDTEnergyPerks.com for full terms & conditions. All product & company names depicted are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Offers are non-transferable, non-negotiable, & not redeemable for cash. IDTE service cancellation will result in the termination of your PERKs program as well. IDT Energy: 520 Broad Street, Newark, NJ 07102 www.idtenergy.com 877-887-6866."
+        },
+        "warnings": []
+      },
+      {
+        "key": "ff76c37feaad2af90802c195",
+        "supplier": "IDT Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "IDT 100% Renewable Variable Offer",
+        "product_id": "850194",
+        "price": {
+          "value": "0.15420",
+          "unit": "USD/kWh",
+          "raw": "$0.15420/kWh"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": {
+          "value": "0.15420",
+          "unit": "USD/kWh",
+          "raw": "$0.15420/kWh"
+        },
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No Early Termination Fee\n100% Green Energy"
+        },
+        "incentives": [
+          "Qualify for a $25 MasterCard® Gift Card after the first 90-days of active service.",
+          "Earn 5% Cash back in the form of a rebate every 6 Billing Cycles.",
+          "*IDT Energy (IDTE) “SmartFLEX” is a variable rate energy supply product. The rate for the energy supplied will fluctuate at IDTE’s discretion based on numerous factors as explained in the Terms & Conditions. There is no cap on the rate. IDTE may change the rate without additional notice and such rate may be higher or lower than the utility’s rate in any particular month. There is no guarantee of savings. This offer is only available to customers enrolling with IDTE for the first time, and only to customers enrolling on or before 12 - 31 - 26. IDTE is licensed to supply electricity and natural gas in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), & OH (Gas, 15-482G and Electricity, 15-1020E). In Duke, Ohio Edison, Cleveland Electric & Toledo Edison OH service areas your rates for Green Variable rate electricity supply will include a Daily Service Fee of up to $0.249 per day. Your supply service will start when the utility company approves your IDT Energy enrollment, which should be in approximately 15 - 45 days, depending on your next meter reading & it will continue on a month-to-month basis until either party terminates it. With the Renewable Energy Option, the price Customer pays for the electricity supplied will be IDTE’s standard variable price plus an “adder” of up to 3¢ per kWh. IDTE is not the same entity as your electric delivery company. You are not required to enroll with IDTE. This offer does not apply to the distribution portion of your utility bill. Customer will have the opportunity to earn a $25 MasterCard Gift Card (GC) after the first 90-days of active IDTE electricity supply service. Customer will also have the opportunity to earn a rebate after each consecutive set of 6 full bill cycles of service through the 24th bill cycle of active electric service. Each rebate will be calculated to equal 5% of what you paid toward the energy supplied by IDTE during those 6 bill cycles. (A full bill cycle is 25 days or more). The more you",
+          "spend on electricity supply, the larger your rebate. To become qualified to receive the GC and rebates, customer will have 60 days to complete a validation process, according to the instructions that will be sent",
+          "to the customer after each consecutive set of 6 full bill cycles. The rebates will only be earned and paid if customer’s relevant account is active and in good standing when the validation process is complete and",
+          "the rebate is due. Rebates may be issued in a variety of forms including, but not limited to, checks, stored-value cards, or electronic gift cards. Rebates earned in the form of stored-value cards or electronic gift cards will be issued by an issuing bank, pursuant to a direct relationship between customer and the issuing bank, and are subject to the terms & conditions governing that relationship. This offer is nontransferable, non-negotiable, and not redeemable for cash. **IDTE PERKs Program: Customer must provide valid email address at enrollment. Customer will receive the first deposit of PERKS Dollars after day 50 of active service. A second deposit of $50 PERKS Dollars will be made on day 120 of active service. Online - mobile redemption is required before use. Participating offers subject to change. PERKS Dollars are not gift cards or gift certificates & have no cash value. Visit www.MyIDTEnergyPerks.com for full terms & conditions. All product & company names depicted are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Offers are nontransferable, non-negotiable, & not redeemable for cash. IDTE service cancellation will result in the termination of your PERKs program as well. IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com."
+        ],
+        "renewable_percentage": "100",
+        "renewable_source": null,
+        "renewable_claim": "100% Green Energy",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://idtenergy.com/tcs/?type=terms_conditions&term=1&rate=0.15420&ptc=0.11180&filter_state=NJ&filter_commodity=Electric&filter_rate_type=Variable&filter_energy_type=Green&filter_fees=No&filter_program=&search_display=filters-off",
+            "label": "Terms & Conditions",
+            "product_id": "850194",
+            "offer_key": "ff76c37feaad2af90802c195",
+            "discovery_artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "source_kind": "html",
+        "artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "captured_at": "2026-09-11T13:58:23.963928+00:00",
+        "raw_fields": {
+          "text": "$0.15420/kWh\nRECO\n$0.15420\n/kWh\nCONTINUE\nTerms & Conditions\nIntro Rate Then Month-to-Month\nVariable\n1\nNo Early Termination Fee\n100% Green Energy\nQualify for a $25 MasterCard® Gift Card after the first 90-days of active service.\nEarn 5% Cash back in the form of a rebate every 6 Billing Cycles.\nPLUS, get $100 in PERKs Dollars on day 50 & $120 in PERKs Dollars on day 120 of active service.\nRollover “More Information” below\nCompare to Utility Rate\n$0.11180\n/kWh\nMore Information\n*IDT Energy (IDTE) “SmartFLEX” is a variable rate energy supply product. The rate for the energy supplied will fluctuate at IDTE’s discretion based on numerous factors as explained in the Terms & Conditions. There is no cap on the rate. IDTE may change the rate without additional notice and such rate may be higher or lower than the utility’s rate in any particular month. There is no guarantee of savings. This offer is only available to customers enrolling with IDTE for the first time, and only to customers enrolling on or before 12 - 31 - 26. IDTE is licensed to supply electricity and natural gas in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), & OH (Gas, 15-482G and Electricity, 15-1020E). In Duke, Ohio Edison, Cleveland Electric & Toledo Edison OH service areas your rates for Green Variable rate electricity supply will include a Daily Service Fee of up to $0.249 per day. Your supply service will start when the utility company approves your IDT Energy enrollment, which should be in approximately 15 - 45 days, depending on your next meter reading & it will continue on a month-to-month basis until either party terminates it. With the Renewable Energy Option, the price Customer pays for the electricity supplied will be IDTE’s standard variable price plus an “adder” of up to 3¢ per kWh. IDTE is not the same entity as your electric delivery company. You are not required to enroll with IDTE. This offer does not apply to the distribution portion of your utility bill. Customer will have the opportunity to earn a $25 MasterCard Gift Card (GC) after the first 90-days of active IDTE electricity supply service. Customer will also have the opportunity to earn a rebate after each consecutive set of 6 full bill cycles of service through the 24th bill cycle of active electric service. Each rebate will be calculated to equal 5% of what you paid toward the energy supplied by IDTE during those 6 bill cycles. (A full bill cycle is 25 days or more). The more you\nspend on electricity supply, the larger your rebate. To become qualified to receive the GC and rebates, customer will have 60 days to complete a validation process, according to the instructions that will be sent\nto the customer after each consecutive set of 6 full bill cycles. The rebates will only be earned and paid if customer’s relevant account is active and in good standing when the validation process is complete and\nthe rebate is due. Rebates may be issued in a variety of forms including, but not limited to, checks, stored-value cards, or electronic gift cards. Rebates earned in the form of stored-value cards or electronic gift cards will be issued by an issuing bank, pursuant to a direct relationship between customer and the issuing bank, and are subject to the terms & conditions governing that relationship. This offer is nontransferable, non-negotiable, and not redeemable for cash. **IDTE PERKs Program: Customer must provide valid email address at enrollment. Customer will receive the first deposit of PERKS Dollars after day 50 of active service. A second deposit of $50 PERKS Dollars will be made on day 120 of active service. Online - mobile redemption is required before use. Participating offers subject to change. PERKS Dollars are not gift cards or gift certificates & have no cash value. Visit www.MyIDTEnergyPerks.com for full terms & conditions. All product & company names depicted are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Offers are nontransferable, non-negotiable, & not redeemable for cash. IDTE service cancellation will result in the termination of your PERKs program as well. IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com.\nGreen Energy Rate",
+          "details": "More Information\n*IDT Energy (IDTE) “SmartFLEX” is a variable rate energy supply product. The rate for the energy supplied will fluctuate at IDTE’s discretion based on numerous factors as explained in the Terms & Conditions. There is no cap on the rate. IDTE may change the rate without additional notice and such rate may be higher or lower than the utility’s rate in any particular month. There is no guarantee of savings. This offer is only available to customers enrolling with IDTE for the first time, and only to customers enrolling on or before 12 - 31 - 26. IDTE is licensed to supply electricity and natural gas in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), & OH (Gas, 15-482G and Electricity, 15-1020E). In Duke, Ohio Edison, Cleveland Electric & Toledo Edison OH service areas your rates for Green Variable rate electricity supply will include a Daily Service Fee of up to $0.249 per day. Your supply service will start when the utility company approves your IDT Energy enrollment, which should be in approximately 15 - 45 days, depending on your next meter reading & it will continue on a month-to-month basis until either party terminates it. With the Renewable Energy Option, the price Customer pays for the electricity supplied will be IDTE’s standard variable price plus an “adder” of up to 3¢ per kWh. IDTE is not the same entity as your electric delivery company. You are not required to enroll with IDTE. This offer does not apply to the distribution portion of your utility bill. Customer will have the opportunity to earn a $25 MasterCard Gift Card (GC) after the first 90-days of active IDTE electricity supply service. Customer will also have the opportunity to earn a rebate after each consecutive set of 6 full bill cycles of service through the 24th bill cycle of active electric service. Each rebate will be calculated to equal 5% of what you paid toward the energy supplied by IDTE during those 6 bill cycles. (A full bill cycle is 25 days or more). The more you\nspend on electricity supply, the larger your rebate. To become qualified to receive the GC and rebates, customer will have 60 days to complete a validation process, according to the instructions that will be sent\nto the customer after each consecutive set of 6 full bill cycles. The rebates will only be earned and paid if customer’s relevant account is active and in good standing when the validation process is complete and\nthe rebate is due. Rebates may be issued in a variety of forms including, but not limited to, checks, stored-value cards, or electronic gift cards. Rebates earned in the form of stored-value cards or electronic gift cards will be issued by an issuing bank, pursuant to a direct relationship between customer and the issuing bank, and are subject to the terms & conditions governing that relationship. This offer is nontransferable, non-negotiable, and not redeemable for cash. **IDTE PERKs Program: Customer must provide valid email address at enrollment. Customer will receive the first deposit of PERKS Dollars after day 50 of active service. A second deposit of $50 PERKS Dollars will be made on day 120 of active service. Online - mobile redemption is required before use. Participating offers subject to change. PERKS Dollars are not gift cards or gift certificates & have no cash value. Visit www.MyIDTEnergyPerks.com for full terms & conditions. All product & company names depicted are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Offers are nontransferable, non-negotiable, & not redeemable for cash. IDTE service cancellation will result in the termination of your PERKs program as well. IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com."
+        },
+        "warnings": []
+      },
+      {
+        "key": "e4aa36c97be5b9833bc9563c",
+        "supplier": "IDT Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "IDT 100% Renewable Fixed Offer",
+        "product_id": "852458",
+        "price": {
+          "value": "0.17090",
+          "unit": "USD/kWh",
+          "raw": "$0.17090/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No Early Termination Fee\n100% Green Energy"
+        },
+        "incentives": [],
+        "renewable_percentage": "100",
+        "renewable_source": "biomass, solar, wind",
+        "renewable_claim": "100% Green Energy",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://idtenergy.com/tcs/?type=terms_conditions&term=8&rate=0.17090&ptc=0.11180&filter_state=NJ&filter_commodity=Electric&filter_rate_type=Fixed&filter_energy_type=Green&filter_fees=No&filter_program=&search_display=filters-off",
+            "label": "Terms & Conditions",
+            "product_id": "852458",
+            "offer_key": "e4aa36c97be5b9833bc9563c",
+            "discovery_artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "source_kind": "html",
+        "artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "captured_at": "2026-09-11T13:58:23.963928+00:00",
+        "raw_fields": {
+          "text": "$0.17090/kWh\nRECO\n$0.17090\n/kWh\nCONTINUE\nTerms & Conditions\n8-Months\nFixed\n8\nNo Early Termination Fee\n100% Green Energy\n8-Month Rate:\n$0.17090 /kWh\nZero\nTermination Fees\nZero\nHidden Costs or Deposits\nCompare to Utility Rate\n$0.11180\n/kWh\nMore Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. **This Renewable - (Green) Electricity supply product option is 100% matched with renewable energy certificates representing the generation of electricity from sources like running water, wind, solar and biomass.IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com.\nGreen Energy Rate",
+          "details": "More Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. **This Renewable - (Green) Electricity supply product option is 100% matched with renewable energy certificates representing the generation of electricity from sources like running water, wind, solar and biomass.IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com."
+        },
+        "warnings": []
+      },
+      {
+        "key": "60c3f944fb7290623c52185b",
+        "supplier": "IDT Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "IDT Standard Renewable Mix Fixed Offer",
+        "product_id": "851761",
+        "price": {
+          "value": "0.17440",
+          "unit": "USD/kWh",
+          "raw": "$0.17440/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No Early Termination Fee\nRenewable Portfolio Standard (RPS) Compliant"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": "Renewable Portfolio Standard (RPS) Compliant",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://idtenergy.com/tcs/?type=terms_conditions&term=8&rate=0.17440&ptc=0.11180&filter_state=NJ&filter_commodity=Electric&filter_rate_type=Fixed&filter_energy_type=Brown&filter_fees=No&filter_program=&search_display=filters-off",
+            "label": "Terms & Conditions",
+            "product_id": "851761",
+            "offer_key": "60c3f944fb7290623c52185b",
+            "discovery_artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "source_kind": "html",
+        "artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "captured_at": "2026-09-11T13:58:23.963928+00:00",
+        "raw_fields": {
+          "text": "$0.17440/kWh\nRECO\n$0.17440\n/kWh\nCONTINUE\nTerms & Conditions\n8-Months\nFixed\n8\nNo Early Termination Fee\nRenewable Portfolio Standard (RPS) Compliant \n\t\t\t\t\t\t   \n\t\t\t\t\t\t   16.7%\n8-Month Rate:\n$0.17440 /kWh\nZero\nTermination Fees\nZero\nHidden Costs or Deposits\nCompare to Utility Rate\n$0.11180\n/kWh\nMore Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) (Gas, 22-0243) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com.",
+          "details": "More Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) (Gas, 22-0243) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com."
+        },
+        "warnings": []
+      },
+      {
+        "key": "846271ca739ef8ce9321096b",
+        "supplier": "IDT Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "IDT 100% Renewable Fixed Offer",
+        "product_id": "851792",
+        "price": {
+          "value": "0.20180",
+          "unit": "USD/kWh",
+          "raw": "$0.20180/kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 8,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No Early Termination Fee\n100% Green Energy"
+        },
+        "incentives": [],
+        "renewable_percentage": "100",
+        "renewable_source": "biomass, solar, wind",
+        "renewable_claim": "100% Green Energy",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://idtenergy.com/tcs/?type=terms_conditions&term=8&rate=0.20180&ptc=0.11180&filter_state=NJ&filter_commodity=Electric&filter_rate_type=Fixed&filter_energy_type=Green&filter_fees=No&filter_program=&search_display=filters-off",
+            "label": "Terms & Conditions",
+            "product_id": "851792",
+            "offer_key": "846271ca739ef8ce9321096b",
+            "discovery_artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "source_kind": "html",
+        "artifact_id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "captured_at": "2026-09-11T13:58:23.963928+00:00",
+        "raw_fields": {
+          "text": "$0.20180/kWh\nRECO\n$0.20180\n/kWh\nCONTINUE\nTerms & Conditions\n8-Months\nFixed\n8\nNo Early Termination Fee\n100% Green Energy\n8-Month Rate:\n$0.20180 /kWh\nZero\nTermination Fees\nZero\nHidden Costs or Deposits\nCompare to Utility Rate\n$0.11180\n/kWh\nMore Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. **This Renewable - (Green) Electricity supply product option is 100% matched with renewable energy certificates representing the generation of electricity from sources like running water, wind, solar and biomass.IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com.\nGreen Energy Rate",
+          "details": "More Information\n*To take advantage of this IDT Energy® SmartBudget Rate Guarantee promotion you must enroll on or before 9 - 30 - 26. This promotion is not available to current IDT Energy® electric customers. As an IDT Energy® SmartBudget Rate Guarantee customer, your electricity supply rate will be guaranteed to remain at a locked rate above for the initial number of monthly billing cycles above. Your Terms & Conditions describe what will take place upon the expiration of the initial billing cycles. There are no termination fees. **This Renewable - (Green) Electricity supply product option is 100% matched with renewable energy certificates representing the generation of electricity from sources like running water, wind, solar and biomass.IDT Energy is licensed to supply energy in DC (Gas, PSC Order No. 17245; Electricity, PSC Order No. 16840), MD (Gas, IR-1745; Electricity, IR-1747), NJ (Gas, GSL-0090; Electricity, ESL-0081), PA (Gas, A-2009-2119279 and Electricity, A-2009-2134623), NY (Eligibility Letter issued on 9 - 8 - 2004), IL (Electricity, 12-0428 and 22-0666) and OH (Gas, 15-482G and Electricity, 15-1020E).  IDT Energy: (877) 887-6866; 520 Broad Street, Newark, NJ 07102; www.IDTEnergy.com."
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "cae62e6e78733eaa9dce2fe97967837dcba3a2d42f26557e2a0a947d39bbf59e",
+        "path": "cae62e6e78733eaa9dce2fe97967837dcba3a2d42f26557e2a0a947d39bbf59e.json",
+        "kind": "json",
+        "url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "captured_at": "2026-10-15T18:29:40.400029+00:00",
+        "bytes": 1819
+      },
+      {
+        "id": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc",
+        "path": "68cde40d313fc1eebdb7baf3863d070d4926f1c2bf12c4086db8d028a762f3dc.html",
+        "kind": "html",
+        "url": "https://idtenergy.com/get-started/your-offers/?filter_zip=07430&filter_utility=RECO&filter_state=NJ&filter_commodity=E&filter_email=%5BREDACTED%5D&coupon_code=&agency_code=072&filter_campaign=default",
+        "captured_at": "2026-10-15T18:29:40.434646+00:00",
+        "bytes": 96749
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

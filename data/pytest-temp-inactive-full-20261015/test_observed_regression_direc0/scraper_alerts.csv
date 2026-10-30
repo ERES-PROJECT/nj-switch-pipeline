@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,warning,not_completed,status=partial

@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Residents Energy|NJNG Gas|gas,Residents Energy,NJNG Gas,gas,07712,d5e661074c990b0b1f7ecb47,Residents ResiSURE Brown 8 Bill Cycles,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Residents Energy|NJNG Gas|gas,Residents Energy,NJNG Gas,gas,07712,ca45fcb4380715f5d8a6c393,Residents ResiSURE Green 8 Bill Cycles,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source,0

@@ -1,0 +1,1327 @@
+<!DOCTYPE html>
+<html class="js flexbox canvas canvastext postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache" lang="en"><!--<![endif]--><head class="at-element-marker">
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="no-cache" http-equiv="pragma"/>
+<meta content="no-cache" http-equiv="Cache-control"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width,height=device-height, initial-scale=1" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="True" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="no" name="msapplication-tap-highlight"/>
+<title>Product Chart</title>
+<meta content="summary" name="twitter:card"/>
+<meta content="article" name="og:type"/>
+<meta content="No (default)" name="SubNavigation"/>
+<meta content="Product Chart" name="og:title"/>
+<meta content="No (default)" name="Breadcrumbs"/>
+<meta content="en-US" name="og:locale"/>
+<meta content="Product Chart" name="Title"/>
+<meta content="Product Chart" name="description"/>
+<meta content="Light Grey" name="BackgroundColor"/>
+<meta content="Light Grey" name="bgColor"/>
+<meta content="false" name="hasSubNav"/>
+<meta content="false" name="hasBreadcrumbs"/>
+<!-- Added for Analytics Please do not remove -->
+<cs-native-frame-holder hidden=""></cs-native-frame-holder></head><body>
+<!-- About to Render Header -->
+<!-- <form id="userInfo" name="userInfo" method="post" action="">
+
+</form> -->
+<link href="/system/assets/css/10normalize.css" rel="stylesheet"/>
+<link href="/system/assets/css/20layout.css" rel="stylesheet"/>
+<link href="/system/assets/css/30components.css" rel="stylesheet"/>
+<link href="/system/assets/css/35nice-select.css" rel="stylesheet"/>
+<link href="/system/assets/css/40slick.css" rel="stylesheet"/>
+<link href="/system/assets/css/50public_new.css" rel="stylesheet"/>
+<link href="/system/assets/css/60steppedcontent.css" rel="stylesheet"/>
+<link href="/system/assets/css/65productchart.css" rel="stylesheet"/>
+<link href="/system/assets/css/70standalone-productchart.css" rel="stylesheet"/>
+<link href="/system/assets/css/80partner-landing-page.css" rel="stylesheet"/>
+<link href="/system/assets/css/90solarPopup.css" rel="stylesheet"/>
+<link href="/system/assets/css/94jquery-ui-1.8.11.custom.css" rel="stylesheet"/>
+<link href="/system/assets/css/97validationEngine.jquery.css" rel="stylesheet"/>
+<link href="/system/assets/css/98resource-center-blog.css" rel="stylesheet"/>
+<link href="/system/assets/css/99gallery-page.css" rel="stylesheet"/>
+<link href="/system/assets/css/public_new_oam.css" rel="stylesheet"/>
+<!-- Finished to Rendering Header -->
+<!-- Do not remove the below line it will used in oam js files -->
+<iframe height="0" hidden="" src="https://a5076115664928768.cdn.optimizely.com/client_storage/a5076115664928768.html" style="display: none;" tabindex="-1" title="Optimizely Internal Frame" width="0"></iframe><form action="/en/electricity-and-gas/product-chart" autocomplete="off" id="proceedtoOrganicProductChart" method="post">
+</form>
+<form action="/en/electricity-and-gas/product-chart" autocomplete="off" id="fetchProduct" method="post">
+<div id="organicFields">
+</div>
+<div id="fetchData"></div>
+</form>
+<form action="/en/public/checkBundlesData" id="bundlesProduct" method="post">
+</form>
+<div class="container">
+<!--================Header Menu Area =================-->
+<div class="row relativeAboveHeader hidden-sm container">
+<div class="contentarea">
+</div>
+</div>
+<div class="row relativeHeader container">
+<div class="contentarea">
+</div>
+</div>
+<div class="row fixedHeader">
+<div class="col-12 hidden-sm zerotop zerobottom bgGrey fullwidth linksRowWithLogin">
+<div class="contentarea">
+<div class="row">
+<div class="col-6">
+<img class="col-1 mrgnRgtHeader5 marginTop5" src="/system/assets/img/map-marker-alt-gray.svg" style="background-size: contain;width: 15px;height: 20px;"/>
+<form action="" id="stateForm">
+</form>
+<div class="col-10 zeroleft zerobottom marginTop5">
+<div class="row">
+<div class="col-12 zerotop zerobottom zeroleft">
+<span style="float:left;">
+				Your Location
+			</span>
+<select class="niceselect" style="display: none;">
+<option data="first-option" value="first-option">Select</option>
+<option data="Delaware" value="/en/delaware">Delaware</option>
+<option data="Illinois" value="/en/illinois">Illinois</option>
+<option data="Massachusetts" value="/en/massachusetts">Massachusetts</option>
+<option data="New Jersey" value="/en/new-jersey">New Jersey</option>
+<option data="Ohio" value="/en/ohio">Ohio</option>
+<option data="Pennsylvania" value="/en/pennsylvania">Pennsylvania</option>
+<option data="Washington D.C." value="/en/washington-dc">Washington D.C.</option>
+</select><div class="nice-select niceselect" tabindex="0"><span class="current">Select</span><ul class="list"><li class="option selected" data-value="first-option">Select</li><li class="option" data-value="/en/delaware">Delaware</li><li class="option" data-value="/en/illinois">Illinois</li><li class="option" data-value="/en/massachusetts">Massachusetts</li><li class="option" data-value="/en/new-jersey">New Jersey</li><li class="option" data-value="/en/ohio">Ohio</li><li class="option" data-value="/en/pennsylvania">Pennsylvania</li><li class="option" data-value="/en/washington-dc">Washington D.C.</li></ul></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-3">
+<div class="row">
+</div>
+</div>
+<div class="inlineblock floatright mrgnLeft40 marginTop5">
+<div class="row">
+<div class="margnTp10 hidden-sm marginTop5" id="loginContainer">
+<a class="loginHover" href="/en/oam">
+<div class="floatright hoverText">Log In</div>
+<span class="floatright loginImage"></span>
+</a>
+</div>
+</div>
+</div>
+<div class="inlineblock floatright marginTop5">
+<div class="row" id="12834" prefix="s: http://schema.org/" typeof="s:Article">
+<div class="header-dropdown">
+<a class="dropbtn floatright headerText" id="pickNrgHeaderDropdownBtn" role="button">Call Us</a>
+<span class="floatright contactUsImage"></span>
+</div>
+<div id="modalWindowForOutage">
+<div class="contactus-blur" id="blur-it">
+<div class="contactusmodal" id="modalWindowForCustSupp">
+<div class="modalHead closeIconPadding">
+<div>
+<span class="whitetext left inlinedisplay outageHeader modelcontactus">Contact Us Today</span>
+<a class="floatright closeIcon ContactuscloseIcon" href="javascript:void(0)"><img alt="close icon" src="/system/assets/img/closeIcon.svg"/></a>
+</div>
+</div>
+<span>
+<div class="contactusModal">
+<div class="contactusHeader">Shopping for energy?</div>
+<div class="contactusSubheader">Are you interested in signing up as a new customer?</div>
+<a href="tel:18553885276">Call: 1-855-388-5276</a>
+<div class="contactusHeader marginTop10">Are you a current customer?</div>
+<div class="contactusSubheader">Looking to renew, swap plans, transfer service or have a question about your account?</div>
+<a href="tel:18444600309">Call: 1-844-460-0309</a></div>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 hidden-sm zerotop zerobottom zeroleft zeroright navbarwithlogo">
+<div class="contentarea">
+<div class="row" style="display: flex;justify-content: space-between;align-items: center;">
+<div class="col-2">
+<a class="logoNRG" href="/en/">
+<img class="img-responsive" height="56" src="/system/assets/img/logo.svg" width="85"/>
+</a>
+</div>
+<div class="col-10">
+<div class="floatright1" style="display: flex;justify-content: space-around;">
+<div class="col-3 inlineblock1" style="text-align: center; margin: auto 0px;">
+<a class="dropdown-toggle hoverTextNew mrgnLft70abc" href="">Electricity &amp; Gas</a>
+<div class="dropdown-menu hidden">
+<div class="contentarea">
+<div class="row">
+<div class="col-4 zeroleft">
+<ul class="submenu">
+<!-- Sub Menu Items -- Pages -->
+<li>
+<a class="submenulink" href="/en/electricity-and-gas">
+<span class="alignmiddle">Electricity and Gas Plans Overview</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/electricity-and-gas/rewards-plans">
+<span class="alignmiddle">Travel Rewards Plans</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/electricity-and-gas/cash-back-plans">
+<span class="alignmiddle">Cash Back Plans</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/electricity-and-gas/choose-to-give">
+<span class="alignmiddle">Charitable Giving Plans</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/electricity-and-gas/renewable-electricity-plans">
+<span class="alignmiddle">Renewable Energy Plans</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-4 zeroleft paddingtop30">
+<div class="row paddingrt32">
+<div class="col-12">
+<picture>
+<source media="(min-width: 960px)" srcset="/en/Images/Choose%20to%20give_tcm243-12606.JPG">
+<source media="(max-width: 959px)" srcset="">
+<img class="img-responsive" src=""/>
+</source></source></picture>
+</div>
+</div>
+</div>
+<div class="col-4 paddingtop30">
+<h4>Choose to Give</h4>
+<p class="description">
+<span xmlns="http://www.w3.org/1999/xhtml">You can make a meaningful difference in the lives of others simply by paying your electricity bill.</span>
+</p>
+<a class="continuebutton" href="/en/electricity-and-gas/choose-to-give">
+<span class="alignmiddle">Get Started</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-3 inlineblock1" style="text-align: center; margin: auto 0px;">
+<a class="dropdown-toggle hoverTextNew mrgnLft70abc" href="">Home Solutions</a>
+<div class="dropdown-menu hidden">
+<div class="contentarea">
+<div class="row">
+<div class="col-4 zeroleft">
+<ul class="submenu">
+<!-- Sub Menu Items -- Pages -->
+<li>
+<a class="submenulink" href="/en/home-solutions">
+<span class="alignmiddle">Home Solutions Overview</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/home-solutions/electric-vehicles">
+<span class="alignmiddle">Electric Vehicles</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-4 zeroleft paddingtop30">
+<div class="row paddingrt32">
+<div class="col-12">
+<picture>
+<source media="(min-width: 960px)" srcset="/en/Images/web_use-Vivint_SmartHub_Encino_330x182_tcm243-69982.jpg">
+<source media="(max-width: 959px)" srcset="">
+<img class="img-responsive" src=""/>
+</source></source></picture>
+</div>
+</div>
+</div>
+<div class="col-4 paddingtop30">
+<h4>Create a safer, more comfortable home</h4>
+<p class="description">Gain peace of mind with a custom home automation and security system from Vivint. NRG customers enjoy special savings and energy efficiency when they sign up with Vivint.</p>
+<a class="continuebutton" href="/home-solutions/vivint">
+<span class="alignmiddle">Explore Vivint</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-3 inlineblock1" style="text-align: center; margin: auto 0px;">
+<a class="dropdown-toggle hoverTextNew mrgnLft70abc" href="">Resource Center</a>
+<div class="dropdown-menu hidden">
+<div class="contentarea">
+<div class="row">
+<div class="col-4 zeroleft">
+<ul class="submenu">
+<!-- Sub Menu Items -- Pages -->
+<li>
+<a class="submenulink" href="/en/resource-center">
+<span class="alignmiddle">Resource Center Home</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/resource-center/category/energy-101">
+<span class="alignmiddle">Energy 101</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/resource-center/category/seasonal-energy-tips">
+<span class="alignmiddle">Seasonal Energy Tips</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/resource-center/category/solar-energy">
+<span class="alignmiddle">Solar Energy</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/resource-center/category/energy-efficiency-tips">
+<span class="alignmiddle">Energy Efficiency Tips</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/resource-center/category/electric-vehicles">
+<span class="alignmiddle">Electric Vehicles</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-4 zeroleft paddingtop30">
+<div class="row paddingrt32">
+<div class="col-12">
+<picture>
+<source media="(min-width: 960px)" srcset="/en/Images/resource-center-menu_tcm243-48321.jpg">
+<source media="(max-width: 959px)" srcset="">
+<img class="img-responsive" src=""/>
+</source></source></picture>
+</div>
+</div>
+</div>
+<div class="col-4 paddingtop30">
+<h4>NRG Resource Center</h4>
+<p class="description">Improve your energy savvy, get energy efficiency tips for your home and more in the NRG Home Resource Center.</p>
+<a class="continuebutton" href="/en/resource-center">
+<span class="alignmiddle">Learn More </span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-3 inlineblock1" style="text-align: center; margin: auto 0px;">
+<a class="dropdown-toggle hoverTextNew mrgnLft70abc" href="">Customer Care</a>
+<div class="dropdown-menu hidden">
+<div class="contentarea">
+<div class="row">
+<div class="col-4 zeroleft">
+<ul class="submenu">
+<!-- Sub Menu Items -- Pages -->
+<li>
+<a class="submenulink" href="/en/customer-care/contact-us">
+<span class="alignmiddle">Contact Us</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/customer-care/faqs">
+<span class="alignmiddle">FAQs</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/customer-care/my-nrg-online">
+<span class="alignmiddle">Online Account Management</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/customer-care/nrg-mobile-app">
+<span class="alignmiddle">My NRG App</span>
+</a>
+</li>
+<li>
+<a class="submenulink" href="/en/customer-care/referrals">
+<span class="alignmiddle">Refer a Friend</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-4 zeroleft paddingtop30">
+<div class="row paddingrt32">
+<div class="col-12">
+<picture>
+<source media="(min-width: 960px)" srcset="/en/Images/reading-by-flashlight_tcm243-12915.jpg">
+<source media="(max-width: 959px)" srcset="">
+<img class="img-responsive" src=""/>
+</source></source></picture>
+</div>
+</div>
+</div>
+<div class="col-4 paddingtop30">
+<h4>Need to report an outage?</h4>
+<p class="description">
+<span xmlns="http://www.w3.org/1999/xhtml">Contact your local utility in the event of an outage, leak, service interruption or other emergency.</span>
+</p>
+<a class="continuebutton" href="/en/customer-care/report-an-outage">
+<span class="alignmiddle">Learn More</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="globalShowNowDpDiv1">
+<button class="col-6-sm inlineblock width100mobile continuebutton headerDsktpShopNowBtn" style="max-width: 100% !important; display: none;" type="button">
+<span class="alignmiddle">Shop now</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 hidden-bm zerotop zerobottom zeroleft zeroright navbarwithlogo">
+<div class="row">
+<!--  HeaderMobileLinksEntity Start -->
+<div class="col-61-sm">
+<a class="logoNRG" href="/en/">
+<img class="img-responsive" src="/system/assets/img/logo.png" width="70"/>
+</a>
+</div>
+<div class="col-61-sm right">
+<a class="mobile-menu-toggle collapsed floatright" href="javascript:;">
+<span class="closemenu">
+<span>Menu</span>
+</span> <span class="openmenu hidden hover"><span>Close</span></span>
+</a>
+</div>
+<!--  HeaderMobileLinksEntity End -->
+</div>
+<div class="mobileHeaderLogin top18pxLogInBtn">
+<a class="floatright loginHover" href="/en/oam">
+<span class="marginLeft6Login loginImage"></span>
+<div class="marginRight20 LoginBtnStyle hoverText mainNavBtnOpacity">Log In</div>
+</a>
+<div class="inlineblock floatright mrgnLeft40 loggedOutCallUs">
+<div class="row" prefix="s: http://schema.org/" typeof="s:Article">
+<div class="header-dropdown">
+<a class="floatright loginHover" id="pickNrgHeaderDropdownBtn1">
+<span class="marginLeft6Login contactUsImage"></span>
+<div class="marginRight20 LoginBtnStyle hoverText mainNavBtnOpacity">Call Us</div>
+</a>
+</div>
+<div id="modalWindowForOutage">
+<div class="contactus-blur" id="blur-it">
+<div class="contactusmodal" id="modalWindowForCustSupp">
+<div class="modalHead closeIconPadding">
+<div>
+<span class="whitetext left inlinedisplay outageHeader modelcontactus">Contact Us Today</span>
+<a class="floatright closeIcon ContactuscloseIcon" href="javascript:void(0)"><img alt="close icon" src="/system/assets/img/closeIcon.svg"/></a>
+</div>
+</div>
+<span>
+<div class="contactusModal">
+<div class="contactusHeader">Shopping for Energy?</div>
+<div class="contactusSubheader">Are you interested in signing up as a new customer? </div>
+<a href="tel:18553885276">Call: 1-855-388-5276</a>
+<div class="contactusHeader marginTop10">Are you a current customer?</div>
+<div class="contactusSubheader">Looking to renew, swap plans, transfer service, or have a question about your account?</div>
+<a href="tel:18444600309">Call: 1-844-460-0309</a></div>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row hidden mobilemenu">
+<ul class="submenu">
+<li class="dropdown hamburgerListLine">
+<div class="mobile-dropdown-toggle">
+<span><a class="initial submenutext" href="/en/electricity-and-gas">Electricity &amp; Gas</a></span>
+<span class="submenucollapsed submenuaction"></span>
+</div>
+<ul class="mobile-dropdown-menu hidden">
+<!-- Sub Menu Items -- Pages -->
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/electricity-and-gas">Electricity and Gas Plans Overview</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/electricity-and-gas/rewards-plans">Travel Rewards Plans</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/electricity-and-gas/cash-back-plans">Cash Back Plans</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/electricity-and-gas/choose-to-give">Charitable Giving Plans</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/electricity-and-gas/renewable-electricity-plans">Renewable Energy Plans</a>
+</li>
+</ul>
+</li>
+<li class="dropdown hamburgerListLine">
+<div class="mobile-dropdown-toggle">
+<span><a class="initial submenutext" href="/en/home-solutions">Home Solutions</a></span>
+<span class="submenucollapsed submenuaction"></span>
+</div>
+<ul class="mobile-dropdown-menu hidden">
+<!-- Sub Menu Items -- Pages -->
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/home-solutions">Home Solutions Overview</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/home-solutions/electric-vehicles">Electric Vehicles</a>
+</li>
+</ul>
+</li>
+<li class="dropdown hamburgerListLine">
+<div class="mobile-dropdown-toggle">
+<span><a class="initial submenutext" href="/en/resource-center">Resource Center</a></span>
+<span class="submenucollapsed submenuaction"></span>
+</div>
+<ul class="mobile-dropdown-menu hidden">
+<!-- Sub Menu Items -- Pages -->
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/resource-center">Resource Center Home</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/resource-center/category/energy-101">Energy 101</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/resource-center/category/seasonal-energy-tips">Seasonal Energy Tips</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/resource-center/category/solar-energy">Solar Energy</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/resource-center/category/energy-efficiency-tips">Energy Efficiency Tips</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/resource-center/category/electric-vehicles">Electric Vehicles</a>
+</li>
+</ul>
+</li>
+<li class="dropdown hamburgerListLine">
+<div class="mobile-dropdown-toggle">
+<span><a class="initial submenutext" href="/en/customer-care">Customer Care</a></span>
+<span class="submenucollapsed submenuaction"></span>
+</div>
+<ul class="mobile-dropdown-menu hidden">
+<!-- Sub Menu Items -- Pages -->
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/customer-care/contact-us">Contact Us</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/customer-care/faqs">FAQs</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/customer-care/my-nrg-online">Online Account Management</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/customer-care/nrg-mobile-app">My NRG App</a>
+</li>
+<li class="subdropdown hamburgerListLine">
+<a class="initial submenutext" href="/en/customer-care/referrals">Refer a Friend</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="submenu">
+<li class="dropdown hamburgerListLine">
+<button class="width100mobile continuebutton" style="margin-top: 0px !important; min-width: 100% !important;" type="button">
+<span class="alignmiddle">Shop Now</span>
+</button>
+</li>
+</ul>
+</div>
+<div resource="Main" typeof="Region">
+<!-- REX RAN THIS -->
+<!-- Error codes are being set in the request object -->
+<!-- Error codes are now set in the request object -->
+</div>
+<div class="row">
+<div class="margnTp10 hidden-sm" id="loginContainer">
+<a class="loginHover" href="/en/oam">
+<div class="floatright hoverText">Log In</div>
+<span class="floatright loginImage"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- UniqueTest  true -->
+<div class="row">
+<div resource="Main" typeof="Region">
+<form action="/en/electricity-and-gas/loadProductChart" id="productChartElectricity">
+</form>
+<form action="/en/electricity-and-gas/loadProductChart" id="productChartGas">
+</form>
+<form action="https://shop.picknrg.com/" id="submitProductChart" method="GET">
+<!-- URL Parameters from request or sessionStorage -->
+</form>
+<div class="full-container row">
+<div class="product-banner row">
+<div class="prodChartcontainer row signUpContainer">
+<div class="banner-text row">
+<p class="row signUpTextStyles">
+							Start earning rewards today.
+						</p>
+<p class="row allYouNeedStyles">
+							All you’ll need is your utility bill and we’ll take care of the rest.
+						</p>
+</div>
+</div>
+</div>
+<main>
+<div class="prodChartcontainer row bundlesContainer hidden">
+<div class="col-12 zipAndBundleMrgn">
+<div class="col-6 zipAndBundleWidth">
+<span class="font18">
+						Bundled plans for
+					</span> <span> <a class="submenulink paraEffra" href="javascript:ShowUpdateZipCode();"> <span class="commoditylinkcolor">08094</span>
+</a>
+</span>
+</div>
+</div>
+<div class="pc-plans-container col-12-sm fullwidth mobile-container">
+<ul class="plans-list sort-list-bundles static" id="bundleProductInfo">
+</ul>
+<div id="bundlesLoader">
+<img class="loader" src="/system/assets/img/loading.gif"/>
+</div>
+<div class="filter addContent font16 gmHideComments">
+<div class="col-12 zerotop zerobottom testimonialWidth">
+<div class="col-1-sm maxWidth25 zerotop zerobottom">
+<img alt="close icon" class="commentLeftMrgn floatleft" src="/system/assets/img/Icon awesome-quote-left.svg"/>
+</div>
+<div class="col-11-sm zerotop marginLft10 secondChildMrgn paraEffra">
+<p>Anyone I have ever talked with at NRG has always been pleasant and very helpful. I also really enjoy the cash back options you have with the plans.</p>
+<p>A.S. | Pennsylvania</p>
+</div>
+</div>
+<div class="col-12 zerotop zerobottom testimonialWidth">
+<div class="col-1-sm maxWidth25 zerotop zerobottom">
+<img alt="close icon" class="commentLeftMrgn floatleft" src="/system/assets/img/Icon awesome-quote-left.svg"/>
+</div>
+<div class="col-11-sm zerotop marginLft10 secondChildMrgn paraEffra">
+<p>I am pleased with their professional and friendly staff. I highly recommend that homeowners give them an opportunity to provide service to their home.</p>
+<p>B.I. | Illinois</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="prodChartcontainer row orgProductChartContainer hidden" style="display: block;">
+<div class="tabs-container row">
+<div class="row tabs-list singlePlanTab">
+<div class="col-62-sm tab width48Tabs deactivate" data-tab="electricy-plans" footer-plan="gas-plans" id="electUtilTab">
+<div class="tab-details electricy-tab">
+<!-- <img src="/system/assets/img/product_chart/lightbolb.png" width="75px" height="75px"
+								class="floatLeft desktop" />
+							<img src="/system/assets/img/product_chart/lightbolb.png" width="42px" height="42px"
+								class="floatLeft mobile" /> -->
+<div class="tabtext paraEffraLight">
+<div class="tabtextContainer tabTextCtr">
+<!-- <span class="tabplan">1:</span> -->
+<img class="utilityImg" src="/system/assets/img/electricity_pink_bulb.svg"/>
+<div class="tabTxtDiv">
+<span class="tabplan tabhead">
+											Electricity </span> <img class="checkmark" height="17px" src="/system/assets/img/product_chart/checkmark.png" width="17px"/>
+<!-- <img src="/system/assets/img/product_chart/down_arrow.svg"  class="downarrow" /> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-62-sm tab width48Tabs active singlePlan" data-tab="gas-plans" footer-plan="electricy-plans" id="gasUtilTab">
+<div class="tab-details gas-tab">
+<div class="tabtext paraEffraLight">
+<div class="tabtextContainer tabTextCtr">
+<!-- <span class="tabplan">2:</span> -->
+<img class="utilityImg" src="/system/assets/img/naturalgas_blue_water.svg"/>
+<div class="tabTxtDiv">
+<span class="tabplan tabhead">
+											Natural Gas </span> <img class="checkmark" height="17px" src="/system/assets/img/product_chart/checkmark.png" width="17px"/>
+</div>
+<!-- <img src="/system/assets/img/product_chart/down_arrow.svg"  class="downarrow" /> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row all-plans row electricy-plans">
+<div class="col-12 zipAndBundleMrgn">
+<div class="col-6 zipAndBundleWidth">
+<div class="utilityContentDiv">
+<img class="utilityImg" src="/system/assets/img/electricity_pink_bulb.svg"/>
+<div class="utilityContent">
+<span class="font18">
+										Electricity plans for
+									</span> <span> <a class="submenulink font18" href="javascript:ShowUpdateZipCode();"> <span class="commoditylinkcolor">08094</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="pc-plans-container col-12-sm fullwidth mobile-container">
+<div class="invalidCampaign" id="invalidCampaignElec">
+							Offer is invalid or unavailable in your area. See available plans below.
+						</div>
+<div class="invalidSubChannel" id="invalidSubChannelElec">
+<div class="ui-alert-main-container">
+<div class="ui-alert-banner ui-alert-container contentarea" id="pcui-alert-container">
+<div class="ui-alert-child width-100">
+<p>
+<span class="ui-alert-heading">General Message:</span> <span class="ui-alert-message"> gas plans are unavailable in your area. See available plans below.</span>
+</p>
+</div>
+<div class="ui-alert-child ui-alert-close">
+<img src="/system/assets/img/alert-closeX.svg"/>
+</div>
+</div>
+</div>
+</div>
+<ul class="plans-list sort-list static" id="electricProductInfo">
+</ul>
+<div id="electricityLoader">
+<img class="loader" src="/system/assets/img/loading.gif"/>
+</div>
+</div>
+</div>
+<div class="row all-plans row gas-plans active">
+<div class="col-12 zipAndBundleMrgn">
+<div class="col-6 zipAndBundleWidth">
+<div class="utilityContentDiv">
+<img class="utilityImg" src="/system/assets/img/naturalgas_blue_water.svg"/>
+<div class="utilityContent">
+<span class="font18">
+										Natural gas plans for
+									</span> <span> <a class="submenulink" href="javascript:ShowUpdateZipCode();"> <span class="commoditylinkcolor font18">08094</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="pc-plans-container sort-list col-12-sm fullwidth mobile-container">
+<div class="invalidCampaign" id="invalidCampaignGas">
+							Offer is invalid or unavailable in your area. See available plans below.
+						</div>
+<div class="invalidSubChannel" id="invalidSubChannelGas">
+<div class="ui-alert-main-container">
+<div class="ui-alert-banner ui-alert-container contentarea" id="pcui-alert-container">
+<div class="ui-alert-child width-100">
+<p>
+<span class="ui-alert-heading">General Message:</span> <span class="ui-alert-message"> gas plans are unavailable in your area. See available plans below.</span>
+</p>
+</div>
+<div class="ui-alert-child ui-alert-close">
+<img src="/system/assets/img/alert-closeX.svg"/>
+</div>
+</div>
+</div>
+</div>
+<ul class="plans-list" id="gasProductInfo"><li class="pc-planWidth gas-partnercode-aal sort-item pc-featuredPlan-bckgrnd gas-plan" data-position="0" style="display: inline-block;"><div class="commodity-wrapper"><div class="pc-partnerCode recommended aal pt-3 pc-rewards-recommended" data-priceterm="3" data-value="aal" style="display: none;">Recommended</div><div class="row pc-plan-container featuredPlan-background" data-partnercode="aal" data-priceterm="3" data-value="gas" id="g000000000027436"><div analyticscontractrates="88.0¢" analyticscontractterm="3" analyticsid="Product_g000000000027436" analyticsplanratetype="Variable" analyticsproductcancelreturnfee="0" analyticsproductcategory="" analyticsproductflags="" analyticsproductgridposition="1" analyticsproductincentive="" analyticsproductname=" Flex Plan with American Airlines AAdvantage Miles" analyticsproductprice="" analyticsproductsku="g000000000027436" analyticsproducttype="GAS PLAN" analyticsvalue="g000000000027436" class="analyticsProductGrid analyticsProduct" style="display: none;"></div><div class="row pc-plan-details avgpriceval-ad" data-value="88.00"><div class="moreInfoDetails row termvalue" data-value="3" style="height: 309.844px;"><span class="pc-cancellation-fee hidden" data-value="0"></span><span class="pc-product-slug hidden" data-value="aal_2mon_2500_bonus_2pcnt_earn_gas_corporate"></span><span class="plan-name hidden" data-value="Travel Rewards"></span><span class="hidden pc-termsOfServiceType" data-value="variable"></span><span class="hidden pc-stateSlug" data-value="nj"></span><span class="hidden ratetype" data-value="Variable"></span><span class="hidden pc-freePlan" data-value="false"></span><span class="hidden pc-units" data-value="Thm"></span><div class="col-12 pc-plan-type zerotop pc-featuredPlan" data-value="Featured Plan">Featured Plan</div><div class="col-12 selectPlanBtnHeight pc-plan-name">Flex Plan with American Airlines AAdvantage Miles</div><div class="col-12 hidden selectPlanBtnHeight pc-plan-deatilsinfo font20 paraEffraLight lineHeight115"></div><div class="hidden pc-plan-term" data-value="3">3-month intro price - Month-to-month plan</div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop pc-plan-rate-right height95 centerAlign pc-plan-rate web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign off-peak-rate-true" data-offpeak="undefined" data-onpeak="undefined"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">On-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">Off-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn gas-select fullwidth margnbtm25" data-value="g000000000027436" type="button">Select plan</button><div class="col-12 displayFlex"><span analyticsid="ProductViewDetailLink_g000000000027436 " analyticsvalue="g000000000027436" class="moreInfoText showMoreInfoModal analyticsProductViewDetails" data-row="">More Info</span></div></div></div><div class="moreInfoModal hidden"><div class="blur-it"><div class="modal hide moreInfoModalWidth featuredPlan-background modalScrollMoreInfo"><div class="row"><div class="col-12 zerotop margnbtm35"><div class="floatleft pc-featuredPlan">Featured Plan</div><div><a class="floatright closeMoreInfoModal" href="javascript:closeMoreInfoModal()"><span class="font15 marginrgt5 verticalAlignTop">CLOSE</span><img alt="close icon" class="closeIconModal" src="/system/assets/img/grey_x.svg"/></a></div></div></div><div class="row"><div class="col-12-sm fullwidth maxWidth440 zerotop margnbtm50"><div class="row"><div class="col-12 margnbtm15 fullwidth zerotop moreInfoPlanName">Flex Plan with American Airlines AAdvantage Miles</div><div class="col-12 margnbtm35 fullwidth zerotop moreInfoPlanDesc"><ul class="whiteBullets"><li>2,500 American Airlines AAdvantage<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027436" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027436" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12-sm zerotop mrgnLft21OnlyD maxWidth250 fullwidth hideTabletPortrait"><div class="off-peak-rate-false"><div class="col-7-sm maxWidthRate marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRate zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRate zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn fullwidth margnTp35 margnbtm25" data-value="g000000000027436" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027436" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027436" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12 zerotop zerobottom fullwidth hideDesktopMobile"><div class="col-12 zerotop maxWidthRateTabletLeft fullwidth"><div class=""><div class="col-7-sm maxWidth122 marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidth122 zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidth122 zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div></div></div></div><div class="col-12 zerotop mrgnLft35 maxWidthRateTabletRight fullwidth"><button class="col-12 pc-selectBtn fullwidth zerotop margnbtm25" data-value="g000000000027436" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027436" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027436" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div></div></div></div></div></div></div></li><li class="pc-planWidth gas-partnercode-swa sort-item pc-featuredPlan-bckgrnd gas-plan" data-position="1" style="display: inline-block;"><div class="commodity-wrapper"><div class="pc-partnerCode recommended swa pt-3 pc-rewards-recommended" data-priceterm="3" data-value="swa" style="display: none;">Recommended</div><div class="row pc-plan-container featuredPlan-background" data-partnercode="swa" data-priceterm="3" data-value="gas" id="g000000000026698"><div analyticscontractrates="88.0¢" analyticscontractterm="3" analyticsid="Product_g000000000026698" analyticsplanratetype="Variable" analyticsproductcancelreturnfee="0" analyticsproductcategory="" analyticsproductflags="" analyticsproductgridposition="2" analyticsproductincentive="" analyticsproductname=" Flex Plan with Southwest Rapid Rewards Points" analyticsproductprice="" analyticsproductsku="g000000000026698" analyticsproducttype="GAS PLAN" analyticsvalue="g000000000026698" class="analyticsProductGrid analyticsProduct" style="display: none;"></div><div class="row pc-plan-details avgpriceval-ad" data-value="88.00"><div class="moreInfoDetails row termvalue" data-value="3" style="height: 309.844px;"><span class="pc-cancellation-fee hidden" data-value="0"></span><span class="pc-product-slug hidden" data-value="swa_2mon_2500_bonus_2pcnt_earn_gas_corporate"></span><span class="plan-name hidden" data-value="Travel Rewards"></span><span class="hidden pc-termsOfServiceType" data-value="variable"></span><span class="hidden pc-stateSlug" data-value="nj"></span><span class="hidden ratetype" data-value="Variable"></span><span class="hidden pc-freePlan" data-value="false"></span><span class="hidden pc-units" data-value="Thm"></span><div class="col-12 pc-plan-type zerotop pc-featuredPlan" data-value="Featured Plan">Featured Plan</div><div class="col-12 selectPlanBtnHeight pc-plan-name">Flex Plan with Southwest Rapid Rewards Points</div><div class="col-12 hidden selectPlanBtnHeight pc-plan-deatilsinfo font20 paraEffraLight lineHeight115"></div><div class="hidden pc-plan-term" data-value="3">3-month intro price - Month-to-month plan</div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop pc-plan-rate-right height95 centerAlign pc-plan-rate web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign off-peak-rate-true" data-offpeak="undefined" data-onpeak="undefined"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">On-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">Off-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn gas-select fullwidth margnbtm25" data-value="g000000000026698" type="button">Select plan</button><div class="col-12 displayFlex"><span analyticsid="ProductViewDetailLink_g000000000026698 " analyticsvalue="g000000000026698" class="moreInfoText showMoreInfoModal analyticsProductViewDetails" data-row="">More Info</span></div></div></div><div class="moreInfoModal hidden"><div class="blur-it"><div class="modal hide moreInfoModalWidth featuredPlan-background modalScrollMoreInfo"><div class="row"><div class="col-12 zerotop margnbtm35"><div class="floatleft pc-featuredPlan">Featured Plan</div><div><a class="floatright closeMoreInfoModal" href="javascript:closeMoreInfoModal()"><span class="font15 marginrgt5 verticalAlignTop">CLOSE</span><img alt="close icon" class="closeIconModal" src="/system/assets/img/grey_x.svg"/></a></div></div></div><div class="row"><div class="col-12-sm fullwidth maxWidth440 zerotop margnbtm50"><div class="row"><div class="col-12 margnbtm15 fullwidth zerotop moreInfoPlanName">Flex Plan with Southwest Rapid Rewards Points</div><div class="col-12 margnbtm35 fullwidth zerotop moreInfoPlanDesc"><ul class="whiteBullets"><li>2,500 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000026698" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000026698" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12-sm zerotop mrgnLft21OnlyD maxWidth250 fullwidth hideTabletPortrait"><div class="off-peak-rate-false"><div class="col-7-sm maxWidthRate marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRate zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRate zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn fullwidth margnTp35 margnbtm25" data-value="g000000000026698" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000026698" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000026698" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12 zerotop zerobottom fullwidth hideDesktopMobile"><div class="col-12 zerotop maxWidthRateTabletLeft fullwidth"><div class=""><div class="col-7-sm maxWidth122 marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidth122 zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidth122 zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div></div></div></div><div class="col-12 zerotop mrgnLft35 maxWidthRateTabletRight fullwidth"><button class="col-12 pc-selectBtn fullwidth zerotop margnbtm25" data-value="g000000000026698" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000026698" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000026698" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div></div></div></div></div></div></div></li><li class="pc-planWidth gas-partnercode-ual sort-item pc-featuredPlan-bckgrnd gas-plan" data-position="2" style="display: inline-block;"><div class="commodity-wrapper"><div class="pc-partnerCode recommended ual pt-3 pc-rewards-recommended" data-priceterm="3" data-value="ual" style="display: none;">Recommended</div><div class="row pc-plan-container featuredPlan-background" data-partnercode="ual" data-priceterm="3" data-value="gas" id="g000000000027018"><div analyticscontractrates="88.0¢" analyticscontractterm="3" analyticsid="Product_g000000000027018" analyticsplanratetype="Variable" analyticsproductcancelreturnfee="0" analyticsproductcategory="" analyticsproductflags="" analyticsproductgridposition="3" analyticsproductincentive="" analyticsproductname=" Flex Plan with United MileagePlus Miles" analyticsproductprice="" analyticsproductsku="g000000000027018" analyticsproducttype="GAS PLAN" analyticsvalue="g000000000027018" class="analyticsProductGrid analyticsProduct" style="display: none;"></div><div class="row pc-plan-details avgpriceval-ad" data-value="88.00"><div class="moreInfoDetails row termvalue" data-value="3" style="height: 309.844px;"><span class="pc-cancellation-fee hidden" data-value="0"></span><span class="pc-product-slug hidden" data-value="ual_2mon_2500_bonus_2pcnt_earn_gas_corporate"></span><span class="plan-name hidden" data-value="Travel Rewards"></span><span class="hidden pc-termsOfServiceType" data-value="variable"></span><span class="hidden pc-stateSlug" data-value="nj"></span><span class="hidden ratetype" data-value="Variable"></span><span class="hidden pc-freePlan" data-value="false"></span><span class="hidden pc-units" data-value="Thm"></span><div class="col-12 pc-plan-type zerotop pc-featuredPlan" data-value="Featured Plan">Featured Plan</div><div class="col-12 selectPlanBtnHeight pc-plan-name">Flex Plan with United MileagePlus Miles</div><div class="col-12 hidden selectPlanBtnHeight pc-plan-deatilsinfo font20 paraEffraLight lineHeight115"></div><div class="hidden pc-plan-term" data-value="3">3-month intro price - Month-to-month plan</div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop pc-plan-rate-right height95 centerAlign pc-plan-rate web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign off-peak-rate-true" data-offpeak="undefined" data-onpeak="undefined"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">On-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">Off-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn gas-select fullwidth margnbtm25" data-value="g000000000027018" type="button">Select plan</button><div class="col-12 displayFlex"><span analyticsid="ProductViewDetailLink_g000000000027018 " analyticsvalue="g000000000027018" class="moreInfoText showMoreInfoModal analyticsProductViewDetails" data-row="">More Info</span></div></div></div><div class="moreInfoModal hidden"><div class="blur-it"><div class="modal hide moreInfoModalWidth featuredPlan-background modalScrollMoreInfo"><div class="row"><div class="col-12 zerotop margnbtm35"><div class="floatleft pc-featuredPlan">Featured Plan</div><div><a class="floatright closeMoreInfoModal" href="javascript:closeMoreInfoModal()"><span class="font15 marginrgt5 verticalAlignTop">CLOSE</span><img alt="close icon" class="closeIconModal" src="/system/assets/img/grey_x.svg"/></a></div></div></div><div class="row"><div class="col-12-sm fullwidth maxWidth440 zerotop margnbtm50"><div class="row"><div class="col-12 margnbtm15 fullwidth zerotop moreInfoPlanName">Flex Plan with United MileagePlus Miles</div><div class="col-12 margnbtm35 fullwidth zerotop moreInfoPlanDesc"><ul class="whiteBullets"><li>2,500 MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027018" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027018" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12-sm zerotop mrgnLft21OnlyD maxWidth250 fullwidth hideTabletPortrait"><div class="off-peak-rate-false"><div class="col-7-sm maxWidthRate marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRate zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRate zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn fullwidth margnTp35 margnbtm25" data-value="g000000000027018" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027018" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027018" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12 zerotop zerobottom fullwidth hideDesktopMobile"><div class="col-12 zerotop maxWidthRateTabletLeft fullwidth"><div class=""><div class="col-7-sm maxWidth122 marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidth122 zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidth122 zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div></div></div></div><div class="col-12 zerotop mrgnLft35 maxWidthRateTabletRight fullwidth"><button class="col-12 pc-selectBtn fullwidth zerotop margnbtm25" data-value="g000000000027018" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027018" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027018" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div></div></div></div></div></div></div></li><li class="pc-planWidth gas-partnercode-csb sort-item pc-featured-bckgrnd gas-plan" data-position="3" style="display: inline-block;"><div class="commodity-wrapper"><div class="pc-partnerCode recommended csb pt-3 pc-featured-recommended" data-priceterm="3" data-value="csb" style="display: none;">Recommended</div><div class="row pc-plan-container featured-background" data-partnercode="csb" data-priceterm="3" data-value="gas" id="g000000000027047"><div analyticscontractrates="88.0¢" analyticscontractterm="3" analyticsid="Product_g000000000027047" analyticsplanratetype="Variable" analyticsproductcancelreturnfee="0" analyticsproductcategory="" analyticsproductflags="" analyticsproductgridposition="4" analyticsproductincentive="" analyticsproductname=" Flex Plan with Cash Back" analyticsproductprice="" analyticsproductsku="g000000000027047" analyticsproducttype="GAS PLAN" analyticsvalue="g000000000027047" class="analyticsProductGrid analyticsProduct" style="display: none;"></div><div class="row pc-plan-details avgpriceval-ad" data-value="88.00"><div class="moreInfoDetails row termvalue" data-value="3" style="height: 309.844px;"><span class="pc-cancellation-fee hidden" data-value="0"></span><span class="pc-product-slug hidden" data-value="affiliate_cashback_15_bonus_3m_gas"></span><span class="plan-name hidden" data-value="Cash Back"></span><span class="hidden pc-termsOfServiceType" data-value="variable"></span><span class="hidden pc-stateSlug" data-value="nj"></span><span class="hidden ratetype" data-value="Variable"></span><span class="hidden pc-freePlan" data-value="false"></span><span class="hidden pc-units" data-value="Thm"></span><div class="col-12 pc-plan-type zerotop pc-featured" data-value="Cash Back">Cash Back</div><div class="col-12 selectPlanBtnHeight pc-plan-name">Flex Plan with Cash Back</div><div class="col-12 hidden selectPlanBtnHeight pc-plan-deatilsinfo font20 paraEffraLight lineHeight115"></div><div class="hidden pc-plan-term" data-value="3">3-month intro price - Month-to-month plan</div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop pc-plan-rate-right height95 centerAlign pc-plan-rate web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRateUnbundle marginrgt5 zerotop height95 centerAlign off-peak-rate-true" data-offpeak="undefined" data-onpeak="undefined"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">On-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down" data-value="undefined"><div class="col-12 zerobottom planTermTypeTextRight">Off-Peak Hours</div><div class="col-12 zerotop zerobottom planTermTypeTextRight"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn gas-select fullwidth margnbtm25" data-value="g000000000027047" type="button">Select plan</button><div class="col-12 displayFlex"><span analyticsid="ProductViewDetailLink_g000000000027047 " analyticsvalue="g000000000027047" class="moreInfoText showMoreInfoModal analyticsProductViewDetails" data-row="">More Info</span></div></div></div><div class="moreInfoModal hidden"><div class="blur-it"><div class="modal hide moreInfoModalWidth featured-background modalScrollMoreInfo"><div class="row"><div class="col-12 zerotop margnbtm35"><div class="floatleft pc-featured">Cash Back</div><div><a class="floatright closeMoreInfoModal" href="javascript:closeMoreInfoModal()"><span class="font15 marginrgt5 verticalAlignTop">CLOSE</span><img alt="close icon" class="closeIconModal" src="/system/assets/img/grey_x.svg"/></a></div></div></div><div class="row"><div class="col-12-sm fullwidth maxWidth440 zerotop margnbtm50"><div class="row"><div class="col-12 margnbtm15 fullwidth zerotop moreInfoPlanName">Flex Plan with Cash Back</div><div class="col-12 margnbtm35 fullwidth zerotop moreInfoPlanDesc"><p>● $15 cashback after 3 months of electricity service
+<br/>
+● 1% ongoing annually
+<br/>
+● Intro pricing for 3 months</p></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027047" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletPortrait hidden-sm"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027047" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12-sm zerotop mrgnLft21OnlyD maxWidth250 fullwidth hideTabletPortrait"><div class="off-peak-rate-false"><div class="col-7-sm maxWidthRate marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidthRate zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidthRate zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span> per Thm</div></div></div><button class="col-12 pc-selectBtn fullwidth margnTp35 margnbtm25" data-value="g000000000027047" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027047" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs hideTabletDesktop"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027047" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div><div class="col-12 zerotop zerobottom fullwidth hideDesktopMobile"><div class="col-12 zerotop maxWidthRateTabletLeft fullwidth"><div class=""><div class="col-7-sm maxWidth122 marginrgt5 zerotop height95 centerAlign pc-plan-rate"><div class="col-12 planTermText zerotop zerobottom">3 month intro price </div><div class="col-12 planTermTypeText zerotop zerobottom"> Month-to-month plan</div></div><div class="col-7-sm maxWidth122 zerotop height95 pc-plan-rate-right centerAlign web-display-date-false"><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font26" data-value="88.00">88.0¢</div><div class="col-12 zerotop zerobottom lineHeight1 displayFlex price font14 paraEffraLight" data-value="88.00">per Thm</div></div><div class="col-7-sm maxWidth122 zerotop height95 centerAlign off-peak-rate-true"><div class="row minHeight45 planTermTypeText pc-plan-rate-right-up"><div class="col-12 marginTop5 zerobottom">On-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div><div class="row minHeight45 planTermTypeText marginTop5 pc-plan-rate-right-down"><div class="col-12 zerobottom">Off-Peak Hours</div><div class="col-12 zerotop zerobottom"><span class="labelFont"></span>per Thm</div></div></div></div></div><div class="col-12 zerotop mrgnLft35 maxWidthRateTabletRight fullwidth"><button class="col-12 pc-selectBtn fullwidth zerotop margnbtm25" data-value="g000000000027047" type="button">Select plan</button><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/public/getOfferDocumentByFormat?format=pdf&amp;sku=g000000000027047" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Offer Details</span></a></div><div class="col-12 fullwidth zerotop moreInfoDocs"><a class="onlyDisFlex" href="/en/getLegalDocument?format=pdf&amp;docType=tos&amp;sku=g000000000027047" target="_blank"><img alt="pdf icon" class="pdfIcon" src="/system/assets/img/moreInfo_pdf.svg"/><span class="verticalAlignTop">Third Party Supplier Contract Summary and Terms of Service</span></a></div></div></div></div></div></div></div></div></div></li></ul>
+<hr class="hrline hidden-bm displayTablets"/>
+<div id="gasLoader" style="display: none;">
+<img class="loader" src="/system/assets/img/loading.gif"/>
+</div>
+</div>
+</div>
+<div class="proceedToCheckOutWrapper hidden" id="proceedBtnWrapperID" style="display: none;">
+<button class="picknrgsecondarybutton proceedtocheckoutbutton" id="submitProductChartButton" type="button">
+<span> Proceed to checkout
+						</span>
+</button>
+</div>
+<div class="filter addContent font16 gmHideComments margnTp50">
+<div class="col-12 zerotop zerobottom testimonialWidth">
+<div class="col-1-sm maxWidth25 zerotop zerobottom">
+<img alt="close icon" class="commentLeftMrgn floatleft" src="/system/assets/img/Icon awesome-quote-left.svg"/>
+</div>
+<div class="col-11-sm zerotop marginLft10 secondChildMrgn paraEffra">
+<p>Anyone I have ever talked with at NRG has always been pleasant and very helpful. I also really enjoy the cash back options you have with the plans.</p>
+<p>A.S. | Pennsylvania</p>
+</div>
+</div>
+<div class="col-12 zerotop zerobottom testimonialWidth">
+<div class="col-1-sm maxWidth25 zerotop zerobottom">
+<img alt="close icon" class="commentLeftMrgn floatleft" src="/system/assets/img/Icon awesome-quote-left.svg"/>
+</div>
+<div class="col-11-sm zerotop marginLft10 secondChildMrgn paraEffra">
+<p>I am pleased with their professional and friendly staff. I highly recommend that homeowners give them an opportunity to provide service to their home.</p>
+<p>B.I. | Illinois</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+<div class="hidden" id="productChartModal">
+<div class="blur-it">
+<div class="modal hide">
+<div class="modalHeadOAM row">
+<div class="col-12 closeIcon">
+<div>
+<a class="floatright closeproductChartModal mrgnRgt25" href="javascript:void(0)"><img alt="close icon" src="/system/assets/img/closeIcon.svg"/></a>
+</div>
+</div>
+</div>
+<div class="padding35" id="showViewGas">
+<div class="row">
+<div class="col-12 zerotop zerobottom center h4ZeroBtm">
+<h4 class="font-regular">
+							Would you like to view a natural gas plan to complement your electric plan.
+						</h4>
+</div>
+</div>
+<div class="row">
+<div class="col-12 center margnTp35 zerobottom">
+<div class="row spaceAround">
+<div class="col-6 spaceAround">
+<button class="col-6-sm yesNomarginOnlyMobile picknrgsecondarybutton btnW169H50" id="noBtnProdChartModal" type="button">
+<span class="alignmiddle noBtnColorText">No</span>
+</button>
+</div>
+<div class="col-6 spaceAround">
+<button class="col-6-sm picknrgbluebutton btnW169H50" id="showGasPlans" type="button">
+<span class="whiteColorText alignmiddle">Yes</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--================End of Header Menu Area =================-->
+<!-- Start Component Presentation: {"ComponentModified":"2017-1-01T00:00:00","ComponentID":"tcm:243-17740","IsRepositoryPublished":false} -->
+<!--================End of Header Menu Area =================-->
+<link href="/system/assets/css/redesignPC.css" rel="stylesheet"/>
+</div>
+</div>
+<div class="row">
+<div class="col-12 hidden-bm margnbtm15">
+<div>
+<div class="hidden-bm" prefix="s: http://schema.org/" typeof="s:Article">
+<div class="row textalignCenter">
+<img class="backToTop" height="24" src="/system/assets/img/backtop.png" width="24"/>
+</div>
+<div class="row textalignCenter">
+<span class="backToTop">Back To Top</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 fullwidth bgFooter zerotop zerobottom">
+<div class="contentareaFooter">
+<div class="col-12 oamFooterTopMrgn zeroleft zeroright margnbtm40 paddingLeftRight20">
+<div class="row">
+<div class="col-2-sm zeroleft zeroright">
+<div>
+<a class="logoNRGFooter" href="/en/">
+<img class="footerLogo" src="/en/Images/NRG_Logo_footer_tcm243-60101.svg"/>
+</a>
+</div>
+</div>
+<div class="col-10-sm mrgnLft5Per marginTop15 zeroleft zeroright">
+<div class="oamFooterSocialLinks">
+<div class="zeroleft zeroright mrgnRgt15">
+<a class="oamIcons" href="https://www.facebook.com/pickNRG/" target="_blank">
+<span class="socialicon facebook"></span>
+</a>
+</div>
+<div class="zeroleft zeroright mrgnRgt15">
+<a class="oamIcons" href="https://x.com/picknrg" target="_blank">
+<span class="socialicon twitter"></span>
+</a>
+</div>
+<div class="zeroleft zeroright mrgnRgt15">
+<a class="oamIcons" href="https://www.instagram.com/pick_nrg/" target="_blank">
+<span class="socialicon instagram"></span>
+</a>
+</div>
+<div class="zeroleft zeroright mrgnRgt15">
+<a class="oamIcons" href="https://www.youtube.com/channel/UCUu4pea8w7mM842-5_8z8CA" target="_blank">
+<span class="socialicon youtube"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-9 zerotop zerobottom zeroleft zeroright paddingLeftRight20">
+<div class="row">
+<div class="col-12 zeroleft zeroright">
+<ul class="col-4 footer-nav-oam zerotop zerobottom zeroleft">
+<div>
+<h5>
+<span class="hidden-sm">
+			About NRG
+		</span>
+<span class="hidden-bm hideBrdrOnClick brdrOnlyMob">
+<span class="submenutextOAM font20">About NRG</span>
+<span class="submenucollapsed submenuaction"></span>
+</span>
+</h5>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/about-nrg/who-we-are">Who We Are</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/about-nrg/community">Community</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/about-nrg/newsroom">Newsroom</a>
+</li>
+</div>
+</ul>
+<ul class="col-4 footer-nav-oam zerotop zerobottom zeroleft">
+<div>
+<h5>
+<span class="hidden-sm">
+			Legal
+		</span>
+<span class="hidden-bm hideBrdrOnClick brdrOnlyMob">
+<span class="submenutextOAM font20">Legal</span>
+<span class="submenucollapsed submenuaction"></span>
+</span>
+</h5>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/legal/privacy-rights-and-requests">Privacy Rights and Requests</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/legal/terms_of_use">Terms of Use</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/legal/State_information">State Information</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/legal/State_information">Past Variable Rates</a>
+</li>
+</div>
+</ul>
+<ul class="col-4 footer-nav-oam zerotop zerobottom zeroleft">
+<div>
+<h5>
+<span class="hidden-sm">
+			Customer Care
+		</span>
+<span class="hidden-bm hideBrdrOnClick brdrOnlyMob">
+<span class="submenutextOAM font20">Customer Care</span>
+<span class="submenucollapsed submenuaction"></span>
+</span>
+</h5>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/customer-care/faqs">Frequently Asked Questions</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/customer-care/contact-us">Contact Us</a>
+</li>
+<li class="dropDownList subdropdown hamburgerListLine hidden-sm">
+<a class="initial smalltitle submenutext hidden-sm" href="/en/customer-care/report-an-outage">Report an Outage</a>
+</li>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-3 right hidden-sm mrgnRgt15 margnbtm80" style="float: right;">
+<div class="row">
+<div>
+<div class="col-12 zerotop margnbtm20 zeroleft zeroright">
+<a href="https://apps.apple.com/us/app/my-nrg/id1368055499" target="_blank">
+<img alt="apple badge" class="NoScale" src="/en/Images/app-store_tcm243-57273.svg" title="apple badge"/>
+</a>
+</div>
+<div class="col-12 zerotop zerobottom zeroleft zeroright">
+<a href="https://play.google.com/store/apps/details?id=com.nrg.northeast&amp%3Bamp%3Bamp%3Bhl=en" target="_blank">
+<img alt="google badge" class="NoScale" src="/en/Images/google_playStore_tcm243-57274.svg" title="google badge"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 marginTopNeg1 fullwidth bgFooter zerobottom hidden-bm">
+<div class="contentareaFooter">
+<div class="col-12 zeroleft zeroright">
+<div>
+<div class="col-12 margnTp55 margnbtm35 zeroleft zeroright">
+<a class="inlineblock mrgnLeftRgt20" href="https://apps.apple.com/us/app/my-nrg/id1368055499" target="_blank">
+<img alt="apple badge" class="NoScale" src="/en/Images/app-store_tcm243-57273.svg" title="apple badge"/>
+</a>
+<a class="inlineblock" href="https://play.google.com/store/apps/details?id=com.nrg.northeast&amp%3Bamp%3Bamp%3Bhl=en" target="_blank">
+<img alt="google badge" class="NoScale" src="/en/Images/google_playStore_tcm243-57274.svg" title="google badge"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 zerotop fullwidth footerCopyBg zerobottom">
+<div class="contentareaFooter">
+<div class="col-12 zeroleft zeroright oamCopyright">
+<div>
+<div prefix="s: http://schema.org/" typeof="s:Article">
+<div class="copyrights-text">
+<p>Energy supply provided by Reliant Energy Northeast LLC, a subsidiary of NRG Energy, Inc.
+<br/>
+©2026 NRG Energy, Inc. All rights reserved.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<link href="/system/assets/css/chat.css" rel="stylesheet"/>
+<div data-chat-available="false" data-chat-detail="1-5-8-18--5-1" data-chat-guide="10de3887-be62-4643-9af6-27ece4f519f9" id="chatGuide"></div>
+<p class="langCodeVal" style="display: none">en</p>
+</div>
+</div>
+<!-- Modal Window: Start -->
+<!-- Modal Window: End -->
+<!-- <form id="userInfo" name="userInfo" method="post" action="">
+
+</form> -->
+<!--  <link rel="stylesheet" type="text/css" href="/system/assets/js/jqueryui/jqueryui_1.8.11/css/excite-bike/jquery-ui-1.8.11.custom.css"/> -->
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.min.css" rel="stylesheet"/>
+<link href="/system/assets/js/plugins/validation/validationEngine.jquery.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<div class="modalWindow commodityModalWindow" id="commodityModalWindow" style="display:none;">
+<div class="blur-it">
+<div class="modal hide">
+<div class="modalHead row">
+<div class="col-12 landingPageHeader hidden paddingLeft35">
+					Serving ZIP Code <a href="javascript:updateZipModal()">%%zipcode%%</a>
+<img alt="edit icon" class="marginLft10" src="/system/assets/img/Icon awesome-edit.svg" style="cursor: pointer;"/>
+</div>
+</div>
+<div class="padding35 modalScroll commodityContainer">
+<div class="hidden" id="showCommLoadingImage">
+<div class="col-12 center marginTop10">
+<img class="loadingImage" src="/system/assets/img/loading.gif"/>
+</div>
+</div>
+<div class="util marginTop0 effraLight">
+<p>
+						What Service(s) are you shopping for today?
+					</p>
+</div>
+<div class="util">
+<label class="checkBoxContainer">
+<img class="elecChecked" src="/system/assets/img/electricity30x30pink.svg"/>
+<span class="moreCheckboxContent tosAuthDetails font17">
+							Electricity
+						</span>
+<input class="commodityCheckBox" id="elecCheckBox" name="commoditySelector" type="checkbox"/>
+<span class="checkmark"></span>
+</label>
+</div>
+<div class="util">
+<label class="checkBoxContainer">
+<img class="gasChecked" src="/system/assets/img/naturalgas.svg"/>
+<span class="moreCheckboxContent tosAuthDetails font17">
+							Natural Gas
+						</span>
+<input class="commodityCheckBox" id="gasCheckBox" name="commoditySelector" type="checkbox"/>
+<span class="checkmark"></span>
+</label>
+</div>
+<div class="util">
+<div class="row displayFlex">
+<button class="col-6-sm continuebutton" disabled="" id="goToutilityModal" type="button">
+<span>
+								Continue         	
+						  </span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modalWindow" id="modalWindow" style="display:none;">
+<div class="blur-it">
+<div class="modal hide">
+<form action="/submitZipcodeReDir" id="submitZipcode" method="post">
+</form>
+<div class="modalHead row">
+<div class="col-12 closeIcon regularCloseIcon">
+<div>
+<a class="backToZipModal left" href="javascript:void(0)"><img alt="back icon" class="rotate180Deg marginNeg12px" src="/system/assets/img/arrow_white.png"/></a>
+<span class="backToZipModal whitetext left inlinedisplay">Back</span>
+<span class="font26 updateZipPageHeader whitetext left inlinedisplay marginLft20 effraLight" style="display:block">Update ZIP Code</span>
+<a class="floatright mrgnRgt25" href="javascript:void(0)" id="closeModal"><img alt="close icon" src="/system/assets/img/closeIcon.svg"/></a>
+</div>
+</div>
+<div class="col-12 landingPageHeader hidden paddingLeft35">
+					Multiple utilities service ZIP Code <a href="javascript:updateZipModal()">%%zipcode%%</a>
+<img alt="edit icon" class="marginLft10" src="/system/assets/img/Icon awesome-edit.svg" style="cursor: pointer;"/>
+</div>
+</div>
+<div class="padding35 modalScroll">
+<div class="row" id="zookeeperContent"></div>
+<div class="row" id="showZipcodeMsgAndInputBox">
+<div class="col-12 zerotop zerobottom center h4ZeroBtm">
+<!-- <h4 class="font-regular">
+						Enter your zip code to find offers in your area.
+					</h4> -->
+</div>
+<div class="row displayFlex">
+<form class="form-inline bannerForm txShopperbtn">
+<!-- <div class="col-6 aboveZipTextProdChart">ZIP CODE</div>  -->
+<input class="col-6 zerobottom form-control zipcode" id="zipModal" maxlength="5" name="zipModal" placeholder="Zip code" type="tel"/>
+<div class="col-6 errorElecGasModalZip">Please enter a valid zip code</div>
+<button class="col-6 zerobottom continuebutton inlineblock mrgnTop35Onlym" type="button"><span class='\"alignmiddle\"'>Shop plans</span></button>
+</form>
+</div>
+</div>
+<div class="row hidden" id="showZipcodeUpdate">
+<div class="row displayFlex">
+<form class="form-inline bannerForm txShopperbtn">
+<div class="col-6 aboveZipTextProdChart">ZIP CODE</div>
+<input style="display: none;" type="text"/>
+<input class="col-6 margnTp35 zerobottom form-control zipcode" id="zipUpadateModal" maxlength="5" name="zipUpadateModal" placeholder="Enter your Zip Code" type="tel"/>
+<div class="col-6 errorLpElecGasModalZip">Please enter a valid zip code</div>
+<button class="col-6 margnTp35 zerobottom continuebutton inlineblock" type="button"><span class="alignmiddle">Update</span></button>
+</form>
+</div>
+</div>
+<div id="showLoadingImage">
+<div class="col-12 center marginTop10">
+<img class="loadingImage" src="/system/assets/img/loading.gif"/>
+</div>
+</div>
+<div>
+<div class="col-12 utilityModalTxt hidepopLabel multiElectricSingleGas elec" id="multiElectricSingleGas">
+<p>
+						Please select your electric utility:
+					</p>
+</div>
+</div>
+<div>
+<div class="col-12 utilityModalTxt hidepopLabel multiElectricMultiGas elec" id="multiElectricUtilityMultiGas">
+<p>
+						Please select your electric utility:
+					</p>
+</div>
+</div>
+<div>
+<div class="col-12 utilityModalTxt hidepopLabel multiElectric elec" id="multiElectric">
+<p>
+						Please select your electric utility:
+					</p>
+</div>
+</div>
+<div>
+<div class="errorMsg col-12 center utilityModalTxt hidepopLabel" id="showErrormsg">
+<p>
+						Please select at least one utility provider.
+					</p>
+</div>
+</div>
+<!--  ------------------ Start -------------------- -->
+<div class="top10btmmargin35 paddingBtm35 hidden" id="showelectric">
+</div>
+<!--  -------------------------------------- -->
+<div>
+<div class="col-12 margnTp35 utilityModalTxt hidepopLabel singleElectricMultiGas gas" id="singleElectricMultiGas">
+<p>
+						Please select your natural gas utility:
+					</p>
+</div>
+</div>
+<div>
+<div class="col-12 margnTp35 utilityModalTxt hidepopLabel multiElectricMultiGas gas" id="multiElectricMultiGasUtility">
+<p>
+						Please select your natural gas utility:
+					</p>
+</div>
+</div>
+<div>
+<div class="col-12 utilityModalTxt hidepopLabel multiGas gas" id="multiGas">
+<p>
+						Please select your natural gas utility:
+					</p>
+</div>
+</div>
+<div>
+<div class="errorMsg col-12 center utilityModalTxt hidepopLabel" id="isShowGasErrorMsg">
+<p>
+						Please select a gas utility options
+					</p>
+</div>
+</div>
+<div class="marginTop10" id="showgas">
+</div>
+<div class="" id="cenDocument">
+</div>
+<!-- --------- end -------------- -->
+<div id="showContinue">
+<div class="padlf36 secBtnMrgn displayFlex utilityModalBtn row">
+<button class="col-6-sm picknrgsecondarybutton inlineblock carbonBtn hidden maxW300 mrgnTopZeroMobile" id="goBackToComodityModal" type="button">
+<span>
+							Previous Step         	
+					  	</span>
+</button>
+<button class="col-6-sm continuebutton hidepopLabel maxW300" disabled="" id="goToProductChart" type="button">
+<span>
+							Continue         	
+					  </span>
+</button>
+</div>
+</div>
+<div class="utilHeader hidepopLabel" id="showeInValidZipMsg">
+<div class="col-12 center">
+<h4 class="font-regular">
+						Please enter a valid zip code.
+					</h4>
+</div>
+<div class="col-12 padlf36">
+<button class="col-6-sm continuebutton" id="invalidZipcode" type="button">
+<span>
+							OK</span>
+</button>
+</div>
+</div>
+<div class="hidepopLabel" id="showViewGasOrNotStandalone">
+<div class="col-12 center">
+<h4 class="font-regular">
+						Would you like to view a natural gas plan to complement your electric plan.   
+					</h4>
+</div>
+<div class="col-12 center margnTp35 zerobottom">
+<div class="displayFlex displayBlockMobile">
+<button class="noButtonStandAlone yesNomarginOnlyMobile" type="button"><span class="alignmiddle">No</span></button>
+<button class="yesButtonStandAlone" type="button"><span class="alignmiddle">Yes</span></button>
+</div>
+</div>
+</div>
+<div class="hidepopLabel" id="showDirectEmailMsg">
+<div class="col-12 center">
+<h4 class="font-regular">
+						Offer is invalid or unavailable in your area. See available plans below.
+					</h4>
+</div>
+<div class="col-12 center marginTop5 zerobottom">
+<div class="displayFlex displayBlockMobile">
+<button class="col-6 continuebutton inlineblock test" type="button">
+<span class='\"alignmiddle\"'>
+								View Plans
+							</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modalWindowBundle" id="modalWindowBundle" style="display:none;">
+<div class="blur-it">
+<div class="modal hide">
+<div class="modalHead row">
+<div class="col-12 bundlePageHeader">
+                     You entered ZIP Code <a href="javascript:updateZipBundleModal();">%%zipcode%%</a>
+<img alt="edit icon" class="marginLft10" src="/system/assets/img/Icon awesome-edit.svg" style="cursor: pointer;"/>
+</div>
+<span class="closeIcon bundlePageHeaderClose right hidden-sm" style="position: absolute; right:0; margin-right:0px;">
+<a class="floatright mrgnRgt25" href="javascript:void(0)" id="closeModal">
+<img alt="close icon" src="/system/assets/img/closeIcon.svg"/>
+</a>
+</span>
+</div>
+<div class="row padding35 modalScroll showZipcodeMsgAndInputBox" id="showZipcodeMsgAndInputBox">
+<div class="col-12 zerotop zerobottom center h4ZeroBtm">
+<!-- <h4 class="font-regular">
+                        Enter your zip code to find offers in your area.
+                    </h4> -->
+</div>
+<div class="row displayFlex">
+<form class="form-inline bannerForm txShopperbtn">
+<!-- <div class="col-6 aboveZipTextProdChart">ZIP CODE</div>  -->
+<input class="col-6 zerobottom form-control zipcode" id="zipModal" maxlength="5" name="zipModal" placeholder="Zip code" type="tel"/>
+<div class="col-6 errorElecGasModalZip">Please enter a valid zip code</div>
+<button class="col-6 zerobottom continuebutton inlineblock mrgnTop35Onlym" type="button"><span class='\"alignmiddle\"'>Shop plans</span></button>
+</form>
+</div>
+</div>
+<div class="padding35 hideBundleOnContinue">
+<div class="col-12 utilityModalTxt">
+<p class="mainTitle">
+                        Bundle Your Plans and Earn More Rewards
+                    </p>
+</div>
+<div class="col-12 utilityModalTxt">
+<p>
+                        Would you like to bundle your electricity and gas to earn more rewards?
+                    </p>
+</div>
+<div>
+<div class="errorMsg col-12 center utilityModalTxt hidepopLabel" id="showErrormsg">
+<p>
+                            Please select at least one option
+                        </p>
+</div>
+</div>
+<div class="bundlesUtil">
+<div class="util">
+<input id="bundle_both" name="bundleService" type="radio"/>
+<label class="hover" for="bundle_both">
+<img alt="bundle_both" class="utilityUnChecked" src="/system/assets/img/Ellipse7.svg"/>
+<img alt="bundle_both" class="utilityChecked" src="/system/assets/img/checkmark.svg"/>
+<span>Yes! I'd like to bundle my plans.</span>
+</label>
+</div>
+<div class="util">
+<input id="unbundle_both" name="bundleService" type="radio"/>
+<label class="hover" for="unbundle_both">
+<img alt="unbundle_both" class="utilityUnChecked" src="/system/assets/img/Ellipse7.svg"/>
+<img alt="unbundle_both" class="utilityChecked" src="/system/assets/img/checkmark.svg"/>
+<span>No thanks, show me the unbundled plans.</span>
+</label>
+</div>
+</div>
+<div id="showContinue">
+<button class="col-6-sm continuebutton" id="goToBundleProductChart" type="button">
+<span>
+                            Continue
+                        </span>
+</button>
+</div>
+</div>
+<div id="showBundleLoadingImage">
+<div class="col-12 center marginTop10">
+<img class="loadingImage" src="/system/assets/img/loading.gif"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- This is included at the bottom of the BODY tag -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> -->
+<div class="hidden" id="loader">
+<div class="blur-it">
+<div class="col-12 center">
+<img class="loadingImage imageCenter" src="/system/assets/img/loading.gif"/>
+</div>
+</div>
+</div>
+<meta content="62b63a4b1e78d20b3b32d213b9fa2384" name="p:domain_verify"/><!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<meta content="adb577vn3sc9e7yz6doplzyfflxfau" name="facebook-domain-verification"/><!-- Google tag (gtag.js) --> <div id="batBeacon618738625232" style="width: 0px; height: 0px; display: none; visibility: hidden;"><img alt="" height="0" id="batBeacon708339098698" src="https://bat.bing.com/action/0?ti=134482071&amp%3Bamp%3Bamp%3Btm=al001&amp%3Bamp%3Bamp%3BVer=2&amp%3Bamp%3Bamp%3Bmid=d0de6ef7-5738-4cc0-9f73-5cb7fc9fa9bb&amp%3Bamp%3Bamp%3Bbo=1&amp%3Bamp%3Bamp%3Bsid=1fa51cf0ada211f192c61d99a4ece3d3&amp%3Bamp%3Bamp%3Bvid=1fa55800ada211f1a5f94f9af9ae16ba&amp%3Bamp%3Bamp%3Bvids=0&amp%3Bamp%3Bamp%3Bmsclkid=N&amp%3Bamp%3Bamp%3Buach=pv%3D19.0.0&amp%3Bamp%3Bamp%3Bpi=0&amp%3Bamp%3Bamp%3Blg=en-US&amp%3Bamp%3Bamp%3Bsw=1360&amp%3Bamp%3Bamp%3Bsh=900&amp%3Bamp%3Bamp%3Bsc=24&amp%3Bamp%3Bamp%3Bnwd=1&amp%3Bamp%3Bamp%3Btl=Product+Chart&amp%3Bamp%3Bamp%3Bp=https%3A%2F%2Fwww.picknrg.com%2Fen%2Felectricity-and-gas%2Fproduct-chart&amp%3Bamp%3Bamp%3Br=https%3A%2F%2Fwww.picknrg.com%2F&amp%3Bamp%3Bamp%3Blt=672&amp%3Bamp%3Bamp%3Bmtp=10&amp%3Bamp%3Bamp%3Bevt=pageLoad&amp%3Bamp%3Bamp%3Bsv=2&amp%3Bamp%3Bamp%3Bcdb=AQAQ&amp%3Bamp%3Bamp%3Brn=871132" style="width: 0px; height: 0px; display: none; visibility: hidden;" width="0"/></div>
+<div id="batBeacon518579737868" style="width: 0px; height: 0px; display: none; visibility: hidden;"><img alt="" height="0" id="batBeacon762862949621" src="https://bat.bing.com/action/0?ti=259113829&amp%3Bamp%3Bamp%3BVer=2&amp%3Bamp%3Bamp%3Bmid=fbaa4e39-b03b-471b-8d9a-6be75f8d8c89&amp%3Bamp%3Bamp%3Bbo=1&amp%3Bamp%3Bamp%3Bsid=1fa51cf0ada211f192c61d99a4ece3d3&amp%3Bamp%3Bamp%3Bvid=1fa55800ada211f1a5f94f9af9ae16ba&amp%3Bamp%3Bamp%3Bvids=0&amp%3Bamp%3Bamp%3Bmsclkid=N&amp%3Bamp%3Bamp%3Buach=pv%3D19.0.0&amp%3Bamp%3Bamp%3Bpi=0&amp%3Bamp%3Bamp%3Blg=en-US&amp%3Bamp%3Bamp%3Bsw=1360&amp%3Bamp%3Bamp%3Bsh=900&amp%3Bamp%3Bamp%3Bsc=24&amp%3Bamp%3Bamp%3Bnwd=1&amp%3Bamp%3Bamp%3Btl=Product+Chart&amp%3Bamp%3Bamp%3Bp=https%3A%2F%2Fwww.picknrg.com%2Fen%2Felectricity-and-gas%2Fproduct-chart&amp%3Bamp%3Bamp%3Br=https%3A%2F%2Fwww.picknrg.com%2F&amp%3Bamp%3Bamp%3Blt=672&amp%3Bamp%3Bamp%3Bmtp=10&amp%3Bamp%3Bamp%3Bevt=pageLoad&amp%3Bamp%3Bamp%3Bsv=2&amp%3Bamp%3Bamp%3Bcdb=AQAQ&amp%3Bamp%3Bamp%3Brn=600639" style="width: 0px; height: 0px; display: none; visibility: hidden;" width="0"/></div></body></html>

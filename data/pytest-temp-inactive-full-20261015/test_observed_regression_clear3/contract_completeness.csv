@@ -1,0 +1,14 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,f18fcff329ed9d94577f2e6e4c7d328b1a96e9f5cc7b7c4aea8c816097259ebd,terms_or_other,text_extracted,12,0,0,,False,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,4365ae1b72f29c7c23889da4a06600b720bdbf16dfeddc6155dc1d9a77bf220f,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,ef56014f4ae9a4ea2596e491b9cf31edd908271a9628a4681fc8acfbff9e4185,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,f4b1a78b572db793c84a32cb13758e5db842fcaf6d4a522756e1fb15c2a3a6cf,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,58fd4588fdc7fce16256372b9bd49e1e028b8c6abd4784abffb59c0163252b75,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,0d25bc498107e1b7c56842285b39716c0345acf152bdfbba0169482d66fd0935,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,7ee53570b65f25ff4fb18ca96d108bcc71c56ca67ac15810913ffbeb53bc8cf6,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,eaecdded2f7ca67584a0429ef94705a855e07b448ddf8896cb9acddce942ebfa,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,0df1e84c88aab2045bb64f5f3fe31ce0e9743414e97378338eaff86be26f4558,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,4cf895ae441691fe11a7b19e968973ec0a57b2d8604de4b26b8d48c5ed9f0c70,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,6c9cb37c02661be4200c2222dd8e7deac537d5050aabeb1480f5231cadfb3544,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,30ac8b22ec3ef4b0d5a4f721f5514f18b1d2609b5af38fc9bcaee32937e57811,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|JCP&L Electric|electric,Clearview Energy,JCP&L Electric,electric,07701,6f80ce6000a30c5670aed72cf2f5ef9bfc59afba2c2ff33f55dd384ee42c96dd,contract_summary,parsed,12,12,0,,True,0

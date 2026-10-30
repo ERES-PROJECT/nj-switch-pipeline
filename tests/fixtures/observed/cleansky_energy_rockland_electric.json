@@ -1,0 +1,17 @@
+{
+  "fixture_kind": "observed_public_capture",
+  "captured_at": "2026-09-11T13:58:17.498788+00:00",
+  "query": {
+    "supplier": "CleanSky Energy",
+    "utility": "Rockland Electric",
+    "commodity": "electric",
+    "zip": "07430",
+    "url": "https://cleanskyenergy.com/",
+    "adapter": "cleansky_energy",
+    "skip_reason": null
+  },
+  "context_verified": false,
+  "payloads": [],
+  "documents": [],
+  "disposition": "blocked"
+}

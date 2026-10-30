@@ -1,0 +1,7 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,2a3ad365257870a42e36435b,IDT Standard Renewable Mix Fixed Offer,0,0,missing_useful_document,none,
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,844cdd9e7aaf77f87565b2dd,IDT Standard Renewable Mix Variable Offer,0,0,missing_useful_document,none,
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,f6ea3d0c584ffb9df5a06ba3,IDT 100% Renewable Variable Offer,0,0,missing_useful_document,none,
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,5a716dac2f9dc1dea495d901,IDT 100% Renewable Fixed Offer,0,0,missing_useful_document,none,
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,8e72acc999f7dc9a47bcaba1,IDT Standard Renewable Mix Fixed Offer,0,0,missing_useful_document,none,
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,f449eb04cfe2c13f336cd1b2,IDT 100% Renewable Fixed Offer,0,0,missing_useful_document,none,

@@ -1,0 +1,43 @@
+{
+  "tdsps": [
+    {
+      "ID": "143",
+      "config": {
+        "billImage": "https://thinkenergy-sample-bills.s3.us-west-2.amazonaws.com/NJ+Rockland+Bill.png",
+        "billingCycle": {
+          "range": null,
+          "required": false
+        },
+        "billing_method": "rate_ready",
+        "drop_leadtime": {
+          "lead_time": -13,
+          "type": "next_meter_read"
+        },
+        "enrollment_leadtime": {
+          "lead_time": -13,
+          "type": "next_meter_read"
+        },
+        "meterIdentifier": {
+          "description": "Account Number",
+          "mask": "[/\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/, /\\d/]",
+          "regex": "^\\d{11}$"
+        },
+        "nameKey": {
+          "regex": null,
+          "required": false
+        },
+        "rate_change_leadtime": {
+          "lead_time": 1,
+          "type": "current_meter_read"
+        }
+      },
+      "duns_number": "006993406ECIR",
+      "edi_name": "Rockland Electric Company",
+      "name": "Rockland Electric Company",
+      "offers": [],
+      "state_code": "NJ",
+      "zonal_pricing": false,
+      "zone": ""
+    }
+  ]
+}

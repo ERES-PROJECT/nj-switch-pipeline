@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+NRG|ACE Electric|electric,NRG,ACE Electric,electric,08401,nrg,needs_review,browser_bootstrap_api,True,False,18,18,0,0,,,,,

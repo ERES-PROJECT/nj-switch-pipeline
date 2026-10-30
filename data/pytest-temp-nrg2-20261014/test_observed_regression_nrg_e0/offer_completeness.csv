@@ -1,0 +1,19 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,776e3a738e2aeb391fddd190,Flex Plan with Southwest Rapid Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,80c9ac98bd1cc22d4d2374f9,Flex Plan with American Airlines AAdvantage Miles,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,8ab34a84f888b82130bd729f,Flex Plan with United MileagePlus Miles,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,03055c9788657a2ef5b1d26b,12-Month Plan with Cash Back,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,c275e418b9874ad9f11eb16c,6-Month Plan with Cash Back,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,844e6af645651ed0fce9bd02,Flex Plan with Cash Back,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,3c00f9fafd6236aaa2ce20e5,6-Month Plan with United MileagePlus Miles,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,0a23d0eee84dbe20b30a0413,6-Month Plan with Southwest Rapid Rewards Points,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,6d83c830a203529881c9293d,Flex Plan with Amtrak Guest Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,0bc208e28b7f50bd5588fd62,Flex Plan with Southwest Rapid Rewards Points,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,6cd53cc96abbc87e8e31b533,Electric Plan Benefitting Big Brothers Big Sisters,True,,monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,5f2f3b7caef139f042727d35,Flex Plan Benefitting Big Brothers Big Sisters,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,2b047c998acd0d5f6a287025,Flex Plan Benefitting Philabundance,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,189943868802758f453d6ea0,Flex Plan Benefitting Nemours Children's Health,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,c509af537e91408332b76d8f,Flex Plan Benefitting Children's Hospital of Philadelphia,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,5ae2ed4ad52f3210843aff99,6-Month Plan with Renewable Energy,True,,monthly_fee | enrollment_fee | renewable_percentage,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,5039cee792ad8a9bb1eabbdc,Flex Plan with Renewable Energy Plus Carbon Offsets,True,,term_months | monthly_fee | enrollment_fee | renewable_percentage | renewable_claim,0
+NRG|PSE&G Electric|electric,NRG,PSE&G Electric,electric,07102,aef079767520b499c63acb44,12-Month Price Lock Plan,True,,monthly_fee | enrollment_fee | renewable_source,0

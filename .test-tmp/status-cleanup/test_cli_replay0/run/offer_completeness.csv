@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Example Energy|PSE&G Electric|electric,Example Energy,PSE&G Electric,electric,07102,a961f721a7e65396e823ce48,Example Green 12,True,,enrollment_fee,0

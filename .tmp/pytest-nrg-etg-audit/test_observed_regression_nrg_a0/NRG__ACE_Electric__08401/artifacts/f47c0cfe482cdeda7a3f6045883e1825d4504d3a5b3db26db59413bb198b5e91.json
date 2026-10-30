@@ -1,0 +1,1700 @@
+{
+  "ElectrictProducts": [
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113579",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "ual"
+        ],
+        "OfferId": "1000568669",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "ual",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "10,000 bonus/ 2 miles per $1 - picknrg.com",
+        "ProductName": "Flex Plan with United MileagePlus Miles",
+        "ProductSlug": "ual_2mon_10000_bonus_2pcnt_earn_corporate",
+        "PromoCode": "047",
+        "PromoDescription": "10,000 bonus after 2M, 2 units / $1; 12,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "10,000 miles",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000069985",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|ual",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "FeaturedPlan": "Yes",
+        "Id": "13125-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "ual_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "ual_2mon_10000_bonus_2pcnt_earn_corporate",
+        "ProductSlugLookup": [
+          "ual_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Get a variable electricity price and earn United Airlines MileagePlus® miles",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>10,000 MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>10,000 MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable electricity price and earn United Airlines MileagePlus® miles"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113335",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "aal"
+        ],
+        "OfferId": "1000570163",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "aal",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "10,000 bonus/ 2 miles per $1 - picknrg.com",
+        "ProductName": "Flex Plan with American Airlines AAdvantage Miles",
+        "ProductSlug": "aal_2mon_10000_bonus_2pcnt_earn_corporate",
+        "PromoCode": "047",
+        "PromoDescription": "10,000 bonus after 2M, 2 units / $1; 12,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "10,000 miles",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000071479",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|aal",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "FeaturedPlan": "Yes",
+        "Id": "13131-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "aal_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "aal_2mon_10000_bonus_2pcnt_earn_corporate",
+        "ProductSlugLookup": [
+          "aal_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Get a variable electricity price and earn American Airlines AAdvantage<sup>®</sup> miles",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>10,000 American Airlines AAdvantage<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>10,000 American Airlines AAdvantage<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable electricity price and earn American Airlines AAdvantage<sup>®</sup> miles"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113319",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "swa"
+        ],
+        "OfferId": "1000570934",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "3*",
+        "PartnerCode": "swa",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "12,500 bonus/ 3 points per $1  (Cardholders only) - picknrg.com",
+        "ProductName": "Flex Plan with Southwest Rapid Rewards Points",
+        "ProductSlug": "swa_2mon_12500_bonus_3pcnt_earn_corporate",
+        "PromoCode": "098",
+        "PromoDescription": "12,500 bonus / 3 miles per $1 (Cardholders)",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "12,500 points",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000072250",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|swa",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "FeaturedPlan": "Yes",
+        "Id": "73676-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "swa_2mon_12500_bonus_3pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "swa_2mon_12500_bonus_3pcnt_earn_corporate ",
+        "ProductSlugLookup": [
+          "swa_2mon_12500_bonus_3pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Flex Plan with Southwest Rapid Rewards® Points",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>12,500 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>3 points for every $1 spent on the supply portion of your electric bill</li><li>Supply price security for 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>12,500 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>3 points for every $1 spent on the supply portion of your electric bill</li><li>Supply price security for 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Flex Plan with Southwest Rapid Rewards® Points"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113233",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "25_cb"
+        ],
+        "OfferId": "1000569479",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "2%",
+        "PartnerCode": "csb",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "6",
+        "ProductDescription": "$25 cashback after 3 months, 2% ongoing annually",
+        "ProductName": "6-Month Plan with Cash Back",
+        "ProductSlug": "affiliate_cashback_25_bonus_6m",
+        "PromoCode": "298",
+        "PromoDescription": "Cashback ($25 bonus after 3 months / 2% CB Annually)",
+        "Rate": "0.18800",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "3 Months",
+        "Sku": "g000000000070795",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "25_cb",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.18800",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "18.80",
+        "WebRate": "18.8&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73006-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "affiliate_cashback_25_bonus_6m"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Cash Back",
+          "Key": "1_featured",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "affiliate_cashback_25_bonus_6m",
+        "ProductSlugLookup": [
+          "affiliate_cashback_25_bonus_6m"
+        ],
+        "ProductTitle": "6-Month Plan with Cash Back",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$25 cashback after 3 months of electricity service</li><li>2% ongoing annually</li><li>6-month fixed plan</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$25 cashback after 3 months of electricity service</li><li>2% ongoing annually</li><li>6-month fixed plan</li></ul>",
+        "Term": "6 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "6-Month Plan with Cash Back"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113271",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "25_cb"
+        ],
+        "OfferId": "1000571198",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "2%",
+        "PartnerCode": "csb",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "ProductDescription": "$25 cashback after 3 months, 2% ongoing annually",
+        "ProductName": "12-Month Plan with Cash Back",
+        "ProductSlug": "affiliate_cashback_25_bonus_12m",
+        "PromoCode": "298",
+        "PromoDescription": "Cashback ($25 bonus after 3 months / 2% CB Annually)",
+        "Rate": "0.17300",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "3 Months",
+        "Sku": "g000000000072514",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "25_cb",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.17300",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "17.30",
+        "WebRate": "17.3&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73007-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "affiliate_cashback_25_bonus_12m"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Cash Back",
+          "Key": "1_featured",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "affiliate_cashback_25_bonus_12m",
+        "ProductSlugLookup": [
+          "affiliate_cashback_25_bonus_12m"
+        ],
+        "ProductTitle": "12-Month Plan with Cash Back",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<p>● $25 cashback after 3 months of electricity service\n<br />\n● 2% ongoing annually\n\n</p>"
+            }
+          ]
+        },
+        "SummaryString": "<p>● $25 cashback after 3 months of electricity service\n<br />\n● 2% ongoing annually\n\n</p>",
+        "Term": "12 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "12-Month Plan with Cash Back"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113338",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "25_cb"
+        ],
+        "OfferId": "1000567637",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "2%",
+        "PartnerCode": "csb",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "ProductDescription": "$25 cashback after 3 months, 2% ongoing annually, Intro rate for 3 months, then variable",
+        "ProductName": "Flex Plan with Cash Back",
+        "ProductSlug": "affiliate_cashback_25_bonus_3m",
+        "PromoCode": "298",
+        "PromoDescription": "Cashback ($25 bonus after 3 months / 2% CB Annually)",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$25",
+        "SignupVesting": "3 Months",
+        "Sku": "g000000000068953",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "25_cb",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73005-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "affiliate_cashback_25_bonus_3m"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Cash Back",
+          "Key": "1_featured",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "affiliate_cashback_25_bonus_3m",
+        "ProductSlugLookup": [
+          "affiliate_cashback_25_bonus_3m"
+        ],
+        "ProductTitle": "Flexible Plan with Cash Back",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<p>● $25 cashback after 3 months of electricity service\n<br />\n● 2% ongoing annually\n<br />\n● Intro pricing for 3 months</p>"
+            }
+          ]
+        },
+        "SummaryString": "<p>● $25 cashback after 3 months of electricity service\n<br />\n● 2% ongoing annually\n<br />\n● Intro pricing for 3 months</p>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Flexible Plan with Cash Back"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113426",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "atk"
+        ],
+        "OfferId": "1000567313",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "atk",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "10,000 bonus/ 2 points per $1 - picknrg.com",
+        "ProductName": "Flex Plan with Amtrak Guest Rewards Points",
+        "ProductSlug": "atk_2mon_10000_bonus_2pcnt_earn_corporate",
+        "PromoCode": "047",
+        "PromoDescription": "10,000 bonus after 2M, 2 units / $1; 12,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "10,000 points",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000068629",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|atk",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "13117-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "atk_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "atk_2mon_10000_bonus_2pcnt_earn_corporate",
+        "ProductSlugLookup": [
+          "atk_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Get a variable electricity price and earn Amtrak Guest Rewards® points",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>10,000 Amtrak Guest Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>10,000 Amtrak Guest Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable electricity price and earn Amtrak Guest Rewards® points"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113295",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "travel",
+          "swa"
+        ],
+        "OfferId": "1000569937",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "swa",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "6",
+        "PriorityLevel": "023",
+        "ProductDescription": "10,000 bonus/ 2 points per $1 - picknrg.com",
+        "ProductName": "6-Month Plan with Southwest Rapid Rewards Points",
+        "ProductSlug": "swa_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate",
+        "PromoCode": "047",
+        "PromoDescription": "10,000 bonus after 2M, 2 units / $1; 12,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.18800",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "10,000 points",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000071253",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|travel|swa",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.18800",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "18.80",
+        "WebRate": "18.8&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73649-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "swa_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "swa_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate",
+        "ProductSlugLookup": [
+          "swa_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Electric Plan with Southwest Rapid Rewards bonus points",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>10,000 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your electricity bill</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>10,000 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your electricity bill</li></ul>",
+        "Term": "6 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Electric Plan with Southwest Rapid Rewards bonus points"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113559",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "travel",
+          "ual"
+        ],
+        "OfferId": "1000567616",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "ual",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "6",
+        "PriorityLevel": "023",
+        "ProductDescription": "10,000 bonus/ 2 miles per $1 - picknrg.com",
+        "ProductName": "6-Month Plan with United MileagePlus Miles",
+        "ProductSlug": "ual_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate",
+        "PromoCode": "047",
+        "PromoDescription": "10,000 bonus after 2M, 2 units / $1; 12,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.18800",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "10,000 miles",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000068932",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|travel|ual",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.18800",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "18.80",
+        "WebRate": "18.8&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73650-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "ual_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "ual_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate",
+        "ProductSlugLookup": [
+          "ual_6_fixed_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Electricity Plan with United MileagePlus Mile",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>10,000 United MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>10,000 United MileagePlus<sup>®</sup> bonus miles after 2 months on this plan</li><li>2 miles for every $1 spent on the supply portion of your natural gas bill</li></ul>",
+        "Term": "6 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Electricity Plan with United MileagePlus Mile"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113688",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "travel",
+          "swa"
+        ],
+        "OfferId": "1000569149",
+        "OngoingFrequency": "1 Month",
+        "OngoingValue": "2*",
+        "PartnerCode": "swa",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "023",
+        "ProductDescription": "10,000 bonus/ 2 points per $1 - picknrg.com",
+        "ProductName": "Flex Plan with Southwest Rapid Rewards Points",
+        "ProductSlug": "swa_2mon_10000_bonus_2pcnt_earn_corporate",
+        "PromoCode": "047",
+        "PromoDescription": "10,000 bonus after 2M, 2 units / $1; 12,500 bonus after 2M, 3 units / $1 *(SWA and UAL *Cardholders only)",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "10,000 points",
+        "SignupVesting": "2 Months",
+        "Sku": "g000000000070465",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|travel|swa",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "13130-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "swa_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Travel Rewards",
+          "Key": "1_rewards",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "swa_2mon_10000_bonus_2pcnt_earn_corporate",
+        "ProductSlugLookup": [
+          "swa_2mon_10000_bonus_2pcnt_earn_corporate"
+        ],
+        "ProductTitle": "Get a variable electricity price and earn Southwest Rapid Rewards® Points ",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>10,000 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>10,000 Southwest Rapid Rewards<sup>®</sup> bonus points after 2 months on this plan</li><li>2 points for every $1 spent on the supply portion of your electric bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable electricity price and earn Southwest Rapid Rewards® Points "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113330",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "nem"
+        ],
+        "OfferId": "1000568975",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "nem",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$50 contribution to Nemours after 1 month of service, and 1% ongoing contribution annually - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Nemours Children's Health",
+        "ProductSlug": "nemours_gives_flex_corporate",
+        "PromoCode": "142",
+        "PromoDescription": "$50 Donation/ 1% Earn (\"gives\")",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$50",
+        "SignupVesting": "1 Months",
+        "Sku": "g000000000070291",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|nem",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "56978-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "nemours_gives_flex_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "nemours_gives_flex_corporate",
+        "ProductSlugLookup": [
+          "nemours_gives_flex_corporate"
+        ],
+        "ProductTitle": " Supporting Nemours Children’s Health and get a variable electricity price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$50 contribution to Nemours Children’s Health after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$50 contribution to Nemours Children’s Health after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Nemours Children’s Health and get a variable electricity price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113695",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "philab"
+        ],
+        "OfferId": "1000569447",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "pbn",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$50 contribution to Philabundance after 1 month of service, and 1% ongoing contribution annually - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Philabundance",
+        "ProductSlug": "philabundance_gives_flex_corporate",
+        "PromoCode": "142",
+        "PromoDescription": "$50 Donation/ 1% Earn (\"gives\")",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$50",
+        "SignupVesting": "1 Months",
+        "Sku": "g000000000070763",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|philab",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Benefits": [
+          {
+            "Headline": "Test1",
+            "IsEmbedded": false,
+            "Media": {
+              "FileName": "cta_row_community.png",
+              "FileSize": 2619,
+              "Id": "12619",
+              "IsEmbedded": false,
+              "MimeType": "image/png",
+              "MvcData": {
+                "ActionName": "Entity",
+                "AreaName": "Core",
+                "ControllerAreaName": "Framework",
+                "ControllerName": "Entity",
+                "ViewName": "Image"
+              },
+              "Url": "/en/Images/cta_row_community_tcm243-12619.png"
+            },
+            "Text": {
+              "Fragments": [
+                {
+                  "Html": "Benefit 1 PO1 Content"
+                }
+              ]
+            }
+          }
+        ],
+        "Id": "56979-12521",
+        "IsEmbedded": false,
+        "Legal": {
+          "Fragments": [
+            {
+              "Html": "<div style=\"font-size: 8pt; color: rgb(80, 80, 80);\"><p><sup>1</sup>Details</p><p>Lorem ipsum PO1 dolor sit amet, consectetur adipiscing elit. Phasellus aliquam sapien ut lectus cursus placerat. Vestibulum pharetra ultricies est, ut interdum odio semper vitae. Etiam vehicula eu elit nec scelerisque. Etiam eu diam odio.</p><p><sup>2</sup>Fees</p><p>Lorem ipsum PO1 dolor sit amet, consectetur adipiscing elit. Phasellus aliquam sapien ut lectus cursus placerat. Vestibulum pharetra ultricies est, ut interdum odio semper vitae. Etiam vehicula eu elit nec scelerisque. Etiam eu diam odio.</p></div>"
+            }
+          ]
+        },
+        "LegalString": "<div style=\"font-size: 8pt; color: rgb(80, 80, 80);\"><p><sup>1</sup>Details</p><p>Lorem ipsum PO1 dolor sit amet, consectetur adipiscing elit. Phasellus aliquam sapien ut lectus cursus placerat. Vestibulum pharetra ultricies est, ut interdum odio semper vitae. Etiam vehicula eu elit nec scelerisque. Etiam eu diam odio.</p><p><sup>2</sup>Fees</p><p>Lorem ipsum PO1 dolor sit amet, consectetur adipiscing elit. Phasellus aliquam sapien ut lectus cursus placerat. Vestibulum pharetra ultricies est, ut interdum odio semper vitae. Etiam vehicula eu elit nec scelerisque. Etiam eu diam odio.</p></div>",
+        "LookupOfferCode": [
+          "philabundance_gives_flex_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "philabundance_gives_flex_corporate",
+        "ProductSlugLookup": [
+          "philabundance_gives_flex_corporate"
+        ],
+        "ProductTitle": " Supporting Philabundance and get a variable electricity price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$50 contribution to Philabundance after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$50 contribution to Philabundance after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Philabundance and get a variable electricity price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113600",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "bbbs"
+        ],
+        "OfferId": "1000569904",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "bbs",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$50 contribution to Big Brothers Big Sisters after 1 month of service, and 1% ongoing contribution annually - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Big Brothers Big Sisters",
+        "ProductSlug": "bigbrothersbigsisters_gives_flex_corporate",
+        "PromoCode": "142",
+        "PromoDescription": "$50 Donation/ 1% Earn (\"gives\")",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$50",
+        "SignupVesting": "1 Months",
+        "Sku": "g000000000071220",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|bbbs",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "56980-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "bigbrothersbigsisters_gives_flex_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "bigbrothersbigsisters_gives_flex_corporate",
+        "ProductSlugLookup": [
+          "bigbrothersbigsisters_gives_flex_corporate"
+        ],
+        "ProductTitle": " Supporting Big Brothers Big Sisters and get a variable electricity price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$50 contribution to Big Brothers Big Sisters Independence after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$50 contribution to Big Brothers Big Sisters Independence after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Big Brothers Big Sisters and get a variable electricity price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113601",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "variable",
+          "charity",
+          "chop"
+        ],
+        "OfferId": "1000567594",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "hop",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "PriorityLevel": "026",
+        "ProductDescription": "$50 contribution to Childrens Hospital of Philadelphia after 1 month of service, and 1% ongoing contribution annually - picknrg.com",
+        "ProductName": "Flex Plan Benefitting Children's Hospital of Philadelphia",
+        "ProductSlug": "hop_gives_flex_corporate",
+        "PromoCode": "142",
+        "PromoDescription": "$50 Donation/ 1% Earn (\"gives\")",
+        "Rate": "0.16000",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$50",
+        "SignupVesting": "1 Months",
+        "Sku": "g000000000068910",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|variable|charity|chop",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16000",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "16.00",
+        "WebRate": "16.0&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "56976-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "hop_gives_flex_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "hop_gives_flex_corporate",
+        "ProductSlugLookup": [
+          "hop_gives_flex_corporate"
+        ],
+        "ProductTitle": " Supporting Children's Hospital of Philadelphia and get a variable electricity price",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$50 contribution to Children's Hospital of Philadelphia after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$50 contribution to Children's Hospital of Philadelphia after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Children's Hospital of Philadelphia and get a variable electricity price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113699",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "acquisition",
+          "fixed",
+          "charity",
+          "bbbs"
+        ],
+        "OfferId": "1000571193",
+        "OngoingFrequency": "12 Months",
+        "OngoingValue": "1%",
+        "PartnerCode": "bbs",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "PriorityLevel": "026",
+        "ProductDescription": "$50 contribution to Big Brothers Big Sisters after 1 month of service, and 1% ongoing contribution annually",
+        "ProductName": "Electric Plan Benefitting Big Brothers Big Sisters",
+        "ProductSlug": "bigbrothersbigsisters_gives",
+        "PromoCode": "142",
+        "PromoDescription": "$50 Donation/ 1% Earn (\"gives\")",
+        "Rate": "0.17300",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "SignupBonus": "$50",
+        "SignupVesting": "1 Month",
+        "Sku": "g000000000072509",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "acquisition|fixed|charity|bbbs",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.17300",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "17.30",
+        "WebRate": "17.3&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "25838-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "bigbrothersbigsisters_gives"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Charitable Giving",
+          "Key": "3_charity",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "bigbrothersbigsisters_gives",
+        "ProductSlugLookup": [
+          "bigbrothersbigsisters_gives"
+        ],
+        "ProductTitle": " Supporting Big Brothers Big Sisters plus a secure electricity price",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>$50 contribution to Big Brothers Big Sisters Independence after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>$50 contribution to Big Brothers Big Sisters Independence after 1 month on this plan</li><li>Annual contribution equal to 1% of the supply portion of your bill </li><li>Supply price security for 12 months</li></ul>",
+        "Term": "12 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": " Supporting Big Brothers Big Sisters plus a secure electricity price"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113644",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "100% national wind fixed with 0.4 carbon offsets",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "green",
+          "carboff"
+        ],
+        "OfferId": "1000570334",
+        "PartnerCode": "nrr",
+        "PeLockType": "intro",
+        "PremiseType": "residential",
+        "PricingTerm": "3",
+        "ProductDescription": "Renewable Plus Carbon Offsets",
+        "ProductName": "Flex Plan with Renewable Energy Plus Carbon Offsets",
+        "ProductSlug": "3m_renewable_plus",
+        "PromoCode": "524",
+        "PromoDescription": "NRG MMC RTN No Bonus No Earn",
+        "Rate": "0.16500",
+        "RateCategory": "NRGHRVAR2",
+        "RateType": "variable",
+        "RequiresPriceChangeNotice": false,
+        "Sku": "g000000000071650",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|green|carboff",
+        "TermsOfServiceType": "variable",
+        "UtilityRate": "0.16500",
+        "UtilitySlug": "ace",
+        "VasCode": "029",
+        "WebDisplayRate": "16.50",
+        "WebRate": "16.5&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "54111-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "3m_renewable_plus"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Renewable Energy",
+          "Key": "5_green-energy",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "3m_renewable_plus",
+        "ProductSlugLookup": [
+          "3m_renewable_plus"
+        ],
+        "ProductTitle": "Get a variable electricity price and carbon offsets",
+        "RateType": "Variable",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>Carbon offsets for emissions equal to 11,500 miles of driving</li><li>Electricity generated from National Wind</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>Carbon offsets for emissions equal to 11,500 miles of driving</li><li>Electricity generated from National Wind</li><li>Introductory supply price for 3 months and variable price after 3 months</li></ul>",
+        "Term": "3 Months Intro",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Get a variable electricity price and carbon offsets"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113517",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "100% National Wind",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "green"
+        ],
+        "OfferId": "1000567267",
+        "PartnerCode": "nrr",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "6",
+        "ProductDescription": "Renewable Plan No Frills - picknrg.com",
+        "ProductName": "6-Month Plan with Renewable Energy",
+        "ProductSlug": "renewable_plan_corporate",
+        "PromoCode": "524",
+        "PromoDescription": "NRG MMC RTN No Bonus No Earn",
+        "Rate": "0.19600",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "Sku": "g000000000068583",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|green",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.19600",
+        "UtilitySlug": "ace",
+        "VasCode": "011",
+        "WebDisplayRate": "19.60",
+        "WebRate": "19.6&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "73648-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "renewable_plan_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Renewable Energy",
+          "Key": "5_green-energy",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "renewable_plan_corporate",
+        "ProductSlugLookup": [
+          "renewable_plan_corporate"
+        ],
+        "ProductTitle": "Electric Plan with Renewable Energy",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>6-month plan with renewable energy</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>6-month plan with renewable energy</li></ul>",
+        "Term": "6 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Electric Plan with Renewable Energy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "ApiContent": {
+        "Active": true,
+        "BackendSource": "national_retail",
+        "BrandSlug": "nrg_residential",
+        "CampaignId": "U-00113275",
+        "Channel": "web",
+        "Commodity": "electric",
+        "EarlyCancellationFee": "0",
+        "EffectiveDate": "2026-09-02T12:00:00Z",
+        "ExpirationDate": "9999-12-31T12:00:00Z",
+        "GreenText": "MMC 0% Green",
+        "Groupings": [
+          "picknrg",
+          "fixed",
+          "pricelock",
+          "nofrills"
+        ],
+        "OfferId": "1000567618",
+        "PartnerCode": "nrr",
+        "PeLockType": "contract",
+        "PenaltyType": "prorated",
+        "PremiseType": "residential",
+        "PricingTerm": "12",
+        "ProductDescription": "No Frills, 12M Fixed Price - picknrg.com",
+        "ProductName": "12-Month Price Lock Plan",
+        "ProductSlug": "12m_fixed_plan_corporate",
+        "PromoCode": "524",
+        "PromoDescription": "NRG MMC RTN No Bonus No Earn",
+        "Rate": "0.17300",
+        "RateCategory": "NRGHRFIX2",
+        "RateType": "fixed",
+        "RequiresPriceChangeNotice": false,
+        "Sku": "g000000000068934",
+        "StateSlug": "nj",
+        "Status": "published",
+        "SubChannel": "picknrg|fixed|pricelock|nofrills",
+        "TermsOfServiceType": "fixed",
+        "UtilityRate": "0.17300",
+        "UtilitySlug": "ace",
+        "VasCode": "006",
+        "WebDisplayRate": "17.30",
+        "WebRate": "17.3&cent",
+        "WebRateUnit": "&cent"
+      },
+      "CmsContent": {
+        "Id": "37578-12521",
+        "IsEmbedded": false,
+        "LegalString": "",
+        "LookupOfferCode": [
+          "12m_fixed_plan_corporate"
+        ],
+        "MvcData": {
+          "ActionName": "Entity",
+          "AreaName": "PickNRGDxaOEFeatures",
+          "ControllerAreaName": "Framework",
+          "ControllerName": "Entity",
+          "ViewName": "PickNRGProductOffer"
+        },
+        "PlanSpecialty": {
+          "DisplayText": "Price lock",
+          "Key": "6_standard",
+          "TagCategory": "844"
+        },
+        "Priority": "Default",
+        "ProductSlug": "12m_fixed_plan_corporate",
+        "ProductSlugLookup": [
+          "12m_fixed_plan_corporate"
+        ],
+        "ProductTitle": "Fixed-price electricity plan",
+        "RateType": "Fixed",
+        "Summary": {
+          "Fragments": [
+            {
+              "Html": "<ul class=\"whiteBullets\"><li>Fixed-price, no-frills electricity plan</li><li>Supply price security for 12 months</li></ul>"
+            }
+          ]
+        },
+        "SummaryString": "<ul class=\"whiteBullets\"><li>Fixed-price, no-frills electricity plan</li><li>Supply price security for 12 months</li></ul>",
+        "Term": "12 Months",
+        "Title": {
+          "Fragments": [
+            {
+              "Html": "Fixed-price electricity plan"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "ErrCode": "",
+  "IsOfferInvalidForElec": false,
+  "IsOfferInvalidForGas": false,
+  "NoOfApiElectricProduct": 77,
+  "NoOfApiGasProduct": 0
+}

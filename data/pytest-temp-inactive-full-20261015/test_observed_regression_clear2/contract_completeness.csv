@@ -1,0 +1,12 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,f18fcff329ed9d94577f2e6e4c7d328b1a96e9f5cc7b7c4aea8c816097259ebd,terms_or_other,text_extracted,12,0,0,,False,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,3b518417cabfcae19251f7f89b3ba5083c751deaf5954cbc0a42fde3c88ca6d5,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,11b4cc4f9a3ffaac6c040df0f3a0dcc18cb5d00cc35995c6e6a6e51024089a36,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,2e7dced95c36a287da1ac04c14507e7f8688c6da4715cd00c29067eb77a145b6,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,74ca46b2f57371c467d387691feb105e9d2049df37620feeb3324c8f32e1415f,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,50ce79f2a91d3989e9957210618d7ce2f62420b8fba3694883b78a2c2f07ad78,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,38c0e71dbc516353982911425ec60bc45e050298691d72934b6a8677d10d59fd,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,84db5385d23eb74fa9350dd8e44b37491eb1e498b37cc507f78f380c4d7e670d,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,f2735553f40e51bb95a6fdb6ed55d82d8cb2716857e48a1a10f6dd8bacdab98a,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,d484fc4747ea35b109fa8ddb505e5fd7ce8cfcb683da17ac8c0ad1779411bd57,contract_summary,parsed,12,12,0,,True,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,18b9d980a3d65af786063b643cc4be7d6c2e53d5fc59194a95d6acf3d158e77d,contract_summary,parsed,12,12,0,,True,0

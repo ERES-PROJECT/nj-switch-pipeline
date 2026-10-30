@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07430,032b38bce080b1c1b3d130df,Affordable Clean Gas 6,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07430,0ffef6d99139bd4125d5ba57,Affordable Clean Gas 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07430,f1b02221e8477c275d567eae,Affordable Clean Gas 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07430,f2924f8967da364234b0f739,Ultra Clean Gas 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|PSE&G Gas|gas,CleanSky Energy,PSE&G Gas,gas,07430,95994156a815fd04fdc8a6f8,Ultra Clean Gas 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

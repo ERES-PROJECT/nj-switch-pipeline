@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,f41b58890d969f4ba6f70242,SimpleFlex,True,,term_months | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,5e0697577f05b201eaf3df47,RescueLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,1c1103f072257452b6ddab25,SureLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,5586937faeee0342f0ce5cb0,SureLock 24,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

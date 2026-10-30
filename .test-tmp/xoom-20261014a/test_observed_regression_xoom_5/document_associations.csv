@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,853496bee629eeb7c794a42d,SimpleFlex,0,0,missing_useful_document,none,
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,3f62d228e7e8b79067bbd6c0,RescueLock 12,0,0,missing_useful_document,none,
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,f6eef9aee9588d883599089d,SureLock 12,0,0,missing_useful_document,none,
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,d76834d41a07e1115808f6b7,SureLock 24,0,0,missing_useful_document,none,

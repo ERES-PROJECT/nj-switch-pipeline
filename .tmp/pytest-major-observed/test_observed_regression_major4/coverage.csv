@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,attempts,completion_issues,resolution_type,retryable,next_action,warnings,errors
+Major Energy|SJG Gas|gas,Major Energy,SJG Gas,gas,08094,major_energy,partial,browser_dom,True,True,2,2,0,0,[],,,,,,

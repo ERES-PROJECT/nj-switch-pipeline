@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,adapter,status,method,context_verified,live_data_verified,source_offer_count,offers,candidates,documents,resolution_type,retryable,next_action,warnings,errors
+Direct Energy|ETG Gas|gas,Direct Energy,ETG Gas,gas,07201,direct_energy,partial,browser_bootstrap_api,True,True,3,3,0,0,,,,,

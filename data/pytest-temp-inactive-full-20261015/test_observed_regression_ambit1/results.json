@@ -1,0 +1,232 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Ambit Energy",
+      "utility": "JCP&L Electric",
+      "commodity": "electric",
+      "zip": "07701",
+      "url": "https://customer.ambitenergy.com/servicearea",
+      "adapter": "ambit",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:28:58.659367+00:00",
+    "finished_at": "2026-10-15T18:28:58.744753+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 4,
+    "offers": [
+      {
+        "key": "f8f4a7eed631ddc211b6795d",
+        "supplier": "Ambit Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "Ultimate Perks 12",
+        "product_id": "276a6c79-7c9b-4508-8384-42aa6c23ad0a",
+        "price": {
+          "value": "0.1729",
+          "unit": "USD/kWh",
+          "raw": "$0.1729\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "Receive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.",
+          "for information about the Ambit Ultimate Perks Reward Program."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=db0467c7-5077-487c-9c3a-25c838f99a2d&vendorname=JCPL&zipcode=07701&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "f41a52adb1e7995bdd475a623b3188b13049ea3fd2ff46a29234825d207c9d67",
+        "captured_at": "2026-09-11T05:21:50.873981+00:00",
+        "raw_fields": {
+          "text": "Ultimate Perks 12\n$0.1729\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nReceive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.\nPlease visit\nAmbitUltimatePerks.com\nfor information about the Ambit Ultimate Perks Reward Program."
+        },
+        "warnings": []
+      },
+      {
+        "key": "92098998b5409ea6e6f6abe4",
+        "supplier": "Ambit Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "Garden State Select 12 Month Term",
+        "product_id": "646495c5-e2a0-4022-be95-070ff9c591dd",
+        "price": {
+          "value": "0.1679",
+          "unit": "USD/kWh",
+          "raw": "$0.1679\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=db0467c7-5077-487c-9c3a-25c838f99a2d&vendorname=JCPL&zipcode=07701&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "f41a52adb1e7995bdd475a623b3188b13049ea3fd2ff46a29234825d207c9d67",
+        "captured_at": "2026-09-11T05:21:50.873981+00:00",
+        "raw_fields": {
+          "text": "Garden State Select 12 Month Term\n$0.1679\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nManage your budget and secure your rate for 12 months. Special offer for new, online customers."
+        },
+        "warnings": []
+      },
+      {
+        "key": "15cda34f6d45f98636f367f1",
+        "supplier": "Ambit Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "Winter Break 12",
+        "product_id": "fbd62410-1de1-429d-90a5-03e67f43e696",
+        "price": {
+          "value": "0.2059",
+          "unit": "USD/kWh",
+          "raw": "$0.2059\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "As temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.",
+          "Receive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=db0467c7-5077-487c-9c3a-25c838f99a2d&vendorname=JCPL&zipcode=07701&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "f41a52adb1e7995bdd475a623b3188b13049ea3fd2ff46a29234825d207c9d67",
+        "captured_at": "2026-09-11T05:21:50.873981+00:00",
+        "raw_fields": {
+          "text": "Winter Break 12\n$0.2059\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nAs temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.\nReceive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit\nambitenergy.com/WinterBreak\nfor information on Ambit’s Winter Break plan."
+        },
+        "warnings": []
+      },
+      {
+        "key": "5d16129edf11ff20417f00a0",
+        "supplier": "Ambit Energy",
+        "utility": "JCP&L Electric",
+        "commodity": "electric",
+        "zip": "07701",
+        "name": "Winter Break 24",
+        "product_id": "a13e04fc-e085-4ba6-906a-8aea3249d3e8",
+        "price": {
+          "value": "0.2109",
+          "unit": "USD/kWh",
+          "raw": "$0.2109\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "As temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.",
+          "Receive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=db0467c7-5077-487c-9c3a-25c838f99a2d&vendorname=JCPL&zipcode=07701&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "f41a52adb1e7995bdd475a623b3188b13049ea3fd2ff46a29234825d207c9d67",
+        "captured_at": "2026-09-11T05:21:50.873981+00:00",
+        "raw_fields": {
+          "text": "Winter Break 24\n$0.2109\n/ kWh\nTerm:\n24 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nAs temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.\nReceive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit\nambitenergy.com/WinterBreak\nfor information on Ambit’s Winter Break plan."
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "26e547ee55349eef683da7372ed31f107ecc29b7f04c64e436650cedc7e472a1",
+        "path": "26e547ee55349eef683da7372ed31f107ecc29b7f04c64e436650cedc7e472a1.json",
+        "kind": "json",
+        "url": "https://www.ambitenergy.com/rates/api/get-provider-states.php",
+        "captured_at": "2026-10-15T18:28:58.664934+00:00",
+        "bytes": 227
+      },
+      {
+        "id": "f6713dd090a3efdfc150cf8e3fb656a390ed9da4de9e685bd7cec721a7022b8d",
+        "path": "f6713dd090a3efdfc150cf8e3fb656a390ed9da4de9e685bd7cec721a7022b8d.json",
+        "kind": "json",
+        "url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=db0467c7-5077-487c-9c3a-25c838f99a2d&vendorname=JCPL&zipcode=07701&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "captured_at": "2026-10-15T18:28:58.691692+00:00",
+        "bytes": 448336
+      },
+      {
+        "id": "f41a52adb1e7995bdd475a623b3188b13049ea3fd2ff46a29234825d207c9d67",
+        "path": "f41a52adb1e7995bdd475a623b3188b13049ea3fd2ff46a29234825d207c9d67.html",
+        "kind": "html",
+        "url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=db0467c7-5077-487c-9c3a-25c838f99a2d&vendorname=JCPL&zipcode=07701&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "captured_at": "2026-10-15T18:28:58.711979+00:00",
+        "bytes": 54179
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

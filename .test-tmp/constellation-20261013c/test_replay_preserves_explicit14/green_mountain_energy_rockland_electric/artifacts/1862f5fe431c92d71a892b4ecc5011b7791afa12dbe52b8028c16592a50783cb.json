@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org/",
+  "@id": "https://www.greenmountainenergy.com/",
+  "@type": "WebSite",
+  "description": "Green Mountain Energy is a renewable electricity company offering clean energy plans and sustainable electricity solutions.",
+  "inLanguage": [
+    "en-US",
+    "es-US"
+  ],
+  "name": "Green Mountain Energy",
+  "publisher": {
+    "@id": "https://www.greenmountainenergy.com/"
+  },
+  "url": "https://www.greenmountainenergy.com/"
+}

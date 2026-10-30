@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Ambit Energy|ACE Electric|electric,Ambit Energy,ACE Electric,electric,08401,e08838417358ba2284e8793f,Ultimate Perks 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|ACE Electric|electric,Ambit Energy,ACE Electric,electric,08401,566bbd3e2700a8def272165e,Garden State Select 12 Month Term,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|ACE Electric|electric,Ambit Energy,ACE Electric,electric,08401,1e6f9486f38b74d967391cdd,Winter Break 12,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Ambit Energy|ACE Electric|electric,Ambit Energy,ACE Electric,electric,08401,0406eaff27c318b967c9a2bd,Winter Break 24,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

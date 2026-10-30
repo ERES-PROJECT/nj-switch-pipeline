@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Indra Energy|ACE Electric|electric,Indra Energy,ACE Electric,electric,08401,a14b0e7075aecf125456e531,Renewable Freedom Plan,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|ACE Electric|electric,Indra Energy,ACE Electric,electric,08401,4fe78f11357eadf38f281f05,Renewable Secure Rate 12,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0
+Indra Energy|ACE Electric|electric,Indra Energy,ACE Electric,electric,08401,1bce68cd37b35c7e127455ec,Renewable Secure Rate 6,True,,monthly_fee | renewable_percentage | renewable_source | renewable_claim,0

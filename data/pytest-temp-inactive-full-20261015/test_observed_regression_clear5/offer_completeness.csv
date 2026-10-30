@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Clearview Energy|SJG Gas|gas,Clearview Energy,SJG Gas,gas,08094,0fe7ec58f5c76e4ff3744c1e,NaturalAssurance12*,True,,term_months | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

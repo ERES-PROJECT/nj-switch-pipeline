@@ -1,0 +1,17 @@
+{
+  "fixture_kind": "observed_public_capture",
+  "captured_at": "2026-09-11T05:51:38.220132+00:00",
+  "query": {
+    "supplier": "Constellation Energy",
+    "utility": "ETG Gas",
+    "commodity": "gas",
+    "zip": "07201",
+    "url": "https://constellationrates.com/state/new-jersey/",
+    "adapter": "constellation",
+    "skip_reason": null
+  },
+  "context_verified": false,
+  "payloads": [],
+  "documents": [],
+  "disposition": "unsupported"
+}

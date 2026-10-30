@@ -1,0 +1,17 @@
+{
+  "fixture_kind": "observed_public_capture",
+  "captured_at": "2026-09-11T05:24:32.407127+00:00",
+  "query": {
+    "supplier": "CleanChoice Energy",
+    "utility": "ACE Electric",
+    "commodity": "electric",
+    "zip": "08401",
+    "url": "https://cleanchoiceenergy.com/enroll#/",
+    "adapter": "cleanchoice",
+    "skip_reason": null
+  },
+  "context_verified": false,
+  "payloads": [],
+  "documents": [],
+  "disposition": "blocked"
+}

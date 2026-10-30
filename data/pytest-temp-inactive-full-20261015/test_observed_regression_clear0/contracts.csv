@@ -1,0 +1,1 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings

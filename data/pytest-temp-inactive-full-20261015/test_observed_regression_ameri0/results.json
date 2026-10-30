@@ -1,0 +1,81 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "American Power & Gas",
+      "utility": "PSE&G Gas",
+      "commodity": "gas",
+      "zip": "07102",
+      "url": "https://apgpublicsite.azurewebsites.net/locations/new-jersey",
+      "adapter": "american_power_and_gas",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:29:47.924798+00:00",
+    "finished_at": "2026-10-15T18:29:47.965750+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 1,
+    "offers": [
+      {
+        "key": "f7b1ae6ed45c501913a2c262",
+        "supplier": "American Power & Gas",
+        "utility": "PSE&G Gas",
+        "commodity": "gas",
+        "zip": "07102",
+        "name": "Super Gas",
+        "product_id": "apg-pse-g-gas-super-gas",
+        "price": {
+          "value": "0.849",
+          "unit": "USD/therm",
+          "raw": "84.90¢\n/\ntherms"
+        },
+        "rate_structure": "variable",
+        "term_months": null,
+        "term_kind": "month_to_month",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "enrollment_fee": "enrollment fees!"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://apgpublicsite.azurewebsites.net/enrollment/plans",
+        "source_kind": "html",
+        "artifact_id": "6240cba4573fd96bc4b45a769e2597dbd46d776779c757ec8b8504235783ef8b",
+        "captured_at": "2026-10-14T03:00:15.157667+00:00",
+        "raw_fields": {
+          "text": "Gas\nVariable\nSuper Gas\nplaceholder\n84.90¢\n/\ntherms\nTerm: Monthly\nSelect Plan\nMonthly term with no cancellation or enrollment fees!\nmonth-to-month"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "6240cba4573fd96bc4b45a769e2597dbd46d776779c757ec8b8504235783ef8b",
+        "path": "6240cba4573fd96bc4b45a769e2597dbd46d776779c757ec8b8504235783ef8b.html",
+        "kind": "html",
+        "url": "https://apgpublicsite.azurewebsites.net/enrollment/plans",
+        "captured_at": "2026-10-15T18:29:47.942575+00:00",
+        "bytes": 74828
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

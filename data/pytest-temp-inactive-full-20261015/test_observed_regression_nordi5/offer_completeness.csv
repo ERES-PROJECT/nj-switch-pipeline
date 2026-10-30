@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Nordic Energy Services|JCP&L Electric|electric,Nordic Energy Services,JCP&L Electric,electric,07701,30bf5292edbffd4aebbfb189,Nordic JCP&L 2 Month Fixed Electric,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

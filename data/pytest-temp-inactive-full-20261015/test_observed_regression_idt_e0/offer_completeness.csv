@@ -1,0 +1,7 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,2a3ad365257870a42e36435b,IDT Standard Renewable Mix Fixed Offer,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source,0
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,844cdd9e7aaf77f87565b2dd,IDT Standard Renewable Mix Variable Offer,True,,term_months | monthly_fee | enrollment_fee | renewable_percentage | renewable_source,0
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,f6ea3d0c584ffb9df5a06ba3,IDT 100% Renewable Variable Offer,True,,term_months | monthly_fee | enrollment_fee | renewable_source,0
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,5a716dac2f9dc1dea495d901,IDT 100% Renewable Fixed Offer,True,,monthly_fee | enrollment_fee,0
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,8e72acc999f7dc9a47bcaba1,IDT Standard Renewable Mix Fixed Offer,True,,monthly_fee | enrollment_fee | renewable_percentage | renewable_source,0
+IDT Energy|JCP&L Electric|electric,IDT Energy,JCP&L Electric,electric,07701,f449eb04cfe2c13f336cd1b2,IDT 100% Renewable Fixed Offer,True,,monthly_fee | enrollment_fee,0

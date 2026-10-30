@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Constellation Energy|JCP&L Electric|electric,Constellation Energy,JCP&L Electric,electric,07701,27832912db5d78ccff6bf4ba,15 Month Power Plan,False,rate_structure,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,1
+Constellation Energy|JCP&L Electric|electric,Constellation Energy,JCP&L Electric,electric,07701,683ec6759135cb1efb7781b6,12 Month Power Plan,False,rate_structure,enrollment_fee | cancellation_fee | renewable_source,1

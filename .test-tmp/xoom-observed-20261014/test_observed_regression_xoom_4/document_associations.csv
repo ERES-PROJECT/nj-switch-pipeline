@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,linked_document_count,contract_summary_count,association_status,association_scope,contract_ids
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,0bf40fb85034335b80f96ac5,SimpleFlex,0,0,missing_useful_document,none,
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,7170ac94cef629b4569a0f5f,RescueLock 12,0,0,missing_useful_document,none,
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,ff89ce4323c6f42f5c24d475,SureLock 12,0,0,missing_useful_document,none,
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,52259da71e0b936ef72c569d,SureLock 24,0,0,missing_useful_document,none,

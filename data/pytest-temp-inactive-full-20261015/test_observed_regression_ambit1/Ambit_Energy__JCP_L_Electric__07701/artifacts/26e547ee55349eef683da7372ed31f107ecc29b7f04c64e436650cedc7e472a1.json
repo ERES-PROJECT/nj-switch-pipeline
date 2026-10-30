@@ -1,0 +1,14 @@
+{
+  "ServiceProviderStates": [
+    {
+      "ServiceTypeCd": "1",
+      "StateCd": "NJ",
+      "StateName": "NEW JERSEY"
+    },
+    {
+      "ServiceTypeCd": "4",
+      "StateCd": "NJ",
+      "StateName": "NEW JERSEY"
+    }
+  ]
+}

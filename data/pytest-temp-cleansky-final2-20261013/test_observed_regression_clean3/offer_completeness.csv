@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,9e6161b56f3f3fd13446bb9b,Affordable Clean Gas 6,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,ab321a03dcd50abcdc2f86a6,Affordable Clean Gas 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,6273780c1c2c6c2eff3c5889,Affordable Clean Gas 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,7b96567d7c792979c5576bfa,Ultra Clean Gas 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+CleanSky Energy|SJG Gas|gas,CleanSky Energy,SJG Gas,gas,08094,a41fa86df5589929f2eb458c,Ultra Clean Gas 24,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

@@ -1,0 +1,81 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Smart Energy",
+      "utility": "Rockland Electric",
+      "commodity": "electric",
+      "zip": "07430",
+      "url": "https://account.smartenergy.com/",
+      "adapter": "smart_energy",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T17:35:38.361870+00:00",
+    "finished_at": "2026-10-15T17:35:38.397264+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 1,
+    "offers": [
+      {
+        "key": "d80448ed2aaceb18e260f5e6",
+        "supplier": "Smart Energy",
+        "utility": "Rockland Electric",
+        "commodity": "electric",
+        "zip": "07430",
+        "name": "$100 Visa Prepaid Card Plan",
+        "product_id": null,
+        "price": {
+          "value": "0.218",
+          "unit": "USD/kWh",
+          "raw": "21.8\n¢\nPer kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 6,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "No cancellation fee\nNo hidden charges"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://account.smartenergy.com/step-1",
+        "source_kind": "html",
+        "artifact_id": "c7198635597e5372bce65275034dcc56f45119377e2860b5561eb1ad3a1db847",
+        "captured_at": "2026-09-11T14:01:16.835312+00:00",
+        "raw_fields": {
+          "text": "$100 Visa Prepaid Card Plan\n21.8\n¢\nPer kWh\n6 month Fixed Rate\nNo cancellation fee\nNo hidden charges\nSelect Plan\nSelect this Plan"
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "c7198635597e5372bce65275034dcc56f45119377e2860b5561eb1ad3a1db847",
+        "path": "c7198635597e5372bce65275034dcc56f45119377e2860b5561eb1ad3a1db847.html",
+        "kind": "html",
+        "url": "https://account.smartenergy.com/step-1",
+        "captured_at": "2026-10-15T17:35:38.381302+00:00",
+        "bytes": 95634
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

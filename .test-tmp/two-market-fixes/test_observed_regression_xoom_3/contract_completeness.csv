@@ -1,0 +1,10 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,295c2949a6421c1f2e44029b71f4f6af3da9234f5d4aa8b969fed7ae7fb4aa2f,terms_or_other,text_extracted,12,0,0,,False,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,7376d1d82b73e19da5ae9887cce551e0b1ebe3b2d5956be4f5555ec09235ba5a,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,aa6cea92e07f17014df4ac0711546feab3e56dcc7ecc3e15330b98fdbae18407,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,8f899ec2d555f3436e5e4d6481638b70ce215c3418fdf7af9c1d80b334fc8b99,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,e96a23a283658d84885ae209a9c6591e41b6e25ea4e935795746f8f238fc055e,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,f14fcc83a31cf4c7ca9e4496459628ca0980440070777cf6a7b3df0e1e24891b,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,d195ebba37a233ba947b7e0b0c5e075105e54798ab0874e9fe58c6a2fc9c07cd,terms_or_other,text_extracted,12,1,0,,False,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,eb46613e46deb30bf536666ecabcd34f300becc9d96599678afd1598781f8381,contract_summary,parsed,12,12,0,,True,0
+Xoom Energy|PSE&G Gas|gas,Xoom Energy,PSE&G Gas,gas,07102,2fd58897d98aa8aa3c2e87cf699b9e618436bf5e2e963ae0d0bab1cfa6b1b15c,terms_or_other,text_extracted,12,0,0,,False,0

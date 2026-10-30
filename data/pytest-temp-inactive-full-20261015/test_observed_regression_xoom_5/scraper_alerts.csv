@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,severity,alert_code,detail
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,warning,not_completed,status=partial
+Xoom Energy|SJG Gas|gas,Xoom Energy,SJG Gas,gas,08094,warning,document_association_gap,offers_with_gap=4

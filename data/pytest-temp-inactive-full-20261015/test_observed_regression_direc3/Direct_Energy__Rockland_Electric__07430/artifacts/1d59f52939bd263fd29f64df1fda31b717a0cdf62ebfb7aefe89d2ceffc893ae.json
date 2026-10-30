@@ -1,0 +1,30 @@
+{
+  "electricUtility": [
+    {
+      "commodity": "ELEC",
+      "county": "",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "Rockland Electric",
+      "state": "NJ",
+      "utilityCode": "REE",
+      "zipRateKey": 14564
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "gasUtility": [
+    {
+      "commodity": "GAS",
+      "county": "NEW JERSEY",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "Public Service Gas",
+      "state": "NJ",
+      "utilityCode": "PSG",
+      "zipRateKey": 2772
+    }
+  ],
+  "success": true,
+  "unserviceable": false
+}

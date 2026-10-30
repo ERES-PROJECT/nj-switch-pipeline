@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Constellation Energy|ACE Electric|electric,Constellation Energy,ACE Electric,electric,08401,81a9adeb7bb4a92cd9c62dbb,15 Month Power Plan,False,rate_structure,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,1
+Constellation Energy|ACE Electric|electric,Constellation Energy,ACE Electric,electric,08401,24f4688c5d421e9148238708,12 Month Power Plan,False,rate_structure,enrollment_fee | cancellation_fee | renewable_source,1

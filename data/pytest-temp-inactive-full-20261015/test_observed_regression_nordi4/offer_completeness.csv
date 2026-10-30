@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Nordic Energy Services|ACE Electric|electric,Nordic Energy Services,ACE Electric,electric,08401,105b0a9810feebe69a1bafef,Nordic Atlantic City Electric 2 Month Fixed Electric,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

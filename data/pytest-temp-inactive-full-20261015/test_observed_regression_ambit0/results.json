@@ -1,0 +1,294 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Ambit Energy",
+      "utility": "PSE&G Electric",
+      "commodity": "electric",
+      "zip": "07102",
+      "url": "https://customer.ambitenergy.com/servicearea",
+      "adapter": "ambit",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:28:58.070056+00:00",
+    "finished_at": "2026-10-15T18:28:58.337424+00:00",
+    "status": "success",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 4,
+    "offers": [
+      {
+        "key": "e212a0b013ae9a59a8f3eccf",
+        "supplier": "Ambit Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Ultimate Perks 12",
+        "product_id": "225deb49-1ef6-4fac-b6a3-e777c7851b44",
+        "price": {
+          "value": "0.2129",
+          "unit": "USD/kWh",
+          "raw": "$0.2129\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "Receive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.",
+          "for information about the Ambit Ultimate Perks Reward Program."
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=a2270c2b-45b1-4293-a94c-133f0aa8d695&vendorname=PSEG&zipcode=07102&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "9731d888c45026231a518b3893d7a039b74b1797e4768c9f670876c2263e4910",
+        "captured_at": "2026-09-04T15:51:19.174515+00:00",
+        "raw_fields": {
+          "text": "Ultimate Perks 12\n$0.2129\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nReceive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.\nPlease visit\nAmbitUltimatePerks.com\nfor information about the Ambit Ultimate Perks Reward Program."
+        },
+        "warnings": []
+      },
+      {
+        "key": "316bf40490c82a790849ac79",
+        "supplier": "Ambit Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Garden State Select 12 Month Term",
+        "product_id": "72dbf18c-3efa-4914-9775-fd69e59b0252",
+        "price": {
+          "value": "0.2079",
+          "unit": "USD/kWh",
+          "raw": "$0.2079\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=a2270c2b-45b1-4293-a94c-133f0aa8d695&vendorname=PSEG&zipcode=07102&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "9731d888c45026231a518b3893d7a039b74b1797e4768c9f670876c2263e4910",
+        "captured_at": "2026-09-04T15:51:19.174515+00:00",
+        "raw_fields": {
+          "text": "Garden State Select 12 Month Term\n$0.2079\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nManage your budget and secure your rate for 12 months. Special offer for new, online customers."
+        },
+        "warnings": []
+      },
+      {
+        "key": "e605e6eea043796b7225a89f",
+        "supplier": "Ambit Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Winter Break 12",
+        "product_id": "c748fc2e-b338-4cd9-9935-05c21ffd342a",
+        "price": {
+          "value": "0.2529",
+          "unit": "USD/kWh",
+          "raw": "$0.2529\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "As temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.",
+          "Receive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=a2270c2b-45b1-4293-a94c-133f0aa8d695&vendorname=PSEG&zipcode=07102&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "9731d888c45026231a518b3893d7a039b74b1797e4768c9f670876c2263e4910",
+        "captured_at": "2026-09-04T15:51:19.174515+00:00",
+        "raw_fields": {
+          "text": "Winter Break 12\n$0.2529\n/ kWh\nTerm:\n12 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nAs temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.\nReceive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit\nambitenergy.com/WinterBreak\nfor information on Ambit’s Winter Break plan."
+        },
+        "warnings": []
+      },
+      {
+        "key": "4e6433599891d40a0116c7a5",
+        "supplier": "Ambit Energy",
+        "utility": "PSE&G Electric",
+        "commodity": "electric",
+        "zip": "07102",
+        "name": "Winter Break 24",
+        "product_id": "57a198dc-5dda-4fca-a7b7-e320f5b24dec",
+        "price": {
+          "value": "0.2579",
+          "unit": "USD/kWh",
+          "raw": "$0.2579\n/ kWh"
+        },
+        "rate_structure": "fixed",
+        "term_months": 24,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": null,
+        "enrollment_fee": null,
+        "cancellation_fee": "0",
+        "fee_terms": {
+          "cancellation_fee": "Early Cancellation Fee:\n$0"
+        },
+        "incentives": [
+          "As temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.",
+          "Receive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [],
+        "contract_ids": [],
+        "source_url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=a2270c2b-45b1-4293-a94c-133f0aa8d695&vendorname=PSEG&zipcode=07102&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "source_kind": "html",
+        "artifact_id": "9731d888c45026231a518b3893d7a039b74b1797e4768c9f670876c2263e4910",
+        "captured_at": "2026-09-04T15:51:19.174515+00:00",
+        "raw_fields": {
+          "text": "Winter Break 24\n$0.2579\n/ kWh\nTerm:\n24 months\nRate Type:\nFixed\nEarly Cancellation Fee:\n$0\nSelect Plan\nPlan Details\nTerms & Conditions\nUtility Disclosure\nAs temperatures drop, your savings will rise. Get 50% off your energy charges on bill cycles beginning November 1st through the end of February. Best for customers with electric heating. Special offer for new, online customers.\nReceive 50% off your energy charges on bill cycles beginning November 1st through the end of February. Please visit\nambitenergy.com/WinterBreak\nfor information on Ambit’s Winter Break plan."
+        },
+        "warnings": []
+      }
+    ],
+    "contracts": [
+      {
+        "id": "434f618e55b17394b02321c2a6cc1a2f5a279c519b2a3783e27b7d393e80ef9d",
+        "url": "https://www.ambitenergy.com/terms-of-use",
+        "artifact_id": "434f618e55b17394b02321c2a6cc1a2f5a279c519b2a3783e27b7d393e80ef9d",
+        "media_type": "text/html",
+        "document_kind": "terms_or_other",
+        "source_urls": [
+          "https://www.ambitenergy.com/terms-of-use"
+        ],
+        "sections": {},
+        "raw_text": ":: Ambit Energy\nHigh Temps & Your Usage\nTriple-digit temps increase your electricity usage. Stay cool and save with helpful tips and tools\nhere\n.\n877‑282‑6248\nEspañol\nLog In\nAmbit Energy\nLog In\nCustomer Care\nContact Us\nMyAmbit Account\nPay Your Bill\nHelp Center\nFAQs\nReport an Outage\nShop Plans\n877-282-6248\nAmbit Energy\nCustomer Care\nContact Us\nMyAmbit Account\nPay Your Bill\nHelp Center\nFAQs\nReport an Outage\nShop Plans\nTerms of Use\nLast updated: September 8, 2023\nThese Terms of Use, the Privacy Policy posted at\nhttps://www.ambitenergy.com/privacy\n(the\n“Privacy Policy”\n), which is incorporated herein by reference, and all other rules, policies, and procedures that Ambit Energy or its affiliated companies (collectively,\n“Company,” “we,” “us,”\nor\n“our”\n) may publish from time to time (collectively, these\n“Terms”\n) govern your (as defined below) access to and use of our websites, including but not limited to, the information provided thereon and the services provided therethrough (individually and collectively, the\n“Sites”\n).\nARBITRATION AND CLASS ACTION WAIVER NOTICE:\nTHESE TERMS CONTAIN A MANDATORY ARBITRATION AGREEMENT AND CLASS ACTION WAIVER, REQUIRING YOU TO RESOLVE ANY DISPUTE (AS DEFINED BELOW) BETWEEN YOU AND US THROUGH FINAL AND BINDING INDIVIDUAL ARBITRATION, INSTEAD OF IN COURT, AND REQUIRING YOU TO FOREGO ALL JURY TRIALS AND ALL CLASS, COLLECTIVE, CONSOLIDATED, AGGREGATE, MASS, AND REPRESENTATIVE PROCEEDINGS, AND ALL OTHER TYPES OF COURT PROCEEDINGS OF ANY AND EVERY KIND. YOU WILL BE BOUND BY THIS ARBITRATION AGREEMENT, UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT BY FOLLOWING THE OPT-OUT PROCEDURES SET FORTH BELOW. BY AGREEING TO THESE TERMS, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ, CAREFULLY CONSIDERED, AND UNDERSTAND ALL OF THE PROVISIONS OF THE ARBITRATION AGREEMENT AND CLASS ACTION WAIVER PROVISIONS, AND THAT YOU EXPRESSLY AGREE TO BE BOUND THEREBY.\nIF YOU DO NOT AGREE TO ANY OF THESE TERMS, PLEASE DO NOT USE ANY OF THE SITES.\n1. Acceptance of Terms\nThese Terms are a legal agreement, by and between you (as defined below) and us, relating to and governing your use of the Sites. BY USING THE SITES IN ANY MANNER, INCLUDING BUT NOT LIMITED TO, ACCESSING OR BROWSING THE SITES OR SUBMITTING FEEDBACK OR OTHER INFORMATION THROUGH THE SITES, OR BY CLICKING TO ACCEPT OR AGREE TO THESE TERMS WHEN THE OPTION IS MADE AVAILABLE TO YOU, IN ALL CASES WHETHER OR NOT YOU AGREE TO PURCHASE ANYTHING FROM US, YOU AGREE TO BE BOUND BY THESE TERMS AND YOU REPRESENT AND WARRANT THAT YOU ARE AT LEAST EIGHTEEN (18) YEARS OF AGE AND ARE ABLE AND LEGALLY COMPETENT TO ENTER INTO A LEGALLY BINDING AGREEMENT. IF YOU ARE USING THE SITES ON BEHALF OF AN INDIVIDUAL, COMPANY, OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND THAT ENTITY TO THESE TERMS, AND YOUR ACCEPTANCE OF THESE TERMS IS DEEMED AN AGREEMENT BY AND BETWEEN THAT ENTITY AND US.\n“You”\n(and all derivations thereof) means you, individually, and any person acting as your agent, under your authority, or with your permission, and if you are accepting these Terms on behalf of a company or other legal entity, that legal entity.\nInternational User Notice:\nThe Sites are controlled and offered by us from our facilities in the United States. We make no representation that the Sites are appropriate or available for use outside of the United States, and access to the Sites is prohibited in jurisdictions where such access, or any content or service made available through the Sites, is illegal. You are responsible for compliance with all applicable local laws while accessing the Sites from a location outside of the United States.\n2. Binding Arbitration and Class Action Waiver (“Arbitration Agreement”)\nNOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, AMBIT INDEPENDENT CONSULTANTS AGREE THAT ANY “DISPUTE” AS DEFINED HEREIN BETWEEN A CONSULTANT AND AMBIT (INCLUDING THE RELATED PARTIES) WILL BE ARBITRATED IN ACCORDANCE WITH SECTION IX OF AMBIT’S CONSULTANT POLICIES AND PROCEDURES.\nMandatory Binding Arbitration.\nYou and Company agree that, subject to the limited exceptions specified in this Arbitration Agreement, any dispute, controversy, or claim arising out of, in connection with, or relating to the Sites, these Terms, this Arbitration Agreement, or any aspect of the relationship between You, on the one hand, and Company, on the other hand, or the breach, termination, enforcement, interpretation, scope, or validity of the Terms or this Arbitration Agreement (each a “Dispute”) will be resolved through final and binding individual arbitration in accordance with the rules and procedures of the American Arbitration Association (the “AAA”), instead of in a court in any jurisdiction by a judge or jury.\nYou and Company agree that the arbitrator(s), and not any federal, state, or local court or agency, shall have exclusive authority to resolve any Disputes relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable, and you and Company each waive any right of appeal to any court or tribunal of competent jurisdiction to the fullest extent permitted by the law of the place of arbitration, except as necessary to modify, correct, or vacate an arbitration award. The arbitrator(s) shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether the Terms or this Arbitration Agreement is unconscionable or illusory and any defense to arbitration, including waiver, delay, laches, or estoppel.\nNotwithstanding this Arbitration Agreement, you and Company each retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction solely to prevent the actual or threatened infringement, misappropriation, or violation of a party’s copyrights, trademarks, trade secrets, patents, or other intellectual property rights.\nClass Action/Jury Trial Waiver.\nYou and Company agree that each party is waiving the right to trial by a jury or to participate in any purported class, collective, aggregate, mass, consolidated, or representative action, arbitration, or other proceeding.\nUnless both you and Company agree in writing, each party may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class, collective, aggregate, mass, consolidated, or representative action, arbitration, or other proceeding. If the parties’ Dispute is resolved through arbitration, the arbitrator may not consolidate another person’s claims with your claims, and may not otherwise preside over any form of a class, collective, aggregate, mass, consolidated, or representative proceeding, provided that any request for public injunctive relief shall be severed from the arbitration and stayed pending the outcome of the arbitration and shall be decided by a court after the arbitrator determines liability. If the foregoing sentence is found to be unenforceable, then the entirety of this Arbitration Agreement section shall be null and void, and you and Company shall be deemed not to have agreed to arbitrate disputes on a mass or class basis. This Arbitration Agreement shall survive any termination of these Terms. Notwithstanding the foregoing, where required by law, the arbitrator may award public injunctive relief..\nOpt-Out Procedure.\nYou can choose to reject this Arbitration Agreement by sending us a written opt-out notice (\n“Opt-Out Notice”\n) within thirty (30) days following the date you first agree to these Terms by email to [EMAIL REDACTED], or by mail addressed to Ambit Energy, Attn: Compliance Department, 6555 Sierra Drive, Irving, TX 75039. If mailed, the Opt-Out Notice must be postmarked no later than thirty (30) days following the date you first agree to these Terms. To be effective, the Opt-Out Notice must contain your name, address, and signature. If you opt-out of this Arbitration Agreement, all other parts of these Terms will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any previous, other, or future arbitration agreements that you may have with Company.\nDispute Resolution Procedure.\nTo start the Dispute process, you shall promptly send us written notice therefore by email to [EMAIL REDACTED], or by mail addressed to Ambit Energy, Attn: Compliance Department, 6555 Sierra Drive, Irving, TX 75039; and, in the event Company wishes to start the Dispute process, Company shall promptly send you written notice thereof to your email address on file if available. Any notice shall include with reasonable particularity (i) a description of the Dispute, (ii) an explanation of the basis of your or Company’s (as applicable) position with respect thereto, (iii) a description of the relief or resolution you or Company (as applicable) seek, and (iv) if you or Company are sending notice on behalf of a legal entity, the name and title of the person who will represent that legal entity.\nInformal Negotiations\nIn order to allow you and Company to try to resolve the Dispute informally, you and Company agree to not initiate arbitration of any Dispute for at least sixty (60) business days from the date the recipient receives the notice. Within sixty (60) business days after receipt of the notice, you and Company shall attempt in good faith to resolve the Dispute by informal negotiations and, if you and Company are unable to resolve the Dispute within that time period, then the Dispute shall be resolved through final and binding individual arbitration in accordance with the procedures set forth below.\nArbitration Rules & Procedures\nGeneral.\nIf a Dispute remains unresolved after informal negotiations as described above, you and Company may each refer the matter to arbitration as described herein, the results of which shall be binding upon you and Company. The arbitration will be administered by the AAA under its Consumer Arbitration Rules and any supplementary rules then in effect (the\n“AAA Rules”\n), except as modified by these Terms. The AAA Rules are available at www.adr.org. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms.\nA party who wishes to start arbitration must submit a written demand for arbitration (each, a\n“Demand for Arbitration”\n) to the AAA and give notice to the other party as specified in the AAA Rules. The AAA provides a form Demand for Arbitration at www.adr.org. You can contact the AAA for more information on how to commence an arbitration proceeding by visiting www.adr.org or by calling 1-800-778-7879. Any arbitration hearings will take place in the county where you live or at another mutually agreed location.\nIt is the intent of the parties that the AAA Rules and the U.S. Federal Arbitration Act (the “FAA”) shall preempt all state laws to the fullest extent permitted by law. If the AAA Rules and the FAA are found to not apply to any issue that arises under this Arbitration Agreement or the enforcement thereof, then that issue shall be resolved under the laws of the State of Texas, without regard to its choice or conflict of law provisions.\nArbitration Costs.\nPayment of all filing, administration, and arbitrator fees will be governed by the AAA Rules. Company will pay for all filing, administration, and arbitrator fees and expenses if your Dispute is for Two Hundred Dollars ($200) or less, unless the arbitrator finds your Dispute frivolous.\nChanges to Arbitration Agreement.\nNotwithstanding the provisions of Section 13 (“Changes to Terms and Termination”) below, if Company changes any of the terms of this Arbitration Agreement after the date you first accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice of such rejection within thirty (30) days of your first use of the Sites following the date such change became effective, as indicated in the “Last Updated” date above. The written notice must be provided either by email or mail at the addresses provided in the “Dispute Resolution Procedure” section above. To be effective, your notice must include your full name and address and clearly indicate your intent to reject changes to this Arbitration Agreement. By rejecting any change, you are agreeing that you will arbitrate any Dispute between you and Company in accordance with the terms of this Arbitration Agreement as of the date you first accepted these Terms (or accepted any subsequent changes to these Terms).\n3. Your Account\nRegistration.\nWhile some elements of the Sites may be accessible to the public, certain aspects of the Sites (e.g., online bill payment or other services) require that you register a user account and establish a username and password. When you register an account with the Sites, you agree to: (i) provide accurate, complete, truthful, and current information about yourself as prompted by registration forms for the Sites (\n“Registration Data”\n); (ii) maintain and promptly update the Registration Data and any other account-related information you provide to us or that we may reasonably request; and (iii) not select a username that is vulgar, offensive, obscene, or attempts to impersonate another person. You also agree never to use another user’s account without that user’s express permission.\nPassword and Security.\nYou are responsible for maintaining the confidentiality of your account password, and you are solely responsible for all activities that occur through your account, including the activities of others and regardless of whether such activities are authorized. You agree to immediately notify us of any unauthorized use of your account or other known account-related security breach. We reserve the right to require you to alter your password if we believe such password is no longer secure. You agree that you are solely responsible for any loss or damage that you or we suffer as a result of your failure to adequately safeguard your password.\nOwnership and Termination.\nYou have no property or ownership rights or interest whatsoever in your user account. We reserve the right, in our sole discretion and for any reason, to refuse to register or provide you with an account or to cancel or terminate your account or rights to use the Sites. Upon cancellation or termination, you agree to immediately delete or destroy any downloaded or printed material obtained from the Sites.\n4. Acceptable Use and Restrictions\nSo long as you comply with these Terms, we hereby grant you a limited, non-exclusive, revocable, non-transferable license, without right of sublicense, to access and lawfully use the Sites solely for your non-commercial, personal, or internal lawful business use. Your use of any of the Sites’ services (e.g., email and chat services, online forums, and other applications) may be subject to additional terms and conditions, which will be made available to you when you first use such Sites’ services. Where those additional terms and conditions conflict with these Terms, those additional terms and conditions will govern. You are solely responsible for all of your activity in connection with the Sites and must comply with these Terms and all applicable laws (including data privacy and labor laws). You may not use the Sites for any purpose other than as set forth in these Terms. Without limiting the foregoing, you agree that you shall not, and shall not instruct, permit, allow, or induce any person, directly or indirectly, to:\ninterfere or attempt to interfere with the proper working of the Sites, including taking any action that imposes or may impose (as determined in our sole discretion) an unreasonable or disproportionately large load on our infrastructure;\ninterfere or attempt to interfere with others’ use of the Sites, or gain or attempt to gain unauthorized access to the computer system of any other user;\nbypass or attempt to bypass any security measures we may use to prevent or restrict access to the Sites;\nimpersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity;\ndecompile, disassemble, or otherwise reverse engineer the Sites or any portion thereof, or otherwise attempt to derive any confidential data or source code or other trade secrets embodied in the Sites;\ninfringe the intellectual property or other rights of any person or entity, including without limitation any copyright, moral right, trademark, patent, right of publicity, or right of privacy, or violate any third party rights or any local, state, national, or international law or regulation;\ntransmit any submissions or other materials that are abusive, harassing, tortious, defamatory, libelous, or invasive of another’s privacy;\ntransmit any submissions or other materials that contain adware, malware, spyware, software viruses, or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment; or\nuse any manual or automated software, bots, spiders, or other information-gathering devices or programming routines to scrape, access, monitor, copy, or collect or otherwise “mine” information displayed on the Sites, except as authorized by Company.\n5. Intellectual Property\nWe retain all right, title, and interest, including all intellectual property rights, in and to the Sites.\nOur Trademarks.\nAll trade names, trademarks, and/or service marks used and displayed on the Sites are owned by Company and/or other third parties. You may not use, copy, modify, or display any of the trade names, trademarks, or service marks appearing on the Sites without the prior written permission of the owner thereof.\nOur Copyrights.\nAll of the content on our Sites, including but not limited to, works of authorship, articles, photographs, pictures, graphics, video, audio, text, logos, icons, software, images, and data compilations; any improvements or modifications to such content; any derivative works based thereon; and the collection, arrangement, and assembly of all content on the Sites and software used on the Sites, are owned by Company or other content or software providers and are protected by United States and international copyright and other intellectual property laws. Certain software may be governed by an additional end user license agreement or “EULA” to which you may be required to agree before using such software.\nYou are not allowed to reproduce, modify, distribute, translate, create derivative works based (whether in whole or in part) on, reverse engineer, decompile, or disassemble any software or any part of the Sites. You may view and download material displayed on the Sites that is specially designated as available for downloading, provided you retain and comply with all copyright, trademark, and other proprietary notices displayed on the materials. Use, distribution, modification, display, sale, or further transmission (in whole or in part) of these materials in any form or by any means, including in or on publications, other websites, or presentations, is prohibited without Company’s prior written consent.\nCompany reserves all rights not expressly granted to you in these Terms. Except for the limited rights and licenses expressly granted to you under these Terms, nothing in these Terms will be construed to grant (by implication, waiver, estoppel, or otherwise) to you or any third party a license or right in or to any intellectual property rights (including without limitation trademark, copyright, or any other proprietary right) or any other right, title, or interest in or to the Sites.\n6. User Feedback\nYou may provide feedback, suggestions, comments, improvements, and/or ideas (collectively,\n“Feedback”\n) to us concerning the Sites. You acknowledge and agree that any Feedback you provide is our exclusive property, and that we may use all Feedback in any manner, including by disclosing, reproducing, licensing, publishing, distributing, or otherwise exploiting Feedback for any purpose in our sole discretion without compensation to you or any obligations or restrictions of any kind, including intellectual property or licensing obligations. You agree to assign and hereby assign to us all of your right, title, and interest in and to your Feedback, including all intellectual property rights therein. You understand and agree that the incorporation by us of Feedback into the Sites or anywhere else does not grant you any proprietary rights therein. You represent and warrant that, immediately prior to providing any Feedback, you owned or possessed sufficient legal rights to such Feedback without conflicting with or infringing on the rights of others. The foregoing rights of Company shall survive any termination of these Terms and any discontinuation of your access to the Sites.\nInformation collected from you on the Sites (including information about your account or personal information) is subject to the Privacy Policy and other federal, state, and local laws protecting your privacy.\n7. Linked Websites and Third-Party Features\nPlease note that our Sites may link to, or interface with, third-party websites (the\n“Linked Websites”\n). The Sites may also include functionality that allows you to access and use features of third-party products and services (the\n“Third-Party Features”\n), such as a third-party payment services provider. You agree to abide by any relevant terms of service or other legal agreement(s), including with a third-party payment services provider, which govern your use of a given payment processing method. We may add or remove payment processing methods in our sole discretion and without notice to you. We cannot and do not control the Linked Websites or Third-Party Features, and are not responsible for the content, security, operation, or use of any Linked Website or Third-Party Features or the products or services that may be offered or obtained through them. We hereby disclaim any and all liability for the content or information of the Linked Websites and Third-Party Features. By linking to any Linked Websites or allowing access to any Third-Party Features, we are not endorsing, approving, or recommending any content, information, products, or services (or any owners thereof) referred to or contained on those Linked Websites or provided through those Third-Party Features. IF YOU ACCESS A LINKED WEBSITE OR USE A THIRD-PARTY FEATURE, YOU DO SO AT YOUR OWN RISK. YOU EXPRESSLY RELIEVE COMPANY FROM ANY AND ALL LOSS, DAMAGES, AND OTHER LIABILITIES YOU INCUR AS A RESULT OF YOUR USE OF ANY LINKED WEBSITE OR THIRD-PARTY FEATURE.\n8. Warranty Disclaimer\nYOU UNDERSTAND AND AGREE THAT YOUR USE OF THE SITES IS AT YOUR SOLE RISK AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE ARISING THEREFROM. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU THROUGH THE SITES WILL CREATE ANY WARRANTY FROM COMPANY NOT EXPRESSLY MADE HEREIN.\nTHE SITES ARE PROVIDED “AS IS” AND “AS AVAILABLE,” AND COMPANY MAKES NO GUARANTEES AND HEREBY DISCLAIMS ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO: (i) ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE OR PURPOSE, PERFORMANCE, QUIET ENJOYMENT, TITLE, AND NON-INFRINGEMENT; (ii) RELATING TO THE PERFORMANCE THEREOF; (iii) WITH RESPECT TO ANY RESULTS TO BE OBTAINED THEREFROM; (iv) THAT THE USE THEREOF WILL BE UNINTERRUPTED OR FREE FROM ANY ERROR OR VIRUS; AND (v) WITH RESPECT TO THE ACCURACY, QUALITY, RELIABILITY, SUITABILITY, RELEVANCE, TIMELINESS, COMPLETENESS, OR EFFECTIVENESS OF ANY DATA, RESULTS, CONTENT, OR OTHER INFORMATION OBTAINED OR GENERATED BY YOU THROUGH USE OF THE SITES.\n9. Indemnification\nYou will indemnify, defend, and hold harmless Company and its officers, directors, employees, shareholders, consultants, agents, and licensors from and against any and all actual or threatened claims, actions, demands, losses, expenses, damages, liabilities, settlements, fines, expenses, and costs (including but not limited to, reasonable attorneys’ fees and other professional fees and costs of investigation), arising or alleged to arise from, or in any way related to: (i) your or anyone using your account’s use of the Sites; (ii) your or anyone using your account’s breach of these Terms; or (iii) your or anyone using your account’s violation of any law or the rights of any third party, including but not limited to, any intellectual property rights or privacy rights. You may not settle any claim in any manner that binds Company without our express prior written consent. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with our defense of such claim.\n10. Limitation of Liability\nUNDER NO CIRCUMSTANCES WILL COMPANY OR ITS OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, CONSULTANTS, AGENTS, OR LICENSORS BE LIABLE UNDER ANY THEORY OF LIABILITY (WHETHER IN CONTRACT, TORT, STATUTORY, OR OTHERWISE) FOR ANY DAMAGES WHATSOEVER, INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR PERSONAL INJURY, LOSS OF MONEY, LOSS OF REVENUES, LOSS OF PROFITS, GOODWILL, OR USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF SUCH PARTIES WERE ADVISED OF, KNEW OF, OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM YOUR (OR ANYONE USING YOUR ACCOUNT’S) USE OF THE SITES.\nNOTWITHSTANDING THE FOREGOING, IF COMPANY OR ITS OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, CONSULTANTS, AGENTS, OR LICENSORS ARE FOUND TO BE LIABLE, THE TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION SHALL NOT, UNDER ANY CIRCUMSTANCES, EXCEED ONE HUNDRED U.S. DOLLARS ($100).\nYou acknowledge and agree that we have offered the Sites and entered into these Terms in reliance upon the warranty disclaimers and the limitations of liability set forth herein, that the warranty disclaimers and the limitations of liability set forth herein reﬂect a reasonable and fair allocation of risk between you and us, and that the warranty disclaimers and the limitations of liability set forth herein form an essential basis of the bargain between you and us. To the extent that we may not, as a matter of applicable law, disclaim any implied warranty or limit our liabilities, the scope and duration of such warranty and the extent of our liability will be the minimum permitted under such applicable law.\n11. Governing Law\nThese Terms are made under, and shall be governed by and construed in accordance with, the laws of the State of Texas, notwithstanding your place of residency or any conflict or choice of law principles. Subject to Section 2 (Arbitration Agreement), you and Company agree that the federal and state courts of Texas shall have exclusive jurisdiction over any Dispute, and you and we hereby irrevocably submit to the exclusive personal jurisdiction and venue of such courts for such purposes. You agree that, regardless of any law to the contrary, any Dispute must be filed within one (1) year after the facts giving rise to such Dispute arose.\n12. Changes to Sites\nWe may improve, change, suspend, cancel, or cease to provide the Sites, or any portion of them, at any time and for any reason. We may also remove or disable accounts in our sole discretion.\n13. Changes to Terms and Termination\nWe reserve the right to modify, replace, or otherwise change these Terms in our sole discretion and at any time. If you object to any such changes, your sole recourse will be to cease using the Sites. Subject to Section 2 (Arbitration Agreement), continued use of the Sites following any such changes will indicate your acknowledgement and acceptance of such changes and your agreement to be bound by the changed Terms.\n14. Accessibility\nWe are committed to making our Sites as accessible as possible for everyone. As the law and accessibility standards continue to change and we strive to deliver the most up-to-date content online, please understand that our efforts to improve online accessibility are ongoing. We encourage you to provide Feedback regarding any accessibility issues you may encounter by contacting us at [EMAIL REDACTED] so we can assist you. We thank you for helping us enhance the accessibility of our Sites and we look forward to serving your energy needs.\nPlease also note that our Sites may link to Linked Websites or provide access to Third-Party Features. The third parties owning or controlling the Linked Websites or Third-Party Features may not have undertaken the efforts that we have regarding online accessibility.\n15. Miscellaneous\nRelationship of the Parties.\nNo joint venture, partnership, employment, or agency relationship is created between you and us as a result of these Terms or your use of the Sites, and neither you nor we have any authority of any kind to bind each other in any respect. Our performance of these Terms is subject to existing laws and legal process, and nothing contained herein is in derogation of our right to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Sites or information provided to or gathered by us with respect to such use.\nAssignment.\nYou may not assign any of your rights or obligations under these Terms, whether by operation of law or otherwise, without our prior written consent.\nEntire Agreement.\nThese Terms represent the entire agreement between you and Company concerning its subject matter and supersede all prior and contemporaneous agreements, proposals, representations, and communications, whether written or oral, with respect to your use of the Sites.\nNo Waiver.\nFailure or delay by us to exercise or enforce any of our rights hereunder, the provisions of these Terms, or any other rights we may have under applicable law shall not constitute a waiver of such rights or provisions.\nSeverability.\nSubject to Section 2 (Arbitration Agreement), if any provision of these Terms is held by a court of competent jurisdiction to be illegal, unenforceable, invalid, or otherwise contrary to law, such provision shall be modified by the court and interpreted so as to best accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions shall remain in effect.\n16. DMCA Notice\nWe will promptly process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act and other applicable intellectual property laws. If you believe in good faith that your copyright or exclusive right has been violated by something on the Sites, please notify by email at [EMAIL REDACTED] and include the following information in your notice:\na physical or electronic signature of the owner, or a person authorized to act on behalf of the owner, of the copyright that is allegedly infringed;\nidentification of or a representative list of the copyrighted work you believe has been infringed;\nidentification of the material that is claimed to be infringing upon the copyrighted work, including information reasonably detailed and sufficient to enable us to locate the item on the Sites, such as clear screenshots of the allegedly infringing materials for identification purposes only;\ninformation reasonably sufficient to permit us to contact the copyright owner directly (name, street address, telephone number, and email);\nif available, information reasonably sufficient to permit us to notify the alleged infringer (email address preferred); and\nthe following statements: “I have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law,” and, “I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner or am authorized to act on behalf of the owner of the exclusive right that is allegedly infringed.”\n17. Contact Us\nYou may contact us by email at [EMAIL REDACTED] if you have any questions about these Terms, or you can write us at:\nAmbit Energy\nATTN: Compliance Department\n6555 Sierra Drive\nIrving, TX 75039\nContact Ambit\nContact Ambit Energy\nReport an Outage\nCareers at Ambit Energy\nSatisfaction Guarantee\nSite Map\nTerms of Use\nPrivacy\nGlossary of Bill Terms\nPay Bill in MyAmbit Account\nConsultant Login\n>\nAmbit Energy\nAbout Ambit\nAreas We Serve\nStart Your Business\nHelp Center\nAmbit Cares\nSpark Blog\nCareers\nPlans & Programs\nShop Plans\nFeatured Plans\nSatisfaction Guarantee\nAmbit Home Services\nEnvironmental Disclosures\nJoin the Ambit Family\nBecome an Independent Consultant.\nFollow Us\nPrivacy Policy\n•\nTerms and Conditions\n•\nDSA Code of Ethics\n©2026 Ambit Energy.\n\t\t\t\t\t\t\tAll rights reserved.\nLicensed in\nCA\n,\nDC\n,\nDE\n,\nIL\n,\nIN\n,\nME\n,\nMA\n,\nNH\n,\nNJ\n,\nOH\n,\nPA\n,\nRI\n,\nTX\n&\nVA\n.\n\t\t\t\t(CA #CTA0037, DC #GA11-8-6, MD #IR-1992, MD #IR-1993, NJ #GSL-0110, NJ #ESL-0111, TX #10117)\nDelaware Historical Rates\n,\nDelaware Next Cycle Rate\n,\nIllinois Historical Rates\n,\nIllinois Next Cycle Rate\n,\nMaine Historical & Next Cycle Rates\n,\nMassachusetts Next Cycle Rate\n,\nNew Hampshire Historical Rates\n,\nNew Hampshire Next Cycle Rate\n,\nPennsylvania Historical Rates\nAccept\nWe use cookies for analytics and marketing purposes, including to personalize and enhance your browsing experience on our website.\n\t\t\t\tBy using our website, you agree to our updated\nprivacy policy\nand\nTerms of Use\n.",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      },
+      {
+        "id": "4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd",
+        "url": "https://www.ambitenergy.com/environmental-disclosures",
+        "artifact_id": "4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd",
+        "media_type": "text/html",
+        "document_kind": "environmental",
+        "source_urls": [
+          "https://www.ambitenergy.com/environmental-disclosures",
+          "https://www.ambitenergy.com/environmental-disclosures?lang=en"
+        ],
+        "sections": {},
+        "raw_text": ":: Ambit Energy\nHigh Temps & Your Usage\nTriple-digit temps increase your electricity usage. Stay cool and save with helpful tips and tools\nhere\n.\n877‑282‑6248\nEspañol\nLog In\nAmbit Energy\nLog In\nCustomer Care\nContact Us\nMyAmbit Account\nPay Your Bill\nHelp Center\nFAQs\nReport an Outage\nShop Plans\n877-282-6248\nAmbit Energy\nCustomer Care\nContact Us\nMyAmbit Account\nPay Your Bill\nHelp Center\nFAQs\nReport an Outage\nShop Plans\nEnvironmental Disclosures\nDelaware\nDelaware Environmental Disclosure\nIllinois\nAmeren Environmental Disclosure\nComEd Environmental Disclosure\nSustainability Disclosure\nMaine\nCentral Maine Power Environmental Disclosure\nVersant Power Environmental Disclosure\nMaryland\nMaryland Environmental Disclosure\nMassachusetts\nMassachusetts Environmental Disclosure\nNew Hampshire\nNew Hampshire Environmental Disclosure (Standard)\nNew Jersey\nNew Jersey Environmental Disclosure\nOhio\nOhio Environmental Disclosure (Standard)\nOhio Environmental Disclosure (Green)\nRhode Island\nRhode Island Environmental Disclosure (Standard)\nWashington D.C.\nWashington D.C Environmental Disclosure\nProduct Content Label and Price, Terms and Conditions\nAmbit Green North Central\nAmbit Green Northeast\nAmbit Green SE\nAmbit Green Texas\nContact Ambit\nContact Ambit Energy\nReport an Outage\nCareers at Ambit Energy\nSatisfaction Guarantee\nSite Map\nTerms of Use\nPrivacy\nGlossary of Bill Terms\nPay Bill in MyAmbit Account\nConsultant Login\n>\nAmbit Energy\nAbout Ambit\nAreas We Serve\nStart Your Business\nHelp Center\nAmbit Cares\nSpark Blog\nCareers\nPlans & Programs\nShop Plans\nFeatured Plans\nSatisfaction Guarantee\nAmbit Home Services\nEnvironmental Disclosures\nJoin the Ambit Family\nBecome an Independent Consultant.\nFollow Us\nPrivacy Policy\n•\nTerms and Conditions\n•\nDSA Code of Ethics\n©2026 Ambit Energy.\n\t\t\t\t\t\t\tAll rights reserved.\nLicensed in\nCA\n,\nDC\n,\nDE\n,\nIL\n,\nIN\n,\nME\n,\nMA\n,\nNH\n,\nNJ\n,\nOH\n,\nPA\n,\nRI\n,\nTX\n&\nVA\n.\n\t\t\t\t(CA #CTA0037, DC #GA11-8-6, MD #IR-1992, MD #IR-1993, NJ #GSL-0110, NJ #ESL-0111, TX #10117)\nDelaware Historical Rates\n,\nDelaware Next Cycle Rate\n,\nIllinois Historical Rates\n,\nIllinois Next Cycle Rate\n,\nMaine Historical & Next Cycle Rates\n,\nMassachusetts Next Cycle Rate\n,\nNew Hampshire Historical Rates\n,\nNew Hampshire Next Cycle Rate\n,\nPennsylvania Historical Rates\nAccept\nWe use cookies for analytics and marketing purposes, including to personalize and enhance your browsing experience on our website.\n\t\t\t\tBy using our website, you agree to our updated\nprivacy policy\nand\nTerms of Use\n.",
+        "fields": {},
+        "missing_sections": [],
+        "warnings": [],
+        "status": "text_extracted",
+        "matched_offer_keys": [],
+        "match_method": "market_level_public_document"
+      }
+    ],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "ed874a682e7ed61f1e6bd4ae3143b7d383d5cb627dab0bdb44c9a32aa1fcae0c",
+        "path": "ed874a682e7ed61f1e6bd4ae3143b7d383d5cb627dab0bdb44c9a32aa1fcae0c.json",
+        "kind": "json",
+        "url": "https://www.ambitenergy.com/rates/api/get-provider-states.php",
+        "captured_at": "2026-10-15T18:28:58.079943+00:00",
+        "bytes": 131
+      },
+      {
+        "id": "71f4a70c6411e18e62052119d375e61432446de20fb07a60b4cf4739aa522abc",
+        "path": "71f4a70c6411e18e62052119d375e61432446de20fb07a60b4cf4739aa522abc.json",
+        "kind": "json",
+        "url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=a2270c2b-45b1-4293-a94c-133f0aa8d695&vendorname=PSEG&zipcode=07102&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "captured_at": "2026-10-15T18:28:58.107007+00:00",
+        "bytes": 444008
+      },
+      {
+        "id": "9731d888c45026231a518b3893d7a039b74b1797e4768c9f670876c2263e4910",
+        "path": "9731d888c45026231a518b3893d7a039b74b1797e4768c9f670876c2263e4910.html",
+        "kind": "html",
+        "url": "https://shoppingexp.ambitenergy.com/Shop-for-Plans-Electricity?utilityid=a2270c2b-45b1-4293-a94c-133f0aa8d695&vendorname=PSEG&zipcode=07102&state=NJ&brandid=86649bde-f2aa-49d0-971c-cd368ccf2772&sitename=AmbitEnergy&customerclassification=RESIDENTIAL&isresidential=True&channeltype=Web&enrolleeid=%5BREDACTED%5D",
+        "captured_at": "2026-10-15T18:28:58.125721+00:00",
+        "bytes": 54284
+      },
+      {
+        "id": "434f618e55b17394b02321c2a6cc1a2f5a279c519b2a3783e27b7d393e80ef9d",
+        "path": "434f618e55b17394b02321c2a6cc1a2f5a279c519b2a3783e27b7d393e80ef9d.html",
+        "kind": "html",
+        "url": "https://www.ambitenergy.com/terms-of-use",
+        "captured_at": "2026-10-15T18:28:58.276520+00:00",
+        "bytes": 53092
+      },
+      {
+        "id": "4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd",
+        "path": "4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd.html",
+        "kind": "html",
+        "url": "https://www.ambitenergy.com/environmental-disclosures",
+        "captured_at": "2026-10-15T18:28:58.320277+00:00",
+        "bytes": 22963
+      },
+      {
+        "id": "4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd",
+        "path": "4d2ba3736c525d236f9ca5b76d66acee30653a6a1b96d2d218d53a096987eedd.html",
+        "kind": "html",
+        "url": "https://www.ambitenergy.com/environmental-disclosures?lang=en",
+        "captured_at": "2026-10-15T18:28:58.333549+00:00",
+        "bytes": 22963
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

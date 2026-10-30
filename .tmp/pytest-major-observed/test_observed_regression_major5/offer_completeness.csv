@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Major Energy|ETG Gas|gas,Major Energy,ETG Gas,gas,07201,6222ff6bac8b3b726e862af7,Simple Choice 12,True,,monthly_fee | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

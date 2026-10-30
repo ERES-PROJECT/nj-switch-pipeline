@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "email": "[REDACTED]",
+    "telephone": "[REDACTED]"
+  },
+  "description": "Green Mountain Energy is a 100% renewable energy company providing clean electricity to consumers & businesses in TX, IL, PA, NY, MA, NJ, MD, &amp; OR. Join our mission.",
+  "logo": "https://wheelock.nrg.com/app/assets/images/gme-logo.png",
+  "name": "Green Mountain Energy",
+  "sameAs": [
+    "https://www.facebook.com/GreenMountainEnergyCompany",
+    "https://x.com/GreenMtnEnergy",
+    "https://www.youtube.com/user/GreenMtnEnergy",
+    "https://www.instagram.com/greenmtnenergy/",
+    "https://www.linkedin.com/company/green-mountain-energy-company"
+  ],
+  "url": "https://www.greenmountainenergy.com"
+}

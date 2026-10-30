@@ -1,0 +1,6 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,cce8eb3fc39383ae91eef2de,ClearGuarantee24Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,f1abf4db64610e2ac0fe7cb4,ClearGuarantee18Plus,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,3eb64955ff7279b582bf4971,ClearGuarantee12,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,394c0605ed65937315faaaaa,ClearCharge12,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0
+Clearview Energy|ACE Electric|electric,Clearview Energy,ACE Electric,electric,08401,3b6d15f45664659fb18a4bab,ClearGuarantee18,True,,enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

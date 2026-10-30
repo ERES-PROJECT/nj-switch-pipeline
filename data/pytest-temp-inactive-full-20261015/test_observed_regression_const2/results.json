@@ -1,0 +1,150 @@
+[
+  {
+    "schema_version": "2.0",
+    "adapter_version": "0.3.0",
+    "replayed": true,
+    "query": {
+      "supplier": "Constellation Energy",
+      "utility": "ACE Electric",
+      "commodity": "electric",
+      "zip": "08401",
+      "url": "https://constellationrates.com/state/new-jersey/",
+      "adapter": "constellation",
+      "skip_reason": null
+    },
+    "started_at": "2026-10-15T18:28:21.436695+00:00",
+    "finished_at": "2026-10-15T18:28:21.478340+00:00",
+    "status": "partial",
+    "context_verified": true,
+    "live_data_verified": true,
+    "collection_method": "browser_dom",
+    "source_offer_count": 2,
+    "offers": [
+      {
+        "key": "81a9adeb7bb4a92cd9c62dbb",
+        "supplier": "Constellation Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "15 Month Power Plan",
+        "product_id": "93016",
+        "price": {
+          "value": "0.2349",
+          "unit": "USD/kWh",
+          "raw": "23.49¢/kWh"
+        },
+        "rate_structure": null,
+        "term_months": 15,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": "150",
+        "fee_terms": {
+          "monthly_fee": "Monthly Service Fee:\nNone",
+          "cancellation_fee": "Early Cancellation Fee:\n$150"
+        },
+        "incentives": [
+          "$50 Gift Card"
+        ],
+        "renewable_percentage": null,
+        "renewable_source": null,
+        "renewable_claim": null,
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://s3.amazonaws.com/origin.static.ptsrvs.com/terms_and_conditions/CONSTEL_RATES/PSEAG/15117-tandc.pdf",
+            "label": "Terms and Conditions",
+            "product_id": "93016",
+            "offer_key": "81a9adeb7bb4a92cd9c62dbb",
+            "discovery_artifact_id": "5d2fd44055466367e6afb5fce2f0ecdfd4be8cb2883c9ab69050401a82a88ed1"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://constellationrates.com/state/new-jersey/",
+        "source_kind": "html",
+        "artifact_id": "5d2fd44055466367e6afb5fce2f0ecdfd4be8cb2883c9ab69050401a82a88ed1",
+        "captured_at": "2026-09-11T05:21:43.610796+00:00",
+        "raw_fields": {
+          "text": "15 months\nMost Popular\n15 Month Power Plan\nRate per kWh:\n23.49¢\nPlan Length:\n15 mo.\nSpecial Offer:\n$50 Gift Card\nPlan Details\nCall\n(855) 802-4982\nPlan Details\nX\n15 Month Power Plan\nRate per kWh\n23.49¢\nPlan Length\n15\nmo.\nSpecial Offer\n$50 Gift Card\nGet price protection and budget certainty from unexpected rate changes for 15 months securing today's prices into the future.\nYour selected plan will include:\nMonthly Service Fee:\nNone\nEarly Cancellation Fee:\n$150\nTerms and Conditions\nCall\n(855) 802-4982\n23.49¢/kWh",
+          "details": "Plan Details\nX\n15 Month Power Plan\nRate per kWh\n23.49¢\nPlan Length\n15\nmo.\nSpecial Offer\n$50 Gift Card\nGet price protection and budget certainty from unexpected rate changes for 15 months securing today's prices into the future.\nYour selected plan will include:\nMonthly Service Fee:\nNone\nEarly Cancellation Fee:\n$150\nTerms and Conditions\nCall\n(855) 802-4982"
+        },
+        "warnings": [
+          "Rate structure not explicitly established"
+        ]
+      },
+      {
+        "key": "24f4688c5d421e9148238708",
+        "supplier": "Constellation Energy",
+        "utility": "ACE Electric",
+        "commodity": "electric",
+        "zip": "08401",
+        "name": "12 Month Power Plan",
+        "product_id": "67574",
+        "price": {
+          "value": "0.2389",
+          "unit": "USD/kWh",
+          "raw": "23.89¢/kWh"
+        },
+        "rate_structure": null,
+        "term_months": 12,
+        "term_kind": "fixed_term",
+        "intro_price": null,
+        "intro_duration_months": null,
+        "intro_duration_billing_cycles": null,
+        "monthly_fee": "0",
+        "enrollment_fee": null,
+        "cancellation_fee": null,
+        "fee_terms": {
+          "monthly_fee": "Monthly Service Fee:\nNone"
+        },
+        "incentives": [
+          "$50 Gift Card"
+        ],
+        "renewable_percentage": "100",
+        "renewable_source": null,
+        "renewable_claim": "Renewable Content:",
+        "tiers": [],
+        "enrollment_url": null,
+        "documents": [
+          {
+            "url": "https://s3.amazonaws.com/origin.static.ptsrvs.com/terms_and_conditions/CONSTEL_RATES/PSEAG/3906-tandc.pdf",
+            "label": "Terms and Conditions",
+            "product_id": "67574",
+            "offer_key": "24f4688c5d421e9148238708",
+            "discovery_artifact_id": "5d2fd44055466367e6afb5fce2f0ecdfd4be8cb2883c9ab69050401a82a88ed1"
+          }
+        ],
+        "contract_ids": [],
+        "source_url": "https://constellationrates.com/state/new-jersey/",
+        "source_kind": "html",
+        "artifact_id": "5d2fd44055466367e6afb5fce2f0ecdfd4be8cb2883c9ab69050401a82a88ed1",
+        "captured_at": "2026-09-11T05:21:43.610796+00:00",
+        "raw_fields": {
+          "text": "12 months\nBest Green\n12 Month Power Plan\nRate per kWh:\n23.89¢\nPlan Length:\n12 mo.\nSpecial Offer:\n$50 Gift Card\nPlan Details\nCall\n(855) 802-4982\nPlan Details\nX\n12 Month Power Plan\nRate per kWh\n23.89¢\nPlan Length\n12\nmo.\nSpecial Offer\n$50 Gift Card\nGet price protection and budget certainty from unexpected rate changes for 12 months securing today's prices into the future.\nYour selected plan will include:\nMonthly Service Fee:\nNone\n90 day risk free guarantee\nRenewable Content:\n100%\nTerms and Conditions\nCall\n(855) 802-4982\n23.89¢/kWh",
+          "details": "Plan Details\nX\n12 Month Power Plan\nRate per kWh\n23.89¢\nPlan Length\n12\nmo.\nSpecial Offer\n$50 Gift Card\nGet price protection and budget certainty from unexpected rate changes for 12 months securing today's prices into the future.\nYour selected plan will include:\nMonthly Service Fee:\nNone\n90 day risk free guarantee\nRenewable Content:\n100%\nTerms and Conditions\nCall\n(855) 802-4982"
+        },
+        "warnings": [
+          "Rate structure not explicitly established"
+        ]
+      }
+    ],
+    "contracts": [],
+    "candidates": [],
+    "artifacts": [
+      {
+        "id": "5d2fd44055466367e6afb5fce2f0ecdfd4be8cb2883c9ab69050401a82a88ed1",
+        "path": "5d2fd44055466367e6afb5fce2f0ecdfd4be8cb2883c9ab69050401a82a88ed1.html",
+        "kind": "html",
+        "url": "https://constellationrates.com/state/new-jersey/",
+        "captured_at": "2026-10-15T18:28:21.447759+00:00",
+        "bytes": 26657
+      }
+    ],
+    "warnings": [],
+    "errors": []
+  }
+]

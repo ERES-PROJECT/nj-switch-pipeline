@@ -1,0 +1,12 @@
+Third Party Supplier Information: Example Energy; illustrative license ESL-0000
+Price Structure: Fixed
+Generation/Supply Price: $0.199/kWh plus a $4.95 monthly fee.
+Statement Regarding Savings: Savings are not guaranteed.
+Amount of time required to change: One billing cycle.
+Incentives: $50 gift card after three paid bills.
+Right to Cancel/Rescind: Seven calendar days from the confirmation notice.
+Contract Start Date: Next eligible meter read.
+Contract Term/Length: 12 months
+Cancellation/Early Termination Fees: $150
+Renewal Terms: Variable rate after the fixed term unless a new plan is selected.
+Distribution Company Information: PSE&G Electric; call the utility for outages.

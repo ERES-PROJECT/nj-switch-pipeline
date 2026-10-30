@@ -1,0 +1,2 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Clearview Energy|NJNG Gas|gas,Clearview Energy,NJNG Gas,gas,07712,2339f79a6d4a491b091738af,NaturalAssurance12*,True,,term_months | enrollment_fee | renewable_percentage | renewable_source | renewable_claim,0

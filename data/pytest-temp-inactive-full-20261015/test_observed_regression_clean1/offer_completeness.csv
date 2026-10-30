@@ -1,0 +1,4 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+CleanChoice Energy|JCP&L Electric|electric,CleanChoice Energy,JCP&L Electric,electric,07701,4889f70c6375920de2eb48fb,CleanChoice 12 Month Fixed Rate 100% Renewable,True,,product_id | monthly_fee,0
+CleanChoice Energy|JCP&L Electric|electric,CleanChoice Energy,JCP&L Electric,electric,07701,57facbb9d452fa7717d226fd,CleanChoice 3 Month Introductory Rate 100% Renewable,True,,product_id | monthly_fee,0
+CleanChoice Energy|JCP&L Electric|electric,CleanChoice Energy,JCP&L Electric,electric,07701,557c9ba9ccd2a8dd10fa62b7,CleanChoice 24 Month Fixed Rate 100% Renewable,True,,product_id | monthly_fee,0

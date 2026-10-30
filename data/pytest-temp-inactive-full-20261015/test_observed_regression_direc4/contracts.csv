@@ -1,0 +1,394 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings
+2.0,Direct Energy,PSE&G Gas,gas,07102,c7472b7cb4454d9623343104a2c1f373c256527449ac2394977ace1f280b7d8c,contract_summary,parsed,https://directenergydocuments.gesc.com//DisplayDocument.aspx?Rateid=881878&sc=res&Esco=DER&Code=CDS,"[""4ef61f7c4e90372b4efafd38""]",document_link_on_offer,[],"By entering into this contract, you are agreeing to purchase your natural gas supply from this supplier.","You will pay a fixed amount per THERM for the Initial Term, listed below, of your agreement.",$0.93900 per THERM,This product is not guaranteed to provide savings compared to the default utility rate.,"Please allow up to two (2) billing cycles for a return to default utility service or move-
+ment to another energy supplier, should you choose to cancel your agreement with
+Direct Energy.",Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive.,"You will have seven (7) calendar days from the date of your utility's confirmation notice
+to cancel this agreement by contacting your utility with the contact information listed
+below.",Your Initial Term will begin on your next meter read date after your utility processes your enrollment request. Your switch to Direct Energy may take up to two (2) billing cycles.,18 monthly billing cycles.,None,"At the end of your Initial Term with Direct Energy, your agreement will continue on a month-to-month basis and you will pay a variable price per THERM. This variable price may be higher or lower each monthly billing cycles. You can also contact Direct Energy to discuss new, fixed pricing plans. You may also return to default utility service or change energy suppliers.  Our service will continue until either of us cancels the contract.","PSE&G Emergency contact: (800) 436-7734; Customer service: (800) 436-7734; http://www.pseg.com Your utility will continue to deliver the natural gas and you will continue to pay the utility for this service. You should call the utility in the event of any emergencies, outages, etc.","{""prices"": [{""value"": ""0.93900"", ""unit"": ""USD/therm"", ""raw"": ""$0.93900 per THERM""}], ""rate_structure"": ""fixed"", ""term_months"": 18, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive.""], ""form_fields"": {""COMMODITY[0]"": ""By entering into this contract, you are agreeing to purchase your natural gas supply from this supplier."", ""PRSTRUCT[0]"": ""You will pay a fixed amount per THERM for the Initial Term, listed below, of your agreement."", ""RP[0]"": ""$0.93900 per THERM"", ""INCENTIVE[0]"": ""Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive."", ""GC[0]"": ""Your Initial Term will begin on your next meter read date after your utility processes your enrollment request. Your switch to Direct Energy may take up to two (2) billing cycles."", ""IT[0]"": ""18 monthly billing cycles."", ""ETF[0]"": ""None"", ""RTAEOIT[0]"": ""At the end of your Initial Term with Direct Energy, your agreement will continue on a month-to-month basis and you will pay a variable price per THERM. This variable price may be higher or lower each monthly billing cycles. You can also contact Direct Energy to discuss new, fixed pricing plans. You may also return to default utility service or change energy suppliers.  Our service will continue until either of us cancels the contract."", ""V1[0]"": ""PSE&G Emergency contact: (800) 436-7734; Customer service: (800) 436-7734; http://www.pseg.com Your utility will continue to deliver the natural gas and you will continue to pay the utility for this service. You should call the utility in the event of any emergencies, outages, etc."", ""address[0]"": ""Please see your complete contract summary on the following screen as well as via your forthcoming confirmation email.""}, ""cancellation_fee"": ""0""}",[]
+2.0,Direct Energy,PSE&G Gas,gas,07102,1b3fb18c5f61e23fdfb2b8084b6bed327e10cdf0b849b19e01771218337577e0,terms_or_other,text_extracted,https://directenergydocuments.gesc.com//DisplayDocument.aspx?Rateid=881878&sc=res&Esco=DER&Code=TsNCs,"[""4ef61f7c4e90372b4efafd38""]",document_link_on_offer,[],,,,,,,,,,". If you are relocating, please refer to Section 7. Section 16.
+7. Relocation/Other Rights of Termination. In the event you (a) 11. Late Payments/Insufficient Payments. When you are issued
+relocate, (b) become disabled and are unable to pay for natural gas a consolidated bill from your GDC, containing both Direct Energy’s
+service, or (c) die, you (or you estate, if applicable) may cancel this charges and your GDC’s charges, you will be subject to your GDC’s
+Agreement with forty-eight (48) hours’ prior notice to Direct Energy. policies and procedures regarding late or insufficient payments. If
+If you change your residence/service location within your GDC's Direct Energy invoices you directly for Direct Energy’s charges, you
+service territory, then you may have the option of entering into a will be required to pay Direct Energy and remit payment by the due
+new natural gas supply contract with Direct Energy for your new date listed in the bill. If you fail to pay Direct Energy within said time
+residence/service location. Direct Energy's contact information is frame, Direct Energy reserves the right to charge you interest for
+set forth in Section 16 below. If you cancel this Agreement pursuant any past due amounts, including unpaid interest fees, at a rate of
+to this Section 7, you will not be charged an early cancellation fee; 1.3% per month or such lesser amount as required by law. You
+however, you (or your estate, if applicable) will be responsible to agree that you will pay Direct Energy for any fees Direct Energy
+pay for Direct Energy’s service through the date that you are incurs to collect amounts owed by you to Direct Energy, including
+switched to another supplier or returned to your GDC. reasonable attorney fees and returned check fees.
+8. Direct Energy's Right to Cancel Service. Direct Energy may 12. Title to Natural Gas. Title to and risk of loss with respect to the
+cancel this Agreement for non-payment, upon being notified by natural gas will pass from Direct Energy to you when the natural
+your GDC that your account will be switched to dual billing for non- gas is delivered at the GDC’s meter to you.
+payment, or any other breach of this Agreement with thirty (30) 13. Force Majeure. Direct Energy will make commercially
+days’ prior written notice to you of such termination. If you fail to reasonable efforts to provide your natural gas supply service, but
+cure the breach within the thirty (30) day notice period, Direct does not guarantee a continuous supply of natural gas. Certain
+Energy may terminate this Agreement, whether or not you cure the causes and events are out of Direct Energy's reasonable control
+breach, after expiration of such notice period. Also, if for any reason and may result in interruptions in service. Direct Energy is not
+performance of this Agreement becomes materially uneconomical responsible for transmitting or distributing natural gas. Direct
+to Direct Energy, if Direct Energy is otherwise unable to continue Energy is not liable for damages caused by acts of God, changes
+NJTCRSCG - 120925
+in laws, rules, regulations, or other acts of any governmental The New Jersey Board of Public Utilities: You may contact the
+authority (including the Board or PJM Interconnection, LLC, the New Jersey Board of Public Utilities Division of Customer
+operator of the regional power grid), accidents, strikes, labor Assistance at 1-800-624-0241.
+troubles, required maintenance work, inability to access the local Gas Distribution Company: For your Gas Distribution
+distribution utility system, nonperformance by the GDC, or any Company’s contact information, please see your Contract
+other cause beyond Direct Energy's reasonable control. In addition, Summary.
+you may be required to pay any additional or increased fees or 17. Your Authorization to Release Your Information for Use
+charges that are generally beyond Direct Energy's reasonable and Sharing. By entering into this contract, you authorize us to act
+control, including, but not limited to, fees for switching, on your behalf under your utility’s tariffs in accordance with the
+disconnecting, reconnecting, maintaining natural gas service or rules and regulations of the state public utility commission (“PUC”)
+equipment, or transmission charges, that are imposed by law, rule, where you take service. You further acknowledge that this contract
+regulation, tariff, or Board rule or order. These charges or fees will provides authorization for your local utility to release all information
+be passed through to you and added to your price. regarding your energy supply account(s) to us so we can provide
+14. LIMITATIONS OF LIABILITIES. LIABILITIES NOT EXCUSED the services described herein. This information may include, but is
+BY REASON OF FORCE MAJEURE OR OTHERWISE WILL BE not limited to, usage information, billing determinants, bill cycle,
+LIMITED TO DIRECT, ACTUAL DAMAGES. DIRECT ENERGY budget billing status, address, account type, tax exemption status,
+WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR rate service class, load profile, demand data, meter number,
+CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR special account exceptions, public assistance status, existence of
+INDIRECT DAMAGES, THIRD PARTY CLAIMS OR OTHER medical emergencies or disability, tax status and eligibility for
+DAMAGES, WHETHER BASED UPON CONTRACT, economic development or other incentives, standard service
+WARRANTY, TORT, STRICT LIABILITY, OR OTHERWISE. status, electronic interval data when available, credit information
+DIRECT ENERGY IS NOT LIABLE FOR INTERRUPTIONS TO, when applicable, and all other data and information permitted by
+OR SHORTAGES OF, NATURAL GAS SUPPLY, NOR IS IT law to be disclosed to us to provide our services.
+LIABLE FOR ANY RESULTING ASSOCIATED LOSS OR We also obtain information about you as outlined in our privacy
+DAMAGE. THESE LIMITATIONS APPLY WITHOUT REGARD TO policy (posted on our website) such as when you voluntarily provide
+THE CAUSE OF ANY LIABILITY OR DAMAGE. DIRECT ENERGY personal information to us, use our website or mobile applications,
+IS NOT RESPONSIBLE FOR ANY FAILURE TO COMMENCE OR or when we add information about you to your account profile from
+TERMINATE YOUR NATURAL GAS SUPPLY SERVICE ON THE publicly available sources.
+DATES STATED HEREIN, DUE TO ANY DELAY IN ENROLLING We will maintain the confidentiality of your personal information
+YOU. NOTHING IN THIS AGREEMENT SHALL CONSTITUTE including your name, address, telephone number, email, account
+ANY WAIVER OF ANY RIGHT YOU MAY HAVE UNDER NEW numbers, energy usage and historic payment information as
+JERSEY OR FEDERAL CONSUMER PROTECTION LAWS. required by applicable PUC regulations as well as federal and state
+15. Direct Energy's Representations and Warranties; laws.
+Limitation. The natural gas provided under this Agreement will Our use and sharing of your information will be consistent with the
+meet the quality standard of the GDC and will be supplied from a purposes and uses disclosed in our privacy policy, as amended
+variety of natural gas sources. Direct Energy makes no from time to time and posted on our website. Your information may
+representations or warranties other than those expressly set forth be disclosed if required by law, such as pursuant to a lawfully
+in this Agreement. DIRECT ENERGY EXPRESSLY DISCLAIMS issued subpoena or other legal process. Further, you understand
+ALL OTHER WARRANTIES, EXPRESSED OR IMPLIED, that your information may be disclosed to an affiliate or a third-party
+INCLUDING WARRANTIES OF MERCHANTABILITY AND to provide services or products to you, and any disclosure of such
+FITNESS FOR A PARTICULAR PURPOSE. information will be made under confidentiality obligations not to
+16. Contact Information. disclose such information and to use it solely for the purpose of
+Direct Energy: You may contact Direct Energy in one of the providing services to you or improved products to us. This
+following ways: (a) call 1-888-548-7540 or 1-844-827-0603 authorization also allows us to contact you about our other products
+(Residential Door-to-Door customers only), Monday through and services and to share information about your account with any
+Friday 8:00 a.m. to 8:00 p.m. EST, and Saturday 8:00 a.m. to designated rewards partner or with any affiliate, third-party vendor
+5:00 p.m. EST (contact center hours subject to change without or marketing partner we use to provide energy services or
+notice); or (b) write to Direct Energy at PO Box 180, Tulsa, OK energy-related services to you.
+74101-0180 (be sure to include your account number(s)). If you do not wish for us to use or share information about your
+Direct Energy's internet domain address is: account in the manner described above, you may cancel this
+http://www.directenergy.com. Answers to frequently asked contract by calling us at our contact information listed herein.
+questions can be found on Direct Energy's website. 18. Credit Checks. You understand that as part of Direct Energy's
+process of qualifying you for this Agreement and continuing service
+NJTCRSCG - 120925
+under this Agreement, Direct Energy may investigate at any time
+and from time-to-time your credit history and choose to obtain a
+consumer credit report on you from a consumer-reporting agency.
+If Direct Energy learns that your credit, payment history, or account
+status is not satisfactory, Direct Energy may decline to provide
+natural gas supply service or any other service or product. Direct
+Energy may require you to be current with your GDC payments or
+to submit a deposit for this Agreement as a condition of starting or
+continuing service in connection with this Agreement.
+19. Choice of Law. This Agreement will be governed by New
+Jersey law, without regard to its conflict of law principles.
+20. Miscellaneous Provisions. This Agreement represents the
+entire Agreement between the parties with regard to the subject
+matter hereof, is subject to all valid and applicable laws and to all
+present and future orders, rules, and regulations of the Board and
+any other authority having jurisdiction over the subject matter
+hereof, and supersedes any previous promises, understandings,
+and agreements between the parties. If any provision of this
+Agreement is deemed invalid, illegal, or otherwise unenforceable,
+you agree that it shall be modified to the minimum extent necessary
+to render it valid, legal, and enforceable. If a provision cannot be
+modified in a manner that would make it valid, legal, and
+enforceable, the provision shall be severed from the Agreement,
+and all other provisions shall remain in full force and effect. Any
+failure on Direct Energy’s part to enforce any of the terms of this
+Agreement or to exercise any right under such terms shall not be
+considered a waiver of Direct Energy's right to enforce each and
+every such term, exercise such right, or exercise any other right
+under this Agreement. You may not assign this Agreement without
+Direct Energy's prior written consent. Direct Energy may: (a)
+transfer or sell this Agreement or your account in connection with
+any financing; (b) assign this Agreement to any of its affiliates; (c)
+transfer or assign this Agreement to anyone succeeding to all or
+substantially all of Direct Energy's assets or business; or (d)
+transfer this Agreement to another supplier licensed by the Board.
+After assignment, Direct Energy will have no further obligations
+under this Agreement. This Agreement is binding upon you and
+Direct Energy, and will further bind each of your successors and
+permitted assigns. There are no third-party beneficiaries to this
+Agreement. This Agreement is a forward contract within the
+meaning of the United States Bankruptcy Code and Direct Energy
+is a forward contract merchant.
+21. Cancellation of Existing Service. You are responsible for
+canceling any agreements with other natural gas suppliers from
+whom you are purchasing natural gas supply service as of the date
+of this Agreement.
+NJTCRSCG - 120925",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: . If you are relocating, please refer to Section 7. Section 16.""}, ""incentives"": [""DAMAGES, WHETHER BASED UPON CONTRACT, economic development or other incentives, standard service"", ""Friday 8:00 a.m. to 8:00 p.m. EST, and Saturday 8:00 a.m. to designated rewards partner or with any affiliate, third-party vendor""], ""form_fields"": {}}",[]
+2.0,Direct Energy,PSE&G Gas,gas,07102,1adf236cfd800f297d237442e723044e25938d56123c0838f7a08605c400151c,contract_summary,parsed,https://directenergydocuments.gesc.com//DisplayDocument.aspx?Rateid=881873&sc=res&Esco=DER&Code=CDS,"[""75099334770d3c54c46908ed""]",document_link_on_offer,[],"By entering into this contract, you are agreeing to purchase your natural gas supply from this supplier.","You will pay a fixed amount per THERM for the Initial Term, listed below, of your agreement.",$0.79900 per THERM,This product is not guaranteed to provide savings compared to the default utility rate.,"Please allow up to two (2) billing cycles for a return to default utility service or move-
+ment to another energy supplier, should you choose to cancel your agreement with
+Direct Energy.",Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive.,"You will have seven (7) calendar days from the date of your utility's confirmation notice
+to cancel this agreement by contacting your utility with the contact information listed
+below.",Your Initial Term will begin on your next meter read date after your utility processes your enrollment request. Your switch to Direct Energy may take up to two (2) billing cycles.,14 monthly billing cycles.,None,"At the end of your Initial Term with Direct Energy, your agreement will continue on a month-to-month basis and you will pay a variable price per THERM. This variable price may be higher or lower each monthly billing cycles. You can also contact Direct Energy to discuss new, fixed pricing plans. You may also return to default utility service or change energy suppliers.  Our service will continue until either of us cancels the contract.","PSE&G Emergency contact: (800) 436-7734; Customer service: (800) 436-7734; http://www.pseg.com Your utility will continue to deliver the natural gas and you will continue to pay the utility for this service. You should call the utility in the event of any emergencies, outages, etc.","{""prices"": [{""value"": ""0.79900"", ""unit"": ""USD/therm"", ""raw"": ""$0.79900 per THERM""}], ""rate_structure"": ""fixed"", ""term_months"": 14, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive.""], ""form_fields"": {""COMMODITY[0]"": ""By entering into this contract, you are agreeing to purchase your natural gas supply from this supplier."", ""PRSTRUCT[0]"": ""You will pay a fixed amount per THERM for the Initial Term, listed below, of your agreement."", ""RP[0]"": ""$0.79900 per THERM"", ""INCENTIVE[0]"": ""Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive."", ""GC[0]"": ""Your Initial Term will begin on your next meter read date after your utility processes your enrollment request. Your switch to Direct Energy may take up to two (2) billing cycles."", ""IT[0]"": ""14 monthly billing cycles."", ""ETF[0]"": ""None"", ""RTAEOIT[0]"": ""At the end of your Initial Term with Direct Energy, your agreement will continue on a month-to-month basis and you will pay a variable price per THERM. This variable price may be higher or lower each monthly billing cycles. You can also contact Direct Energy to discuss new, fixed pricing plans. You may also return to default utility service or change energy suppliers.  Our service will continue until either of us cancels the contract."", ""V1[0]"": ""PSE&G Emergency contact: (800) 436-7734; Customer service: (800) 436-7734; http://www.pseg.com Your utility will continue to deliver the natural gas and you will continue to pay the utility for this service. You should call the utility in the event of any emergencies, outages, etc."", ""address[0]"": ""Please see your complete contract summary on the following screen as well as via your forthcoming confirmation email.""}, ""cancellation_fee"": ""0""}",[]
+2.0,Direct Energy,PSE&G Gas,gas,07102,08f3da57c7affeebf45054333529747da124973c1f8558332bfc5c527a1bc7f7,terms_or_other,text_extracted,https://directenergydocuments.gesc.com//DisplayDocument.aspx?Rateid=881873&sc=res&Esco=DER&Code=TsNCs,"[""75099334770d3c54c46908ed""]",document_link_on_offer,[],,,,,,,,,,". If you are relocating, please refer to Section 7. Section 16.
+7. Relocation/Other Rights of Termination. In the event you (a) 11. Late Payments/Insufficient Payments. When you are issued
+relocate, (b) become disabled and are unable to pay for natural gas a consolidated bill from your GDC, containing both Direct Energy’s
+service, or (c) die, you (or you estate, if applicable) may cancel this charges and your GDC’s charges, you will be subject to your GDC’s
+Agreement with forty-eight (48) hours’ prior notice to Direct Energy. policies and procedures regarding late or insufficient payments. If
+If you change your residence/service location within your GDC's Direct Energy invoices you directly for Direct Energy’s charges, you
+service territory, then you may have the option of entering into a will be required to pay Direct Energy and remit payment by the due
+new natural gas supply contract with Direct Energy for your new date listed in the bill. If you fail to pay Direct Energy within said time
+residence/service location. Direct Energy's contact information is frame, Direct Energy reserves the right to charge you interest for
+set forth in Section 16 below. If you cancel this Agreement pursuant any past due amounts, including unpaid interest fees, at a rate of
+to this Section 7, you will not be charged an early cancellation fee; 1.3% per month or such lesser amount as required by law. You
+however, you (or your estate, if applicable) will be responsible to agree that you will pay Direct Energy for any fees Direct Energy
+pay for Direct Energy’s service through the date that you are incurs to collect amounts owed by you to Direct Energy, including
+switched to another supplier or returned to your GDC. reasonable attorney fees and returned check fees.
+8. Direct Energy's Right to Cancel Service. Direct Energy may 12. Title to Natural Gas. Title to and risk of loss with respect to the
+cancel this Agreement for non-payment, upon being notified by natural gas will pass from Direct Energy to you when the natural
+your GDC that your account will be switched to dual billing for non- gas is delivered at the GDC’s meter to you.
+payment, or any other breach of this Agreement with thirty (30) 13. Force Majeure. Direct Energy will make commercially
+days’ prior written notice to you of such termination. If you fail to reasonable efforts to provide your natural gas supply service, but
+cure the breach within the thirty (30) day notice period, Direct does not guarantee a continuous supply of natural gas. Certain
+Energy may terminate this Agreement, whether or not you cure the causes and events are out of Direct Energy's reasonable control
+breach, after expiration of such notice period. Also, if for any reason and may result in interruptions in service. Direct Energy is not
+performance of this Agreement becomes materially uneconomical responsible for transmitting or distributing natural gas. Direct
+to Direct Energy, if Direct Energy is otherwise unable to continue Energy is not liable for damages caused by acts of God, changes
+NJTCRSCG - 120925
+in laws, rules, regulations, or other acts of any governmental The New Jersey Board of Public Utilities: You may contact the
+authority (including the Board or PJM Interconnection, LLC, the New Jersey Board of Public Utilities Division of Customer
+operator of the regional power grid), accidents, strikes, labor Assistance at 1-800-624-0241.
+troubles, required maintenance work, inability to access the local Gas Distribution Company: For your Gas Distribution
+distribution utility system, nonperformance by the GDC, or any Company’s contact information, please see your Contract
+other cause beyond Direct Energy's reasonable control. In addition, Summary.
+you may be required to pay any additional or increased fees or 17. Your Authorization to Release Your Information for Use
+charges that are generally beyond Direct Energy's reasonable and Sharing. By entering into this contract, you authorize us to act
+control, including, but not limited to, fees for switching, on your behalf under your utility’s tariffs in accordance with the
+disconnecting, reconnecting, maintaining natural gas service or rules and regulations of the state public utility commission (“PUC”)
+equipment, or transmission charges, that are imposed by law, rule, where you take service. You further acknowledge that this contract
+regulation, tariff, or Board rule or order. These charges or fees will provides authorization for your local utility to release all information
+be passed through to you and added to your price. regarding your energy supply account(s) to us so we can provide
+14. LIMITATIONS OF LIABILITIES. LIABILITIES NOT EXCUSED the services described herein. This information may include, but is
+BY REASON OF FORCE MAJEURE OR OTHERWISE WILL BE not limited to, usage information, billing determinants, bill cycle,
+LIMITED TO DIRECT, ACTUAL DAMAGES. DIRECT ENERGY budget billing status, address, account type, tax exemption status,
+WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR rate service class, load profile, demand data, meter number,
+CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR special account exceptions, public assistance status, existence of
+INDIRECT DAMAGES, THIRD PARTY CLAIMS OR OTHER medical emergencies or disability, tax status and eligibility for
+DAMAGES, WHETHER BASED UPON CONTRACT, economic development or other incentives, standard service
+WARRANTY, TORT, STRICT LIABILITY, OR OTHERWISE. status, electronic interval data when available, credit information
+DIRECT ENERGY IS NOT LIABLE FOR INTERRUPTIONS TO, when applicable, and all other data and information permitted by
+OR SHORTAGES OF, NATURAL GAS SUPPLY, NOR IS IT law to be disclosed to us to provide our services.
+LIABLE FOR ANY RESULTING ASSOCIATED LOSS OR We also obtain information about you as outlined in our privacy
+DAMAGE. THESE LIMITATIONS APPLY WITHOUT REGARD TO policy (posted on our website) such as when you voluntarily provide
+THE CAUSE OF ANY LIABILITY OR DAMAGE. DIRECT ENERGY personal information to us, use our website or mobile applications,
+IS NOT RESPONSIBLE FOR ANY FAILURE TO COMMENCE OR or when we add information about you to your account profile from
+TERMINATE YOUR NATURAL GAS SUPPLY SERVICE ON THE publicly available sources.
+DATES STATED HEREIN, DUE TO ANY DELAY IN ENROLLING We will maintain the confidentiality of your personal information
+YOU. NOTHING IN THIS AGREEMENT SHALL CONSTITUTE including your name, address, telephone number, email, account
+ANY WAIVER OF ANY RIGHT YOU MAY HAVE UNDER NEW numbers, energy usage and historic payment information as
+JERSEY OR FEDERAL CONSUMER PROTECTION LAWS. required by applicable PUC regulations as well as federal and state
+15. Direct Energy's Representations and Warranties; laws.
+Limitation. The natural gas provided under this Agreement will Our use and sharing of your information will be consistent with the
+meet the quality standard of the GDC and will be supplied from a purposes and uses disclosed in our privacy policy, as amended
+variety of natural gas sources. Direct Energy makes no from time to time and posted on our website. Your information may
+representations or warranties other than those expressly set forth be disclosed if required by law, such as pursuant to a lawfully
+in this Agreement. DIRECT ENERGY EXPRESSLY DISCLAIMS issued subpoena or other legal process. Further, you understand
+ALL OTHER WARRANTIES, EXPRESSED OR IMPLIED, that your information may be disclosed to an affiliate or a third-party
+INCLUDING WARRANTIES OF MERCHANTABILITY AND to provide services or products to you, and any disclosure of such
+FITNESS FOR A PARTICULAR PURPOSE. information will be made under confidentiality obligations not to
+16. Contact Information. disclose such information and to use it solely for the purpose of
+Direct Energy: You may contact Direct Energy in one of the providing services to you or improved products to us. This
+following ways: (a) call 1-888-548-7540 or 1-844-827-0603 authorization also allows us to contact you about our other products
+(Residential Door-to-Door customers only), Monday through and services and to share information about your account with any
+Friday 8:00 a.m. to 8:00 p.m. EST, and Saturday 8:00 a.m. to designated rewards partner or with any affiliate, third-party vendor
+5:00 p.m. EST (contact center hours subject to change without or marketing partner we use to provide energy services or
+notice); or (b) write to Direct Energy at PO Box 180, Tulsa, OK energy-related services to you.
+74101-0180 (be sure to include your account number(s)). If you do not wish for us to use or share information about your
+Direct Energy's internet domain address is: account in the manner described above, you may cancel this
+http://www.directenergy.com. Answers to frequently asked contract by calling us at our contact information listed herein.
+questions can be found on Direct Energy's website. 18. Credit Checks. You understand that as part of Direct Energy's
+process of qualifying you for this Agreement and continuing service
+NJTCRSCG - 120925
+under this Agreement, Direct Energy may investigate at any time
+and from time-to-time your credit history and choose to obtain a
+consumer credit report on you from a consumer-reporting agency.
+If Direct Energy learns that your credit, payment history, or account
+status is not satisfactory, Direct Energy may decline to provide
+natural gas supply service or any other service or product. Direct
+Energy may require you to be current with your GDC payments or
+to submit a deposit for this Agreement as a condition of starting or
+continuing service in connection with this Agreement.
+19. Choice of Law. This Agreement will be governed by New
+Jersey law, without regard to its conflict of law principles.
+20. Miscellaneous Provisions. This Agreement represents the
+entire Agreement between the parties with regard to the subject
+matter hereof, is subject to all valid and applicable laws and to all
+present and future orders, rules, and regulations of the Board and
+any other authority having jurisdiction over the subject matter
+hereof, and supersedes any previous promises, understandings,
+and agreements between the parties. If any provision of this
+Agreement is deemed invalid, illegal, or otherwise unenforceable,
+you agree that it shall be modified to the minimum extent necessary
+to render it valid, legal, and enforceable. If a provision cannot be
+modified in a manner that would make it valid, legal, and
+enforceable, the provision shall be severed from the Agreement,
+and all other provisions shall remain in full force and effect. Any
+failure on Direct Energy’s part to enforce any of the terms of this
+Agreement or to exercise any right under such terms shall not be
+considered a waiver of Direct Energy's right to enforce each and
+every such term, exercise such right, or exercise any other right
+under this Agreement. You may not assign this Agreement without
+Direct Energy's prior written consent. Direct Energy may: (a)
+transfer or sell this Agreement or your account in connection with
+any financing; (b) assign this Agreement to any of its affiliates; (c)
+transfer or assign this Agreement to anyone succeeding to all or
+substantially all of Direct Energy's assets or business; or (d)
+transfer this Agreement to another supplier licensed by the Board.
+After assignment, Direct Energy will have no further obligations
+under this Agreement. This Agreement is binding upon you and
+Direct Energy, and will further bind each of your successors and
+permitted assigns. There are no third-party beneficiaries to this
+Agreement. This Agreement is a forward contract within the
+meaning of the United States Bankruptcy Code and Direct Energy
+is a forward contract merchant.
+21. Cancellation of Existing Service. You are responsible for
+canceling any agreements with other natural gas suppliers from
+whom you are purchasing natural gas supply service as of the date
+of this Agreement.
+NJTCRSCG - 120925",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: . If you are relocating, please refer to Section 7. Section 16.""}, ""incentives"": [""DAMAGES, WHETHER BASED UPON CONTRACT, economic development or other incentives, standard service"", ""Friday 8:00 a.m. to 8:00 p.m. EST, and Saturday 8:00 a.m. to designated rewards partner or with any affiliate, third-party vendor""], ""form_fields"": {}}",[]
+2.0,Direct Energy,PSE&G Gas,gas,07102,b890b4f05ef17bd0413c328cd35eb07ef973e4d51c0183ff653a938110536d6b,contract_summary,parsed,https://directenergydocuments.gesc.com//DisplayDocument.aspx?Rateid=881877&sc=res&Esco=DER&Code=CDS,"[""92452915a40e7b3b65bf444d""]",document_link_on_offer,[],"By entering into this contract, you are agreeing to purchase your natural gas supply from this supplier.","You will pay a fixed amount per THERM for the Initial Term, listed below, of your agreement.",$0.88900 per THERM,This product is not guaranteed to provide savings compared to the default utility rate.,"Please allow up to two (2) billing cycles for a return to default utility service or move-
+ment to another energy supplier, should you choose to cancel your agreement with
+Direct Energy.",Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive.,"You will have seven (7) calendar days from the date of your utility's confirmation notice
+to cancel this agreement by contacting your utility with the contact information listed
+below.",Your Initial Term will begin on your next meter read date after your utility processes your enrollment request. Your switch to Direct Energy may take up to two (2) billing cycles.,12 monthly billing cycles.,None,"At the end of your Initial Term with Direct Energy, your agreement will continue on a month-to-month basis and you will pay a variable price per THERM. This variable price may be higher or lower each monthly billing cycles. You can also contact Direct Energy to discuss new, fixed pricing plans. You may also return to default utility service or change energy suppliers.  Our service will continue until either of us cancels the contract.","PSE&G Emergency contact: (800) 436-7734; Customer service: (800) 436-7734; http://www.pseg.com Your utility will continue to deliver the natural gas and you will continue to pay the utility for this service. You should call the utility in the event of any emergencies, outages, etc.","{""prices"": [{""value"": ""0.88900"", ""unit"": ""USD/therm"", ""raw"": ""$0.88900 per THERM""}], ""rate_structure"": ""fixed"", ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: None""}, ""incentives"": [""Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive.""], ""form_fields"": {""COMMODITY[0]"": ""By entering into this contract, you are agreeing to purchase your natural gas supply from this supplier."", ""PRSTRUCT[0]"": ""You will pay a fixed amount per THERM for the Initial Term, listed below, of your agreement."", ""RP[0]"": ""$0.88900 per THERM"", ""INCENTIVE[0]"": ""Please refer to the Account Breakdown page (if any) for a listing of any applicable incentives you elected to receive."", ""GC[0]"": ""Your Initial Term will begin on your next meter read date after your utility processes your enrollment request. Your switch to Direct Energy may take up to two (2) billing cycles."", ""IT[0]"": ""12 monthly billing cycles."", ""ETF[0]"": ""None"", ""RTAEOIT[0]"": ""At the end of your Initial Term with Direct Energy, your agreement will continue on a month-to-month basis and you will pay a variable price per THERM. This variable price may be higher or lower each monthly billing cycles. You can also contact Direct Energy to discuss new, fixed pricing plans. You may also return to default utility service or change energy suppliers.  Our service will continue until either of us cancels the contract."", ""V1[0]"": ""PSE&G Emergency contact: (800) 436-7734; Customer service: (800) 436-7734; http://www.pseg.com Your utility will continue to deliver the natural gas and you will continue to pay the utility for this service. You should call the utility in the event of any emergencies, outages, etc."", ""address[0]"": ""Please see your complete contract summary on the following screen as well as via your forthcoming confirmation email.""}, ""cancellation_fee"": ""0""}",[]
+2.0,Direct Energy,PSE&G Gas,gas,07102,c49fcd24ba5d973c04c3a21af5cc8fe86928c1db0f59f3c19823cc5bbf5b5207,terms_or_other,text_extracted,https://directenergydocuments.gesc.com//DisplayDocument.aspx?Rateid=881877&sc=res&Esco=DER&Code=TsNCs,"[""92452915a40e7b3b65bf444d""]",document_link_on_offer,[],,,,,,,,,,". If you are relocating, please refer to Section 7. Section 16.
+7. Relocation/Other Rights of Termination. In the event you (a) 11. Late Payments/Insufficient Payments. When you are issued
+relocate, (b) become disabled and are unable to pay for natural gas a consolidated bill from your GDC, containing both Direct Energy’s
+service, or (c) die, you (or you estate, if applicable) may cancel this charges and your GDC’s charges, you will be subject to your GDC’s
+Agreement with forty-eight (48) hours’ prior notice to Direct Energy. policies and procedures regarding late or insufficient payments. If
+If you change your residence/service location within your GDC's Direct Energy invoices you directly for Direct Energy’s charges, you
+service territory, then you may have the option of entering into a will be required to pay Direct Energy and remit payment by the due
+new natural gas supply contract with Direct Energy for your new date listed in the bill. If you fail to pay Direct Energy within said time
+residence/service location. Direct Energy's contact information is frame, Direct Energy reserves the right to charge you interest for
+set forth in Section 16 below. If you cancel this Agreement pursuant any past due amounts, including unpaid interest fees, at a rate of
+to this Section 7, you will not be charged an early cancellation fee; 1.3% per month or such lesser amount as required by law. You
+however, you (or your estate, if applicable) will be responsible to agree that you will pay Direct Energy for any fees Direct Energy
+pay for Direct Energy’s service through the date that you are incurs to collect amounts owed by you to Direct Energy, including
+switched to another supplier or returned to your GDC. reasonable attorney fees and returned check fees.
+8. Direct Energy's Right to Cancel Service. Direct Energy may 12. Title to Natural Gas. Title to and risk of loss with respect to the
+cancel this Agreement for non-payment, upon being notified by natural gas will pass from Direct Energy to you when the natural
+your GDC that your account will be switched to dual billing for non- gas is delivered at the GDC’s meter to you.
+payment, or any other breach of this Agreement with thirty (30) 13. Force Majeure. Direct Energy will make commercially
+days’ prior written notice to you of such termination. If you fail to reasonable efforts to provide your natural gas supply service, but
+cure the breach within the thirty (30) day notice period, Direct does not guarantee a continuous supply of natural gas. Certain
+Energy may terminate this Agreement, whether or not you cure the causes and events are out of Direct Energy's reasonable control
+breach, after expiration of such notice period. Also, if for any reason and may result in interruptions in service. Direct Energy is not
+performance of this Agreement becomes materially uneconomical responsible for transmitting or distributing natural gas. Direct
+to Direct Energy, if Direct Energy is otherwise unable to continue Energy is not liable for damages caused by acts of God, changes
+NJTCRSCG - 120925
+in laws, rules, regulations, or other acts of any governmental The New Jersey Board of Public Utilities: You may contact the
+authority (including the Board or PJM Interconnection, LLC, the New Jersey Board of Public Utilities Division of Customer
+operator of the regional power grid), accidents, strikes, labor Assistance at 1-800-624-0241.
+troubles, required maintenance work, inability to access the local Gas Distribution Company: For your Gas Distribution
+distribution utility system, nonperformance by the GDC, or any Company’s contact information, please see your Contract
+other cause beyond Direct Energy's reasonable control. In addition, Summary.
+you may be required to pay any additional or increased fees or 17. Your Authorization to Release Your Information for Use
+charges that are generally beyond Direct Energy's reasonable and Sharing. By entering into this contract, you authorize us to act
+control, including, but not limited to, fees for switching, on your behalf under your utility’s tariffs in accordance with the
+disconnecting, reconnecting, maintaining natural gas service or rules and regulations of the state public utility commission (“PUC”)
+equipment, or transmission charges, that are imposed by law, rule, where you take service. You further acknowledge that this contract
+regulation, tariff, or Board rule or order. These charges or fees will provides authorization for your local utility to release all information
+be passed through to you and added to your price. regarding your energy supply account(s) to us so we can provide
+14. LIMITATIONS OF LIABILITIES. LIABILITIES NOT EXCUSED the services described herein. This information may include, but is
+BY REASON OF FORCE MAJEURE OR OTHERWISE WILL BE not limited to, usage information, billing determinants, bill cycle,
+LIMITED TO DIRECT, ACTUAL DAMAGES. DIRECT ENERGY budget billing status, address, account type, tax exemption status,
+WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR rate service class, load profile, demand data, meter number,
+CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR special account exceptions, public assistance status, existence of
+INDIRECT DAMAGES, THIRD PARTY CLAIMS OR OTHER medical emergencies or disability, tax status and eligibility for
+DAMAGES, WHETHER BASED UPON CONTRACT, economic development or other incentives, standard service
+WARRANTY, TORT, STRICT LIABILITY, OR OTHERWISE. status, electronic interval data when available, credit information
+DIRECT ENERGY IS NOT LIABLE FOR INTERRUPTIONS TO, when applicable, and all other data and information permitted by
+OR SHORTAGES OF, NATURAL GAS SUPPLY, NOR IS IT law to be disclosed to us to provide our services.
+LIABLE FOR ANY RESULTING ASSOCIATED LOSS OR We also obtain information about you as outlined in our privacy
+DAMAGE. THESE LIMITATIONS APPLY WITHOUT REGARD TO policy (posted on our website) such as when you voluntarily provide
+THE CAUSE OF ANY LIABILITY OR DAMAGE. DIRECT ENERGY personal information to us, use our website or mobile applications,
+IS NOT RESPONSIBLE FOR ANY FAILURE TO COMMENCE OR or when we add information about you to your account profile from
+TERMINATE YOUR NATURAL GAS SUPPLY SERVICE ON THE publicly available sources.
+DATES STATED HEREIN, DUE TO ANY DELAY IN ENROLLING We will maintain the confidentiality of your personal information
+YOU. NOTHING IN THIS AGREEMENT SHALL CONSTITUTE including your name, address, telephone number, email, account
+ANY WAIVER OF ANY RIGHT YOU MAY HAVE UNDER NEW numbers, energy usage and historic payment information as
+JERSEY OR FEDERAL CONSUMER PROTECTION LAWS. required by applicable PUC regulations as well as federal and state
+15. Direct Energy's Representations and Warranties; laws.
+Limitation. The natural gas provided under this Agreement will Our use and sharing of your information will be consistent with the
+meet the quality standard of the GDC and will be supplied from a purposes and uses disclosed in our privacy policy, as amended
+variety of natural gas sources. Direct Energy makes no from time to time and posted on our website. Your information may
+representations or warranties other than those expressly set forth be disclosed if required by law, such as pursuant to a lawfully
+in this Agreement. DIRECT ENERGY EXPRESSLY DISCLAIMS issued subpoena or other legal process. Further, you understand
+ALL OTHER WARRANTIES, EXPRESSED OR IMPLIED, that your information may be disclosed to an affiliate or a third-party
+INCLUDING WARRANTIES OF MERCHANTABILITY AND to provide services or products to you, and any disclosure of such
+FITNESS FOR A PARTICULAR PURPOSE. information will be made under confidentiality obligations not to
+16. Contact Information. disclose such information and to use it solely for the purpose of
+Direct Energy: You may contact Direct Energy in one of the providing services to you or improved products to us. This
+following ways: (a) call 1-888-548-7540 or 1-844-827-0603 authorization also allows us to contact you about our other products
+(Residential Door-to-Door customers only), Monday through and services and to share information about your account with any
+Friday 8:00 a.m. to 8:00 p.m. EST, and Saturday 8:00 a.m. to designated rewards partner or with any affiliate, third-party vendor
+5:00 p.m. EST (contact center hours subject to change without or marketing partner we use to provide energy services or
+notice); or (b) write to Direct Energy at PO Box 180, Tulsa, OK energy-related services to you.
+74101-0180 (be sure to include your account number(s)). If you do not wish for us to use or share information about your
+Direct Energy's internet domain address is: account in the manner described above, you may cancel this
+http://www.directenergy.com. Answers to frequently asked contract by calling us at our contact information listed herein.
+questions can be found on Direct Energy's website. 18. Credit Checks. You understand that as part of Direct Energy's
+process of qualifying you for this Agreement and continuing service
+NJTCRSCG - 120925
+under this Agreement, Direct Energy may investigate at any time
+and from time-to-time your credit history and choose to obtain a
+consumer credit report on you from a consumer-reporting agency.
+If Direct Energy learns that your credit, payment history, or account
+status is not satisfactory, Direct Energy may decline to provide
+natural gas supply service or any other service or product. Direct
+Energy may require you to be current with your GDC payments or
+to submit a deposit for this Agreement as a condition of starting or
+continuing service in connection with this Agreement.
+19. Choice of Law. This Agreement will be governed by New
+Jersey law, without regard to its conflict of law principles.
+20. Miscellaneous Provisions. This Agreement represents the
+entire Agreement between the parties with regard to the subject
+matter hereof, is subject to all valid and applicable laws and to all
+present and future orders, rules, and regulations of the Board and
+any other authority having jurisdiction over the subject matter
+hereof, and supersedes any previous promises, understandings,
+and agreements between the parties. If any provision of this
+Agreement is deemed invalid, illegal, or otherwise unenforceable,
+you agree that it shall be modified to the minimum extent necessary
+to render it valid, legal, and enforceable. If a provision cannot be
+modified in a manner that would make it valid, legal, and
+enforceable, the provision shall be severed from the Agreement,
+and all other provisions shall remain in full force and effect. Any
+failure on Direct Energy’s part to enforce any of the terms of this
+Agreement or to exercise any right under such terms shall not be
+considered a waiver of Direct Energy's right to enforce each and
+every such term, exercise such right, or exercise any other right
+under this Agreement. You may not assign this Agreement without
+Direct Energy's prior written consent. Direct Energy may: (a)
+transfer or sell this Agreement or your account in connection with
+any financing; (b) assign this Agreement to any of its affiliates; (c)
+transfer or assign this Agreement to anyone succeeding to all or
+substantially all of Direct Energy's assets or business; or (d)
+transfer this Agreement to another supplier licensed by the Board.
+After assignment, Direct Energy will have no further obligations
+under this Agreement. This Agreement is binding upon you and
+Direct Energy, and will further bind each of your successors and
+permitted assigns. There are no third-party beneficiaries to this
+Agreement. This Agreement is a forward contract within the
+meaning of the United States Bankruptcy Code and Direct Energy
+is a forward contract merchant.
+21. Cancellation of Existing Service. You are responsible for
+canceling any agreements with other natural gas suppliers from
+whom you are purchasing natural gas supply service as of the date
+of this Agreement.
+NJTCRSCG - 120925",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: . If you are relocating, please refer to Section 7. Section 16.""}, ""incentives"": [""DAMAGES, WHETHER BASED UPON CONTRACT, economic development or other incentives, standard service"", ""Friday 8:00 a.m. to 8:00 p.m. EST, and Saturday 8:00 a.m. to designated rewards partner or with any affiliate, third-party vendor""], ""form_fields"": {}}",[]

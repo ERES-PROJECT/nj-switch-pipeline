@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://www.clearviewenergy.com/zipcodelookup/",
+      "@type": "WebPage",
+      "breadcrumb": {
+        "@id": "https://www.clearviewenergy.com/zipcodelookup/"
+      },
+      "dateModified": "2026-05-04T22:08:28+00:00",
+      "datePublished": "2021-05-31T21:12:28+00:00",
+      "image": {
+        "@id": "https://www.clearviewenergy.com/zipcodelookup/"
+      },
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://www.clearviewenergy.com/"
+      },
+      "name": "Zipcode Lookup - Clearview Energy",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://www.clearviewenergy.com/zipcodelookup/"
+          ]
+        }
+      ],
+      "primaryImageOfPage": {
+        "@id": "https://www.clearviewenergy.com/zipcodelookup/"
+      },
+      "thumbnailUrl": "https://www.clearviewenergy.com/wp-content/uploads/2021/05/rates-plans_hero_bg.jpg",
+      "url": "https://www.clearviewenergy.com/zipcodelookup/"
+    },
+    {
+      "@id": "https://www.clearviewenergy.com/zipcodelookup/",
+      "@type": "ImageObject",
+      "caption": "Rates and Plans",
+      "contentUrl": "https://www.clearviewenergy.com/wp-content/uploads/2021/05/rates-plans_hero_bg.jpg",
+      "height": 500,
+      "inLanguage": "en-US",
+      "url": "https://www.clearviewenergy.com/wp-content/uploads/2021/05/rates-plans_hero_bg.jpg",
+      "width": 1900
+    },
+    {
+      "@id": "https://www.clearviewenergy.com/zipcodelookup/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "item": "https://www.clearviewenergy.com/",
+          "name": "Home",
+          "position": 1
+        },
+        {
+          "@type": "ListItem",
+          "name": "Zipcode Lookup",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "@id": "https://www.clearviewenergy.com/",
+      "@type": "WebSite",
+      "description": "",
+      "inLanguage": "en-US",
+      "name": "Clearview Energy",
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "query-input": {
+            "@type": "PropertyValueSpecification",
+            "valueName": "search_term_string",
+            "valueRequired": true
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.clearviewenergy.com/?s=%7Bsearch_term_string%7D"
+          }
+        }
+      ],
+      "publisher": {
+        "@id": "https://www.clearviewenergy.com/"
+      },
+      "url": "https://www.clearviewenergy.com/"
+    },
+    {
+      "@id": "https://www.clearviewenergy.com/",
+      "@type": "Organization",
+      "image": {
+        "@id": "https://www.clearviewenergy.com/"
+      },
+      "logo": {
+        "@id": "https://www.clearviewenergy.com/",
+        "@type": "ImageObject",
+        "caption": "Clearview Energy",
+        "contentUrl": "https://www.clearviewenergy.com/wp-content/uploads/2024/08/24-CLV-LOGO_24-CLV-WHITE-COLOR-LOGO.png",
+        "height": 131,
+        "inLanguage": "en-US",
+        "url": "https://www.clearviewenergy.com/wp-content/uploads/2024/08/24-CLV-LOGO_24-CLV-WHITE-COLOR-LOGO.png",
+        "width": 363
+      },
+      "name": "Clearview Energy",
+      "sameAs": [
+        "https://www.facebook.com/ClearviewEnergy/"
+      ],
+      "url": "https://www.clearviewenergy.com/"
+    }
+  ]
+}

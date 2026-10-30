@@ -1,0 +1,30 @@
+{
+  "electricUtility": [
+    {
+      "commodity": "ELEC",
+      "county": "MONMOUTH",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "JCP&L",
+      "state": "NJ",
+      "utilityCode": "JCE",
+      "zipRateKey": 16327
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "gasUtility": [
+    {
+      "commodity": "GAS",
+      "county": "",
+      "district": "",
+      "ldcCountyCd": "",
+      "name": "New Jersey Natural Gas",
+      "state": "NJ",
+      "utilityCode": "NJG",
+      "zipRateKey": 4455
+    }
+  ],
+  "success": true,
+  "unserviceable": false
+}

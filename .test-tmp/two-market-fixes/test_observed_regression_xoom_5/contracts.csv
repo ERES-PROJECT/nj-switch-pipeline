@@ -1,0 +1,352 @@
+schema_version,supplier,utility,commodity,zip,id,document_kind,status,url,matched_offer_keys,match_method,missing_sections,supplier_information,price_structure,supply_price,savings,switching_time,incentives,rescission,start_date,term,cancellation,renewal,distribution_company,fields,warnings
+2.0,Xoom Energy,NJNG Gas,gas,07712,060ee066cfa3fe5a9c6e9f0fcd753d7fdf7685beb0d64df05af92922ba61efbd,terms_or_other,text_extracted,https://xoomenergy.com/en/state-disclosures,[],market_level_public_document,[],,,,,,,,,,,,,{},[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,cccd7901532b1829307976c8b12d9fad4c9bfee8948bd4e039f42bacd3c7887e,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/402595-en.pdf?_val=fad5ff0,"[""cbd4ecc3f4942172c0c7fd24""]",document_link_on_offer,[],,,,,,,,,,,,,{},[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,a6f1a7cdc689ddee65585b7f5669e4cec6542b31f6173b60020d9f8a69214627,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/402595-en.pdf?_val=55c3dc8,"[""cbd4ecc3f4942172c0c7fd24""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #GSL - 0112
+XOOM is responsible for your gas supply.","Your rate for gas purchases will be a variable rate, per therm, that may
+change on a monthly basis. Your variable rate may fluctuate and may be
+higher or lower than your local utility. Your rate is based upon a number of
+factors, which may include but not be limited to, the fluctuation of wholesale
+commodity costs or other components of wholesale prices (including but not
+limited to capacity related costs, and weather patterns) and XOOM’s pricing
+strategies, including XOOM’s profit margin. A fixed rate is a rate that is set at
+a fixed price, per therm, that remains the same for your contract term/length.","Your initial rate under this contract is $1.0290/therm. This initial rate will be
+in effect for 3 month(s), and thereafter, your rate will vary month to month
+based on the factors described above and in your contract.",There is no guarantee of savings.,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your GDC’s
+confirmation notice, to contact the GDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","This is a month to month contract and will continue until terminated by you
+or XOOM.",No,"Not Applicable
+contact us and pursue other remedies as specified in this contract below.
+Your GDC will continue to deliver your gas and you will continue to pay the
+GDC for this service. You should call your GDC in the event of an
+emergency such as a power outage.",Verified collection context: NJNG Gas,"{""prices"": [{""value"": ""1.0290"", ""unit"": ""USD/therm"", ""raw"": ""$1.0290/therm""}], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: No""}, ""incentives"": [], ""form_fields"": {}, ""cancellation_fee"": ""0""}",[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,ab7068938057f7a20f150dc2658578a3fba705118babb8e41460b6cfe60473f3,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/402601-en.pdf?_val=4133fc0,"[""68025dd6904d2bdc05c5d170""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different gas supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your gas to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your GDC, and while the cancellation is taking
+place, you are still responsible for paying for the gas you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+GDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your GDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+GDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all gas received by you and
+any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal fees,
+associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your GDC bill, please
+contact your GDC directly. See the Contract Summary for your GDC’s contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your GDC or with XOOM, you may contact the New Jersey Board
+of Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your GDC directly. Your GDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF A GAS-RELATED EMERGENCY, SUCH AS A
+GAS LEAK, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR GDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+NJNGRFE0120083900001105P
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your gas consumption. For the
+purpose of accounting both parties accept the quantity, quality and measurements determined by your GDC.
+Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your GDC switches your gas supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your GDC. If your GDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your GDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+NJNGRFE0120083900001105P
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying gas in the event of
+circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of terrorism,
+sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law, pricing
+structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of natural gas changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+NJNGRFE0120083900001105P",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,71eb795245063b3ef0a4eabd7e218021c81805fcd2562a7e1b4ba9d32151253b,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/402601-en.pdf?_val=15dee31,"[""68025dd6904d2bdc05c5d170""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #GSL - 0112
+XOOM is responsible for your gas supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per therm,
+remains the same for your Contract Term/Length. A variable rate is a rate, per
+therm, that may change on a monthly basis and may fluctuate based on
+weather patterns.",Your fixed rate under this contract is $0.8390/therm.,There is no guarantee of savings.,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your GDC’s
+confirmation notice, to contact the GDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","12 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $110.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your GDC will continue to deliver your gas and you will continue to pay the
+GDC for this service. You should call your GDC in the event of an emergency
+such as a power outage.",Verified collection context: NJNG Gas,"{""prices"": [{""value"": ""0.8390"", ""unit"": ""USD/therm"", ""raw"": ""$0.8390/therm""}], ""rate_structure"": null, ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,581468d9e1e6cd46720bb63d70289ceccc6156790e70d666c22b548fa7a931fd,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/402597-en.pdf?_val=4303b50,"[""5f6e4b30f1db4f2544d11210""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different gas supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your gas to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your GDC, and while the cancellation is taking
+place, you are still responsible for paying for the gas you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+GDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your GDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+GDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all gas received by you and
+any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal fees,
+associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your GDC bill, please
+contact your GDC directly. See the Contract Summary for your GDC’s contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your GDC or with XOOM, you may contact the New Jersey Board
+of Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your GDC directly. Your GDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF A GAS-RELATED EMERGENCY, SUCH AS A
+GAS LEAK, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR GDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+NJNGRFE01200799000011001
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your gas consumption. For the
+purpose of accounting both parties accept the quantity, quality and measurements determined by your GDC.
+Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your GDC switches your gas supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your GDC. If your GDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your GDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+NJNGRFE01200799000011001
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying gas in the event of
+circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of terrorism,
+sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law, pricing
+structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of natural gas changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+NJNGRFE01200799000011001",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,a9f3dc8d1475d2d14496e9a6c0b0b1d3452c6805703726915752335156966590,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/402597-en.pdf?_val=f6900c5,"[""5f6e4b30f1db4f2544d11210""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #GSL - 0112
+XOOM is responsible for your gas supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per therm,
+remains the same for your Contract Term/Length. A variable rate is a rate, per
+therm, that may change on a monthly basis and may fluctuate based on
+weather patterns.",Your fixed rate under this contract is $0.7990/therm.,There is no guarantee of savings.,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your GDC’s
+confirmation notice, to contact the GDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","12 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $110.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your GDC will continue to deliver your gas and you will continue to pay the
+GDC for this service. You should call your GDC in the event of an emergency
+such as a power outage.",Verified collection context: NJNG Gas,"{""prices"": [{""value"": ""0.7990"", ""unit"": ""USD/therm"", ""raw"": ""$0.7990/therm""}], ""rate_structure"": null, ""term_months"": 12, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,1028c38cff9576c9677ae7d3efcbf15974e079173097e422bdb8abf0ca374122,terms_or_other,text_extracted,https://xoomenergy.com/uploads/rates/terms/402604-en.pdf?_val=31aa27c,"[""10cf578bd0a714f84e4ce44b""]",document_link_on_offer,[],,,,,,,,,,"After this contract goes into effect, if you terminate this contract for any reason, or switch
+your service to a different gas supplier or default service supplier, your will be responsible for paying XOOM the
+amount that is set forth in your Contract Summary which is incorporated into this Agreement.
+The Early Termination Fee is intended not as a penalty, but simply to offset the cost of selling the unused portion of
+your gas to others and estimated lost revenue that XOOM may incur from such a sale, if any, and related
+expenses.
+Termination: XOOM may cancel this Agreement by giving thirty (30) days written notice of its intention to
+terminate. Termination may take two (2) or more billing cycles by your GDC, and while the cancellation is taking
+place, you are still responsible for paying for the gas you consume.
+Credit, Payment and Collection: Your bill will be based on monthly meter readings provided to XOOM by your
+GDC. If there is an error in your meter reading, XOOM will adjust its bill to you upon your GDC providing a
+corrected meter reading to XOOM. You represent that you are financially able and willing to fulfill the terms and
+conditions of this Agreement and that you have not filed, are not in the process of filing or plan to begin any
+bankruptcy proceedings. Your first bill payment will be due twenty (20) days after your first meter read by your
+GDC. Bills not paid by their due date are subject to a late payment fee at the greater of the rate of 1.5%, or the
+maximum permitted by law, based on your total outstanding balance per month. XOOM will charge a $35 return
+check fee for all returned checks. In all events, you shall remain obligated to pay for all gas received by you and
+any interest, fees and penalties incurred by XOOM. You will also be responsible for all costs, including legal fees,
+associated with the collection of amounts owed to XOOM.
+Customer Service, Dispute Resolution: If you have a question about your XOOM charges or service you may
+contact XOOM directly by calling 1-888-997-8979 during our service hours which are posted at
+www.xoomenergy.com; by sending a letter to: XOOM Energy New Jersey, LLC, 804 Carnegie Center, Princeton,
+NJ 08540 or by sending an email to customercare@xoomenergy.com. For questions about your GDC bill, please
+contact your GDC directly. See the Contract Summary for your GDC’s contact information. XOOM will refer all
+complaints to a representative who will use reasonable efforts in good faith to reach a mutually satisfactory
+solution. If a resolution cannot be reached with your GDC or with XOOM, you may contact the New Jersey Board
+of Public Utilities Division of Customer Assistance for help, toll free, at 1-800-624-0241.
+Assignment: This Agreement or any XOOM obligations under this Agreement are assignable by XOOM.
+Service Complaints: For service problems you should contact your GDC directly. Your GDC’s contact information
+is located above in the Contract Summary. IN THE EVENT OF A GAS-RELATED EMERGENCY, SUCH AS A
+GAS LEAK, PLEASE VACATE THE AREA BY A SAFE DISTANCE AND CALL YOUR GDC or 911.
+Your Authorization to Release Your Information for Use and Sharing: By entering into this contract, you
+authorize us to act on your behalf under your utility’s tariffs in accordance with the rules and regulations of the state
+public utility commission (“PUC”) where you take service. You further acknowledge that this contract provides
+authorization for your local utility to release all information regarding your energy supply account(s) to us so we can
+provide the services described herein. This information may include, but is not limited to, usage information, billing
+determinants, bill cycle, budget billing status, address, account type, tax exemption status, rate service class, load
+profile, demand data, meter number, special account exceptions, public assistance status, existence of medical
+NJNGRFE02400849000020001
+emergencies or disability, tax status and eligibility for economic development or other incentives, standard service
+status, electronic interval data when available, credit information when applicable, and all other data and
+information permitted by law to be disclosed to us to provide our services.
+We also obtain information about you as outlined in our privacy policy (posted on our website) such as when you
+voluntarily provide personal information to us, use our website or mobile applications, or when we add information
+about you to your account profile from publicly available sources.
+We will maintain the confidentiality of your personal information including your name, address, telephone number,
+email, account numbers, energy usage and historic payment information as required by applicable PUC regulations
+as well as federal and state laws.
+Our use and sharing of your information will be consistent with the purposes and uses disclosed in our privacy
+policy, as amended from time to time and posted on our website. Your information may be disclosed if required by
+law, such as pursuant to a lawfully issued subpoena or other legal process. Further, you understand that your
+information may be disclosed to an affiliate or a third-party to provide services or products to you, and any
+disclosure of such information will be made under confidentiality obligations not to disclose such information and to
+use it solely for the purpose of providing services to you or improved products to us. This authorization also allows
+us to contact you about our other products and services and to share information about your account with any
+designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy
+services or energy-related services to you.
+If you do not wish for us to use or share information about your account in the manner described above, you may
+cancel this contract by calling us at our contact information listed herein.
+Miscellaneous: You will promptly notify XOOM if there is any substantial change in your gas consumption. For the
+purpose of accounting both parties accept the quantity, quality and measurements determined by your GDC.
+Except as provided by law, you will pay all taxes or other fees due and payable with respect to customer
+obligations under this Agreement. This Agreement shall be governed by the laws of New Jersey without recourse
+to such states choice of law rules. There may be a delay before your GDC switches your gas supply to XOOM.
+XOOM is not responsible for any such delay.
+Notification of Changes: We can only change a material term of this contract with your consent, and we will
+obtain your approval before making any material change.
+Billing: XOOM supply charges will appear as a line item on the bill you receive from your GDC. If your GDC
+removes your account from consolidated billing for any reason, XOOM reserves the right to bill you directly. Please
+contact XOOM and/or your GDC to see if budget billing is offered in your service territory. Accounts that utilize
+budget billing will receive a true-up at least once every 12-month period during your contract term.
+Insolvency: You acknowledge and agree that this Agreement and the transaction(s) contemplated under this
+Agreement constitute a “forward contract” within the meaning of the United States Bankruptcy Code. To the fullest
+extent possible, you agree to waive the provisions afforded by Section 366 of the United States Bankruptcy Code
+and acknowledge that for purposes of the application of principles afforded “forward contracts” the provisions of
+Section 366 shall not apply to you or to this Agreement.
+Limitation of Liability and Warranty: XOOM WILL NOT BE RESPONSIBLE FOR ANY SPECIAL,
+NJNGRFE02400849000020001
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER. XOOM DOES NOT PROVIDE ANY TYPE OF
+WARRANTY, EXPRESS OR IMPLIED, AND TO THE FULL EXTENT OF THE LAW, DISCLAIMS ANY
+WARRANTY OF MERCHANTABLITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Force Majeure/Uncontrollable Circumstances: XOOM will not be responsible for supplying gas in the event of
+circumstances beyond its control such as events of Force Majeure, including but not limited to, acts of terrorism,
+sabotage, or acts of God. XOOM may cancel this Agreement if there is any change in regulation, law, pricing
+structure, tariff, or change in procedure required by any third party that results in XOOM being prevented,
+prohibited, or frustrated from carrying out the terms of this Agreement. XOOM may cancel this Agreement if your
+usage of natural gas changes substantially.
+Entire Agreement: This Agreement, including the Contract Summary and additional terms and conditions above,
+as well as your Enrollment form or Welcome letter, as applicable, constitutes the entire agreement and
+understanding between you and XOOM with respect to its subject matter and superseding all prior written and oral
+agreements and representations made with respect to such subject matter.
+NJNGRFE02400849000020001",,,"{""prices"": [], ""rate_structure"": null, ""term_months"": null, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: After this contract goes into effect, if you terminate this contract for any reason, or switch""}, ""incentives"": [""emergencies or disability, tax status and eligibility for economic development or other incentives, standard service"", ""designated rewards partner or with any affiliate, third-party vendor or marketing partner we use to provide energy""], ""form_fields"": {}}",[]
+2.0,Xoom Energy,NJNG Gas,gas,07712,4f6af2d501f740605c4f71d635bd882d7ba3667cf25ef0b8766e6f31b5dfe74a,contract_summary,parsed,https://xoomenergy.com/uploads/rates/contract-summary/402604-en.pdf?_val=df3bc9b,"[""10cf578bd0a714f84e4ce44b""]",document_link_on_offer,[],"XOOM Energy New Jersey, LLC (""XOOM"")
+804 Carnegie Center, Princeton, NJ 08540
+1-888-997-8979
+www.xoomenergy.com customercare@xoomenergy.com
+BPU License #GSL - 0112
+XOOM is responsible for your gas supply.","Fixed Price. A fixed rate is a rate that is set at a fixed price, per therm,
+remains the same for your Contract Term/Length. A variable rate is a rate, per
+therm, that may change on a monthly basis and may fluctuate based on
+weather patterns.",Your fixed rate under this contract is $0.8490/therm.,There is no guarantee of savings.,One to two billing cycles.,Not Applicable,"You will have seven (7) calendar days, starting from the date of your GDC’s
+confirmation notice, to contact the GDC and cancel this contract.","The Term of this Agreement will begin with your first meter read by your
+local utility following your acceptance into the program.","24 months, then month-to-month","Yes. If you cancel this Agreement early, you will be responsible for paying a
+Cost Recovery Fee of $200.","Our service will continue until either of us cancels the contract.
+//www.state.nj.us/bpu/assistance/complaints/inquiry.html. You may also
+contact us and pursue other remedies as specified in this contract below.
+Your GDC will continue to deliver your gas and you will continue to pay the
+GDC for this service. You should call your GDC in the event of an emergency
+such as a power outage.",Verified collection context: NJNG Gas,"{""prices"": [{""value"": ""0.8490"", ""unit"": ""USD/therm"", ""raw"": ""$0.8490/therm""}], ""rate_structure"": null, ""term_months"": 24, ""fee_terms"": {""cancellation_fee"": ""Cancellation Fee: Yes. If you cancel this Agreement early, you will be responsible for paying a""}, ""incentives"": [], ""form_fields"": {}}",[]

@@ -1,0 +1,5 @@
+﻿market_key,supplier,utility,commodity,zip,offer_key,plan_name,core_complete,missing_core_fields,unreported_conditional_fields,warning_count
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,cbd4ecc3f4942172c0c7fd24,SimpleFlex,True,,term_months | enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,68025dd6904d2bdc05c5d170,RescueLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,5f6e4b30f1db4f2544d11210,SureLock 12,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0
+Xoom Energy|NJNG Gas|gas,Xoom Energy,NJNG Gas,gas,07712,10cf578bd0a714f84e4ce44b,SureLock 24,True,,enrollment_fee | cancellation_fee | renewable_percentage | renewable_source | renewable_claim,0

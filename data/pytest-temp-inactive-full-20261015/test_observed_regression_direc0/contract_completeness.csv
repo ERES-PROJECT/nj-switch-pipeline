@@ -1,0 +1,16 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,11bf09807b279871527fe695cd37d84e64dc54d57fc39589ced7611233b06aca,contract_summary,parsed,12,12,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,117ec3d803490e209032a164cbc165b903c7f84ad486577fa511c050ac8fe5e3,terms_or_other,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,0565e1d46ed5fe877b25d04834d26476995096604cda7f76135a0c025d7814df,environmental,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,b2e8aad837324db671c88573a41666f9ace0295ec8c93de9b5583db1998ae1e9,contract_summary,parsed,12,12,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,7874e675c13c0e52318c5226932ff60b61520e135ad04cddf2c2bca44039a70f,terms_or_other,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,deb868b3f39e9308bada04194c8043153a721a58bc41d65a28db59436dd1561b,environmental,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,a61781023d2ecbcc68820fddeed972ce6b87774d9e70488e0b6fb507bd679b6c,contract_summary,parsed,12,12,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,16e2b20ef2aa9749bf7ca4f7da6762e2cebfa0bea1ae659f4672ec93716c0a60,terms_or_other,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,cb1ce1b860484394475de9b6b4a92cfd73ee901f43292c26f356112a0478dcf7,environmental,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,8520f912c46dea40526a37e015948f79a1210d0b4f44372254c14046dd5f2cfe,contract_summary,parsed,12,12,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,be951494635dee3df27dcd6997e1e8831335054896b45555c8b189106c55bc88,terms_or_other,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,260cacc05b623e5f383f851e41502ea1606aa7c93d9b38f1ac848394e17e03c6,environmental,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,32e6f051c62b8e773d52617f7abec3c3c387148d2dd40b565df0cd8dc1af79b8,contract_summary,parsed,12,12,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,3b61d7f8cb486fab540cb7dab87356a233b30c1889d10dbb374f240dd15d84e6,terms_or_other,text_extracted,12,0,0,,False,0
+Direct Energy|PSE&G Electric|electric,Direct Energy,PSE&G Electric,electric,07102,bb076faf6982c7d1818726d40c812bda77600ec205f8ec6f073c53a44ee4962a,environmental,text_extracted,12,0,0,,False,0

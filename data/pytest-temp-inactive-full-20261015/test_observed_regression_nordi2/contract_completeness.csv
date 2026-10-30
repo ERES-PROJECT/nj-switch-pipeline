@@ -1,0 +1,3 @@
+﻿market_key,supplier,utility,commodity,zip,contract_id,document_kind,parse_status,required_section_count,present_section_count,missing_section_count,missing_sections,derived_distribution_context,warning_count
+Nordic Energy Services|PSE&G Gas|gas,Nordic Energy Services,PSE&G Gas,gas,07102,ad7a430b3509347914d442167aed27442f5f431d87623f35aaad069a67ff780c,terms_or_other,text_extracted,12,0,0,,False,0
+Nordic Energy Services|PSE&G Gas|gas,Nordic Energy Services,PSE&G Gas,gas,07102,ea87ac9fd688fa6b7a573b6648e5845484a05f926508e74822ba21313c111fa7,environmental,text_extracted,12,0,0,,False,0
