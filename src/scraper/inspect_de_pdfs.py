@@ -1,8 +1,10 @@
 """Inspect Direct Energy HTML for any hidden EFL/PDF URL patterns"""
 from bs4 import BeautifulSoup
+from pathlib import Path
 import re, json
 
-with open(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug\Direct_Energy__PSEandG_Electric__no_planlookup.html', encoding='utf-8') as f:
+path = Path(__file__).resolve().parent / "debug/Direct_Energy__PSEandG_Electric__no_planlookup.html"
+with path.open(encoding='utf-8') as f:
     html = f.read()
 
 soup = BeautifulSoup(html, 'lxml')

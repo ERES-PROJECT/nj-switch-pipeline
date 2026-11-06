@@ -1,9 +1,12 @@
 import sys
-sys.path.insert(0, r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper')
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(SCRIPT_DIR))
 from bs4 import BeautifulSoup
 import nj_scraper as sc
 
-with open(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug\DE_after_learn_more.html', encoding='utf-8') as f:
+with (SCRIPT_DIR / "debug/DE_after_learn_more.html").open(encoding='utf-8') as f:
     soup = BeautifulSoup(f, 'lxml')
 
 row = {'supplier_name': 'Direct Energy', 'edc_name': 'PSE&G Electric', 'commodity': 'electric', 'website_url': 'https://www.directenergy.com/new-jersey'}

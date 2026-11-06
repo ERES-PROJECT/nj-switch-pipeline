@@ -9,23 +9,57 @@ patch browser fingerprints or solve access challenges.
 """
 from __future__ import annotations
 
+import os
+import shutil
 import socket
 import subprocess
+import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
 from urllib.request import urlopen
 
 
+def chrome_candidates() -> list[Path]:
+    """Return ordinary Google Chrome locations without assuming one machine."""
+    candidates: list[Path] = []
+    override = os.environ.get("NJ_SWITCH_CHROME")
+    if override:
+        candidates.append(Path(override).expanduser())
+
+    for command in ("chrome", "google-chrome", "google-chrome-stable"):
+        found = shutil.which(command)
+        if found:
+            candidates.append(Path(found))
+
+    if sys.platform == "win32":
+        for variable in ("PROGRAMFILES", "PROGRAMFILES(X86)", "LOCALAPPDATA"):
+            base = os.environ.get(variable)
+            if base:
+                candidates.append(Path(base) / "Google/Chrome/Application/chrome.exe")
+    elif sys.platform == "darwin":
+        candidates.append(Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"))
+    else:
+        candidates.extend((
+            Path("/usr/bin/google-chrome"),
+            Path("/usr/bin/google-chrome-stable"),
+            Path("/opt/google/chrome/google-chrome"),
+        ))
+
+    return list(dict.fromkeys(path.resolve() for path in candidates))
+
+
 def chrome_executable() -> Path:
-    candidates = (
-        Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe"),
-        Path(r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"),
-    )
+    candidates = chrome_candidates()
     for candidate in candidates:
         if candidate.is_file():
             return candidate
-    raise FileNotFoundError("Google Chrome is required for Direct Energy collection")
+    searched = ", ".join(str(path) for path in candidates) or "no candidate locations"
+    raise FileNotFoundError(
+        "Google Chrome is required for Direct Energy collection. "
+        "Install Chrome or set NJ_SWITCH_CHROME to its executable. "
+        f"Searched: {searched}"
+    )
 
 
 def available_loopback_port() -> int:

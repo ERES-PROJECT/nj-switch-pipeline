@@ -7,14 +7,19 @@ import json
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from nj_switch.registry import PROJECT_ROOT, REGISTRY
+
+
+DEFAULT_RUNS = PROJECT_ROOT / "data/runs"
+
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     scope = parser.add_mutually_exclusive_group(required=True)
     scope.add_argument("--date", help="Collection date in YYYY-MM-DD form")
     scope.add_argument("--run", type=Path, help="Use exactly one run directory")
-    parser.add_argument("--runs", type=Path, default=Path("data/runs"))
-    parser.add_argument("--registry", type=Path, default=Path("src/TPSCompilation/master_third_party_supplier_list.csv"))
+    parser.add_argument("--runs", type=Path, default=DEFAULT_RUNS)
+    parser.add_argument("--registry", type=Path, default=REGISTRY)
     parser.add_argument("--exclude-supplier", action="append", default=[])
     parser.add_argument("--output", type=Path, required=True)
     args = parser.parse_args()

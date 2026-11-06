@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
+from pathlib import Path
 
-with open(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug\Constellation_Energy__PSEandG_Electric__utility_not_found.html', encoding='utf-8') as f:
+path = Path(__file__).resolve().parent / "debug/Constellation_Energy__PSEandG_Electric__utility_not_found.html"
+with path.open(encoding='utf-8') as f:
     html = f.read()
 soup = BeautifulSoup(html, 'lxml')
 

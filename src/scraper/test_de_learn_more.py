@@ -2,8 +2,12 @@
 Test what clicking 'Learn more' does on Direct Energy plan cards.
 Captures what URL/modal appears after clicking the first plan's button.
 """
-import sys, os
-sys.path.insert(0, os.path.dirname(__file__))
+import sys
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+DEBUG_DIR = SCRIPT_DIR / "debug"
+sys.path.insert(0, str(SCRIPT_DIR))
 import logging
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 
@@ -14,7 +18,7 @@ from bs4 import BeautifulSoup
 import re
 
 _df = pd.read_csv(
-    r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\TPSCompilation\master_third_party_supplier_list.csv',
+    SCRIPT_DIR.parent / "TPSCompilation/master_third_party_supplier_list.csv",
     dtype={'test_zip': str}
 )
 ROW = _df[_df['supplier_name'] == 'Direct Energy'].iloc[0]
@@ -46,7 +50,7 @@ with sync_playwright() as pw:
                 print(f"  NEW PAGE opened: {p.url}")
                 # Save HTML from new page
                 p.wait_for_load_state("domcontentloaded")
-                with open(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug\DE_learn_more_newpage.html', 'w', encoding='utf-8') as f:
+                with (DEBUG_DIR / "DE_learn_more_newpage.html").open('w', encoding='utf-8') as f:
                     f.write(p.content())
 
             ctx.on("page", on_page)
@@ -62,7 +66,7 @@ with sync_playwright() as pw:
                 new_html = page.content()
                 new_soup = BeautifulSoup(new_html, 'lxml')
                 # Save for inspection
-                with open(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug\DE_after_learn_more.html', 'w', encoding='utf-8') as f:
+                with (DEBUG_DIR / "DE_after_learn_more.html").open('w', encoding='utf-8') as f:
                     f.write(new_html)
                 print("  Saved HTML to DE_after_learn_more.html")
 

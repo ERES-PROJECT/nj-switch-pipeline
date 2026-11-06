@@ -1,8 +1,10 @@
 """Inspect DE_after_learn_more.html to understand modal structure"""
 from bs4 import BeautifulSoup
+from pathlib import Path
 import re
 
-with open(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug\DE_after_learn_more.html', encoding='utf-8') as f:
+path = Path(__file__).resolve().parent / "debug/DE_after_learn_more.html"
+with path.open(encoding='utf-8') as f:
     html = f.read()
 soup = BeautifulSoup(html, 'lxml')
 

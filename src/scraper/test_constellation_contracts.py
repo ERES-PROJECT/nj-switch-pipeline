@@ -2,8 +2,11 @@
 Quick test: run Constellation strategy, then run extract_contract_summaries,
 and print all candidates/results with full debug.
 """
-import sys, os
-sys.path.insert(0, os.path.dirname(__file__))
+import sys
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(SCRIPT_DIR))
 import logging
 logging.basicConfig(level=logging.DEBUG, format="%(levelname)s %(message)s")
 
@@ -13,7 +16,7 @@ import demo_test as dt
 
 import pandas as pd
 _df = pd.read_csv(
-    r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\TPSCompilation\master_third_party_supplier_list.csv',
+    SCRIPT_DIR.parent / "TPSCompilation/master_third_party_supplier_list.csv",
     dtype={'test_zip': str}
 )
 ROW = _df[_df['supplier_name'] == 'Constellation Energy'].iloc[0]

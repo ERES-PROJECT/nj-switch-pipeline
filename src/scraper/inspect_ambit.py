@@ -1,18 +1,18 @@
 """Inspect Ambit ZERO_PLANS HTML - look for plan popup content, term data, and contract links"""
 from bs4 import BeautifulSoup
+from pathlib import Path
 import re
 
 # Try the most recent ambit debug files
-import os
-debug_dir = r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\src\scraper\debug'
-ambit_files = [f for f in os.listdir(debug_dir) if 'ambit' in f.lower() or 'Ambit' in f]
+debug_dir = Path(__file__).resolve().parent / "debug"
+ambit_files = [f.name for f in debug_dir.iterdir() if "ambit" in f.name.lower()]
 print("Ambit debug files:", ambit_files)
 
 for fname in ambit_files:
     if not fname.endswith('.html'):
         continue
-    path = os.path.join(debug_dir, fname)
-    with open(path, encoding='utf-8') as f:
+    path = debug_dir / fname
+    with path.open(encoding='utf-8') as f:
         html = f.read()
     soup = BeautifulSoup(html, 'lxml')
     print(f"\n=== {fname} ({len(html)} bytes) ===")

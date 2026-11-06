@@ -1,5 +1,8 @@
 import pandas as pd
-df = pd.read_csv(r'C:\Users\brian\School\JunSpring\CSB312\nj-switch-pipeline\data\demo_results.csv', dtype=str)
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+df = pd.read_csv(PROJECT_ROOT / "data/demo_results.csv", dtype=str)
 print(f'Total rows: {len(df)}')
 print()
 for s, g in df.groupby('supplier', sort=False):
